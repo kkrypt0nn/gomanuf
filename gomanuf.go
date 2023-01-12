@@ -3,7 +3,9 @@ package gomanuf
 import (
 	"fmt"
 	"os"
+	"path"
 	"regexp"
+	"runtime"
 	"strings"
 )
 
@@ -17,7 +19,8 @@ func init() {
 	data = make(map[string]string)
 	slash28 = make(map[string]string)
 	slash36 = make(map[string]string)
-	file, err := os.ReadFile("manuf.txt")
+	_, location, _, _ := runtime.Caller(0)
+	file, err := os.ReadFile(path.Join(path.Dir(location), "manuf.txt"))
 	if err != nil {
 		panic(err)
 	}
