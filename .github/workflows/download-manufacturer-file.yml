@@ -1,0 +1,27 @@
+name: Download and update manufacturer file
+
+on:
+ schedule:
+  - cron: '0 */12 * * *' 
+ workflow_dispatch: 
+
+jobs:
+  download_and_update_manufacturer_file:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PAT }}
+      - name: Download manufacturer file
+        run: wget https://gitlab.com/wireshark/wireshark/-/raw/master/manuf -O manuf.txt
+      - name: Check if there are any changes
+        id: verify_diff
+        run: |
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+      - name: Update manufacturer file
+        if: steps.verify_diff.outputs.changed == 'true'
+        run: |
+          git config --global user.name 'Krypton'
+          git config --global user.email 'root@krypton.ninja'
+          git commit -am "manuf: Update of `date +'%Y-%m-%d %H:%M:%S'`"
+          git push

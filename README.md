@@ -2,7 +2,7 @@
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/kkrypt0nn/gomanuf.svg)](https://pkg.go.dev/github.com/kkrypt0nn/gomanuf) ![Repository License](https://img.shields.io/github/license/kkrypt0nn/gomanuf?style=flat-square) ![Code Size](https://img.shields.io/github/languages/code-size/kkrypt0nn/gomanuf?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/kkrypt0nn/gomanuf?style=flat-square)
 
-`gomanuf` is a very simple library used for [Project Absence](https://github.com/ProjectAbsence) to get the manufacturer of a specific MAC address.
+gomanuf is a very simple library used for [Project Absence](https://github.com/ProjectAbsence) to get the manufacturer of a specific MAC address.
 
 ## Installation
 If you want to use this library for one of your projects, you can install it like any other Go library
