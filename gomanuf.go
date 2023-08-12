@@ -36,9 +36,6 @@ func init() {
 
 		mac := fields[0]
 		manuf := fields[1]
-		if len(fields) > 2 {
-			manuf = fields[2]
-		}
 		if strings.Contains(mac, ":00/28") {
 			slash28[mac] = manuf
 		} else if strings.Contains(mac, ":00/36") {
