@@ -26,7 +26,7 @@ func init() {
 	}
 	lines := strings.Split(string(file), "\n")
 	for i := 0; i < len(lines); i++ {
-		line := lines[i]
+		line := strings.Replace(lines[i], "\t\t", "\t", -1)
 		fields := strings.Split(line, "\t")
 
 		// Ignore the comments and empty lines
