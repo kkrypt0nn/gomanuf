@@ -20808,6 +20808,7 @@
 24:00:FA		China Mobile (Hangzhou) Information Technology Co., Ltd
 24:01:6F		Huawei Device Co., Ltd.
 24:01:C7		Cisco Systems, Inc
+24:04:62		Siemens Energy Global GmbH & Co.KG - GT PRM
 24:05:0F		MTN Electronic Co. Ltd
 24:05:88		Google, Inc.
 24:05:F5		Integrated Device Technology (Malaysia) Sdn. Bhd.
@@ -23085,6 +23086,7 @@
 38:86:F7		Google, Inc.
 38:87:D5		Intel Corporate
 38:88:1E		Huawei Technologies Co.,Ltd
+38:88:71		Askey Computer Corp
 38:88:A4		Apple, Inc.
 38:89:2C		Apple, Inc.
 38:89:DC		Opticon Sensors Europe B.V.
@@ -27515,8 +27517,11 @@
 5C:F7:E6		Apple, Inc.
 5C:F8:21		Texas Instruments
 5C:F8:38		IEEE Registration Authority
+5C:F8:38:00:00:00/28	Hunan Guoke supercomputer Technologu Co.,LTD
 5C:F8:38:40:00:00/28	Shanghai Zenchant Electornics Co.,LTD
 5C:F8:38:80:00:00/28	Stonex srl
+5C:F8:38:90:00:00/28	Benison Tech
+5C:F8:38:A0:00:00/28	Semsotec GmbH
 5C:F8:A1		Murata Manufacturing Co., Ltd.
 5C:F9:38		Apple, Inc.
 5C:F9:6A		Huawei Technologies Co.,Ltd
@@ -36540,6 +36545,7 @@
 8C:1F:64:23:D0:00/36	Mokila Networks Pvt Ltd
 8C:1F:64:24:00:00/36	HuiTong intelligence Company
 8C:1F:64:24:20:00/36	Giordano Controls Spa
+8C:1F:64:24:70:00/36	Dadhwal Weighing Instrument Repairing Works
 8C:1F:64:24:C0:00/36	Shenzhen Link-All Technolgy Co., Ltd
 8C:1F:64:25:10:00/36	Watchdog Systems
 8C:1F:64:25:20:00/36	TYT Electronics CO., LTD
@@ -37013,6 +37019,7 @@
 8C:1F:64:7E:C0:00/36	Methods2Business B.V.
 8C:1F:64:7E:E0:00/36	Orange Precision Measurement LLC
 8C:1F:64:7F:10:00/36	AEM Singapore Pte Ltd
+8C:1F:64:7F:80:00/36	FleetSafe India Private Limited
 8C:1F:64:80:10:00/36	Zhejiang Laolan Information Technology Co., Ltd
 8C:1F:64:80:30:00/36	MOSCA Elektronik und Antriebstechnik GmbH
 8C:1F:64:80:70:00/36	Giordano Controls Spa
@@ -49257,6 +49264,7 @@ FC:87:43		Huawei Technologies Co.,Ltd
 FC:8A:3D		zte corporation
 FC:8B:97		Shenzhen Gongjin Electronics Co.,Lt
 FC:8C:11		Microsoft Corporation
+FC:8D:13		Fujian Star-Net Communication Co.,Ltd
 FC:8D:3D		Leapfive Tech. Ltd.
 FC:8E:5B		China Mobile Iot Limited company
 FC:8E:6E		StreamCCTV, LLC
