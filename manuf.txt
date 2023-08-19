@@ -21168,6 +21168,7 @@
 24:FD:5B		SmartThings, Inc.
 24:FD:FA		Private
 24:FE:9A		CyberTAN Technology Inc.
+28:00:AF		Dell Inc.
 28:01:1C		zte corporation
 28:02:2E		Apple, Inc.
 28:02:44		Apple, Inc.
@@ -27524,11 +27525,13 @@
 5C:F8:21		Texas Instruments
 5C:F8:38		IEEE Registration Authority
 5C:F8:38:00:00:00/28	Hunan Guoke supercomputer Technologu Co.,LTD
+5C:F8:38:10:00:00/28	Bergische Ingenieure GmbH
 5C:F8:38:20:00:00/28	The idiot company
 5C:F8:38:40:00:00/28	Shanghai Zenchant Electornics Co.,LTD
 5C:F8:38:80:00:00/28	Stonex srl
 5C:F8:38:90:00:00/28	Benison Tech
 5C:F8:38:A0:00:00/28	Semsotec GmbH
+5C:F8:38:C0:00:00/28	Sichuan Zhongguang Lightning Protection Technologies Co., Ltd.
 5C:F8:A1		Murata Manufacturing Co., Ltd.
 5C:F9:38		Apple, Inc.
 5C:F9:6A		Huawei Technologies Co.,Ltd
@@ -29416,6 +29419,7 @@
 70:8C:BB		Mimodisplaykorea
 70:8D:09		Nokia Corporation
 70:8F:47		vivo Mobile Communication Co., Ltd.
+70:90:41		Mist Systems, Inc.
 70:90:B7		Huawei Device Co., Ltd.
 70:91:8F		Weber-Stephen Products LLC
 70:91:F3		Universal Electronics, Inc.
@@ -37150,6 +37154,7 @@
 8C:1F:64:97:10:00/36	Infrasafe/ Advantor Systems
 8C:1F:64:97:30:00/36	Dorsett Technologies Inc
 8C:1F:64:97:80:00/36	Planet Innovation Products Inc.
+8C:1F:64:97:90:00/36	Arktis Radiation Detectors
 8C:1F:64:97:C0:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:97:D0:00/36	KSE GmbH
 8C:1F:64:97:F0:00/36	Talleres de Escoriaza SA
@@ -37264,6 +37269,7 @@
 8C:1F:64:AD:00:00/36	Elektrotechnik & Elektronik Oltmann GmbH
 8C:1F:64:AD:20:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:AD:40:00/36	Flextronics International Kft
+8C:1F:64:AD:70:00/36	Monnit Corporation
 8C:1F:64:AD:80:00/36	Novanta IMS
 8C:1F:64:AE:10:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:AE:50:00/36	Ltec Co.,Ltd
@@ -37366,6 +37372,7 @@
 8C:1F:64:C2:40:00/36	Alifax S.r.l.
 8C:1F:64:C2:70:00/36	Lift Ventures, Inc
 8C:1F:64:C2:80:00/36	Tornado Spectral Systems Inc.
+8C:1F:64:C2:90:00/36	BRS Sistemas Eletrônicos
 8C:1F:64:C2:F0:00/36	Power Electronics Espana, S.L.
 8C:1F:64:C3:50:00/36	Peter Huber Kaeltemaschinenbau AG
 8C:1F:64:C3:80:00/36	Eco-Adapt
@@ -41041,6 +41048,7 @@ AC:33:28		Huawei Device Co., Ltd.
 AC:34:CB		Shanhai GBCOM Communication Technology Co. Ltd
 AC:35:EE		Fn-Link Technology Limited
 AC:36:13		Samsung Electronics Co.,Ltd
+AC:36:1B		Hon Hai Precision Industry Co.,LTD
 AC:36:51		Jiangsu Hengtong Terahertz Technology Co., Ltd.
 AC:37:28		Taicang T&W Electronics
 AC:37:43		HTC Corporation
@@ -44046,6 +44054,7 @@ C8:A1:B6		Shenzhen Longway Technologies Co., Ltd
 C8:A1:BA		Neul Ltd
 C8:A2:CE		Oasis Media Systems LLC
 C8:A3:62		ASIX Electronics Corporation
+C8:A3:E8		Cloud Network Technology Singapore Pte. Ltd.
 C8:A4:0D		Cooler Master Technology Inc
 C8:A6:08		Ruckus Wireless
 C8:A6:20		Nebula, Inc
