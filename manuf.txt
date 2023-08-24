@@ -16684,6 +16684,7 @@
 00:C6:10		Apple, Inc.
 00:C7:11		Itel Mobile Limited
 00:C8:8B		Cisco Systems, Inc
+00:C8:96		Cig Shanghai Co Ltd
 00:CA:E5		Cisco Systems, Inc
 00:CB:00		Private
 00:CB:51		Sagemcom Broadband SAS
@@ -20887,6 +20888,7 @@
 24:29:FE		KYOCERA Corporation
 24:2A:04		Cisco Systems, Inc
 24:2C:FE		Zhejiang Tmall Technology Co., Ltd.
+24:2D:6C		eero inc.
 24:2E:02		Huawei Technologies Co.,Ltd
 24:2E:90		Palit Microsystems, Ltd
 24:2F:FA		Toshiba Global Commerce Solutions
@@ -22381,6 +22383,7 @@
 30:C7:50		MIC Technology Group
 30:C7:AE		Samsung Electronics Co.,Ltd
 30:C8:2A		WI-BIZ srl
+30:C9:22		Espressif Inc.
 30:C9:AB		Cloud Network Technology Singapore Pte. Ltd.
 30:CB:36		Belden Singapore Pte. Ltd.
 30:CB:C7		Cambium Networks Limited
@@ -25423,6 +25426,7 @@
 48:EA:63		Zhejiang Uniview Technologies Co., Ltd.
 48:EB:30		Eterna Technology, Inc.
 48:EB:62		Murata Manufacturing Co., Ltd.
+48:EB:65		Henan KunLun Technologies CO.,Ltd.
 48:EC:5B		Nokia Solutions and Networks GmbH & Co. KG
 48:ED:80		daesung eltec
 48:ED:E6		Zyxel Communications Corporation
@@ -27530,14 +27534,18 @@
 5C:F8:38:00:00:00/28	Hunan Guoke supercomputer Technologu Co.,LTD
 5C:F8:38:10:00:00/28	Bergische Ingenieure GmbH
 5C:F8:38:20:00:00/28	The idiot company
+5C:F8:38:30:00:00/28	Shenzhen Tuozhu Technology Co., Ltd.
 5C:F8:38:40:00:00/28	Shanghai Zenchant Electornics Co.,LTD
+5C:F8:38:50:00:00/28	DesignA Electronics Limited
 5C:F8:38:60:00:00/28	Kunshan Baifeng Intelligent Technology Co.,Ltd
 5C:F8:38:70:00:00/28	T-Chip Intelligent Technology Co.,Ltd.
 5C:F8:38:80:00:00/28	Stonex srl
 5C:F8:38:90:00:00/28	Benison Tech
 5C:F8:38:A0:00:00/28	Semsotec GmbH
+5C:F8:38:B0:00:00/28	trilogik GmbH
 5C:F8:38:C0:00:00/28	Sichuan Zhongguang Lightning Protection Technologies Co., Ltd.
 5C:F8:38:D0:00:00/28	Watts A\S
+5C:F8:38:E0:00:00/28	Guangzhou Duge Technology Co.,LTD
 5C:F8:A1		Murata Manufacturing Co., Ltd.
 5C:F9:38		Apple, Inc.
 5C:F9:6A		Huawei Technologies Co.,Ltd
@@ -38689,6 +38697,7 @@
 94:A3:CA		KonnectONE, LLC
 94:A4:08		Shenzhen Trolink Technology CO, LTD
 94:A4:0C		Diehl Metering GmbH
+94:A4:B5		Mitsubishi Electric Corporation
 94:A4:F9		Huawei Technologies Co.,Ltd
 94:A6:7E		Netgear
 94:A7:B7		zte corporation
@@ -45585,6 +45594,7 @@ D8:10:68		Murata Manufacturing Co., Ltd.
 D8:10:9F		Huawei Technologies Co.,Ltd
 D8:10:CB		Andrea Informatique
 D8:12:65		Chongqing Fugui Electronics Co.,Ltd.
+D8:13:2A		Espressif Inc.
 D8:13:99		Hui Zhou Gaoshengda Technology Co.,LTD
 D8:14:D6		SURE SYSTEM Co Ltd
 D8:14:DF		TCL King Electrical Appliances (Huizhou) Co., Ltd
