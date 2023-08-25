@@ -8277,7 +8277,7 @@
 00:1F:99		SERONICS co.ltd
 00:1F:9A		Nortel Networks
 00:1F:9B		Posbro
-00:1F:9C		Ledco
+00:1F:9C		Havis Inc.
 00:1F:9D		Cisco Systems, Inc
 00:1F:9E		Cisco Systems, Inc
 00:1F:9F		Thomson Telecom Belgium
@@ -14523,7 +14523,7 @@
 00:50:C2:DE:40:00/36	EGS Technologies Ltd
 00:50:C2:DE:50:00/36	Neets
 00:50:C2:DE:60:00/36	Fr. Sauter AG
-00:50:C2:DE:70:00/36	Elan Systems
+00:50:C2:DE:70:00/36	Bucher Automation Budapest
 00:50:C2:DE:80:00/36	Visual Productions
 00:50:C2:DE:90:00/36	Dacom West GmbH
 00:50:C2:DE:A0:00/36	Cerner Corporation
@@ -14841,7 +14841,7 @@
 00:50:C2:F2:40:00/36	CT Company
 00:50:C2:F2:50:00/36	Samway Electronic SRL
 00:50:C2:F2:60:00/36	WaveIP
-00:50:C2:F2:70:00/36	Elan Systems
+00:50:C2:F2:70:00/36	Bucher Automation Budapest
 00:50:C2:F2:80:00/36	Vertex Antennentechnik GmbH
 00:50:C2:F2:90:00/36	Radyne Corporation
 00:50:C2:F2:A0:00/36	ACD Elektronik GmbH
@@ -15019,7 +15019,7 @@
 00:50:C2:FD:70:00/36	DEUTA-WERKE GmbH
 00:50:C2:FD:80:00/36	Ease Inc.
 00:50:C2:FD:90:00/36	Figment Design Laboratories
-00:50:C2:FD:A0:00/36	Elan Systems
+00:50:C2:FD:A0:00/36	Bucher Automation Budapest
 00:50:C2:FD:B0:00/36	The Security Center Inc
 00:50:C2:FD:C0:00/36	Quercus Technologies, S.L.
 00:50:C2:FD:D0:00/36	Toptech Systems, Inc.
@@ -19955,6 +19955,7 @@
 1C:1F:D4		LifeBEAM Technologies LTD
 1C:1F:F1		Huawei Device Co., Ltd.
 1C:20:DB		Huawei Technologies Co.,Ltd
+1C:21:56		Smappee NV
 1C:21:D1		IEEE Registration Authority
 1C:21:D1:00:00:00/28	Toyo System CO.,LTD.
 1C:21:D1:10:00:00/28	Ognios GmbH
@@ -20058,7 +20059,7 @@
 1C:59:74:70:00:00/28	Lynxi Technologies Co.,Ltd.
 1C:59:74:80:00:00/28	Topway Global Technology Limited
 1C:59:74:90:00:00/28	Shanghai Laisi Information Technology Co.,Ltd
-1C:59:74:A0:00:00/28	Council Rock
+1C:59:74:A0:00:00/28	Viridi
 1C:59:74:B0:00:00/28	Beijing Flintec Electronic Technology Co.,Ltd.
 1C:59:74:C0:00:00/28	King-On Technology Ltd.
 1C:59:74:D0:00:00/28	Shenzhen Geshem Technology Co Ltd
@@ -24314,7 +24315,7 @@
 40:D8:55:0C:F0:00/36	Clark-MXR, Inc.
 40:D8:55:0D:00:00/36	Icraft Oy
 40:D8:55:0D:10:00/36	Cantada Inc
-40:D8:55:0D:20:00/36	Elan Systems
+40:D8:55:0D:20:00/36	Bucher Automation Budapest
 40:D8:55:0D:30:00/36	LECO Corporation
 40:D8:55:0D:40:00/36	Mitsubishi Heavy Industries, Ltd.
 40:D8:55:0D:50:00/36	Shimizu Electric Co., Ltd.
@@ -24532,7 +24533,7 @@
 40:D8:55:1A:90:00/36	Lubino s.r.o.
 40:D8:55:1A:A0:00/36	Broachlink Technology Co.,Limited
 40:D8:55:1A:B0:00/36	Rosslare Enterprises Limited
-40:D8:55:1A:C0:00/36	Elan Systems
+40:D8:55:1A:C0:00/36	Bucher Automation Budapest
 40:D8:55:1A:D0:00/36	Wicher Digital Technik
 40:D8:55:1A:E0:00/36	Autonomous Solutions, Inc
 40:D8:55:1A:F0:00/36	Vigitron Inc.
@@ -31473,7 +31474,7 @@
 70:B3:D5:7C:60:00/36	Utrend Technology (Shanghai) Co., Ltd
 70:B3:D5:7C:70:00/36	Sicon srl
 70:B3:D5:7C:80:00/36	Crde
-70:B3:D5:7C:90:00/36	Council Rock
+70:B3:D5:7C:90:00/36	Viridi
 70:B3:D5:7C:A0:00/36	Hunan Shengyun Photoelectric Technology Co., Ltd.
 70:B3:D5:7C:B0:00/36	KeyW Corporation
 70:B3:D5:7C:C0:00/36	Mitsubishi Heavy Industries Thermal Systems, Ltd.
@@ -31914,7 +31915,7 @@
 70:B3:D5:98:00:00/36	Beijing Yourong Runda Rechnology Development Co.Ltd.
 70:B3:D5:98:10:00/36	Zamir Recognition Systems Ltd.
 70:B3:D5:98:20:00/36	3S - Sensors, Signal Processing, Systems GmbH
-70:B3:D5:98:30:00/36	ENS Engineered Network Systems
+70:B3:D5:98:30:00/36	Havis Inc.
 70:B3:D5:98:40:00/36	Sanmina Israel
 70:B3:D5:98:50:00/36	Burk Technology
 70:B3:D5:98:60:00/36	Aplex Technology Inc.
@@ -43597,6 +43598,7 @@ C4:95:4D:B0:00:00/28	Multicom, Inc
 C4:95:4D:C0:00:00/28	SolidGear Corporation
 C4:95:4D:D0:00:00/28	Newland Era Edu Hi-Tech(BeiJing)Co.,Ltd
 C4:95:4D:E0:00:00/28	Canare Electric Co., Ltd.
+C4:95:5F		Anhui Saida Technology Limited Liability Company
 C4:95:A2		Shenzhen Weijiu Industry And Trade Development Co., Ltd
 C4:98:05		Minieum Networks, Inc
 C4:98:5C		Hui Zhou Gaoshengda Technology Co.,LTD
@@ -44268,6 +44270,7 @@ CC:18:7B		Manzanita Systems, Inc.
 CC:19:A8		PT Inovação e Sistemas SA
 CC:1A:A3		Arista Networks
 CC:1A:FA		zte corporation
+CC:1B:5A		Ruckus Wireless
 CC:1B:E0		IEEE Registration Authority
 CC:1B:E0:00:00:00/28	Microtech System,Inc
 CC:1B:E0:10:00:00/28	Beijing Daotongtianxia Co.Ltd.
@@ -46953,7 +46956,7 @@ E4:95:6E:10:00:00/28	Tband srl
 E4:95:6E:20:00:00/28	Shanghai Hoping Technology Co., Ltd.
 E4:95:6E:30:00:00/28	Shanghai DGE Co., Ltd
 E4:95:6E:40:00:00/28	Guang Lian Zhi Tong Technology Limited
-E4:95:6E:50:00:00/28	Elan Systems
+E4:95:6E:50:00:00/28	Bucher Automation Budapest
 E4:95:6E:60:00:00/28	Shenzhen Joyetech Electronics Co., Ltd.
 E4:95:6E:70:00:00/28	NationalchipKorea
 E4:95:6E:80:00:00/28	PT.MLWTelecom
@@ -48296,6 +48299,9 @@ F4:15:63		F5 Networks, Inc.
 F4:15:FD		Shanghai Pateo Electronic Equipment Manufacturing Co., Ltd.
 F4:17:B8		AirTies Wireless Networks
 F4:19:E2		Volterra
+F4:1A:79		IEEE Registration Authority
+F4:1A:79:10:00:00/28	Jide Car Rastreamento e Monitoramento LTDA
+F4:1A:79:40:00:00/28	Guangdong Sygole Intelligent Technology Co.,Ltd
 F4:1A:9C		Xiaomi Communications Co Ltd
 F4:1A:B0		Shenzhen Xingguodu Technology Co., Ltd.
 F4:1B:A1		Apple, Inc.
