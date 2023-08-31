@@ -25583,6 +25583,7 @@
 4C:4E:35		Cisco Systems, Inc
 4C:4F:EE		OnePlus Technology (Shenzhen) Co., Ltd
 4C:50:77		Huawei Device Co., Ltd.
+4C:50:DD		Hui Zhou Gaoshengda Technology Co.,LTD
 4C:50:F1		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 4C:52:62		Fujitsu Technology Solutions GmbH
 4C:52:EC		SOLARWATT GmbH
@@ -34608,6 +34609,7 @@
 7A:4D:2F		Open Compute Project
 7A:84:F0		McDowell Signal Processing, LLC (dba McDSP)
 7A:AB:77		Orange
+7A:F9:55		Relay, Inc.
 7A:FD:44		Rosenberger Hochfrequenztechnik GmbH & Co. KG
 7C:00:4D		Huawei Technologies Co.,Ltd
 7C:01:0A		Texas Instruments
@@ -36661,6 +36663,7 @@
 8C:1F:64:33:40:00/36	OutdoorLink
 8C:1F:64:33:C0:00/36	Hubris Technologies Private Limited
 8C:1F:64:34:90:00/36	Waves System
+8C:1F:64:34:B0:00/36	Infrared Inspection Systems
 8C:1F:64:34:C0:00/36	Kyushu Keisokki Co.,Ltd.
 8C:1F:64:34:D0:00/36	biosilver .co.,ltd
 8C:1F:64:35:00:00/36	biosilver .co.,ltd
@@ -37068,6 +37071,7 @@
 8C:1F:64:81:10:00/36	Panoramic Power
 8C:1F:64:81:70:00/36	nke marine electronics
 8C:1F:64:81:A0:00/36	Gemini Electronics B.V.
+8C:1F:64:81:F0:00/36	ViewSonic Corp
 8C:1F:64:82:00:00/36	Tiama
 8C:1F:64:82:50:00/36	MTU Aero Engines AG
 8C:1F:64:82:B0:00/36	Flow Power
@@ -37097,6 +37101,7 @@
 8C:1F:64:87:90:00/36	ASHIDA Electronics Pvt. Ltd
 8C:1F:64:87:B0:00/36	JSE s.r.o.
 8C:1F:64:88:00:00/36	MB connect line GmbH Fernwartungssysteme
+8C:1F:64:88:10:00/36	Flextronics International Kft
 8C:1F:64:88:20:00/36	Tmy Technology Inc.
 8C:1F:64:88:30:00/36	DEUTA-WERKE GmbH
 8C:1F:64:88:B0:00/36	Taiwan Aulisa Medical Devices Technologies, Inc
@@ -37164,6 +37169,7 @@
 8C:1F:64:93:10:00/36	Noptel Oy
 8C:1F:64:93:70:00/36	H2Ok Innovations
 8C:1F:64:93:90:00/36	SPIT Technology, Inc
+8C:1F:64:93:A0:00/36	Rejås of Sweden AB
 8C:1F:64:94:30:00/36	Autark GmbH
 8C:1F:64:94:60:00/36	UniJet Co., Ltd.
 8C:1F:64:94:70:00/36	LLC "TC "Vympel"
@@ -38352,6 +38358,8 @@
 90:A7:C1		Pakedge Device and Software Inc.
 90:A8:22		Amazon Technologies Inc.
 90:A9:35		JWEntertainment
+90:A9:F7:90:00:00/28	Zekler Safety AB
+90:A9:F7:C0:00:00/28	SkyLine Limited Technologies Co., Ltd
 90:AA:C3		Hitron Technologies. Inc
 90:AB:96		Silicon Laboratories
 90:AC:3F		BrightSign LLC
@@ -45406,6 +45414,7 @@ D4:7C:44:D0:00:00/28	Huaqin Telecom Technology Co.,Ltd.
 D4:7C:44:E0:00:00/28	Shenzhen Anysec Technology Co. Ltd
 D4:7D:FC		Tecno Mobile Limited
 D4:7E:E4		China Mobile IOT Company Limited
+D4:7F:78		Dopple B.V.
 D4:81:CA		iDevices, LLC
 D4:81:D7		Dell Inc.
 D4:82:3E		Argosy Technologies, Ltd.
@@ -45461,6 +45470,7 @@ D4:9E:6D		Wuhan Zhongyuan Huadian Science & Technology Co.,
 D4:9F:DD		Huawei Device Co., Ltd.
 D4:A0:2A		Cisco Systems, Inc
 D4:A1:48		Huawei Technologies Co.,Ltd
+D4:A2:3D		New H3C Technologies Co., Ltd
 D4:A3:3D		Apple, Inc.
 D4:A3:8B		Ele(Group)Co.,Ltd
 D4:A3:EB		Shenzhen iComm Semiconductor CO.,LTD
@@ -46953,6 +46963,7 @@ E4:82:10		Huawei Technologies Co.,Ltd
 E4:82:CC		Jumptronic GmbH
 E4:83:26		Huawei Technologies Co.,Ltd
 E4:83:99		ARRIS Group, Inc.
+E4:84:29		New H3C Technologies Co., Ltd
 E4:84:2B		Hangzhou Softel Optic Co., Ltd
 E4:84:D3		Xiaomi Communications Co Ltd
 E4:85:01		Geberit International AG
