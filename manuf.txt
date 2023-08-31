@@ -38358,6 +38358,7 @@
 90:A7:C1		Pakedge Device and Software Inc.
 90:A8:22		Amazon Technologies Inc.
 90:A9:35		JWEntertainment
+90:A9:F7		IEEE Registration Authority
 90:A9:F7:90:00:00/28	Zekler Safety AB
 90:A9:F7:C0:00:00/28	SkyLine Limited Technologies Co., Ltd
 90:AA:C3		Hitron Technologies. Inc
