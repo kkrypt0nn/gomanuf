@@ -17728,6 +17728,7 @@
 04:EE:EE		Laplace System Co., Ltd.
 04:F0:21		Compex Systems Pte Ltd
 04:F0:3E		Huawei Device Co., Ltd.
+04:F0:E4		ShenZhen Hosecom Electronic Technology Co.,LTD
 04:F1:28		HMD Global Oy
 04:F1:3E		Apple, Inc.
 04:F1:69		Huawei Device Co., Ltd.
@@ -25982,6 +25983,7 @@
 50:1D:93		Huawei Technologies Co.,Ltd
 50:1E:2D		StreamUnlimited Engineering GmbH
 50:1F:C6		Apple, Inc.
+50:20:65		Quectel Wireless Solutions Co.,Ltd.
 50:20:6B		Emerson Climate Technologies Transportation Solutions
 50:21:EC		Huawei Device Co., Ltd.
 50:22:67		PixeLINK
@@ -27404,6 +27406,7 @@
 5C:A1:E0		EmbedWay Technologies
 5C:A3:9D		Samsung Electro Mechanics Co., Ltd.
 5C:A3:EB		Lokel s.r.o.
+5C:A4:7D		Aruba, a Hewlett Packard Enterprise Company
 5C:A4:8A		Cisco Systems, Inc
 5C:A4:A4		Fiberhome Telecommunication Technologies Co.,LTD
 5C:A4:F4		zte corporation
@@ -29265,6 +29268,7 @@
 70:47:77		Ruckus Wireless
 70:47:E9		vivo Mobile Communication Co., Ltd.
 70:48:0F		Apple, Inc.
+70:48:B5		CTS System Co., LTD.
 70:48:F7		Nintendo Co.,Ltd
 70:4A:0E		AMPAK Technology,Inc.
 70:4A:AE		Xstream Flow (Pty) Ltd
@@ -37694,6 +37698,7 @@
 8C:1F:64:FB:40:00/36	Thales Nederland BV
 8C:1F:64:FB:50:00/36	Bavaria Digital Technik GmbH
 8C:1F:64:FB:70:00/36	Grace Design/Lunatec LLC
+8C:1F:64:FB:90:00/36	IWS Global Pty Ltd
 8C:1F:64:FB:A0:00/36	Onto Innovation
 8C:1F:64:FB:D0:00/36	SAN-AI Electronic Industries Co.,Ltd.
 8C:1F:64:FC:20:00/36	I/O Controls
@@ -38366,6 +38371,7 @@
 90:A9:35		JWEntertainment
 90:A9:F7		IEEE Registration Authority
 90:A9:F7:20:00:00/28	Suzhou Lingchen Acquisition Computer
+90:A9:F7:50:00:00/28	Shenzhen DOOGEE Hengtong Technology CO.,LTD
 90:A9:F7:90:00:00/28	Zekler Safety AB
 90:A9:F7:C0:00:00/28	SkyLine Limited Technologies Co., Ltd
 90:A9:F7:D0:00:00/28	Shanghai Jiehezhi Technology Co., Ltd.
@@ -42839,6 +42845,7 @@ BC:99:11		Zyxel Communications Corporation
 BC:99:30		Huawei Technologies Co.,Ltd
 BC:99:BC		FonSee Technology Inc.
 BC:9A:53		Huawei Device Co., Ltd.
+BC:9A:8E		Humax Networks
 BC:9B:5E		Hangzhou Hikvision Digital Technology Co.,Ltd.
 BC:9B:68		Vantiva USA LLC
 BC:9C:31		Huawei Technologies Co.,Ltd
@@ -45943,6 +45950,7 @@ D8:DF:7A		Quest Software, Inc.
 D8:E0:04		Vodia Networks Inc
 D8:E0:B8		Bulat Llc
 D8:E0:E1		Samsung Electronics Co.,Ltd
+D8:E2:3F		Qingdao Haier Technology Co.,Ltd
 D8:E2:DF		Microsoft Corporation
 D8:E3:5E		LG Innotek
 D8:E3:AE		Cirtec Medical Systems
