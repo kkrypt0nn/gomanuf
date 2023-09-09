@@ -13617,7 +13617,7 @@
 00:50:C2:A5:60:00/36	ReaMetrix, Inc.
 00:50:C2:A5:70:00/36	Juice Technologies, LLC
 00:50:C2:A5:80:00/36	Epl
-00:50:C2:A5:90:00/36	GSP Sprachtechnologie GmbH
+00:50:C2:A5:90:00/36	Televic Rail GmbH
 00:50:C2:A5:A0:00/36	Itas A/S
 00:50:C2:A5:B0:00/36	Phytec Messtechnik GmbH
 00:50:C2:A5:C0:00/36	JSC "Component-ASU"
@@ -14934,7 +14934,7 @@
 00:50:C2:F8:00:00/36	SYS TEC electronic GmbH
 00:50:C2:F8:10:00/36	Plda
 00:50:C2:F8:20:00/36	Sincair Systems International
-00:50:C2:F8:30:00/36	GSP Sprachtechnologie GmbH
+00:50:C2:F8:30:00/36	Televic Rail GmbH
 00:50:C2:F8:40:00/36	Dynon Instruments
 00:50:C2:F8:50:00/36	Enetics, Inc.
 00:50:C2:F8:60:00/36	Audio Power Labs
@@ -18774,6 +18774,7 @@
 10:2C:6B		AMPAK Technology, Inc.
 10:2C:83		Ximea
 10:2C:8D		GD Midea Air-Conditioning Equipment Co.,Ltd.
+10:2C:B1		Smart Innovation LLC
 10:2C:EF		EMU Electronic AG
 10:2D:31		Shenzhen Americas Trading Company LLC
 10:2D:41		Sichuan AI-Link Technology Co., Ltd.
@@ -24425,7 +24426,7 @@
 40:D8:55:12:D0:00/36	Biotage Sweden AB
 40:D8:55:12:E0:00/36	Canfield Scientific, Inc.
 40:D8:55:12:F0:00/36	Private
-40:D8:55:13:00:00/36	GSP Sprachtechnologie GmbH
+40:D8:55:13:00:00/36	Televic Rail GmbH
 40:D8:55:13:10:00/36	EMAC, Inc.
 40:D8:55:13:20:00/36	AeroVision Avionics, Inc
 40:D8:55:13:30:00/36	Tattile Srl
@@ -29793,7 +29794,7 @@
 70:B3:D5:11:D0:00/36	Dakton Microlabs LLC
 70:B3:D5:11:E0:00/36	Kbpr Llc
 70:B3:D5:11:F0:00/36	Geppetto Electronics
-70:B3:D5:12:00:00/36	GSP Sprachtechnologie GmbH
+70:B3:D5:12:00:00/36	Televic Rail GmbH
 70:B3:D5:12:10:00/36	Shenzhen Luxurite Smart Home Ltd
 70:B3:D5:12:20:00/36	Henri Systems Holland bv
 70:B3:D5:12:30:00/36	Amfitech ApS
@@ -30181,7 +30182,7 @@
 70:B3:D5:2A:10:00/36	Blink Services AB
 70:B3:D5:2A:20:00/36	Visualware, Inc.
 70:B3:D5:2A:30:00/36	ATT Nussbaum Prüftechnik GmbH
-70:B3:D5:2A:40:00/36	GSP Sprachtechnologie GmbH
+70:B3:D5:2A:40:00/36	Televic Rail GmbH
 70:B3:D5:2A:50:00/36	Taitotekniikka
 70:B3:D5:2A:60:00/36	GSI Technology
 70:B3:D5:2A:70:00/36	Plasmability, LLC
@@ -31189,7 +31190,7 @@
 70:B3:D5:69:20:00/36	Hosin Industrial Limited
 70:B3:D5:69:30:00/36	Altron, a.s.
 70:B3:D5:69:40:00/36	MoviTHERM
-70:B3:D5:69:50:00/36	GSP Sprachtechnologie GmbH
+70:B3:D5:69:50:00/36	Televic Rail GmbH
 70:B3:D5:69:60:00/36	Open Grow
 70:B3:D5:69:70:00/36	Alazar Technologies Inc.
 70:B3:D5:69:80:00/36	Ziehl-Abegg Se
@@ -31867,7 +31868,7 @@
 70:B3:D5:93:90:00/36	Invertek Drives Ltd
 70:B3:D5:93:A0:00/36	Braemar Manufacturing, LLC
 70:B3:D5:93:B0:00/36	Changchun FAW Yanfeng Visteon Automotive Electronics.,Ltd.
-70:B3:D5:93:C0:00/36	GSP Sprachtechnologie GmbH
+70:B3:D5:93:C0:00/36	Televic Rail GmbH
 70:B3:D5:93:D0:00/36	Elmeasure India Pvt Ltd
 70:B3:D5:93:E0:00/36	Systems With Intelligence Inc.
 70:B3:D5:93:F0:00/36	Vision Sensing Co., Ltd.
@@ -36611,6 +36612,7 @@
 8C:1F:64:24:20:00/36	Giordano Controls Spa
 8C:1F:64:24:70:00/36	Dadhwal Weighing Instrument Repairing Works
 8C:1F:64:24:C0:00/36	Shenzhen Link-All Technolgy Co., Ltd
+8C:1F:64:24:D0:00/36	Xi'An Jiaoda Kaida New Technology Co.Ltd
 8C:1F:64:25:10:00/36	Watchdog Systems
 8C:1F:64:25:20:00/36	TYT Electronics CO., LTD
 8C:1F:64:25:40:00/36	Zhuhai Yunzhou Intelligence Technology Ltd.
@@ -37370,7 +37372,7 @@
 8C:1F:64:B5:50:00/36	Sanchar Telesystems limited
 8C:1F:64:B5:60:00/36	Arcvideo
 8C:1F:64:B5:A0:00/36	YUYAMA MFG Co.,Ltd
-8C:1F:64:B6:40:00/36	GSP Sprachtechnologie GmbH
+8C:1F:64:B6:40:00/36	Televic Rail GmbH
 8C:1F:64:B6:50:00/36	HomyHub SL
 8C:1F:64:B6:70:00/36	M2M craft Co., Ltd.
 8C:1F:64:B6:80:00/36	All-Systems Electronics Pty Ltd
@@ -37578,6 +37580,7 @@
 8C:1F:64:DD:E0:00/36	Jemac Sweden AB
 8C:1F:64:DE:10:00/36	Franke Aquarotter GmbH
 8C:1F:64:DE:50:00/36	Gogo Business Aviation
+8C:1F:64:DE:B0:00/36	PXM Marek Zupnik spolka komandytowa
 8C:1F:64:DF:80:00/36	Wittra Networks AB
 8C:1F:64:DF:A0:00/36	Atse Llc
 8C:1F:64:DF:B0:00/36	Bobeesc Co.
@@ -37658,7 +37661,7 @@
 8C:1F:64:F0:40:00/36	IoTSecure, LLC
 8C:1F:64:F0:50:00/36	Preston Industries dba PolyScience
 8C:1F:64:F0:90:00/36	Texi AS
-8C:1F:64:F1:00:00/36	GSP Sprachtechnologie GmbH
+8C:1F:64:F1:00:00/36	Televic Rail GmbH
 8C:1F:64:F1:20:00/36	CAITRON GmbH
 8C:1F:64:F1:D0:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:F2:20:00/36	Voyage Audio LLC
@@ -37737,7 +37740,7 @@
 8C:1F:64:FE:20:00/36	VUV Analytics, Inc.
 8C:1F:64:FE:30:00/36	Power Electronics Espana, S.L.
 8C:1F:64:FE:90:00/36	Alzajel Modern Telecommunication
-8C:1F:64:FE:D0:00/36	GSP Sprachtechnologie GmbH
+8C:1F:64:FE:D0:00/36	Televic Rail GmbH
 8C:1F:64:FF:30:00/36	Fuzhou Tucsen Photonics Co.,Ltd
 8C:1F:64:FF:40:00/36	SMS group GmbH
 8C:1F:64:FF:60:00/36	Ascon Tecnologic S.r.l.
@@ -38392,6 +38395,7 @@
 90:A8:22		Amazon Technologies Inc.
 90:A9:35		JWEntertainment
 90:A9:F7		IEEE Registration Authority
+90:A9:F7:00:00:00/28	Versta
 90:A9:F7:10:00:00/28	Shenzhen Chainway Information Technology Co., Ltd
 90:A9:F7:20:00:00/28	Suzhou Lingchen Acquisition Computer
 90:A9:F7:30:00:00/28	Suzhou Etag-Technology Corporation
@@ -38401,6 +38405,7 @@
 90:A9:F7:70:00:00/28	Guangdong Keruide Electrical Technology Co., Ltd.
 90:A9:F7:80:00:00/28	Baoding Forlinx Embeddedtechnology Co., Ltd
 90:A9:F7:90:00:00/28	Zekler Safety AB
+90:A9:F7:A0:00:00/28	Chi Geng Technology Co., Ltd
 90:A9:F7:C0:00:00/28	SkyLine Limited Technologies Co., Ltd
 90:A9:F7:D0:00:00/28	Shanghai Jiehezhi Technology Co., Ltd.
 90:AA:C3		Hitron Technologies. Inc
@@ -44433,6 +44438,7 @@ CC:3F:1D		HMS Industrial Networks SLU
 CC:3F:8A		Komatsu Ltd.
 CC:3F:EA		BAE Systems, Inc
 CC:40:85		WiZ
+CC:40:B2		ECI Telecom Ltd.
 CC:40:D0		Netgear
 CC:41:8E		MSA Innovation
 CC:42:10		Xiaomi Communications Co Ltd
@@ -49332,6 +49338,7 @@ FC:44:9F		zte corporation
 FC:45:5F		Jiangxi Shanshui Optoelectronic Technology Co.,Ltd
 FC:45:96		Compal Information (Kunshan) Co., Ltd.
 FC:45:C3		Texas Instruments
+FC:47:8D		Shenzhen Topwell Technology Co., Ltd.
 FC:47:D8		Apple, Inc.
 FC:48:C9		Yobiiq Intelligence B.V.
 FC:48:EF		Huawei Technologies Co.,Ltd
