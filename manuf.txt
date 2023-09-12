@@ -17572,6 +17572,7 @@
 04:AB:18		Elecom Co.,Ltd.
 04:AB:6A		Chun-il Co.,Ltd.
 04:AC:44		Holtek Semiconductor Inc.
+04:AE:C7		Marquardt
 04:B0:E7		Huawei Technologies Co.,Ltd
 04:B1:67		Xiaomi Communications Co Ltd
 04:B1:A1		Samsung Electronics Co.,Ltd
@@ -27593,6 +27594,7 @@
 60:03:47		Billion Electric Co. Ltd.
 60:03:A6		Inteno Broadband Technology AB
 60:04:17		Posbank Co.,Ltd
+60:04:5C		NXP Semiconductor (Tianjin) LTD.
 60:05:8A		Hitachi Metals, Ltd.
 60:06:E3		Apple, Inc.
 60:07:7C		Jala Group
@@ -36588,6 +36590,7 @@
 8C:1F:64:1D:A0:00/36	Chongqing Huaxiu Technology Co.,Ltd
 8C:1F:64:1D:E0:00/36	Power Electronics Espana, S.L.
 8C:1F:64:1E:10:00/36	VAF Co.
+8C:1F:64:1E:20:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:1E:30:00/36	WBNet
 8C:1F:64:1E:70:00/36	Canon Electron Tubes & Devices Co., Ltd.
 8C:1F:64:1E:F0:00/36	Tantronic AG
@@ -37349,6 +37352,7 @@
 8C:1F:64:AF:D0:00/36	Universal Robots A/S
 8C:1F:64:AF:E0:00/36	Motec USA, Inc.
 8C:1F:64:AF:F0:00/36	Qtechnology A/S
+8C:1F:64:B0:00:00/36	Gets MSS
 8C:1F:64:B0:10:00/36	noah
 8C:1F:64:B0:30:00/36	Shenzhen Pisoftware Technology Co.,Ltd.
 8C:1F:64:B0:80:00/36	Cronus Electronics
@@ -37607,6 +37611,7 @@
 8C:1F:64:E4:B0:00/36	Algazira Telecom Solutions
 8C:1F:64:E4:C0:00/36	TTC TELEKOMUNIKACE, s.r.o.
 8C:1F:64:E4:D0:00/36	San Telequip (P) Ltd.,
+8C:1F:64:E4:E0:00/36	Trivedi Advanced Technologies LLC
 8C:1F:64:E5:20:00/36	LcmVeloci ApS
 8C:1F:64:E5:30:00/36	T Proje Muhendislik Dis Tic. Ltd. Sti.
 8C:1F:64:E5:C0:00/36	Scientific Lightning Solutions
@@ -38406,8 +38411,10 @@
 90:A9:F7:80:00:00/28	Baoding Forlinx Embeddedtechnology Co., Ltd
 90:A9:F7:90:00:00/28	Zekler Safety AB
 90:A9:F7:A0:00:00/28	Chi Geng Technology Co., Ltd
+90:A9:F7:B0:00:00/28	Kranze Technology Solutions, Inc.
 90:A9:F7:C0:00:00/28	SkyLine Limited Technologies Co., Ltd
 90:A9:F7:D0:00:00/28	Shanghai Jiehezhi Technology Co., Ltd.
+90:A9:F7:E0:00:00/28	The Engineerix Group
 90:AA:C3		Hitron Technologies. Inc
 90:AB:96		Silicon Laboratories
 90:AC:3F		BrightSign LLC
@@ -38918,6 +38925,7 @@
 94:EB:2C		Google, Inc.
 94:EB:CD		BlackBerry RTS
 94:EE:9F		HMD Global Oy
+94:EF:49		BDR Thermea Group B.V
 94:F1:28		Hewlett Packard Enterprise
 94:F1:9E		Huizhou Maorong Intelligent Technology Co.,Ltd
 94:F2:78		Elma Electronic
@@ -41570,6 +41578,7 @@ B0:4F:C3		Shenzhen NVC Cloud Technology Co., Ltd.
 B0:50:BC		Shenzhen Basicom Electronic Co.,Ltd.
 B0:51:8E		Holl technology CO.Ltd.
 B0:52:16		Hon Hai Precision Ind. Co.,Ltd.
+B0:52:46		NXP Semiconductor (Tianjin) LTD.
 B0:53:65		China Mobile IOT Company Limited
 B0:55:08		Huawei Technologies Co.,Ltd
 B0:57:06		Vallox Oy
@@ -46601,6 +46610,7 @@ E0:5A:9F:C0:00:00/28	ShenZhen Mornsun Smartlinker Limited Co., LTD
 E0:5A:9F:D0:00:00/28	Mountz, Inc.
 E0:5A:9F:E0:00:00/28	ShenZhen Arts Changhua Intelligent Technology Co., Ltd
 E0:5B:70		Innovid, Co., Ltd.
+E0:5D:54		Ruijie Networks Co.,LTD
 E0:5D:5C		Oy Everon Ab
 E0:5D:A6		Detlef Fink Elektronik & Softwareentwicklung
 E0:5F:45		Apple, Inc.
