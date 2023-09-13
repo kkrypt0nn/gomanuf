@@ -18609,6 +18609,7 @@
 0C:D2:92		Intel Corporate
 0C:D2:B5		Binatone Telecommunication Pvt. Ltd
 0C:D5:02		Westell Technologies Inc.
+0C:D5:D3		Cisco Systems, Inc
 0C:D6:96		Amimon Ltd
 0C:D6:BD		Huawei Technologies Co.,Ltd
 0C:D7:46		Apple, Inc.
@@ -18706,6 +18707,9 @@
 10:05:E1		Nokia
 10:06:1C		Espressif Inc.
 10:06:45		Sagemcom Broadband SAS
+10:06:48		IEEE Registration Authority
+10:06:48:60:00:00/28	Hong Kong BOZZ Co., Limited.
+10:06:48:90:00:00/28	Annapurna labs
 10:06:ED		Cisco Systems, Inc
 10:07:1D		Fiberhome Telecommunication Technologies Co.,LTD
 10:07:23		IEEE Registration Authority
@@ -21057,6 +21061,7 @@
 24:9F:89		Texas Instruments
 24:A0:74		Apple, Inc.
 24:A1:60		Espressif Inc.
+24:A1:86		ARRIS Group, Inc.
 24:A2:E1		Apple, Inc.
 24:A4:2C		NETIO products a.s.
 24:A4:3C		Ubiquiti Inc
@@ -21118,6 +21123,7 @@
 24:D3:37		Xiaomi Communications Co Ltd
 24:D3:F2		zte corporation
 24:D5:1C		Zhongtian broadband technology co., LTD
+24:D5:E4		Cisco Systems, Inc
 24:D7:6B		Syntronic AB
 24:D7:9C		Cisco Systems, Inc
 24:D7:EB		Espressif Inc.
@@ -22382,6 +22388,7 @@
 30:B6:2D		Mojo Networks, Inc.
 30:B6:4F		Juniper Networks
 30:B7:D4		Hitron Technologies. Inc
+30:B8:51		Siemens AG
 30:B9:30		zte corporation
 30:B9:B0		Intracom Asia Co., Ltd
 30:BB:7D		OnePlus Technology (Shenzhen) Co., Ltd
@@ -33648,6 +33655,7 @@
 70:D9:23		vivo Mobile Communication Co., Ltd.
 70:D9:31		Cambridge Industries(Group) Co.,Ltd.
 70:DA:17		Austrian Audio GmbH
+70:DA:48		Cisco Systems, Inc
 70:DA:9C		Tecsen
 70:DB:98		Cisco Systems, Inc
 70:DD:A1		Tellabs
@@ -34163,6 +34171,7 @@
 78:07:38		Z.U.K. Elzab S.A.
 78:08:4D		Huawei Technologies Co.,Ltd
 78:0A:C7		Baofeng TV Co., Ltd.
+78:0B:8C		Private
 78:0C:B8		Intel Corporate
 78:0C:F0		Cisco Systems, Inc
 78:0E:D1		TRUMPF Werkzeugmaschinen GmbH+Co.KG
@@ -36072,6 +36081,7 @@
 88:5F:E8:C0:00:00/28	Inor Process AB
 88:5F:E8:D0:00:00/28	zhejiang yuanwang communication technolgy co.,ltd
 88:5F:E8:E0:00:00/28	Unicom Global, Inc.
+88:60:76		Sparnex n.v.
 88:61:5A		Siano Mobile Silicon Ltd.
 88:62:5D		Bitnetworks Co.,Ltd
 88:63:DF		Apple, Inc.
@@ -37481,6 +37491,7 @@
 8C:1F:64:C9:10:00/36	Soehnle Industrial Solutions GmbH
 8C:1F:64:C9:20:00/36	EQ Earthquake Ltd.
 8C:1F:64:C9:70:00/36	Magnet-Physik Dr. Steingroever GmbH
+8C:1F:64:C9:A0:00/36	Infosoft Digital Design and Services P L
 8C:1F:64:CA:10:00/36	Pantherun Technologies Pvt Ltd
 8C:1F:64:CA:60:00/36	ReliaSpeak Information Technology Co., Ltd.
 8C:1F:64:CA:70:00/36	eumig industrie-TV GmbH.
@@ -38432,6 +38443,7 @@
 90:B5:7F		Shenzhen iComm Semiconductor CO.,LTD
 90:B6:22		Samsung Electronics Co.,Ltd
 90:B6:7A		Shenzhen Skyworth Digital  Technology  CO., Ltd
+90:B6:85		Weifang Goertek Electronics Co.,Ltd
 90:B6:86		Murata Manufacturing Co., Ltd.
 90:B8:32		Extreme Networks Headquarters
 90:B8:D0		Joyent, Inc.
@@ -38648,6 +38660,7 @@
 94:31:9B		Alphatronics BV
 94:31:CB		vivo Mobile Communication Co., Ltd.
 94:32:51		Askey Computer Corp
+94:33:D8		Cisco Systems, Inc
 94:33:DD		Taco Inc
 94:34:69		Silicon Laboratories
 94:35:0A		Samsung Electronics Co.,Ltd
@@ -47943,6 +47956,7 @@ F0:01:6E		Tianyi Telecom Terminals Company Limited
 F0:02:2B		Chrontel
 F0:02:48		SmarteBuilding
 F0:03:8C		AzureWave Technology Inc.
+F0:07:27		Interel Building Automation
 F0:07:86		Shandong Bittel Electronics Co., Ltd
 F0:08:D1		Espressif Inc.
 F0:08:F1		Samsung Electronics Co.,Ltd
