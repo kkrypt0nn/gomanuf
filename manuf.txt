@@ -37113,6 +37113,7 @@
 8C:1F:64:65:30:00/36	P5
 8C:1F:64:65:50:00/36	S.E.I. Co.,Ltd.
 8C:1F:64:65:60:00/36	Optotune Switzerland AG
+8C:1F:64:65:70:00/36	Bright Solutions PTE LTD
 8C:1F:64:65:D0:00/36	Action Streamer LLC
 8C:1F:64:65:F0:00/36	Astrometric Instruments, Inc.
 8C:1F:64:66:00:00/36	Llc Ntpc
@@ -39886,6 +39887,7 @@
 9C:9C:40		Sichuan Tianyi Comheart Telecom Co.,LTD
 9C:9D:5D		Raden Inc
 9C:9D:7E		Beijing Xiaomi Mobile Software Co., Ltd
+9C:9E:03		awayfrom
 9C:9E:71		Huawei Device Co., Ltd.
 9C:A1:0A		Scle Sfe
 9C:A1:34		Nike, Inc.
@@ -40142,6 +40144,7 @@ A0:29:BD		Team Group Inc
 A0:2B:B8		Hewlett Packard
 A0:2C:36		Fn-Link Technology Limited
 A0:2D:13		AirTies Wireless Networks
+A0:2D:DB		Sagemcom Broadband SAS
 A0:2E:F3		United Integrated Services Co., Led.
 A0:31:31		Procenne Digital Security
 A0:31:DB		Huawei Technologies Co.,Ltd
@@ -40215,6 +40218,7 @@ A0:51:0B		Intel Corporate
 A0:51:C6		Avaya Inc
 A0:52:72		Apple, Inc.
 A0:53:94		Shenzhen zediel co., Ltd.
+A0:55:1F		Sagemcom Broadband SAS
 A0:55:4F		Cisco Systems, Inc
 A0:55:DE		ARRIS Group, Inc.
 A0:56:B2		Harman/Becker Automotive Systems GmbH
@@ -44391,7 +44395,10 @@ C8:98:DB:20:00:00/28	freecle Inc.
 C8:98:DB:40:00:00/28	Shenzhen IBD Intelligence Technology Co,.Ltd.
 C8:98:DB:70:00:00/28	J&R Technology Limited
 C8:98:DB:80:00:00/28	Voleatech GmbH
+C8:98:DB:A0:00:00/28	Champin
+C8:98:DB:C0:00:00/28	Smartrend Manufacturing Group
 C8:98:DB:D0:00:00/28	Quilt Systems, Inc
+C8:98:DB:E0:00:00/28	qihangzhitong
 C8:99:B2		Arcadyan Corporation
 C8:9B:AD		Honor Device Co., Ltd.
 C8:9B:D7		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
