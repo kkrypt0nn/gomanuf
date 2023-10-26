@@ -34374,6 +34374,7 @@
 78:36:90		Yulong Computer Telecommunication Scientific (Shenzhen) Co.,Ltd
 78:36:CC		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 78:37:16		Samsung Electronics Co.,Ltd
+78:39:2D		IEEE Registration Authority
 78:39:2D:60:00:00/28	Annapurna labs
 78:39:2D:70:00:00/28	Shenzhen C & D Electronics Co., Ltd.
 78:3A:6C		Tecno Mobile Limited
