@@ -18312,6 +18312,7 @@
 0C:15:C5		SDTEC Co., Ltd.
 0C:17:73		Huawei Device Co., Ltd.
 0C:17:F1		Telecsys
+0C:18:4E		Huawei Technologies Co.,Ltd
 0C:19:1F		Inform Electronik
 0C:19:F8		Apple, Inc.
 0C:1A:10		Acoustic Stream
@@ -21382,6 +21383,7 @@
 28:48:E7		Huawei Device Co., Ltd.
 28:4C:53		Intune Networks
 28:4D:92		Luminator
+28:4E:44		Huawei Technologies Co.,Ltd
 28:4E:D7		OutSmart Power Systems, Inc.
 28:4E:E9		mercury corperation
 28:4F:CE		Liaoning Wontel Science and Technology Development Co.,Ltd.
@@ -21676,6 +21678,7 @@
 2A:0B:B8		xFusion Digital Technologies Co., Limited
 2A:9F:EB		AVnu Alliance
 2A:A1:39		Pointguard, Llc
+2A:A1:47		Distribuciones Cantilever
 2A:AC:53		Wolfspyre Labs
 2A:EA:15		Tibit Communications
 2A:FD:6A		Charter Communications
@@ -22414,6 +22417,7 @@
 30:8C:FB		Dropcam
 30:8D:99		Hewlett Packard
 30:8E:7A		Shenzhen iComm Semiconductor CO.,LTD
+30:8E:CF		Huawei Technologies Co.,Ltd
 30:90:48		Apple, Inc.
 30:90:AB		Apple, Inc.
 30:91:76		Skyworth Digital Technology(Shenzhen) Co.,Ltd
@@ -24855,6 +24859,7 @@
 44:2A:FF		E3 Technology, Inc.
 44:2B:03		Cisco Systems, Inc
 44:2C:05		AMPAK Technology, Inc.
+44:30:3F		Huawei Technologies Co.,Ltd
 44:31:92		Hewlett Packard
 44:32:2A		Avaya Inc
 44:32:62		zte corporation
@@ -27299,6 +27304,7 @@
 5C:04:5A		Company NA Stage & Light
 5C:07:58		Ufispace Co., LTD.
 5C:07:6F		Thought Creator
+5C:07:A6		Huawei Technologies Co.,Ltd
 5C:09:47		Apple, Inc.
 5C:09:79		Huawei Technologies Co.,Ltd
 5C:0A:5B		Samsung Electro Mechanics Co., Ltd.
@@ -27315,6 +27321,7 @@
 5C:15:15		Advan
 5C:15:E1		Aidc Technology (S) Pte Ltd
 5C:16:48		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
+5C:16:7D		Huawei Technologies Co.,Ltd
 5C:16:C7		Arista Networks
 5C:17:20		Huawei Device Co., Ltd.
 5C:17:37		I-View Now, LLC.
@@ -29213,6 +29220,7 @@
 6C:D2:BA		zte corporation
 6C:D3:EE		Zimi Corporation
 6C:D6:30		Rootous System Co.,Ltd
+6C:D6:3F		Huawei Technologies Co.,Ltd
 6C:D6:8A		LG Electronics (Mobile Communications)
 6C:D6:E3		Cisco Systems, Inc
 6C:D7:04		Huawei Technologies Co.,Ltd
@@ -34366,6 +34374,8 @@
 78:36:90		Yulong Computer Telecommunication Scientific (Shenzhen) Co.,Ltd
 78:36:CC		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 78:37:16		Samsung Electronics Co.,Ltd
+78:39:2D:60:00:00/28	Annapurna labs
+78:39:2D:70:00:00/28	Shenzhen C & D Electronics Co., Ltd.
 78:3A:6C		Tecno Mobile Limited
 78:3A:84		Apple, Inc.
 78:3C:E3		Kai-EE
@@ -35307,6 +35317,7 @@
 80:2D:BF		Cisco Systems, Inc
 80:2D:E1		Solarbridge Technologies
 80:2E:14		azeti Networks AG
+80:2E:C3		Huawei Technologies Co.,Ltd
 80:2F:DE		Zurich Instruments AG
 80:30:49		Liteon Technology Corporation
 80:30:DC		Texas Instruments
@@ -36832,10 +36843,12 @@
 8C:1F:64:31:A0:00/36	Asiga Pty Ltd
 8C:1F:64:31:B0:00/36	joint analytical systems GmbH
 8C:1F:64:32:40:00/36	Kinetic Technologies
+8C:1F:64:32:70:00/36	Deutescher Wetterdienst
 8C:1F:64:32:80:00/36	Com Video Security Systems Co., Ltd.
 8C:1F:64:32:90:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:32:B0:00/36	Shenyang Taihua Technology Co., Ltd.
 8C:1F:64:32:C0:00/36	Taiko Audio B.V.
+8C:1F:64:32:E0:00/36	Trineo Systems Sp. z o.o.
 8C:1F:64:32:F0:00/36	DEUTA Controls GmbH
 8C:1F:64:33:00:00/36	Vision Systems Safety Tech
 8C:1F:64:33:20:00/36	Nexet Llc
@@ -37103,6 +37116,7 @@
 8C:1F:64:62:00:00/36	Solace Systems Inc.
 8C:1F:64:62:10:00/36	JTL Systems Ltd.
 8C:1F:64:62:20:00/36	Logical Product
+8C:1F:64:62:30:00/36	Ryoyu-GC Co.,Ltd
 8C:1F:64:62:50:00/36	Stresstech OY
 8C:1F:64:62:60:00/36	Csiro
 8C:1F:64:62:C0:00/36	Hangzhou EasyXR Advanced Technology Co., Ltd.
@@ -37467,6 +37481,7 @@
 8C:1F:64:A3:60:00/36	Dongguan Gago Electronics Co.,Ltd
 8C:1F:64:A3:80:00/36	NuGrid Power
 8C:1F:64:A3:B0:00/36	Fujian Satlink Electronics Co., Ltd
+8C:1F:64:A3:E0:00/36	Hiwin Mikrosystem Corp.
 8C:1F:64:A3:F0:00/36	ViewSonic Corp
 8C:1F:64:A4:20:00/36	Rodgers Instruments US LLC
 8C:1F:64:A4:40:00/36	Rapidev Pvt Ltd
@@ -37669,6 +37684,7 @@
 8C:1F:64:C9:20:00/36	EQ Earthquake Ltd.
 8C:1F:64:C9:70:00/36	Magnet-Physik Dr. Steingroever GmbH
 8C:1F:64:C9:A0:00/36	Infosoft Digital Design and Services P L
+8C:1F:64:C9:B0:00/36	J.M. Voith SE & Co. KG
 8C:1F:64:CA:10:00/36	Pantherun Technologies Pvt Ltd
 8C:1F:64:CA:60:00/36	ReliaSpeak Information Technology Co., Ltd.
 8C:1F:64:CA:70:00/36	eumig industrie-TV GmbH.
@@ -42868,6 +42884,7 @@ BC:05:43		AVM GmbH
 BC:06:2D		Wacom Co.,Ltd.
 BC:09:1B		Intel Corporate
 BC:09:63		Apple, Inc.
+BC:09:EB		Tecno Mobile Limited
 BC:0D:A5		Texas Instruments
 BC:0E:AB		Samsung Electronics Co.,Ltd
 BC:0F:2B		Fortune Techgroup Co.,Ltd
@@ -44405,6 +44422,7 @@ C8:98:DB:20:00:00/28	freecle Inc.
 C8:98:DB:30:00:00/28	Shenzhen Kedakeda Technology Co., Ltd.
 C8:98:DB:40:00:00/28	Shenzhen IBD Intelligence Technology Co,.Ltd.
 C8:98:DB:50:00:00/28	Private
+C8:98:DB:60:00:00/28	Quantum Co., Ltd.
 C8:98:DB:70:00:00/28	J&R Technology Limited
 C8:98:DB:80:00:00/28	Voleatech GmbH
 C8:98:DB:90:00:00/28	Mindtec
@@ -44645,6 +44663,7 @@ CC:1B:E0:C0:00:00/28	Guangzhou Southelectric Power Science Technology Developmen
 CC:1B:E0:D0:00:00/28	Newstar (Hk) Electronic Development Limited
 CC:1B:E0:E0:00:00/28	Cassia Networks
 CC:1B:E0:F0:00:00/28	Private
+CC:1E:56		Huawei Technologies Co.,Ltd
 CC:1E:97		Huawei Technologies Co.,Ltd
 CC:1E:FF		Metrological Group BV
 CC:1F:C4		InVue
@@ -46014,6 +46033,7 @@ D8:28:C9		General Electric Consumer and Industrial
 D8:29:16		Ascent Communication Technology
 D8:29:18		Huawei Technologies Co.,Ltd
 D8:29:86		Best Wish Technology LTD
+D8:29:F8		Huawei Technologies Co.,Ltd
 D8:2A:15		Leitner SpA
 D8:2A:7E		Nokia Corporation
 D8:2D:40		Janz - Contagem e Gestão de Fluídos S.A.
@@ -47608,6 +47628,7 @@ E8:51:77		Qingdao Intelligent&Precise Electronics Co.,Ltd.
 E8:51:9D		Yeonhab Precision Co.,LTD
 E8:51:9E		Guangzhou Shiyuan Electronic Technology Company Limited
 E8:54:84		NEO Information Systems Co., Ltd.
+E8:55:40		Wuxi Funide Digital Co.,Ltd
 E8:55:B4		SAI Technology Inc.
 E8:56:59		Advanced-Connectek Inc.
 E8:56:D6		NCTech Ltd
@@ -48109,6 +48130,7 @@ EC:9A:0C:60:00:00/28	Seek Thermal
 EC:9A:0C:70:00:00/28	Jiangsu Maodu Yunke Medical Technology Co., Ltd
 EC:9A:0C:80:00:00/28	NXC Systems LLC
 EC:9A:0C:90:00:00/28	Tianjin Meiteng Technology Co.,Ltd
+EC:9A:0C:A0:00:00/28	Fancom
 EC:9A:0C:B0:00:00/28	ReVibe Energy AB
 EC:9A:0C:C0:00:00/28	Fujian Zhongliang Zhihui Technology Co., Ltd
 EC:9A:0C:D0:00:00/28	ViGEM GmbH
