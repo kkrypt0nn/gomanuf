@@ -3197,7 +3197,7 @@
 00:0C:8A		Bose Corporation
 00:0C:8B		Connect Tech Inc
 00:0C:8C		Kodicom Co.,Ltd.
-00:0C:8D		MATRIX VISION GmbH
+00:0C:8D		Balluff MV GmbH
 00:0C:8E		Mentor Engineering Inc
 00:0C:8F		Nergal s.r.l.
 00:0C:90		Octasic Inc.
@@ -23240,6 +23240,7 @@
 38:A5:B6		Shenzhen Megmeet Electrical Co.,Ltd
 38:A6:59		Sagemcom Broadband SAS
 38:A6:CE		Sky Uk Limited
+38:A7:46		Compal Information (Kunshan) Co., Ltd.
 38:A8:51		Quickset Defense Technologies, LLC
 38:A8:6B		Orga BV
 38:A8:9B		Fiberhome Telecommunication Technologies Co.,LTD
@@ -23330,6 +23331,7 @@
 38:C0:EA		Fortinet, Inc.
 38:C2:BA		Cctv Neotech
 38:C4:E8		NSS Sp. z o.o.
+38:C6:BD		Xiaomi Communications Co Ltd
 38:C7:0A		WiFiSong
 38:C7:BA		CS Services Co.,Ltd.
 38:C8:04		Hui Zhou Gaoshengda Technology Co.,LTD
@@ -26823,6 +26825,7 @@
 54:D1:B0		Universal Laser Systems, Inc
 54:D2:72		Nuki Home Solutions GmbH
 54:D4:6F		Cisco SPVTG
+54:D6:0D		Hangzhou Ezviz Software Co.,Ltd.
 54:D7:51		Proximus
 54:D7:E3		Aruba, a Hewlett Packard Enterprise Company
 54:D9:C6		Huawei Device Co., Ltd.
@@ -27117,6 +27120,7 @@
 58:95:D8:E0:00:00/28	Gmv sistemas SAU
 58:96:1D		Intel Corporate
 58:96:30		Vantiva USA LLC
+58:96:71		Wistron Neweb Corporation
 58:97:1E		Cisco Systems, Inc
 58:97:BD		Cisco Systems, Inc
 58:98:35		Technicolor Delivery Technologies Belgium NV
@@ -27417,6 +27421,7 @@
 5C:62:8B		TP-Link Corporation Limited
 5C:63:BF		Tp-Link Technologies Co.,Ltd.
 5C:63:C9		Intellithings Ltd.
+5C:64:0F		Sage Technologies Inc.
 5C:64:7A		Huawei Technologies Co.,Ltd
 5C:64:8E		Zyxel Communications Corporation
 5C:64:F1		Cisco Systems, Inc
@@ -34377,6 +34382,8 @@
 78:39:2D		IEEE Registration Authority
 78:39:2D:60:00:00/28	Annapurna labs
 78:39:2D:70:00:00/28	Shenzhen C & D Electronics Co., Ltd.
+78:39:2D:80:00:00/28	Dreamtek
+78:39:2D:90:00:00/28	AVATR Co., LTD.
 78:3A:6C		Tecno Mobile Limited
 78:3A:84		Apple, Inc.
 78:3C:E3		Kai-EE
@@ -37441,6 +37448,7 @@
 8C:1F:64:9C:D0:00/36	JiangYu Innovative Medical Technology
 8C:1F:64:9C:E0:00/36	Exi Flow Measurement Ltd
 8C:1F:64:9C:F0:00/36	ASAP Electronics GmbH
+8C:1F:64:9D:00:00/36	Saline Lectronics, Inc.
 8C:1F:64:9D:40:00/36	Wolfspyre Labs
 8C:1F:64:9D:80:00/36	Integer.pl S.A.
 8C:1F:64:9D:B0:00/36	HD Renewable Energy Co.,Ltd
@@ -37917,6 +37925,7 @@
 8C:1F:64:F5:F0:00/36	TR7 Siber Savunma A.S.
 8C:1F:64:F6:30:00/36	Quantum Media Systems
 8C:1F:64:F6:50:00/36	Talleres de Escoriaza SA
+8C:1F:64:F6:D0:00/36	Ophir Manufacturing Solutions Pte Ltd
 8C:1F:64:F7:00:00/36	Vision Systems Safety Tech
 8C:1F:64:F7:20:00/36	Contrader
 8C:1F:64:F7:40:00/36	GE AVIC Civil Avionics Systems Company Limited
@@ -37946,6 +37955,7 @@
 8C:1F:64:FB:90:00/36	IWS Global Pty Ltd
 8C:1F:64:FB:A0:00/36	Onto Innovation
 8C:1F:64:FB:D0:00/36	SAN-AI Electronic Industries Co.,Ltd.
+8C:1F:64:FC:10:00/36	Nidec asi spa
 8C:1F:64:FC:20:00/36	I/O Controls
 8C:1F:64:FC:50:00/36	Sumico
 8C:1F:64:FC:C0:00/36	Gredmann Taiwan Ltd.
@@ -41024,6 +41034,7 @@ A8:3A:48		Ubiqcom India Pvt Ltd
 A8:3A:79		Mist Systems, Inc.
 A8:3B:5C		Huawei Technologies Co.,Ltd
 A8:3B:76		Cloud Network Technology Singapore Pte. Ltd.
+A8:3C:A5		Dell Inc.
 A8:3C:CB		Rossma
 A8:3E:0E		HMD Global Oy
 A8:3E:D3		Huawei Technologies Co.,Ltd
@@ -43291,6 +43302,7 @@ C0:14:3D		Hon Hai Precision Ind. Co.,Ltd.
 C0:14:B8		Nokia
 C0:14:FE		Cisco Systems, Inc
 C0:16:92		China Mobile Group Device Co.,Ltd.
+C0:16:93		Xiaomi Communications Co Ltd
 C0:17:4D		Samsung Electronics Co.,Ltd
 C0:17:54		Apple, Inc.
 C0:18:03		HP Inc.
@@ -45966,6 +45978,7 @@ D4:F5:EF		Hewlett Packard Enterprise
 D4:F6:3F		Iea S.R.L.
 D4:F7:56		zte corporation
 D4:F7:86		Fiberhome Telecommunication Technologies Co.,LTD
+D4:F7:D5		Sony Interactive Entertainment Inc.
 D4:F8:29		Sagemcom Broadband SAS
 D4:F9:21		Qingdao Intelligent&Precise Electronics Co.,Ltd.
 D4:F9:8D		Espressif Inc.
@@ -49721,6 +49734,7 @@ FC:5A:1D		Hitron Technologies. Inc
 FC:5B:24		Weibel Scientific A/S
 FC:5B:26		MikroBits
 FC:5B:39		Cisco Systems, Inc
+FC:5B:8C		Xiaomi Communications Co Ltd
 FC:5C:45		Ruckus Wireless
 FC:5C:EE		LCFC(Hefei) Electronics Technology co., ltd
 FC:5F:49		Zhejiang Dahua Technology Co., Ltd.
