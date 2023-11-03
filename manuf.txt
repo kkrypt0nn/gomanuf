@@ -38102,6 +38102,7 @@
 8C:53:F7		A&D Engineering Co., Ltd.
 8C:54:1D		Lge
 8C:55:4A		Intel Corporate
+8C:55:70		IEEE Registration Authority
 8C:55:70:B0:00:00/28	Sernet (Suzhou) Technologies Corporation
 8C:55:BB		Songwoo Information & Technology Co., Ltd
 8C:56:46		LG Electronics
