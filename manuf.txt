@@ -15481,6 +15481,7 @@
 00:76:B1		Somfy-Protect By Myfox SAS
 00:77:8D		Cisco Systems, Inc
 00:77:E4		Nokia Solutions and Networks GmbH & Co. KG
+00:78:39		Nokia
 00:78:88		Cisco Systems, Inc
 00:78:9E		Sagemcom Broadband SAS
 00:78:CD		Ignition Design Labs
@@ -18553,7 +18554,7 @@
 0C:9E:91		Sankosha Corporation
 0C:9F:71		Dolphin Electronics (DongGuan) Co., Ltd.
 0C:A0:6C		Industrial Cyber Sensing Inc.
-0C:A1:38		Blinq Wireless Inc.
+0C:A1:38		BLiNQ Networks Inc.
 0C:A2:F4		Chameleon Technology (UK) Limited
 0C:A4:02		Alcatel-Lucent IPD
 0C:A4:2A		OB Telecom Electronic Technology Co., Ltd
@@ -18965,6 +18966,7 @@
 10:88:CE		Fiberhome Telecommunication Technologies Co.,LTD
 10:89:FB		Samsung Electronics Co.,Ltd
 10:8A:1B		RAONIX Inc.
+10:8A:7B		Nokia
 10:8B:6A		Antailiye Technology Co.,Ltd
 10:8C:CF		Cisco Systems, Inc
 10:8E:BA		Molekule
@@ -22518,6 +22520,7 @@
 30:D7:A1		Apple, Inc.
 30:D8:75		Apple, Inc.
 30:D9:41		Raydium Semiconductor Corp.
+30:D9:59		Shanghai Longcheer Technology Co., Ltd.
 30:D9:7F		Tech4home, Lda
 30:D9:D9		Apple, Inc.
 30:DC:E7		zte corporation
@@ -26764,6 +26767,7 @@
 54:9A:11:F0:00:00/28	Private
 54:9A:16		Uzushio Electric Co.,Ltd.
 54:9A:4C		Guangdong Homecare Technology Co.,Ltd.
+54:9A:8F		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 54:9B:12		Samsung Electronics Co.,Ltd
 54:9B:49		NEC Platforms, Ltd.
 54:9B:72		Ericsson AB
@@ -36873,6 +36877,7 @@
 8C:1F:64:2D:F0:00/36	Ubotica Technologies
 8C:1F:64:2E:20:00/36	Mark Roberts Motion Control
 8C:1F:64:2E:30:00/36	Erba Lachema s.r.o.
+8C:1F:64:2E:50:00/36	GS Elektromedizinsiche Geräte G. Stemple GmbH
 8C:1F:64:2E:80:00/36	Sonora Network Solutions
 8C:1F:64:2E:F0:00/36	Invisense AB
 8C:1F:64:2F:00:00/36	Switch Science, Inc.
@@ -37997,6 +38002,7 @@
 8C:1F:64:F9:E0:00/36	DREAMSWELL Technology CO.,Ltd
 8C:1F:64:FA:20:00/36	AZD Praha s.r.o., ZOZ Olomouc
 8C:1F:64:FA:40:00/36	China Information Technology Designing &Consulting Institute Co.,Ltd.
+8C:1F:64:FA:60:00/36	SurveyorLabs LLC
 8C:1F:64:FA:80:00/36	Unitron Systems b.v.
 8C:1F:64:FA:A0:00/36	Massar Networks
 8C:1F:64:FA:B0:00/36	LIAN Corporation
@@ -38123,7 +38129,9 @@
 8C:55:70		IEEE Registration Authority
 8C:55:70:50:00:00/28	Private
 8C:55:70:60:00:00/28	Joule Group Limites
+8C:55:70:90:00:00/28	Neptronic Ltd
 8C:55:70:B0:00:00/28	Sernet (Suzhou) Technologies Corporation
+8C:55:70:C0:00:00/28	Antronix Inc.,
 8C:55:BB		Songwoo Information & Technology Co., Ltd
 8C:56:46		LG Electronics
 8C:56:9D		Imaging Solutions Group
@@ -41362,6 +41370,7 @@ A8:E9:78		Huawei Device Co., Ltd.
 A8:EE:6D		Fine Point-High Export
 A8:EE:C6		Muuselabs NV/SA
 A8:EF:26		Tritonwave
+A8:EF:5F		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 A8:F0:38		Shen Zhen Shi Jin Hua Tai Electronics Co.,Ltd
 A8:F1:B2		Allwinner Technology Co., Ltd
 A8:F2:66		Huawei Device Co., Ltd.
@@ -44256,6 +44265,7 @@ C8:0D:32		Holoplot GmbH
 C8:0E:14		AVM Audiovisuelles Marketing und Computersysteme GmbH
 C8:0E:77		Le Shi Zhi Xin Electronic Technology (Tianjin) Limited
 C8:0E:95		OmniLync Inc.
+C8:10:72		BBPOS Limited
 C8:10:73		Century Opticomm Co.,Ltd
 C8:12:0B		Samsung Electronics Co.,Ltd
 C8:13:37		Juniper Networks
