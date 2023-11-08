@@ -17528,6 +17528,7 @@
 04:79:70		Huawei Technologies Co.,Ltd
 04:79:75		Honor Device Co., Ltd.
 04:79:B7		Texas Instruments
+04:79:FD		Ciena Corporation
 04:7A:0B		Beijing Xiaomi Electronics Co., Ltd.
 04:7A:AE		Huawei Device Co., Ltd.
 04:7B:CB		Universal Global Scientific Industrial Co., Ltd.
@@ -27334,6 +27335,7 @@
 5C:04:5A		Company NA Stage & Light
 5C:07:58		Ufispace Co., LTD.
 5C:07:6F		Thought Creator
+5C:07:A4		Ciena Corporation
 5C:07:A6		Huawei Technologies Co.,Ltd
 5C:09:47		Apple, Inc.
 5C:09:79		Huawei Technologies Co.,Ltd
@@ -27581,6 +27583,7 @@
 5C:B1:2E		Cisco Systems, Inc
 5C:B1:3E		Sagemcom Broadband SAS
 5C:B1:5F		Oceanblue Cloud Technology Limited
+5C:B2:60		EM Microelectronic
 5C:B2:6D		Intel Corporate
 5C:B2:9E		ASCO Power Technologies
 5C:B3:95		Huawei Technologies Co.,Ltd
@@ -30403,7 +30406,7 @@
 70:B3:D5:2D:E0:00/36	YUYAMA MFG Co.,Ltd
 70:B3:D5:2D:F0:00/36	Eastern Science & Technology Co., Ltd
 70:B3:D5:2E:00:00/36	Peter Huber
-70:B3:D5:2E:10:00/36	hiSky S.C.S LTD
+70:B3:D5:2E:10:00/36	hiSky SCS Ltd
 70:B3:D5:2E:20:00/36	Spark Lasers
 70:B3:D5:2E:30:00/36	Meiknologic GmbH
 70:B3:D5:2E:40:00/36	Schneider Electric Motion USA
@@ -35512,6 +35515,7 @@
 80:82:87		ATCOM Technology Co.Ltd.
 80:82:F5		STMicrolectronics International NV
 80:84:A9		oshkosh Corporation
+80:85:44		Intelbras
 80:86:98		Netronics Technologies Inc.
 80:86:D9		Samsung Electronics Co.,Ltd
 80:86:F2		Intel Corporate
@@ -35788,6 +35792,7 @@
 84:3C:4C		Robert Bosch SRL
 84:3C:99		zte corporation
 84:3D:C6		Cisco Systems, Inc
+84:3E:03		Sagemcom Broadband SAS
 84:3E:1D		Hui Zhou Gaoshengda Technology Co.,LTD
 84:3E:79		Shenzhen Belon Technology CO.,LTD
 84:3E:92		Huawei Technologies Co.,Ltd
@@ -36687,6 +36692,7 @@
 8C:1F:64:08:F0:00/36	AixControl GmbH
 8C:1F:64:09:20:00/36	Gogo BA
 8C:1F:64:09:30:00/36	MAG Audio LLC
+8C:1F:64:09:40:00/36	El.En. Spa
 8C:1F:64:09:60:00/36	IPCOMM GmbH
 8C:1F:64:09:70:00/36	FoMa Systems GmbH
 8C:1F:64:09:80:00/36	Agvolution GmbH
@@ -37151,6 +37157,7 @@
 8C:1F:64:5D:B0:00/36	GlobalInvacom
 8C:1F:64:5D:E0:00/36	SekureTrak Inc. dba TraknProtect
 8C:1F:64:5E:30:00/36	Nixer Ltd
+8C:1F:64:5E:40:00/36	Wuxi Zetai Microelectronics Co., LTD
 8C:1F:64:5E:50:00/36	Telemetrics Inc.
 8C:1F:64:5E:70:00/36	HOSCH Gebäude Automation Neue Produkte GmbH
 8C:1F:64:5E:A0:00/36	BTG Instruments AB
@@ -37704,6 +37711,7 @@
 8C:1F:64:C1:60:00/36	Alisonic Srl
 8C:1F:64:C1:70:00/36	Metreg Technologies GmbH
 8C:1F:64:C1:A0:00/36	ViewSonic Corp
+8C:1F:64:C1:B0:00/36	hiSky SCS Ltd
 8C:1F:64:C1:C0:00/36	Vektrex Electronics Systems, Inc.
 8C:1F:64:C1:E0:00/36	Va Syd
 8C:1F:64:C1:F0:00/36	Esys Srl
@@ -38129,9 +38137,11 @@
 8C:55:70		IEEE Registration Authority
 8C:55:70:50:00:00/28	Private
 8C:55:70:60:00:00/28	Joule Group Limites
+8C:55:70:70:00:00/28	Eideal Company Limited
 8C:55:70:90:00:00/28	Neptronic Ltd
 8C:55:70:B0:00:00/28	Sernet (Suzhou) Technologies Corporation
 8C:55:70:C0:00:00/28	Antronix Inc.,
+8C:55:70:D0:00:00/28	EPSa Elektronik & Präzisionsbau Saalfeld GmbH
 8C:55:BB		Songwoo Information & Technology Co., Ltd
 8C:56:46		LG Electronics
 8C:56:9D		Imaging Solutions Group
@@ -39786,6 +39796,7 @@
 9C:21:6A		Tp-Link Technologies Co.,Ltd.
 9C:21:83		Broadcom Limited
 9C:22:0E		TASCAN Systems GmbH
+9C:24:72		Sagemcom Broadband SAS
 9C:25:95		Samsung Electronics Co.,Ltd
 9C:25:BE		Wildlife Acoustics, Inc.
 9C:28:40		Discovery Technology,LTD..
@@ -40134,7 +40145,7 @@
 A0:00:4C		Hisense Visual Technology Co.,Ltd
 A0:02:4A		IEEE Registration Authority
 A0:02:4A:00:00:00/28	Zhejiang Hechuan Technology Co.,Ltd
-A0:02:4A:10:00:00/28	Vitec Imaging Solutions Spa
+A0:02:4A:10:00:00/28	Videndum Media Solutions Spa
 A0:02:4A:20:00:00/28	Danriver Technologies Corp.
 A0:02:4A:30:00:00/28	SomaDetect Inc
 A0:02:4A:40:00:00/28	Argos Solutions AS
@@ -47575,6 +47586,7 @@ E4:E1:30		TCT mobile ltd
 E4:E2:6C		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 E4:E4:09		Leifheit Ag
 E4:E4:AB		Apple, Inc.
+E4:E6:6C		Tiandy Technologies Co.,LTD
 E4:E7:49		Hewlett Packard
 E4:EA:83		Shenzhen Gongjin Electronics Co.,Lt
 E4:EC:10		Nokia Corporation
@@ -48605,6 +48617,7 @@ F0:84:2F		ADB Broadband Italia
 F0:84:C9		zte corporation
 F0:85:C1		Shenzhen Rf-Link Technology Co.,Ltd.
 F0:86:20		Arcadyan Corporation
+F0:86:6F		EM Microelectronic
 F0:87:56		Zyxel Communications Corporation
 F0:87:7F		Magnetar Technology Shenzhen Co., LTD.
 F0:8A:28		JIANGSU HENGSION ELECTRONIC S and T CO.,LTD
@@ -49780,6 +49793,7 @@ FC:33:42		Juniper Networks
 FC:33:57		KAGA FEI Co., Ltd.
 FC:33:5F		Polyera
 FC:34:97		ASUSTek COMPUTER INC.
+FC:34:E2		Shenzhen YOUHUA Technology Co., Ltd
 FC:35:98		Favite Inc.
 FC:35:E6		Visteon Corporation
 FC:37:2B		Sichuan Tianyi Comheart Telecom Co.,LTD
