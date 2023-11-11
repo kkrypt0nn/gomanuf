@@ -20652,6 +20652,7 @@
 20:58:69		Ruckus Wireless
 20:59:A0		Paragon Technologies Inc.
 20:5A:00		Coval
+20:5A:1D		zte corporation
 20:5B:2A		Private
 20:5B:5E		Shenzhen Wonhe Technology Co., Ltd
 20:5C:FA		Yangzhou ChangLian Network Technology Co,ltd.
@@ -21084,6 +21085,7 @@
 24:72:60		IOTTECH Corp
 24:74:F7		GoPro
 24:75:3A		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
+24:75:FC		zte corporation
 24:76:25		Texas Instruments
 24:76:56		Shanghai Net Miles Fiber Optics Technology Co., LTD.
 24:76:7D		Cisco SPVTG
@@ -22821,6 +22823,7 @@
 34:94:54		Espressif Inc.
 34:95:DB		Logitec Corporation
 34:96:72		Tp-Link Technologies Co.,Ltd.
+34:96:77		zte corporation
 34:97:6F		Rootech, Inc.
 34:97:F6		ASUSTek COMPUTER INC.
 34:97:FB		Advanced Rf Technologies Inc
@@ -36688,6 +36691,7 @@
 8C:1F:64:05:C0:00/36	tickIoT Inc.
 8C:1F:64:05:F0:00/36	ESCAD AUTOMATION GmbH
 8C:1F:64:06:10:00/36	Micron Systems
+8C:1F:64:06:20:00/36	Aton Green Storage Spa
 8C:1F:64:06:60:00/36	Siemens Energy Global GmbH & Co. KG
 8C:1F:64:06:A0:00/36	Intellisense Systems Inc.
 8C:1F:64:06:B0:00/36	Sanwa Supply Inc.
@@ -37179,6 +37183,7 @@
 8C:1F:64:5E:30:00/36	Nixer Ltd
 8C:1F:64:5E:40:00/36	Wuxi Zetai Microelectronics Co., LTD
 8C:1F:64:5E:50:00/36	Telemetrics Inc.
+8C:1F:64:5E:60:00/36	Odyssee-Systemes
 8C:1F:64:5E:70:00/36	HOSCH Gebäude Automation Neue Produkte GmbH
 8C:1F:64:5E:A0:00/36	BTG Instruments AB
 8C:1F:64:5E:B0:00/36	Tiama
@@ -49723,6 +49728,7 @@ F8:F1:E6		Samsung Electronics Co.,Ltd
 F8:F2:1E		Intel Corporate
 F8:F2:5A		G-Lab GmbH
 F8:F4:64		Rawe Electonic GmbH
+F8:F5:19		Rulogic Inc.
 F8:F5:32		ARRIS Group, Inc.
 F8:F7:B9		Huawei Technologies Co.,Ltd
 F8:F7:D3		International Communications Corporation
