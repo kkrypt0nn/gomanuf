@@ -25175,6 +25175,7 @@
 44:E0:8E		Cisco SPVTG
 44:E1:37		ARRIS Group, Inc.
 44:E2:F1		NewRadio Technologies Co. , Ltd.
+44:E2:F8		Silicon Laboratories
 44:E4:9A		Omnitronics Pty Ltd
 44:E4:D9		Cisco Systems, Inc
 44:E4:E6		Extreme Networks Headquarters
@@ -26245,6 +26246,7 @@
 50:59:67		Intent Solutions Inc
 50:5A:65		AzureWave Technology Inc.
 50:5A:C6		Guangdong Super Telecom Co.,Ltd.
+50:5B:1D		Shenzhen C-Data Technology Co., Ltd.
 50:5B:C2		Liteon Technology Corporation
 50:5D:7A		zte corporation
 50:5D:AC		Huawei Technologies Co.,Ltd
@@ -27445,6 +27447,7 @@
 5C:56:A4		Wanan Hongsheng Electronic Co.Ltd
 5C:56:ED		3pleplay Electronics Private Limited
 5C:57:1A		ARRIS Group, Inc.
+5C:57:9E		Chiun Mai Communication System, Inc
 5C:57:C8		Nokia Corporation
 5C:58:19		Jingsheng Technology Co., Ltd.
 5C:58:E6		Palo Alto Networks
@@ -36126,6 +36129,7 @@
 84:FD:D1		Intel Corporate
 84:FE:9E		RTC Industries, Inc.
 84:FE:DC		Borqs Beijing Ltd.
+88:01:0C		Sichuan Tianyi Comheart Telecom Co.,LTD
 88:01:18		BLT Co
 88:01:F2		Vitec System Engineering Inc.
 88:01:F9		Texas Instruments
@@ -36776,6 +36780,7 @@
 8C:1F:64:13:50:00/36	Yuval Fichman
 8C:1F:64:13:80:00/36	Vissavi sp. z o.o.
 8C:1F:64:13:F0:00/36	Elsist Srl
+8C:1F:64:14:10:00/36	Code Blue Corporation
 8C:1F:64:14:40:00/36	Langfang ENN lntelligent Technology Co.,Ltd.
 8C:1F:64:14:50:00/36	Spectrum FiftyNine BV
 8C:1F:64:14:80:00/36	Carehawk
@@ -37226,6 +37231,7 @@
 8C:1F:64:65:50:00/36	S.E.I. Co.,Ltd.
 8C:1F:64:65:60:00/36	Optotune Switzerland AG
 8C:1F:64:65:70:00/36	Bright Solutions PTE LTD
+8C:1F:64:65:B0:00/36	SUS Corporation
 8C:1F:64:65:D0:00/36	Action Streamer LLC
 8C:1F:64:65:F0:00/36	Astrometric Instruments, Inc.
 8C:1F:64:66:00:00/36	Llc Ntpc
@@ -38178,6 +38184,7 @@
 8C:55:70:B0:00:00/28	Sernet (Suzhou) Technologies Corporation
 8C:55:70:C0:00:00/28	Antronix Inc.,
 8C:55:70:D0:00:00/28	EPSa Elektronik & Präzisionsbau Saalfeld GmbH
+8C:55:70:E0:00:00/28	Johnson Health Tech. (Shanghai) Co.,Ltd.
 8C:55:BB		Songwoo Information & Technology Co., Ltd
 8C:56:46		LG Electronics
 8C:56:9D		Imaging Solutions Group
@@ -38242,6 +38249,7 @@
 8C:64:22		Sony Corporation
 8C:64:A2		OnePlus Technology (Shenzhen) Co., Ltd
 8C:64:D4		Hyeco Smart Tech Co.,Ltd
+8C:65:A3		Silicon Laboratories
 8C:67:94		vivo Mobile Communication Co., Ltd.
 8C:68:3A		Huawei Technologies Co.,Ltd
 8C:68:78		Nortek-AS
@@ -43509,6 +43517,7 @@ C0:3E:50		Huawei Technologies Co.,Ltd
 C0:3E:BA		Dell Inc.
 C0:3F:0E		Netgear
 C0:3F:2A		Biscotti, Inc.
+C0:3F:BB		Zhongshan Zhiniu Electronics Co.,Ltd.
 C0:3F:D5		Elitegroup Computer Systems Co.,Ltd.
 C0:3F:DD		Huawei Technologies Co.,Ltd
 C0:40:04		Medicaroid Corporation
@@ -46473,6 +46482,7 @@ D8:EB:97		TRENDnet, Inc.
 D8:EC:5E		Belkin International Inc.
 D8:EC:E5		Zyxel Communications Corporation
 D8:ED:1C		Magna Technology SL
+D8:EE:42		Sichuan Tianyi Comheart Telecom Co.,LTD
 D8:EE:78		Moog Protokraft
 D8:EF:42		Huawei Device Co., Ltd.
 D8:EF:CD		Nokia Solutions and Networks GmbH & Co. KG
