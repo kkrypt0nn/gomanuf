@@ -21664,6 +21664,8 @@
 28:F5:D1		ARRIS Group, Inc.
 28:F6:06		Syes srl
 28:F7:D6		Fiberhome Telecommunication Technologies Co.,LTD
+28:F8:C6		IEEE Registration Authority
+28:F8:C6:D0:00:00/28	ShenZhen Goodtimes Technoogy CO.,LTD
 28:FA:19		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
 28:FA:7A		Zhejiang Tmall Technology Co., Ltd.
 28:FA:A0		vivo Mobile Communication Co., Ltd.
@@ -25441,6 +25443,7 @@
 48:8C:63		Huawei Device Co., Ltd.
 48:8D:36		Arcadyan Corporation
 48:8E:42		DIGALOG GmbH
+48:8E:B7		Zebra Technologies Inc.
 48:8E:EF		Huawei Technologies Co.,Ltd
 48:8F:4C		shenzhen trolink  Technology Co.,Ltd
 48:8F:5A		Routerboard.com
@@ -36796,6 +36799,7 @@
 8C:1F:64:16:60:00/36	Hikari Alphax Inc.
 8C:1F:64:16:D0:00/36	Xiamen Rgblink Science & Technology Co., Ltd.
 8C:1F:64:16:E0:00/36	Benchmark Electronics BV
+8C:1F:64:17:00:00/36	Fracarro Radioindustrie Srl
 8C:1F:64:17:70:00/36	Emcom Systems
 8C:1F:64:17:90:00/36	Agrowtek Inc.
 8C:1F:64:17:C0:00/36	Zelp Ltd
@@ -36903,6 +36907,7 @@
 8C:1F:64:2C:80:00/36	BRS Sistemas Eletrônicos
 8C:1F:64:2C:B0:00/36	Smart Component Technologies Ltd
 8C:1F:64:2C:D0:00/36	Taiwan Vtron
+8C:1F:64:2C:E0:00/36	E2 Nova Corporation
 8C:1F:64:2D:00:00/36	Cambridge Research Systems Ltd
 8C:1F:64:2D:80:00/36	CONTROL SYSTEMS Srl
 8C:1F:64:2D:E0:00/36	Polar Bear Design
@@ -37064,6 +37069,7 @@
 8C:1F:64:48:F0:00/36	Mecos AG
 8C:1F:64:49:30:00/36	Security Products International, LLC
 8C:1F:64:49:50:00/36	Dave Srl
+8C:1F:64:49:60:00/36	Qualsen(Guangzhou)Technologies Co.,Ltd
 8C:1F:64:49:80:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:49:90:00/36	Tiama
 8C:1F:64:49:B0:00/36	Wartsila Voyage Limited
@@ -47329,6 +47335,7 @@ E4:10:88		Samsung Electronics Co.,Ltd
 E4:11:5B		Hewlett Packard
 E4:12:18		ShenZhen Rapoo Technology Co., Ltd.
 E4:12:1D		Samsung Electronics Co.,Ltd
+E4:12:26		Continental Automotive Romania SLR
 E4:12:89		topsystem GmbH
 E4:15:F6		Texas Instruments
 E4:17:D8		8Bitdo Technology Hk Limited
