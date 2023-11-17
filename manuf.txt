@@ -21666,7 +21666,9 @@
 28:F7:D6		Fiberhome Telecommunication Technologies Co.,LTD
 28:F8:C6		IEEE Registration Authority
 28:F8:C6:00:00:00/28	2iC-Care Ltd
+28:F8:C6:10:00:00/28	Annapurna labs
 28:F8:C6:30:00:00/28	Panasonic Automotive System Malaysia
+28:F8:C6:70:00:00/28	ASES GROUP, s.r.o.
 28:F8:C6:B0:00:00/28	3PI Tech Solutions
 28:F8:C6:C0:00:00/28	Annapurna labs
 28:F8:C6:D0:00:00/28	ShenZhen Goodtimes Technoogy CO.,LTD
@@ -36748,6 +36750,7 @@
 8C:1F:64:0C:00:00/36	Active Research Limited
 8C:1F:64:0C:50:00/36	TechnipFMC
 8C:1F:64:0C:A0:00/36	CLOUD TELECOM Inc.
+8C:1F:64:0D:20:00/36	biosilver .co.,ltd
 8C:1F:64:0D:40:00/36	Dalcnet srl
 8C:1F:64:0D:50:00/36	RealD, Inc.
 8C:1F:64:0D:60:00/36	Avd Innovation Limited
@@ -37128,6 +37131,7 @@
 8C:1F:64:52:A0:00/36	Hiwin Mikrosystem Corp.
 8C:1F:64:52:D0:00/36	Cubic ITS, Inc. dba GRIDSMART Technologies
 8C:1F:64:52:E0:00/36	CLOUD TELECOM Inc.
+8C:1F:64:53:00:00/36	SIPazon AB
 8C:1F:64:53:40:00/36	Surya Electronics
 8C:1F:64:53:50:00/36	Columbus McKinnon
 8C:1F:64:53:60:00/36	Beijing Lxtv Technology Co.,Ltd
@@ -37423,6 +37427,7 @@
 8C:1F:64:85:50:00/36	e.kundenservice Netz GmbH
 8C:1F:64:85:60:00/36	Garten Automation
 8C:1F:64:85:B0:00/36	Atlantic Pumps Ltd
+8C:1F:64:85:C0:00/36	Zing 5g Communications Canada Inc.
 8C:1F:64:86:30:00/36	EngiNe srl
 8C:1F:64:86:70:00/36	Forever Engineering Systems Pvt. Ltd.
 8C:1F:64:86:80:00/36	Shenzhen Peake Technology Co.,Ltd.
@@ -37676,6 +37681,7 @@
 8C:1F:64:B1:40:00/36	Murata Manufacturing CO., Ltd.
 8C:1F:64:B1:90:00/36	DITRON S.r.l.
 8C:1F:64:B2:20:00/36	Blighter Surveillance Systems Ltd
+8C:1F:64:B2:40:00/36	Abb
 8C:1F:64:B2:80:00/36	Season Electronics Ltd
 8C:1F:64:B2:B0:00/36	Rhombus Europe
 8C:1F:64:B2:C0:00/36	Sanmina Israel Medical Systems Ltd
@@ -37742,6 +37748,7 @@
 8C:1F:64:BF:20:00/36	Yujun Electricity Industry Co., Ltd
 8C:1F:64:BF:30:00/36	Alphatek AS
 8C:1F:64:BF:40:00/36	Fluid Components Intl
+8C:1F:64:BF:80:00/36	Cdsi
 8C:1F:64:BF:B0:00/36	TechArgos
 8C:1F:64:BF:C0:00/36	ASiS Technologies Pte Ltd
 8C:1F:64:C0:10:00/36	Horiba Abx Sas
@@ -43052,6 +43059,7 @@ BC:0F:2B		Fortune Techgroup Co.,Ltd
 BC:0F:64		Intel Corporate
 BC:0F:9A		D-Link International
 BC:0F:A7		Ouster
+BC:0F:B7		sywinkey HongKong Co,. Limited?
 BC:0F:F3		HP Inc.
 BC:0F:FE		Juniper Networks
 BC:10:2F		SJI Industry Company
@@ -49293,6 +49301,7 @@ F4:EA:B5		Extreme Networks Headquarters
 F4:EB:38		Sagemcom Broadband SAS
 F4:EB:9F		Ellu Company 2019 SL
 F4:EC:38		Tp-Link Technologies Co.,Ltd.
+F4:ED:37		Qingdao Yuze lntelligent Technology Co.,Ltd
 F4:ED:5F		Shenzhen Ktc Technology Group
 F4:EE:08		Dell Inc.
 F4:EE:14		Mercury Communication Technologies Co.,Ltd.
