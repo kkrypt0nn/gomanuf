@@ -10475,6 +10475,7 @@
 00:31:92		TP-Link Corporation Limited
 00:32:17		Cisco Systems, Inc
 00:32:3A		so-logic
+00:33:58		Ruckus Wireless
 00:33:6C		SynapSense Corporation
 00:34:A1		Rf-Lambda Usa Inc.
 00:34:DA		LG Electronics (Mobile Communications)
@@ -10650,7 +10651,7 @@
 00:40:89		Meidensha Corporation
 00:40:8A		Tps Teleprocessing Sys. Gmbh
 00:40:8B		Raylan Corporation
-00:40:8C		Axis Communications Ab
+00:40:8C		Axis Communications AB
 00:40:8D		The Goodyear Tire & Rubber Co.
 00:40:8E		Tattile SRL
 00:40:8F		Wm-Data Minfo Ab
@@ -21667,9 +21668,11 @@
 28:F8:C6		IEEE Registration Authority
 28:F8:C6:00:00:00/28	2iC-Care Ltd
 28:F8:C6:10:00:00/28	Annapurna labs
+28:F8:C6:20:00:00/28	Intermatic AG
 28:F8:C6:30:00:00/28	Panasonic Automotive System Malaysia
 28:F8:C6:60:00:00/28	Shenzhen Hongdian technologies corporation.
 28:F8:C6:70:00:00/28	ASES GROUP, s.r.o.
+28:F8:C6:90:00:00/28	secuever
 28:F8:C6:B0:00:00/28	3PI Tech Solutions
 28:F8:C6:C0:00:00/28	Annapurna labs
 28:F8:C6:D0:00:00/28	ShenZhen Goodtimes Technoogy CO.,LTD
@@ -22903,6 +22906,7 @@
 34:C5:D0		Hagleitner Hygiene International GmbH
 34:C6:9A		Enecsys Ltd
 34:C7:31		Alpsalpine Co,.Ltd
+34:C7:E9		Google, Inc.
 34:C8:03		Nokia Corporation
 34:C9:3D		Intel Corporate
 34:C9:9D		Eidolon Communications Technology Co. Ltd.
@@ -23028,6 +23032,7 @@
 38:01:97		TSST Global,Inc
 38:01:9F		Shenzhen Fast Technologies Co.,Ltd
 38:02:DE		Sercomm Corporation.
+38:02:E3		Yichen (Shenzhen) Technology Co.,Ltd
 38:05:46		Foctek Photonics, Inc.
 38:05:AC		Piller Group GmbH
 38:06:B4		A.D.C. GmbH
@@ -23352,7 +23357,7 @@
 38:B8:EB:B0:00:00/28	PEZY Computing K.K.
 38:B8:EB:C0:00:00/28	Ajax Systems Inc
 38:B8:EB:D0:00:00/28	Yellowbrick Data, Inc.
-38:B8:EB:E0:00:00/28	Wyres SAS
+38:B8:EB:E0:00:00/28	WT-Consulting SAS
 38:BA:B0		Broadcom
 38:BA:F8		Intel Corporate
 38:BB:23		OzVision America LLC
@@ -23512,7 +23517,7 @@
 3C:08:F6		Cisco Systems, Inc
 3C:09:6D		Powerhouse Dynamics
 3C:0A:F3		Cloud Network Technology Singapore Pte. Ltd.
-3C:0B:4F		Yandex Services AG
+3C:0B:4F		Intertech Services AG
 3C:0C:48		Servergy, Inc.
 3C:0C:7D		Tiny Mesh AS
 3C:0C:DB		Union Man Technology Co.,Ltd
@@ -26261,6 +26266,7 @@
 50:5B:C2		Liteon Technology Corporation
 50:5D:7A		zte corporation
 50:5D:AC		Huawei Technologies Co.,Ltd
+50:5E:5C		Sunitec Technology Co.,Limited
 50:5F:B5		Askey Computer Corp
 50:60:28		Xirrus Inc.
 50:61:84		Avaya Inc
@@ -37158,6 +37164,7 @@
 8C:1F:64:55:00:00/36	ard sa
 8C:1F:64:55:20:00/36	Proterra, Inc
 8C:1F:64:55:30:00/36	ENIGMA SOI Sp. z o.o.
+8C:1F:64:55:40:00/36	Herholdt Controls srl
 8C:1F:64:55:60:00/36	BAE Systems
 8C:1F:64:55:70:00/36	In-lite Design BV
 8C:1F:64:55:80:00/36	Scitel
@@ -37790,6 +37797,7 @@
 8C:1F:64:C3:80:00/36	Eco-Adapt
 8C:1F:64:C3:A0:00/36	YUSUR Technology Co., Ltd.
 8C:1F:64:C3:E0:00/36	ISMA Microsolutions INC
+8C:1F:64:C3:F0:00/36	Sonic Corporation
 8C:1F:64:C4:00:00/36	Sciospec Scientific Instruments GmbH
 8C:1F:64:C4:10:00/36	Katronic AG & Co. KG
 8C:1F:64:C4:20:00/36	Sd Optics
@@ -37943,6 +37951,7 @@
 8C:1F:64:E0:E0:00/36	Nokeval Oy
 8C:1F:64:E1:00:00/36	Scenario Automation
 8C:1F:64:E1:20:00/36	Pixus Technologies Inc.
+8C:1F:64:E1:A0:00/36	DAccess Security Systems P Ltd
 8C:1F:64:E1:E0:00/36	Flextronics International Kft
 8C:1F:64:E2:10:00/36	LG-LHT Aircraft Solutions GmbH
 8C:1F:64:E2:30:00/36	Chemito Infotech PVT LTD
@@ -40180,6 +40189,7 @@
 9C:EF:D5		Panda Wireless, Inc.
 9C:F0:29		Integrated Device Technology (Malaysia) Sdn. Bhd.
 9C:F1:55		Nokia
+9C:F1:D4		Roku, Inc
 9C:F3:87		Apple, Inc.
 9C:F4:8E		Apple, Inc.
 9C:F5:31		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -42848,7 +42858,7 @@ B8:85:7B		Huawei Technologies Co.,Ltd
 B8:85:84		Dell Inc.
 B8:86:87		Liteon Technology Corporation
 B8:87:1E		Good Mind Industries Co., Ltd.
-B8:87:6E		Yandex Services AG
+B8:87:6E		Intertech Services AG
 B8:87:A8		Step Ahead Innovations Inc.
 B8:87:C6		Prudential Technology co.,LTD
 B8:88:E3		Compal Information (Kunshan) Co., Ltd.
@@ -42995,6 +43005,7 @@ B8:DA:E8		Huawei Device Co., Ltd.
 B8:DA:F1		Strahlenschutz- Entwicklungs- und Ausruestungsgesellschaft mbH
 B8:DA:F7		Advanced Photonics, Inc.
 B8:DB:1C		Integrated Device Technology (Malaysia) Sdn. Bhd.
+B8:DB:38		Google, Inc.
 B8:DC:87		IAI Corporation
 B8:DD:71		zte corporation
 B8:DE:5E		Longcheer Telecommunication Limited
