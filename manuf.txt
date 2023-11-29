@@ -42807,6 +42807,7 @@ B8:3A:08		Tenda Technology Co.,Ltd.Dongguan branch
 B8:3A:5A		Aruba, a Hewlett Packard Enterprise Company
 B8:3A:7B		Worldplay (Canada) Inc.
 B8:3A:9D		Alarm.com
+B8:3B:AB		Arcadyan Corporation
 B8:3B:CC		Xiaomi Communications Co Ltd
 B8:3C:28		Apple, Inc.
 B8:3D:4E		Shenzhen Cultraview Digital Technology Co.,Ltd Shanghai Branch
@@ -44285,6 +44286,7 @@ C4:AD:34		Routerboard.com
 C4:AD:F1		GOPEACE Inc.
 C4:AE:12		Samsung Electronics Co.,Ltd
 C4:B2:39		Cisco Systems, Inc
+C4:B2:5B		Ruijie Networks Co.,LTD
 C4:B3:01		Apple, Inc.
 C4:B3:6A		Cisco Systems, Inc
 C4:B5:12		General Electric Digital Energy
@@ -46982,6 +46984,7 @@ DC:E6:50		Extreme Networks Headquarters
 DC:E7:1C		AUG Elektronik GmbH
 DC:E8:38		CK Telecom (Shenzhen) Limited
 DC:E9:94		Cloud Network Technology Singapore Pte. Ltd.
+DC:EA:E7		D-Link Corporation
 DC:EB:53		Wuhan QianXiao Elecronic Technology CO.,LTD
 DC:EB:69		Vantiva USA LLC
 DC:EB:94		Cisco Systems, Inc
@@ -48193,9 +48196,11 @@ E8:FD:90		Turbostor
 E8:FD:E8		CeLa Link Corporation
 E8:FD:F8		Shanghai High-Flying Electronics  Technology Co., Ltd
 E8:FF:1E		IEEE Registration Authority
+E8:FF:1E:10:00:00/28	hard & softWERK GmbH
 E8:FF:1E:20:00:00/28	Came Uk
 E8:FF:1E:60:00:00/28	Partizan Security s.r.o.
 E8:FF:1E:70:00:00/28	NRT Technology Taiwan Co., Ltd.
+E8:FF:1E:90:00:00/28	Shenzhen Justinfo Technology Co.,Ltd
 E8:FF:1E:B0:00:00/28	Melisono AB
 E8:FF:98		Huawei Device Co., Ltd.
 EA:11:5D		Autovision Technology Inc.
