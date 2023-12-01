@@ -18999,6 +18999,7 @@
 10:9D:9C		EM Microelectronic
 10:9E:3A		Zhejiang Tmall Technology Co., Ltd.
 10:9F:41		Apple, Inc.
+10:9F:47		Shenzhen Skyworth Digital  Technology  CO., Ltd
 10:9F:4F		New H3C Intelligence Terminal Co., Ltd.
 10:9F:A9		Actiontec Electronics, Inc
 10:A1:3B		Fujikura Rubber Ltd.
@@ -20195,6 +20196,7 @@
 1C:77:F6		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 1C:78:39		Shenzhen Tencent Computer System Co., Ltd.
 1C:78:4E		China Mobile Iot Limited company
+1C:7A:CF		vivo Mobile Communication Co., Ltd.
 1C:7B:21		Sony Corporation
 1C:7B:23		Qingdao Hisense Communications Co.,Ltd.
 1C:7C:11		Eid
@@ -21232,6 +21234,7 @@
 24:E5:AA		Philips Oral Healthcare, Inc.
 24:E6:BA		JSC Zavod im. Kozitsky
 24:E8:53		LG Innotek
+24:E8:CE		Qingdao Haier Technology Co.,Ltd
 24:E8:E5		Shenzhen Skyworth Digital  Technology  CO., Ltd
 24:E9:27		TomTom International BV
 24:E9:B3		Cisco Systems, Inc
@@ -24201,6 +24204,7 @@
 40:A3:CC		Intel Corporate
 40:A5:3B		Nokia
 40:A5:EF		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
+40:A6:3D		SignalFire Telemetry
 40:A6:77		Juniper Networks
 40:A6:A4		PassivSystems Ltd
 40:A6:B7		Intel Corporate
@@ -28309,6 +28313,7 @@
 64:4C:69		Conprove
 64:4D:70		dSPACE GmbH
 64:4E:D7		HP Inc.
+64:4E:EB		Daikin Holdings Singapore Pte Ltd
 64:4F:42		JETTER CO., Ltd.
 64:4F:74		LENUS Co., Ltd.
 64:4F:B0		Hyunjin.com
@@ -34037,6 +34042,7 @@
 74:37:2F		Tongfang Shenzhen Cloudcomputing Technology Co.,Ltd
 74:37:3B		UNINET Co.,Ltd.
 74:37:5F		Sercomm Philippines Inc
+74:38:22		Xiaomi Communications Co Ltd
 74:38:89		ANNAX Anzeigesysteme GmbH
 74:38:B7		Canon Inc.
 74:3A:20		New H3C Technologies Co., Ltd
@@ -34474,6 +34480,7 @@
 78:32:1B		D-Link International
 78:32:4F		Millennium Group, Inc.
 78:34:86		Nokia
+78:34:FD		vivo Mobile Communication Co., Ltd.
 78:35:A0		Zurn Industries LLC
 78:36:07		Cermate Technologies Inc.
 78:36:90		Yulong Computer Telecommunication Scientific (Shenzhen) Co.,Ltd
@@ -38139,6 +38146,7 @@
 8C:1F:64:FA:80:00/36	Unitron Systems b.v.
 8C:1F:64:FA:A0:00/36	Massar Networks
 8C:1F:64:FA:B0:00/36	LIAN Corporation
+8C:1F:64:FA:C0:00/36	Showa Electric Laboratory co.,ltd.
 8C:1F:64:FB:00:00/36	MARIAN GmbH
 8C:1F:64:FB:10:00/36	Abb
 8C:1F:64:FB:40:00/36	Thales Nederland BV
@@ -40144,6 +40152,7 @@
 9C:9D:7E		Beijing Xiaomi Mobile Software Co., Ltd
 9C:9E:03		awayfrom
 9C:9E:71		Huawei Device Co., Ltd.
+9C:9E:D5		Xiaomi Communications Co Ltd
 9C:A1:0A		Scle Sfe
 9C:A1:34		Nike, Inc.
 9C:A2:F4		TP-Link Corporation Limited
@@ -41360,6 +41369,7 @@ A8:66:7F		Apple, Inc.
 A8:67:1E		Ratp
 A8:69:8C		Oracle Corporation
 A8:6A:6F		Rim
+A8:6A:86		Xiaomi Communications Co Ltd
 A8:6A:BB		Sagemcom Broadband SAS
 A8:6A:C1		HanbitEDS Co., Ltd.
 A8:6B:7C		Shenzhen Fenglian Technology Co., Ltd.
@@ -41794,6 +41804,7 @@ AC:8A:CD		ROGER D.Wensker, G.Wensker sp.j.
 AC:8B:6A		China Mobile IOT Company Limited
 AC:8B:9C		Primera Technology, Inc.
 AC:8B:A9		Ubiquiti Inc
+AC:8C:46		Beijing Xiaomi Mobile Software Co., Ltd
 AC:8D:14		Smartrove Inc
 AC:8D:34		Huawei Technologies Co.,Ltd
 AC:8F:A9		Nokia Solutions and Networks GmbH & Co. KG
@@ -45276,6 +45287,7 @@ CC:E1:7F		Juniper Networks
 CC:E1:94		Juniper Networks
 CC:E1:D5		Buffalo.Inc
 CC:E2:36		Hangzhou Yaguan Technology Co. LTD
+CC:E5:36		ittim
 CC:E6:86		Samsung Electronics Co.,Ltd
 CC:E7:98		My Social Stuff
 CC:E7:DF		American Magnetics, Inc.
@@ -47578,6 +47590,7 @@ E4:5F:01		Raspberry Pi Trading Ltd
 E4:60:17		Intel Corporate
 E4:60:4D		zte corporation
 E4:60:59		Pingtek Co., Ltd.
+E4:61:F4		shenzhen worldelite electronics co., LTD
 E4:62:51		Hao Cheng Group Limited
 E4:62:C4		Cisco Systems, Inc
 E4:64:49		ARRIS Group, Inc.
@@ -48204,15 +48217,17 @@ E8:FD:90		Turbostor
 E8:FD:E8		CeLa Link Corporation
 E8:FD:F8		Shanghai High-Flying Electronics  Technology Co., Ltd
 E8:FF:1E		IEEE Registration Authority
+E8:FF:1E:00:00:00/28	Private
 E8:FF:1E:10:00:00/28	hard & softWERK GmbH
-E8:FF:1E:20:00:00/28	Came Uk
 E8:FF:1E:30:00:00/28	Llp "Nic "Fors"
 E8:FF:1E:40:00:00/28	HMN Technologies Co., Ltd
 E8:FF:1E:60:00:00/28	Partizan Security s.r.o.
 E8:FF:1E:70:00:00/28	NRT Technology Taiwan Co., Ltd.
 E8:FF:1E:80:00:00/28	Annapurna labs
 E8:FF:1E:90:00:00/28	Shenzhen Justinfo Technology Co.,Ltd
+E8:FF:1E:A0:00:00/28	Geotab Inc.
 E8:FF:1E:B0:00:00/28	Melisono AB
+E8:FF:1E:C0:00:00/28	Fracarro Radioindustrie Srl
 E8:FF:1E:D0:00:00/28	Shenzhen AZW Technology Co., Ltd.
 E8:FF:98		Huawei Device Co., Ltd.
 EA:11:5D		Autovision Technology Inc.
