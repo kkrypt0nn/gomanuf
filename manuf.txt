@@ -21947,6 +21947,7 @@
 2C:64:F6		Wu Qi Technologies,Inc.
 2C:67:98		InTalTech Ltd.
 2C:67:AB		Ezelink Telecom
+2C:67:BE		DWnet Technologies(Suzhou) Corporation
 2C:67:FB		ShenZhen Zhengjili Electronics Co., LTD
 2C:69:1D		IEEE Registration Authority
 2C:69:1D:00:00:00/28	Hunan Xiangjiang Kunpeng Information Technology Co., Ltd.
@@ -26946,6 +26947,7 @@
 54:EA:A8		Apple, Inc.
 54:EB:E9		Apple, Inc.
 54:EC:2F		Ruckus Wireless
+54:EC:B0		Sercomm France Sarl
 54:ED:A3		Navdy, Inc.
 54:EE:75		Wistron InfoComm(Kunshan)Co.,Ltd.
 54:EF:33		Shenzhen Bilian Electronic Co.，Ltd
@@ -28378,6 +28380,7 @@
 64:66:B3		Tp-Link Technologies Co.,Ltd.
 64:66:D8		Samsung Electronics Co.,Ltd
 64:67:07		Beijing Omnific Technology, Ltd.
+64:67:72		Sercomm Philippines Inc
 64:67:CD		Huawei Technologies Co.,Ltd
 64:68:0C		Comtrend Corporation
 64:68:76		Edifier International
@@ -37020,6 +37023,7 @@
 8C:1F:64:33:40:00/36	OutdoorLink
 8C:1F:64:33:80:00/36	Rheingold Heavy LLC
 8C:1F:64:33:C0:00/36	Hubris Technologies Private Limited
+8C:1F:64:34:20:00/36	TimeMachines Inc.
 8C:1F:64:34:90:00/36	Waves System
 8C:1F:64:34:B0:00/36	Infrared Inspection Systems
 8C:1F:64:34:C0:00/36	Kyushu Keisokki Co.,Ltd.
@@ -37362,6 +37366,7 @@
 8C:1F:64:6D:60:00/36	Argosdyne Co., Ltd
 8C:1F:64:6D:90:00/36	Khimo
 8C:1F:64:6D:C0:00/36	Intrinsic Innovation, LLC
+8C:1F:64:6D:D0:00/36	ViewSonic Corp
 8C:1F:64:6E:20:00/36	SCU Co., Ltd.
 8C:1F:64:6E:30:00/36	ViewSonic International Corporation
 8C:1F:64:6E:40:00/36	RAB Microfluidics R&D Company Ltd
@@ -37504,6 +37509,7 @@
 8C:1F:64:86:80:00/36	Shenzhen Peake Technology Co.,Ltd.
 8C:1F:64:86:A0:00/36	VisionTools Bildanalyse Systeme GmbH
 8C:1F:64:86:F0:00/36	NewEdge Signal Solutions LLC
+8C:1F:64:87:60:00/36	fmad engineering
 8C:1F:64:87:80:00/36	Green Access Ltd
 8C:1F:64:87:90:00/36	ASHIDA Electronics Pvt. Ltd
 8C:1F:64:87:B0:00/36	JSE s.r.o.
@@ -38147,6 +38153,7 @@
 8C:1F:64:F8:40:00/36	KST technology
 8C:1F:64:F8:60:00/36	INFOSTECH Co., Ltd.
 8C:1F:64:F8:70:00/36	Fly Electronic (Shang Hai) Technology Co.,Ltd
+8C:1F:64:F9:00:00/36	Enfabrica
 8C:1F:64:F9:10:00/36	Consonance
 8C:1F:64:F9:40:00/36	EA Elektroautomatik GmbH & Co. KG
 8C:1F:64:F9:60:00/36	SACO Controls Inc.
@@ -38175,6 +38182,7 @@
 8C:1F:64:FC:C0:00/36	Gredmann Taiwan Ltd.
 8C:1F:64:FC:D0:00/36	elbit systems - EW and sigint - Elisra
 8C:1F:64:FD:10:00/36	Edgeware AB
+8C:1F:64:FD:20:00/36	Guo He Xing Ke (ShenZhen) Technology Co.,Ltd.
 8C:1F:64:FD:30:00/36	Smilics Technologies, S.L.
 8C:1F:64:FD:40:00/36	Embsys Sistemas Embarcados
 8C:1F:64:FD:50:00/36	THE WHY HOW DO COMPANY, Inc.
@@ -38453,6 +38461,7 @@
 8C:A5:A1		Oregano Systems - Design & Consulting GmbH
 8C:A6:82		IEEE Registration Authority
 8C:A6:82:00:00:00/28	AI SECURITY Co.Ltd.
+8C:A6:82:10:00:00/28	FightCamp
 8C:A6:82:30:00:00/28	Royal Way General Trading LLC
 8C:A6:82:50:00:00/28	Qstar Technology Co,Ltd
 8C:A6:82:D0:00:00/28	EFit partners
@@ -43752,7 +43761,7 @@ C0:83:59:A0:00:00/28	Shanghai Charmhope Information Technology Co.,Ltd.
 C0:83:59:B0:00:00/28	Suzhou Siheng Science and Technology Ltd.
 C0:83:59:C0:00:00/28	Private
 C0:83:59:D0:00:00/28	Gardner Denver Thomas GmbH
-C0:83:59:E0:00:00/28	Cyber Sciences, Inc.
+C0:83:59:E0:00:00/28	Trystar, LLC
 C0:83:C9		Huawei Device Co., Ltd.
 C0:84:7A		Apple, Inc.
 C0:84:7D		AMPAK Technology, Inc.
@@ -49558,6 +49567,7 @@ F8:1E:DF		Apple, Inc.
 F8:1F:32		Motorola Mobility LLC, a Lenovo Company
 F8:20:55		Green Information System
 F8:20:A9		Huawei Device Co., Ltd.
+F8:20:D2		ARRIS Group, Inc.
 F8:21:11		HMD Global Oy
 F8:22:29		Nokia Shanghai Bell Co., Ltd.
 F8:22:85		Cypress Technology CO., LTD.
