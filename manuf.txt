@@ -21036,6 +21036,7 @@
 24:52:6A		Zhejiang Dahua Technology Co., Ltd.
 24:53:BF		Enernet
 24:58:6E		zte corporation
+24:58:7C		Espressif Inc.
 24:58:80		Vizeo
 24:59:0B		White Sky Inc. Limited
 24:59:E5		GD Midea Air-Conditioning Equipment Co.,Ltd.
@@ -25948,6 +25949,7 @@
 4C:A5:6D		Samsung Electronics Co.,Ltd
 4C:A6:4D		Cisco Systems, Inc
 4C:A7:4B		Alcatel Lucent
+4C:A9:19		Tuya Smart Inc.
 4C:A9:28		Insensi
 4C:AA:16		AzureWave Technologies (Shanghai) Inc.
 4C:AB:33		KST technology
@@ -33877,6 +33879,7 @@
 70:D3:13		Huawei Technologies Co.,Ltd
 70:D3:79		Cisco Systems, Inc
 70:D4:F2		Rim
+70:D5:1E		Fiberhome Telecommunication Technologies Co.,LTD
 70:D5:7E		Scalar Corporation
 70:D5:E7		Wellcore Corporation
 70:D6:B6		Metrum Technologies
@@ -34152,6 +34155,7 @@
 74:73:1D		ifm electronic gmbh
 74:73:36		MICRODIGTAL Inc
 74:73:B4		Apple, Inc.
+74:73:E2		Hillstone Networks Corp.
 74:74:46		Google, Inc.
 74:75:48		Amazon Technologies Inc.
 74:76:5B		Quectel Wireless Solutions Co.,Ltd.
@@ -36856,6 +36860,7 @@
 8C:1F:64:14:40:00/36	Langfang ENN lntelligent Technology Co.,Ltd.
 8C:1F:64:14:50:00/36	Spectrum FiftyNine BV
 8C:1F:64:14:80:00/36	Carehawk
+8C:1F:64:14:90:00/36	Clock-O-Matic
 8C:1F:64:14:B0:00/36	Potter Electric Signal Company
 8C:1F:64:14:D0:00/36	Vertesz Elektronika Kft.
 8C:1F:64:14:F0:00/36	Nsm
@@ -38462,8 +38467,13 @@
 8C:A6:82		IEEE Registration Authority
 8C:A6:82:00:00:00/28	AI SECURITY Co.Ltd.
 8C:A6:82:10:00:00/28	FightCamp
+8C:A6:82:20:00:00/28	Lion Energy
 8C:A6:82:30:00:00/28	Royal Way General Trading LLC
+8C:A6:82:40:00:00/28	China Information Technology Designing&Consulting Institute Co., Ltd.
 8C:A6:82:50:00:00/28	Qstar Technology Co,Ltd
+8C:A6:82:80:00:00/28	Schok LLC
+8C:A6:82:90:00:00/28	Barkodes Bilgisayar Sistemleri Bilgi Iletisim ve Y
+8C:A6:82:A0:00:00/28	Schok LLC
 8C:A6:82:D0:00:00/28	EFit partners
 8C:A6:DF		Tp-Link Technologies Co.,Ltd.
 8C:A9:6F		D&M Holdings Inc.
@@ -39760,6 +39770,7 @@
 98:A4:0E		Snap, Inc.
 98:A5:F9		Apple, Inc.
 98:A7:B0		Mcst Zao
+98:A8:29		AltoBeam Inc.
 98:A9:2D		New H3C Technologies Co., Ltd
 98:A9:42		Guangzhou Tozed Kangwei Intelligent Technology Co., LTD
 98:AA:3C		Will i-tech Co., Ltd.
@@ -41559,6 +41570,7 @@ A8:E7:7D		Texas Instruments
 A8:E8:1E		Atw Technology, Inc.
 A8:E8:24		Inim Electronics S.R.L.
 A8:E9:78		Huawei Device Co., Ltd.
+A8:EA:71		Fiberhome Telecommunication Technologies Co.,LTD
 A8:EE:6D		Fine Point-High Export
 A8:EE:C6		Muuselabs NV/SA
 A8:EF:26		Tritonwave
@@ -41812,6 +41824,7 @@ AC:80:AE		Fiberhome Telecommunication Technologies Co.,LTD
 AC:80:D6		Hexatronic AB
 AC:80:FB		Samsung Electronics Co.,Ltd
 AC:81:12		Gemtek Technology Co., Ltd.
+AC:81:B5		Accton Technology Corporation
 AC:81:F3		Nokia Corporation
 AC:82:26		Qingdao Haier Technology Co.,Ltd
 AC:82:47		Intel Corporate
@@ -43168,6 +43181,7 @@ BA:A2:D0		Wireless Broadband Alliance Ltd
 BA:C4:85		Fraunhofer IIS
 BA:C8:C4		Transponder & Reader Engineered Systems, Inc
 BA:F2:1C		Iso/Tc22/Sc31
+BC:00:04		Fiberhome Telecommunication Technologies Co.,LTD
 BC:02:00		Stewart Audio
 BC:02:4A		HMD Global Oy
 BC:02:6E		Silicon Laboratories
@@ -45158,6 +45172,7 @@ CC:89:FD		Nokia Corporation
 CC:8C:BF		Tuya Smart Inc.
 CC:8C:DA		Shenzhen Wei Da Intelligent Technology Go.,Ltd
 CC:8C:E3		Texas Instruments
+CC:8D:A2		Espressif Inc.
 CC:8D:B5		Shenzhen SuperElectron Technology Co.,Ltd.
 CC:8E:71		Cisco Systems, Inc
 CC:90:70		Cisco Systems, Inc
@@ -45850,6 +45865,7 @@ D4:00:68		Fiberhome Telecommunication Technologies Co.,LTD
 D4:01:29		Broadcom
 D4:01:45		Atw Technology, Inc.
 D4:01:6D		Tp-Link Technologies Co.,Ltd.
+D4:01:C3		Routerboard.com
 D4:02:4A		Delphian Systems LLC
 D4:04:CD		ARRIS Group, Inc.
 D4:04:E6		Broadcom Limited
@@ -46165,7 +46181,7 @@ D4:AD:20		Jinan USR IOT Technology Limited
 D4:AD:2D		Fiberhome Telecommunication Technologies Co.,LTD
 D4:AD:71		Cisco Systems, Inc
 D4:AD:BD		Cisco Systems, Inc
-D4:AD:FC		Shenzhen Intellirocks Tech co.,ltd
+D4:AD:FC		Shenzhen Intellirocks Tech. Co. Ltd.
 D4:AE:05		Samsung Electronics Co.,Ltd
 D4:AE:52		Dell Inc.
 D4:AF:F7		Arista Networks
@@ -47904,6 +47920,7 @@ E8:25:87		Shenzhen Chilink IoT Technology Co., Ltd.
 E8:26:89		Aruba, a Hewlett Packard Enterprise Company
 E8:26:8D		Shenzhen SuperElectron Technology Co.,Ltd.
 E8:26:B6		Companies House to GlucoRx Technologies Ltd.
+E8:27:25		Axis Communications AB
 E8:28:77		TMY Co., Ltd.
 E8:28:8D		Huawei Device Co., Ltd.
 E8:28:C1		Eltex Enterprise Ltd.
@@ -48338,6 +48355,7 @@ EC:2E:4E		Hitachi-Lg Data Storage Inc
 EC:2E:98		AzureWave Technology Inc.
 EC:30:91		Cisco Systems, Inc
 EC:30:B3		Xiaomi Communications Co Ltd
+EC:31:4A		Chengdu Quanjing Intelligent Technology Co.,Ltd
 EC:31:6D		Hansgrohe
 EC:35:4D		Wingtech Mobile Communications Co.,Ltd
 EC:35:86		Apple, Inc.
@@ -50038,6 +50056,7 @@ FC:35:E6		Visteon Corporation
 FC:37:2B		Sichuan Tianyi Comheart Telecom Co.,LTD
 FC:38:C4		China Grand Communications Co.,Ltd.
 FC:39:64		Itel Mobile Limited
+FC:3C:D7		Tuya Smart Inc.
 FC:3C:E9		Tsingtong Technologies Co, Ltd.
 FC:3D:93		Longcheer Telecommunication Limited
 FC:3D:A5		Arcadyan Corporation
