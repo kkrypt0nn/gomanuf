@@ -19462,6 +19462,7 @@
 14:C2:1D		Sabtech Industries
 14:C3:5E		FibRSol Global Network Limited
 14:C3:C2		K.A. Schmersal GmbH & Co. KG
+14:C6:7D		Vizio, Inc
 14:C6:97		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 14:C8:8B		Apple, Inc.
 14:C9:13		LG Electronics
@@ -23835,6 +23836,7 @@
 3C:B1:5B		Avaya Inc
 3C:B1:7F		Wattwatchers Pty Ld
 3C:B2:33		Huawei Device Co., Ltd.
+3C:B4:3D		SZ Tenveo video technology co., Ltd
 3C:B5:3D		Hunan Goke Microelectronics Co.,Ltd
 3C:B6:B7		vivo Mobile Communication Co., Ltd.
 3C:B7:2B		PLUMgrid Inc
@@ -26872,6 +26874,7 @@
 54:A6:5C		Vantiva USA LLC
 54:A6:DB		Huawei Device Co., Ltd.
 54:A7:03		Tp-Link Technologies Co.,Ltd.
+54:A7:A0		Hunan Aimag Intelligent Technology Co.,Ltd
 54:A9:C8		Home Control Singapore Pte Ltd
 54:A9:D4		Minibar Systems
 54:AB:3A		Quanta Computer Inc.
@@ -36100,6 +36103,7 @@
 84:B8:B8		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
 84:BA:20		Silicon Laboratories
 84:BA:3B		Canon Inc.
+84:BA:59		Wistron InfoComm(Chongqing)Co.,Ltd.
 84:BB:26		Texas Instruments
 84:BB:69		ARRIS Group, Inc.
 84:BE:52		Huawei Technologies Co.,Ltd
@@ -37299,6 +37303,7 @@
 8C:1F:64:60:10:00/36	Camius
 8C:1F:64:60:30:00/36	Fuku Energy Technology Co., Ltd.
 8C:1F:64:60:50:00/36	Xacti Corporation
+8C:1F:64:60:80:00/36	Cong Ty Co Phan Ky Thuat Moi Truong Viet An
 8C:1F:64:60:A0:00/36	Rfengine Co., Ltd.
 8C:1F:64:60:E0:00/36	ICT International
 8C:1F:64:61:00:00/36	Beijing Zhongzhi Huida Technology Co., Ltd
@@ -37319,6 +37324,7 @@
 8C:1F:64:63:60:00/36	Europe Trade
 8C:1F:64:63:80:00/36	Thunder Data Taiwan Co., Ltd.
 8C:1F:64:63:B0:00/36	Tiama
+8C:1F:64:63:D0:00/36	Rax-Tech International
 8C:1F:64:63:F0:00/36	Preo Industries Far East Ltd
 8C:1F:64:64:10:00/36	biosilver .co.,ltd
 8C:1F:64:64:70:00/36	Senior Group LLC
@@ -38479,10 +38485,12 @@
 8C:A6:82:30:00:00/28	Royal Way General Trading LLC
 8C:A6:82:40:00:00/28	China Information Technology Designing&Consulting Institute Co., Ltd.
 8C:A6:82:50:00:00/28	Qstar Technology Co,Ltd
+8C:A6:82:60:00:00/28	ShangHai Huijue Network Communication Equipment CO., Ltd.
 8C:A6:82:70:00:00/28	Wuhan Canpoint Education&Technology Co.,Ltd
 8C:A6:82:80:00:00/28	Schok LLC
 8C:A6:82:90:00:00/28	Barkodes Bilgisayar Sistemleri Bilgi Iletisim ve Y
 8C:A6:82:A0:00:00/28	Schok LLC
+8C:A6:82:B0:00:00/28	Pocketalk Corp.
 8C:A6:82:C0:00:00/28	Netskope
 8C:A6:82:D0:00:00/28	EFit partners
 8C:A6:DF		Tp-Link Technologies Co.,Ltd.
@@ -46138,6 +46146,7 @@ D4:8A:39		Samsung Electronics Co.,Ltd
 D4:8A:3B		Hunan Fn-Link Technology Limited
 D4:8A:FC		Espressif Inc.
 D4:8C:B5		Cisco Systems, Inc
+D4:8D:26		LG Innotek
 D4:8D:D9		Meld Technology, Inc
 D4:8F:33		Microsoft Corporation
 D4:8F:A2		Huawei Device Co., Ltd.
@@ -49888,6 +49897,7 @@ F8:C3:9E		Huawei Technologies Co.,Ltd
 F8:C3:CC		Apple, Inc.
 F8:C4:AE		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 F8:C4:F3		Shanghai Infinity Wireless Technologies Co.,Ltd.
+F8:C4:FA		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 F8:C6:50		Cisco Systems, Inc
 F8:C6:78		Carefusion
 F8:C9:6C		Fiberhome Telecommunication Technologies Co.,LTD
