@@ -3610,7 +3610,7 @@
 00:0E:27		Crere Networks, Inc.
 00:0E:28		Dynamic Ratings P/L
 00:0E:29		Shester Communications Inc
-00:0E:2A		Private
+00:0E:2A		dormakaba USA Inc.
 00:0E:2B		Safari Technologies
 00:0E:2C		Netcodec co.
 00:0E:2D		Hyundai Digital Technology Co.,Ltd.
@@ -19229,6 +19229,7 @@
 14:28:82		Midicom Electronics Co.Ltd
 14:29:71		Nemoa Electronics (Hk) Co. Ltd
 14:2A:14		ShenZhen Selenview Digital Technology Co.,Ltd
+14:2B:2F		Espressif Inc.
 14:2B:D2		Armtel Ltd.
 14:2B:D6		Guangdong Appscomm Co.,Ltd
 14:2C:78		GooWi Wireless Technology Co., Limited
@@ -26301,6 +26302,7 @@
 50:5B:C2		Liteon Technology Corporation
 50:5D:7A		zte corporation
 50:5D:AC		Huawei Technologies Co.,Ltd
+50:5E:24		zte corporation
 50:5E:5C		Sunitec Technology Co.,Limited
 50:5F:B5		Askey Computer Corp
 50:60:28		Xirrus Inc.
@@ -27962,6 +27964,7 @@
 60:69:44		Apple, Inc.
 60:69:9B		isepos GmbH
 60:6B:5B		Arista Network, Inc.
+60:6B:B3		zte corporation
 60:6B:BD		Samsung Electronics Co.,Ltd
 60:6B:FF		Nintendo Co.,Ltd
 60:6C:63		Hitron Technologies. Inc
@@ -36847,6 +36850,7 @@
 8C:1F:64:10:30:00/36	Kronotech Srl
 8C:1F:64:10:50:00/36	AixControl GmbH
 8C:1F:64:10:70:00/36	SCI Technology, Inc.
+8C:1F:64:11:00:00/36	Xian Linking Backhaul Telecom Technology Co.,Ltd
 8C:1F:64:11:10:00/36	Isac Srl
 8C:1F:64:11:30:00/36	Timberline Manufacturing
 8C:1F:64:11:40:00/36	Sanmina SCI Medical
@@ -37320,6 +37324,8 @@
 8C:1F:64:62:60:00/36	Csiro
 8C:1F:64:62:C0:00/36	Hangzhou EasyXR Advanced Technology Co., Ltd.
 8C:1F:64:62:D0:00/36	Embeddded Plus Plus
+8C:1F:64:62:E0:00/36	ViewSonic Corp
+8C:1F:64:63:10:00/36	Haiyang Olix Co.,Ltd.
 8C:1F:64:63:40:00/36	Aml
 8C:1F:64:63:60:00/36	Europe Trade
 8C:1F:64:63:80:00/36	Thunder Data Taiwan Co., Ltd.
@@ -38356,6 +38362,7 @@
 8C:5A:F0		Exeltech Solar Products
 8C:5A:F8		Beijing Xiaomi Electronics Co., Ltd.
 8C:5B:F0		ARRIS Group, Inc.
+8C:5C:20		ARRIS Group, Inc.
 8C:5C:A1		d-broad,INC
 8C:5D:60		UCI Corporation Co.,Ltd.
 8C:5D:B2		IEEE Registration Authority
@@ -40755,6 +40762,7 @@ A0:D8:3D		Fiberhome Telecommunication Technologies Co.,LTD
 A0:D8:6F		Argo Ai, Llc
 A0:DA:92		Nanjing Glarun Atten Technology Co. Ltd.
 A0:DC:04		Becker-Antriebe GmbH
+A0:DD:6C		Espressif Inc.
 A0:DD:97		PolarLink Technologies, Ltd
 A0:DD:E5		SHARP Corporation
 A0:DE:05		JSC "Irbis-T"
@@ -43369,6 +43377,7 @@ BC:60:6B		Shanghai Baud Data Communication Co.,Ltd.
 BC:60:A7		Sony Interactive Entertainment Inc.
 BC:61:93		Xiaomi Communications Co Ltd
 BC:62:0E		Huawei Technologies Co.,Ltd
+BC:62:9C		zte corporation
 BC:62:9F		Telenet Systems P. Ltd.
 BC:62:CE		Netis Technology Co., Ltd.
 BC:62:D2		Genexis International B.V.
@@ -45538,6 +45547,7 @@ D0:40:EF		Murata Manufacturing Co., Ltd.
 D0:41:C9		Fiberhome Telecommunication Technologies Co.,LTD
 D0:43:1E		Dell Inc.
 D0:44:33		Clourney Semiconductor
+D0:46:0C		Dell Inc.
 D0:46:DC		Southwest Research Institute
 D0:47:C1		Elma Electronic AG
 D0:48:4F		Nokia Solutions and Networks GmbH & Co. KG
@@ -45806,6 +45816,7 @@ D0:C8:57:C0:00:00/28	Dante Security Inc.
 D0:C8:57:D0:00:00/28	Iflytek Co.,Ltd.
 D0:C8:57:E0:00:00/28	E-T-A Elektrotechnische Apparate GmbH
 D0:C9:01		Gla Electronics Pvt Ltd
+D0:C9:07		Private
 D0:CD:E1		Scientech Electronics
 D0:CE:C9		Han Chang
 D0:CF:0E		Sagemcom Broadband SAS
@@ -47035,6 +47046,7 @@ DC:D8:7F		Shenzhen JoinCyber Telecom Equipment Ltd
 DC:D9:16		Huawei Technologies Co.,Ltd
 DC:D9:AE		Nokia Shanghai Bell Co., Ltd.
 DC:DA:0C		Espressif Inc.
+DC:DA:4D		Celestica Inc.
 DC:DA:4F		Getck Technology,  Inc
 DC:DA:80		New H3C Technologies Co., Ltd
 DC:DB:27		Huawei Device Co., Ltd.
