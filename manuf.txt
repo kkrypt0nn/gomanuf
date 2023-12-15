@@ -45761,6 +45761,7 @@ D0:9F:D9:B0:00:00/28	Cablewireless Laboratory Co., Ltd
 D0:9F:D9:C0:00:00/28	Fujian Newland Auto-ID Tech. Co,.Ltd.
 D0:9F:D9:D0:00:00/28	Shenzhen eloT Technology Co.,Ltd
 D0:9F:D9:E0:00:00/28	Minibems Ltd
+D0:A0:11		IEEE Registration Authority
 D0:A0:11:90:00:00/28	O-NET Industrial Technologies (Shenzhen) Limited
 D0:A0:11:C0:00:00/28	TASKA Prosthetics
 D0:A0:BB		Shenzhen iComm Semiconductor CO.,LTD
