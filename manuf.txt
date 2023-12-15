@@ -23127,6 +23127,7 @@
 38:22:F4		Huawei Device Co., Ltd.
 38:25:6B		Microsoft Mobile Oy
 38:26:2B		UTran Technology
+38:26:56		TCL King Electrical Appliances(Huizhou)Co.,Ltd
 38:26:CD		Andtek
 38:28:EA		Fujian Netcom Technology Co., LTD
 38:29:5A		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -26772,6 +26773,7 @@
 54:77:87		Earda Technologies co Ltd
 54:77:8A		Hewlett Packard Enterprise
 54:78:1A		Cisco Systems, Inc
+54:78:85		Shenzhen Giec Digital Co.,Ltd
 54:78:C9		AMPAK Technology,Inc.
 54:79:75		Nokia Corporation
 54:7A:52		CTE International srl
@@ -34048,6 +34050,7 @@
 74:2E:DB		Perinet GmbH
 74:2E:FC		DirectPacket Research, Inc,
 74:2F:68		AzureWave Technology Inc.
+74:30:9D		Infinix mobility limited
 74:30:AF		Fiberhome Telecommunication Technologies Co.,LTD
 74:31:70		Arcadyan Technology Corporation
 74:31:74		Apple, Inc.
@@ -36778,6 +36781,7 @@
 8C:1F:64:05:90:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:05:C0:00/36	tickIoT Inc.
 8C:1F:64:05:F0:00/36	ESCAD AUTOMATION GmbH
+8C:1F:64:06:00:00/36	Zadar Labs Inc
 8C:1F:64:06:10:00/36	Micron Systems
 8C:1F:64:06:20:00/36	Aton Green Storage Spa
 8C:1F:64:06:60:00/36	Siemens Energy Global GmbH & Co. KG
@@ -36982,6 +36986,7 @@
 8C:1F:64:29:F0:00/36	Nagtech Llc
 8C:1F:64:2A:10:00/36	Pantherun Technologies Pvt Ltd
 8C:1F:64:2A:50:00/36	Nonet Inc
+8C:1F:64:2A:60:00/36	Radiation Solutions Inc.
 8C:1F:64:2A:80:00/36	SHALARM SECURITY Co.,LTD
 8C:1F:64:2A:90:00/36	Elbit Systems of America, LLC
 8C:1F:64:2B:60:00/36	Stercom Power Solutions GmbH
@@ -38166,6 +38171,7 @@
 8C:1F:64:F5:F0:00/36	TR7 Siber Savunma A.S.
 8C:1F:64:F6:30:00/36	Quantum Media Systems
 8C:1F:64:F6:50:00/36	Talleres de Escoriaza SA
+8C:1F:64:F6:80:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:F6:D0:00/36	Ophir Manufacturing Solutions Pte Ltd
 8C:1F:64:F7:00:00/36	Vision Systems Safety Tech
 8C:1F:64:F7:20:00/36	Contrader
@@ -38500,6 +38506,7 @@
 8C:A6:82:B0:00:00/28	Pocketalk Corp.
 8C:A6:82:C0:00:00/28	Netskope
 8C:A6:82:D0:00:00/28	EFit partners
+8C:A6:82:E0:00:00/28	Texys International
 8C:A6:DF		Tp-Link Technologies Co.,Ltd.
 8C:A9:6F		D&M Holdings Inc.
 8C:A9:82		Intel Corporate
@@ -42240,6 +42247,8 @@ B0:99:5A		Huawei Technologies Co.,Ltd
 B0:99:D7		Samsung Electronics Co.,Ltd
 B0:9A:E2		STEMMER IMAGING GmbH
 B0:9B:D4		GNH Software India Private Limited
+B0:9C:63		Xiaomi Communications Co Ltd
+B0:9E:1B		Butlr Technologies, Inc.
 B0:9F:BA		Apple, Inc.
 B0:A1:0A		Pivotal Systems Corporation
 B0:A2:E7		Shenzhen TINNO Mobile Technology Corp.
@@ -44349,6 +44358,7 @@ C4:A1:51		Sichuan Tianyi Comheart Telecom Co.,LTD
 C4:A1:AE		Huawei Device Co., Ltd.
 C4:A3:66		zte corporation
 C4:A4:02		Huawei Technologies Co.,Ltd
+C4:A4:51		Tecno Mobile Limited
 C4:A5:59		IEEE Registration Authority
 C4:A5:59:00:00:00/28	Archermind Japan Co.,Ltd.
 C4:A5:59:10:00:00/28	Motive Technologies, Inc.
@@ -45751,6 +45761,8 @@ D0:9F:D9:B0:00:00/28	Cablewireless Laboratory Co., Ltd
 D0:9F:D9:C0:00:00/28	Fujian Newland Auto-ID Tech. Co,.Ltd.
 D0:9F:D9:D0:00:00/28	Shenzhen eloT Technology Co.,Ltd
 D0:9F:D9:E0:00:00/28	Minibems Ltd
+D0:A0:11:90:00:00/28	O-NET Industrial Technologies (Shenzhen) Limited
+D0:A0:11:C0:00:00/28	TASKA Prosthetics
 D0:A0:BB		Shenzhen iComm Semiconductor CO.,LTD
 D0:A0:D6		ChengDu TD Tech
 D0:A3:11		Neuberger Gebäudeautomation GmbH
@@ -45919,6 +45931,7 @@ D4:12:96		Anobit Technologies Ltd.
 D4:12:BB		Quadrant Components Inc. Ltd
 D4:13:6F		Asia Pacific Brands
 D4:13:F8		Peplink International Ltd.
+D4:17:61		Xiaomi Communications Co Ltd
 D4:19:F6		NXP Semiconductor (Tianjin) LTD.
 D4:1A:3F		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 D4:1A:C8		Nippon Printer Engineering
@@ -48128,6 +48141,7 @@ E8:95:26		Luxshare Precision Industry CO., LTD.
 E8:96:06		testo Instruments (Shenzhen) Co., Ltd.
 E8:97:9A		Quectel Wireless Solutions Co.,Ltd.
 E8:97:B8		Chiun Mai Communication System, Inc
+E8:98:47		Xiaomi Communications Co Ltd
 E8:98:6D		Palo Alto Networks
 E8:98:C2		ZETLAB Company
 E8:99:5A		PiiGAB, Processinformation i Goteborg AB
