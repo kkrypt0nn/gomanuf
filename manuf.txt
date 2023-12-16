@@ -14826,7 +14826,7 @@
 00:50:C2:F1:30:00/36	Packet Plus, Inc.
 00:50:C2:F1:40:00/36	Vision Systems Aeronautic
 00:50:C2:F1:50:00/36	Sascal Displays Ltd
-00:50:C2:F1:60:00/36	Peter Huber Kältemaschinenbau GmbH
+00:50:C2:F1:60:00/36	Peter Huber Kaeltemaschinenbau SE
 00:50:C2:F1:70:00/36	ABB Transmission and Distribution Automation Equipment (Xiamen) Co., Ltd.
 00:50:C2:F1:80:00/36	Vitec Multimedia
 00:50:C2:F1:90:00/36	Netlink Bilisim Sistemleri San. ve Tic. Ltd. Sti.
@@ -19401,6 +19401,7 @@
 14:9F:E8		Lenovo Mobile Communication Technology Ltd.
 14:A0:F8		Huawei Technologies Co.,Ltd
 14:A1:BF		ASSA ABLOY Korea Co., Ltd Unilock
+14:A1:DF		China Mobile Group Device Co.,Ltd.
 14:A2:A0		Cisco Systems, Inc
 14:A3:2F		Huawei Device Co., Ltd.
 14:A3:64		Samsung Electronics Co.,Ltd
@@ -20965,6 +20966,7 @@
 24:1B:7A		Apple, Inc.
 24:1C:04		Shenzhen Jehe Technology Development Co., Ltd.
 24:1D:48		Sichuan Tianyi Comheart Telecom Co.,LTD
+24:1E:2B		Zhejiang Cainiao Supply Chain Management Co., Ltd
 24:1E:EB		Apple, Inc.
 24:1F:2C		Calsys, Inc.
 24:1F:A0		Huawei Technologies Co.,Ltd
@@ -22588,6 +22590,7 @@
 30:EB:1F		Skylab M&C Technology Co.,Ltd
 30:EB:25		Intek Digital
 30:EB:5A		Landis + Gyr
+30:EC:7C		Shenzhen Along Electronics Co., Ltd
 30:EF:D1		Alstom Strongwish (Shenzhen) Co., Ltd.
 30:F3:1D		zte corporation
 30:F3:35		Huawei Technologies Co.,Ltd
@@ -24757,7 +24760,7 @@
 40:D8:55:1C:B0:00/36	MG S.r.l.
 40:D8:55:1C:C0:00/36	NKT Photonics A/S
 40:D8:55:1C:D0:00/36	YXLON International A/S
-40:D8:55:1C:E0:00/36	Peter Huber
+40:D8:55:1C:E0:00/36	Peter Huber Kaeltemaschinenbau SE
 40:D8:55:1C:F0:00/36	Omnik New Energy Co., Ltd
 40:D8:55:1D:00:00/36	Webeasy BV
 40:D8:55:1D:10:00/36	Founder Broadband Network Service Co.,Ltd.
@@ -28585,6 +28588,7 @@
 64:ED:57		ARRIS Group, Inc.
 64:ED:62		WOORI SYSTEMS Co., Ltd
 64:EE:B7		Netis Technology Co., Ltd.
+64:F0:AD		Zhejiang Tmall Technology Co., Ltd.
 64:F2:42		Gerdes Aktiengesellschaft
 64:F2:FB		Hangzhou Ezviz Software Co.,Ltd.
 64:F5:0E		Kinion Technology Company Limited
@@ -29897,7 +29901,7 @@
 70:B3:D5:08:80:00/36	OptiScan Biomedical Corp.
 70:B3:D5:08:90:00/36	Kazdream Technologies LLP
 70:B3:D5:08:A0:00/36	MB connect line GmbH Fernwartungssysteme
-70:B3:D5:08:B0:00/36	Peter Huber Kaeltemaschinenbau AG
+70:B3:D5:08:B0:00/36	Peter Huber Kaeltemaschinenbau SE
 70:B3:D5:08:C0:00/36	Airmar Technology Corp
 70:B3:D5:08:D0:00/36	Clover Electronics Technology Co., Ltd.
 70:B3:D5:08:E0:00/36	Beijing CONvision Technology Co.,Ltd
@@ -30494,7 +30498,7 @@
 70:B3:D5:2D:D0:00/36	Melissa Climate Jsc
 70:B3:D5:2D:E0:00/36	YUYAMA MFG Co.,Ltd
 70:B3:D5:2D:F0:00/36	Eastern Science & Technology Co., Ltd
-70:B3:D5:2E:00:00/36	Peter Huber
+70:B3:D5:2E:00:00/36	Peter Huber Kaeltemaschinenbau SE
 70:B3:D5:2E:10:00/36	hiSky SCS Ltd
 70:B3:D5:2E:20:00/36	Spark Lasers
 70:B3:D5:2E:30:00/36	Meiknologic GmbH
@@ -31215,7 +31219,7 @@
 70:B3:D5:5A:F0:00/36	JENG IoT BV
 70:B3:D5:5B:00:00/36	Qxperts Italia S.r.l.
 70:B3:D5:5B:10:00/36	EPD Electronics
-70:B3:D5:5B:20:00/36	Peter Huber Kaeltemaschinenbau AG
+70:B3:D5:5B:20:00/36	Peter Huber Kaeltemaschinenbau SE
 70:B3:D5:5B:30:00/36	STENTORIUS by ADI
 70:B3:D5:5B:40:00/36	Systems Technologies
 70:B3:D5:5B:50:00/36	Lehigh Electric Products Co
@@ -33044,7 +33048,7 @@
 70:B3:D5:CD:60:00/36	VideoRay LLC
 70:B3:D5:CD:70:00/36	AutomationX GmbH
 70:B3:D5:CD:80:00/36	Nexus Electric S.A.
-70:B3:D5:CD:90:00/36	Peter Huber Kaeltemaschinenbau GmbH
+70:B3:D5:CD:90:00/36	Peter Huber Kaeltemaschinenbau SE
 70:B3:D5:CD:A0:00/36	Vitec
 70:B3:D5:CD:B0:00/36	Wuhan Xingtuxinke ELectronic Co.,Ltd
 70:B3:D5:CD:C0:00/36	Dat-Con d.o.o.
@@ -33206,7 +33210,7 @@
 70:B3:D5:D7:80:00/36	Nxvi Microelectronics Technology (Jinan) Co., Ltd.
 70:B3:D5:D7:90:00/36	GOMA ELETTRONICA SpA
 70:B3:D5:D7:A0:00/36	Speedifi Inc
-70:B3:D5:D7:B0:00/36	Peter Huber Kaeltemaschinenbau AG
+70:B3:D5:D7:B0:00/36	Peter Huber Kaeltemaschinenbau SE
 70:B3:D5:D7:C0:00/36	D.T.S Illuminazione Srl
 70:B3:D5:D7:D0:00/36	BESO sp. z o.o.
 70:B3:D5:D7:E0:00/36	Triax A/S
@@ -33279,7 +33283,7 @@
 70:B3:D5:DC:10:00/36	Metralight, Inc.
 70:B3:D5:DC:20:00/36	SwineTech, Inc.
 70:B3:D5:DC:30:00/36	Fath Mechatronics
-70:B3:D5:DC:40:00/36	Peter Huber Kaeltemaschinenbau AG
+70:B3:D5:DC:40:00/36	Peter Huber Kaeltemaschinenbau SE
 70:B3:D5:DC:50:00/36	Excel Medical Electronics LLC
 70:B3:D5:DC:60:00/36	Idem Inc.
 70:B3:D5:DC:70:00/36	NUBURU Inc.
@@ -33974,6 +33978,7 @@
 74:05:7C		Qorvo International Pte. Ltd.
 74:05:A5		Tp-Link Technologies Co.,Ltd.
 74:06:35		Sernet (Suzhou) Technologies Corporation
+74:07:7E		Quectel Wireless Solutions Co.,Ltd.
 74:08:DE		Fujian Landi Commercial Technology Co., Ltd.
 74:09:AC		Quext, LLC
 74:0A:BC		LightwaveRF Technology Ltd
@@ -37545,6 +37550,7 @@
 8C:1F:64:88:10:00/36	Flextronics International Kft
 8C:1F:64:88:20:00/36	Tmy Technology Inc.
 8C:1F:64:88:30:00/36	DEUTA-WERKE GmbH
+8C:1F:64:88:90:00/36	Private
 8C:1F:64:88:B0:00/36	Taiwan Aulisa Medical Devices Technologies, Inc
 8C:1F:64:88:D0:00/36	Pantherun Technologies Pvt Ltd
 8C:1F:64:88:E0:00/36	CubeWorks, Inc.
@@ -37742,7 +37748,7 @@
 8C:1F:64:A9:B0:00/36	Ovide Maudet SL
 8C:1F:64:A9:C0:00/36	Upstart Power
 8C:1F:64:A9:E0:00/36	Optimum Instruments Inc.
-8C:1F:64:AA:30:00/36	Peter Huber Kaeltemaschinenbau AG
+8C:1F:64:AA:30:00/36	Peter Huber Kaeltemaschinenbau SE
 8C:1F:64:AA:40:00/36	HEINEN ELEKTRONIK GmbH
 8C:1F:64:AA:80:00/36	axelife
 8C:1F:64:AA:A0:00/36	Leder Elektronik Design GmbH
@@ -37823,6 +37829,7 @@
 8C:1F:64:B7:B0:00/36	Gateview Technologies
 8C:1F:64:B7:C0:00/36	Evernet Co,.Ltd Taiwan
 8C:1F:64:B7:D0:00/36	Scheurich GmbH
+8C:1F:64:B8:10:00/36	Shenzhen Kings IoT Co., Ltd
 8C:1F:64:B8:20:00/36	Seed Core Co., LTD.
 8C:1F:64:B8:40:00/36	SPX Flow Technology
 8C:1F:64:B8:60:00/36	Elektronik & Modellprodukter Gävle AB
@@ -37890,7 +37897,7 @@
 8C:1F:64:C2:B0:00/36	Wuhan Xingtuxinke ELectronic Co.,Ltd
 8C:1F:64:C2:D0:00/36	iENSO Inc.
 8C:1F:64:C2:F0:00/36	Power Electronics Espana, S.L.
-8C:1F:64:C3:50:00/36	Peter Huber Kaeltemaschinenbau AG
+8C:1F:64:C3:50:00/36	Peter Huber Kaeltemaschinenbau SE
 8C:1F:64:C3:80:00/36	Eco-Adapt
 8C:1F:64:C3:A0:00/36	YUSUR Technology Co., Ltd.
 8C:1F:64:C3:E0:00/36	ISMA Microsolutions INC
@@ -38033,7 +38040,7 @@
 8C:1F:64:DB:D0:00/36	Giordano Controls Spa
 8C:1F:64:DC:00:00/36	Pigs Can Fly Labs LLC
 8C:1F:64:DC:20:00/36	Procon Electronics Pty Ltd
-8C:1F:64:DC:90:00/36	Peter Huber Kaeltemaschinenbau AG
+8C:1F:64:DC:90:00/36	Peter Huber Kaeltemaschinenbau SE
 8C:1F:64:DC:A0:00/36	Porsche engineering
 8C:1F:64:DD:40:00/36	Midlands Technical Co., Ltd.
 8C:1F:64:DD:50:00/36	Cardinal Scales Manufacturing Co
@@ -45762,7 +45769,9 @@ D0:9F:D9:C0:00:00/28	Fujian Newland Auto-ID Tech. Co,.Ltd.
 D0:9F:D9:D0:00:00/28	Shenzhen eloT Technology Co.,Ltd
 D0:9F:D9:E0:00:00/28	Minibems Ltd
 D0:A0:11		IEEE Registration Authority
+D0:A0:11:60:00:00/28	OCEM Energy Technology
 D0:A0:11:90:00:00/28	O-NET Industrial Technologies (Shenzhen) Limited
+D0:A0:11:A0:00:00/28	Wuhan Tabebuia Technology Co.Ltd
 D0:A0:11:C0:00:00/28	TASKA Prosthetics
 D0:A0:BB		Shenzhen iComm Semiconductor CO.,LTD
 D0:A0:D6		ChengDu TD Tech
@@ -48868,6 +48877,7 @@ F0:5E:CD		Texas Instruments
 F0:5F:5A		Getriebebau NORD GmbH and Co. KG
 F0:61:30		Advantage Pharmacy Services, LLC
 F0:61:C0		Aruba, a Hewlett Packard Enterprise Company
+F0:61:F3		Comcast Cable Corporation
 F0:62:0D		Shenzhen Egreat Tech Corp.,Ltd
 F0:62:5A		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 F0:62:81		ProCurve Networking by HP
