@@ -21165,6 +21165,7 @@
 24:A8:7D		Panasonic Automotive Systems Asia Pacific(Thailand)Co.,Ltd.
 24:A9:37		PURE Storage
 24:AB:81		Apple, Inc.
+24:AC:AC		Polar Electro Oy
 24:AF:4A		Alcatel-Lucent IPD
 24:AF:54		NEXGEN Mediatech Inc.
 24:B0:A9		Shanghai Mobiletek Communication Ltd.
@@ -36891,6 +36892,7 @@
 8C:1F:64:14:10:00/36	Code Blue Corporation
 8C:1F:64:14:40:00/36	Langfang ENN lntelligent Technology Co.,Ltd.
 8C:1F:64:14:50:00/36	Spectrum FiftyNine BV
+8C:1F:64:14:60:00/36	Zhongrun Xinchan (Beijing) Technology Co., Ltd
 8C:1F:64:14:80:00/36	Carehawk
 8C:1F:64:14:90:00/36	Clock-O-Matic
 8C:1F:64:14:B0:00/36	Potter Electric Signal Company
@@ -37962,6 +37964,7 @@
 8C:1F:64:CB:50:00/36	Gamber-Johnson LLC
 8C:1F:64:CB:70:00/36	ARKRAY,Inc.Kyoto Laboratory
 8C:1F:64:CB:90:00/36	iC-Haus GmbH
+8C:1F:64:CB:B0:00/36	Maris Tech Ltd.
 8C:1F:64:CB:E0:00/36	Circa Enterprises Inc
 8C:1F:64:CC:10:00/36	VITREA Smart Home Technologies Ltd.
 8C:1F:64:CC:20:00/36	Toyogiken Co.,Ltd.
@@ -38925,6 +38928,7 @@
 90:9E:24		ekey biometric systems gmbh
 90:9F:33		EFM Networks
 90:9F:43		Accutron Instruments Inc.
+90:A0:BE		Cannice
 90:A1:37		Beijing Splendidtel Communication Technology Co,. Ltd
 90:A1:BA		PNetworks Electronics Information
 90:A2:10		United Telecoms Ltd
@@ -41881,6 +41885,7 @@ AC:7B:A1		Intel Corporate
 AC:7E:01		Huawei Device Co., Ltd.
 AC:7E:8A		Cisco Systems, Inc
 AC:7F:3E		Apple, Inc.
+AC:7F:8D		Extreme Networks Headquarters
 AC:80:0A		Sony Corporation
 AC:80:AE		Fiberhome Telecommunication Technologies Co.,LTD
 AC:80:D6		Hexatronic AB
@@ -44463,6 +44468,7 @@ C4:D6:55		Tercel technology co.,ltd
 C4:D6:66		Cisco Meraki
 C4:D7:38		Huawei Device Co., Ltd.
 C4:D7:FD		Bouffalo Lab (Nanjing) Co., Ltd.
+C4:D8:D5		Espressif Inc.
 C4:D8:F3		iZotope
 C4:D9:87		Intel Corporate
 C4:DA:26		Noblex Sa
@@ -45816,6 +45822,7 @@ D0:B1:28		Samsung Electronics Co.,Ltd
 D0:B2:14		PoeWit Inc
 D0:B2:C4		Vantiva USA LLC
 D0:B3:3F		Shenzhen TINNO Mobile Technology Corp.
+D0:B3:C2		Meta Platforms Technologies, LLC
 D0:B4:5D		Huawei Device Co., Ltd.
 D0:B4:98		Robert Bosch LLC Automotive Electronics
 D0:B5:23		Bestcare Cloucal Corp.
@@ -45921,6 +45928,7 @@ D0:EB:03		Zhehua technology limited
 D0:EB:9E		Seowoo Inc.
 D0:EC:35		Cisco Systems, Inc
 D0:ED:FF		Zf Cvcs
+D0:EF:76		Espressif Inc.
 D0:EF:C1		Huawei Technologies Co.,Ltd
 D0:F0:DB		Ericsson
 D0:F1:21		Xi'an LINKSCI Technology Co., Ltd
