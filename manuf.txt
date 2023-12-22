@@ -17414,6 +17414,7 @@
 04:2A:E2		Cisco Systems, Inc
 04:2B:58		Shenzhen Hanzsung Technology Co.,Ltd
 04:2B:BB		PicoCELA, Inc.
+04:2D:AD		Areus GmbH
 04:2D:B4		First Property (Beijing) Co., Ltd Modern MOMA Branch
 04:2F:56		ATOCS (Shenzhen) LTD
 04:31:10		Inspur Group Co., Ltd.
@@ -37636,6 +37637,7 @@
 8C:1F:64:93:90:00/36	SPIT Technology, Inc
 8C:1F:64:93:A0:00/36	Rejås of Sweden AB
 8C:1F:64:94:30:00/36	Autark GmbH
+8C:1F:64:94:50:00/36	Deqin Showcase
 8C:1F:64:94:60:00/36	UniJet Co., Ltd.
 8C:1F:64:94:70:00/36	LLC "TC "Vympel"
 8C:1F:64:94:90:00/36	tickIoT Inc.
@@ -37875,6 +37877,7 @@
 8C:1F:64:BD:30:00/36	IO Master Technology
 8C:1F:64:BD:60:00/36	NOVA Products GmbH
 8C:1F:64:BD:70:00/36	Union Electronic.
+8C:1F:64:BD:80:00/36	ecamtek
 8C:1F:64:BD:B0:00/36	Cardinal Scales Manufacturing Co
 8C:1F:64:BE:30:00/36	Reo Ag
 8C:1F:64:BE:80:00/36	Technologies Bacmove Inc.
@@ -38042,6 +38045,7 @@
 8C:1F:64:D9:30:00/36	Algodue Elettronica Srl
 8C:1F:64:D9:60:00/36	Smart Cabling & Transmission Corp.
 8C:1F:64:D9:80:00/36	Gnewtek photoelectric technology Ltd.
+8C:1F:64:D9:90:00/36	Invixium Access Inc
 8C:1F:64:D9:A0:00/36	Beijing Redlink Information Technology Co., Ltd.
 8C:1F:64:D9:B0:00/36	GiS mbH
 8C:1F:64:D9:C0:00/36	Relcom, Inc.
@@ -42068,6 +42072,7 @@ AC:F9:70		Huawei Technologies Co.,Ltd
 AC:F9:7E		Elesys Inc.
 AC:FA:A5		digitron
 AC:FC:82		Shenzhen Sundray Technologies Company Limited
+AC:FC:E3		EM Microelectronic
 AC:FD:93		Weifang Goertek Electronics Co.,Ltd
 AC:FD:CE		Intel Corporate
 AC:FD:EC		Apple, Inc.
@@ -45799,12 +45804,15 @@ D0:A0:11		IEEE Registration Authority
 D0:A0:11:00:00:00/28	Sionyx, Llc
 D0:A0:11:10:00:00/28	Shanghai Railway Communication Co. Ltd.
 D0:A0:11:20:00:00/28	Shanghai Hongqia Industry and Trade Co., LTD
+D0:A0:11:40:00:00/28	Sumico
+D0:A0:11:50:00:00/28	Shenzhen DOOGEE Hengtong Technology CO.,LTD
 D0:A0:11:60:00:00/28	OCEM Energy Technology
 D0:A0:11:70:00:00/28	Shenzhen Liandian Communication Technology Co.LTD
-D0:A0:11:90:00:00/28	O-NET Industrial Technologies (Shenzhen) Limited
+D0:A0:11:90:00:00/28	Vastai Technologies(Shanghai)Inc
 D0:A0:11:A0:00:00/28	Wuhan Tabebuia Technology Co.Ltd
 D0:A0:11:B0:00:00/28	TYRI Sweden AB
 D0:A0:11:C0:00:00/28	TASKA Prosthetics
+D0:A0:11:D0:00:00/28	Remowireless Communication International Co.,Limited
 D0:A0:BB		Shenzhen iComm Semiconductor CO.,LTD
 D0:A0:D6		ChengDu TD Tech
 D0:A3:11		Neuberger Gebäudeautomation GmbH
@@ -46757,6 +46765,7 @@ D8:F3:BC		Liteon Technology Corporation
 D8:F3:DB		Post CH AG
 D8:F5:07		Fiberhome Telecommunication Technologies Co.,LTD
 D8:F7:10		Libre Wireless Technologies Inc.
+D8:F7:60		EM Microelectronic
 D8:F8:83		Intel Corporate
 D8:F8:AF		Daontec
 D8:FB:11		Axacore
