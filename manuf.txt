@@ -18497,6 +18497,7 @@
 0C:82:68		Tp-Link Technologies Co.,Ltd.
 0C:82:6A		Wuhan Huagong Genuine Optics Technology Co., Ltd
 0C:82:D5		Maxio Technology Hangzhou Co., Ltd.
+0C:83:06		Huawei Device Co., Ltd.
 0C:83:9A		Huawei Device Co., Ltd.
 0C:83:CC		Alpha Networks Inc.
 0C:84:08		Huawei Technologies Co.,Ltd
@@ -19258,6 +19259,7 @@
 14:37:3B		PROCOM Systems
 14:3A:EA		Dynapower Company LLC
 14:3B:42		Realfit(Shenzhen) Intelligent Technology Co., Ltd
+14:3B:51		Huawei Device Co., Ltd.
 14:3C:C3		Huawei Technologies Co.,Ltd
 14:3D:F2		Beijing Shidai Hongyuan Network Communication Co.,Ltd
 14:3E:60		Nokia
@@ -22183,6 +22185,7 @@
 2C:E8:71		Alert Metalguard ApS
 2C:EA:7F		Dell Inc.
 2C:EA:DC		Askey Computer Corp
+2C:EC:F7		Shenzhen SDMC Technology CO.,Ltd.
 2C:ED:B0		Huawei Technologies Co.,Ltd
 2C:ED:EB		Alpheus Digital Company Limited
 2C:EE:26		Petroleum Geo-Services
@@ -38186,6 +38189,7 @@
 8C:1F:64:F4:30:00/36	wtec GmbH
 8C:1F:64:F4:50:00/36	Jbf
 8C:1F:64:F4:60:00/36	Broadcast Tools, Inc.
+8C:1F:64:F4:90:00/36	CenterClick LLC
 8C:1F:64:F4:C0:00/36	inomatic GmbH
 8C:1F:64:F4:E0:00/36	ADAMCZEWSKI elektronische Messtechnik GmbH
 8C:1F:64:F4:F0:00/36	Leonardo Germany GmbH
@@ -39788,6 +39792,7 @@
 98:86:8B		Juniper Networks
 98:86:B1		Flyaudio corporation (China)
 98:87:44		Wuxi Hongda Science and Technology Co.,LTD
+98:87:6C		Huawei Device Co., Ltd.
 98:89:24		Texas Instruments
 98:89:ED		Anadem Information Inc.
 98:8B:0A		Hangzhou Hikvision Digital Technology Co.,Ltd.
@@ -42331,6 +42336,7 @@ B0:B3:53:B0:00:00/28	Zoox
 B0:B3:53:C0:00:00/28	Beijing Geekplus Technology Co.,Ltd.
 B0:B3:53:D0:00:00/28	IPvideo Corporation
 B0:B3:53:E0:00:00/28	Nanjing Yining Intelligent Technology Co., Ltd.
+B0:B3:69		Shenzhen SDMC Technology CO.,Ltd.
 B0:B3:AD		HUMAX Co., Ltd.
 B0:B4:48		Texas Instruments
 B0:B5:C3		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -42353,6 +42359,7 @@ B0:C1:9E		zte corporation
 B0:C2:05		Bionime
 B0:C2:87		Vantiva USA LLC
 B0:C3:87		GOEFER, Inc.
+B0:C3:8E		Huawei Device Co., Ltd.
 B0:C4:6C		Senseit
 B0:C4:E7		Samsung Electronics Co.,Ltd
 B0:C5:3C		Cisco Systems, Inc
@@ -44171,6 +44178,7 @@ C4:3C:B0		Shenzhen Bilian Electronic Co.，Ltd
 C4:3C:EA		Buffalo.Inc
 C4:3D:1A		Intel Corporate
 C4:3D:C7		Netgear
+C4:3E:AB		Huawei Device Co., Ltd.
 C4:40:44		RackTop Systems Inc.
 C4:40:F6		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 C4:41:1E		Belkin International Inc.
@@ -45135,6 +45143,7 @@ CC:40:D0		Netgear
 CC:41:8E		MSA Innovation
 CC:42:10		Xiaomi Communications Co Ltd
 CC:43:E3		Trump s.a.
+CC:44:60		Huawei Device Co., Ltd.
 CC:44:63		Apple, Inc.
 CC:45:A5		Texas Instruments
 CC:46:39		WAAV, Inc.
@@ -45684,6 +45693,7 @@ D0:6F:82		Huawei Technologies Co.,Ltd
 D0:71:C4		zte corporation
 D0:72:DC		Cisco Systems, Inc
 D0:73:7F		Mini-Circuits
+D0:73:80		Huawei Device Co., Ltd.
 D0:73:8E		Dong Oh Precision Co., Ltd.
 D0:73:D5		Lifi Labs Management Pty Ltd
 D0:75:BE		Reno A&E
@@ -46494,6 +46504,7 @@ D8:3A:DD		Raspberry Pi Trading Ltd
 D8:3A:F5		Wideband Labs LLC
 D8:3B:BF		Intel Corporate
 D8:3C:69		Shenzhen TINNO Mobile Technology Corp.
+D8:3D:3F		JOYNED GmbH
 D8:3D:CC		shenzhen UDD Technologies,co.,Ltd
 D8:40:08		Huawei Technologies Co.,Ltd
 D8:42:AC		Shanghai Feixun Communication Co.,Ltd.
@@ -48307,6 +48318,7 @@ E8:D8:7E		Amazon Technologies Inc.
 E8:D8:D1		HP Inc.
 E8:DA:00		Kivo Technology, Inc.
 E8:DA:20		Nintendo Co.,Ltd
+E8:DA:3E		Huawei Device Co., Ltd.
 E8:DA:96		Zhuhai Tianrui Electrical Power Tech. Co., Ltd.
 E8:DA:AA		VideoHome Technology Corp.
 E8:DB:84		Espressif Inc.
@@ -48508,6 +48520,7 @@ EC:57:0D		AFE Inc.
 EC:58:EA		Ruckus Wireless
 EC:59:E7		Microsoft Corporation
 EC:5A:86		Yulong Computer Telecommunication Scientific (Shenzhen) Co.,Ltd
+EC:5A:A3		Huawei Device Co., Ltd.
 EC:5B:73		Advanced & Wise Technology Corp.
 EC:5C:68		Chongqing Fugui Electronics Co.,Ltd.
 EC:5C:69		Mitsubishi Heavy Industries Mechatronics Systems,Ltd.
@@ -48662,6 +48675,7 @@ EC:B4:E8		Wistron Mexico SA de CV
 EC:B5:41		SHINANO E and E Co.Ltd.
 EC:B5:FA		Philips Lighting BV
 EC:B8:70		Beijing Heweinet Technology Co.,Ltd.
+EC:B8:78		Huawei Device Co., Ltd.
 EC:B9:07		CloudGenix Inc
 EC:B9:70		Ruijie Networks Co.,LTD
 EC:BA:FE		Giroptic
