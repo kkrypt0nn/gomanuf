@@ -18875,6 +18875,7 @@
 10:46:B4		FormericaOE
 10:47:38		Nokia Shanghai Bell Co., Ltd.
 10:47:80		Huawei Technologies Co.,Ltd
+10:47:E7		Shenzhen YOUHUA Technology Co., Ltd
 10:48:B1		Beijing Duokan Technology Limited
 10:49:63		Harting K.K.
 10:4A:7D		Intel Corporate
@@ -49284,6 +49285,7 @@ F4:2E:48		zte corporation
 F4:2E:7F		Aruba, a Hewlett Packard Enterprise Company
 F4:30:8B		Xiaomi Communications Co Ltd
 F4:30:B9		Hewlett Packard
+F4:31:49		Pixel FX
 F4:31:C3		Apple, Inc.
 F4:32:3D		Sichuan tianyi kanghe communications co., LTD
 F4:33:1C		Toast, Inc.
