@@ -34910,6 +34910,7 @@
 78:E7:D1		Hewlett Packard
 78:E8:B6		zte corporation
 78:E9:80		RainUs Co.,Ltd
+78:E9:96		IEEE Registration Authority
 78:E9:96:40:00:00/28	Shenzhen Jin Hao Mi Technology Co., LTD
 78:E9:96:70:00:00/28	Beisit Electric Tech(Hangzhou)Co.,Ltd.
 78:E9:CF		Tellescom Industria E Comercio Em Telecomunicacao
