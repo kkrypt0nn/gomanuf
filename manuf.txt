@@ -9903,7 +9903,7 @@
 00:25:F9		GMK electronic design GmbH
 00:25:FA		J&M Analytik AG
 00:25:FB		Tunstall Healthcare A/S
-00:25:FC		Enda Endustriyel Elektronik Ltd. Sti.
+00:25:FC		Enda
 00:25:FD		OBR Centrum Techniki Morskiej S.A.
 00:25:FE		Pilot Electronics Corporation
 00:25:FF		CreNova Multimedia Co., Ltd
@@ -19769,6 +19769,7 @@
 18:89:CF		Tecno Mobile Limited
 18:89:DF		Omnivision
 18:8A:6A		AVPro Global Hldgs
+18:8B:0E		Espressif Inc.
 18:8B:15		ShenZhen ZhongRuiJing Technology co.,LTD
 18:8B:45		Cisco Systems, Inc
 18:8B:9D		Cisco Systems, Inc
@@ -20599,6 +20600,7 @@
 20:20:27		Shenzhen Sundray Technologies Company Limited
 20:21:41		Universal Electronics BV
 20:21:A5		LG Electronics (Mobile Communications)
+20:23:51		Tp-Link Corporation Pte. Ltd.
 20:25:64		Pegatron Corporation
 20:25:98		Teleview
 20:25:D2		Fiberhome Telecommunication Technologies Co.,LTD
@@ -25586,6 +25588,7 @@
 48:C7:96		Samsung Electronics Co.,Ltd
 48:C8:62		Simo Wireless,Inc.
 48:C8:B6		SysTec GmbH
+48:CA:43		Espressif Inc.
 48:CA:C6		Union Man Technology Co.,Ltd
 48:CB:6E		Cello Electronics (UK) Ltd
 48:CD:D3		Huawei Technologies Co.,Ltd
@@ -29261,6 +29264,7 @@
 6C:90:B1		SanLogic Inc
 6C:91:06		Katena Computing Technologies
 6C:92:BF		Inspur Electronic Information Industry Co.,Ltd.
+6C:92:CF		Broadcom Limited
 6C:93:08		IEEE Registration Authority
 6C:93:08:00:00:00/28	Braums
 6C:93:08:10:00:00/28	Waterford Consultants Llc
@@ -34491,6 +34495,7 @@
 78:18:EC		Fortinet, Inc.
 78:19:2E		NASCENT Technology
 78:19:F7		Juniper Networks
+78:1C:1E		Chongqing Yipingfang Technology Co., Ltd.
 78:1C:5A		SHARP Corporation
 78:1D:4A		zte corporation
 78:1D:BA		Huawei Technologies Co.,Ltd
@@ -34734,6 +34739,7 @@
 78:A0:3F		Amazon Technologies Inc.
 78:A0:51		iiNet Labs Pty Ltd
 78:A1:06		Tp-Link Technologies Co.,Ltd.
+78:A1:3E		New H3C Technologies Co., Ltd
 78:A1:83		Advidia
 78:A2:A0		Nintendo Co., Ltd.
 78:A3:51		Shenzhen Zhibotong Electronics Co.,Ltd
@@ -34911,8 +34917,11 @@
 78:E8:B6		zte corporation
 78:E9:80		RainUs Co.,Ltd
 78:E9:96		IEEE Registration Authority
+78:E9:96:00:00:00/28	Shenzhen Eeguard Technology Co.,Limited
 78:E9:96:40:00:00/28	Shenzhen Jin Hao Mi Technology Co., LTD
+78:E9:96:50:00:00/28	Chuangming Futre Technology Co., Ltd.
 78:E9:96:70:00:00/28	Beisit Electric Tech(Hangzhou)Co.,Ltd.
+78:E9:96:90:00:00/28	Atm Solutions
 78:E9:CF		Tellescom Industria E Comercio Em Telecomunicacao
 78:EB:14		Shenzhen Fast Technologies Co.,Ltd
 78:EB:39		Instituto Nacional de Tecnología Industrial
@@ -37022,6 +37031,7 @@
 8C:1F:64:2A:60:00/36	Radiation Solutions Inc.
 8C:1F:64:2A:80:00/36	SHALARM SECURITY Co.,LTD
 8C:1F:64:2A:90:00/36	Elbit Systems of America, LLC
+8C:1F:64:2B:10:00/36	U -Mei-Dah Int'L Enterprise Co.,Ltd.
 8C:1F:64:2B:60:00/36	Stercom Power Solutions GmbH
 8C:1F:64:2B:80:00/36	Veinland GmbH
 8C:1F:64:2B:B0:00/36	Chakra Technology Ltd
@@ -38497,6 +38507,7 @@
 8C:83:FC		Axioma Metering UAB
 8C:84:01		Private
 8C:84:42		Cisco Systems, Inc
+8C:84:74		Broadcom Limited
 8C:85:80		Smart Innovation LLC
 8C:85:90		Apple, Inc.
 8C:85:C1		Aruba, a Hewlett Packard Enterprise Company
@@ -39696,6 +39707,7 @@
 98:49:9F		Domo Tactical Communications
 98:49:E1		Boeing Defence Australia
 98:4A:47		CHG Hospital Beds
+98:4A:6B		Ruijie Networks Co.,LTD
 98:4B:06		Huawei Technologies Co.,Ltd
 98:4B:4A		ARRIS Group, Inc.
 98:4B:E1		Hewlett Packard
@@ -43225,6 +43237,7 @@ B8:DC:87		IAI Corporation
 B8:DD:71		zte corporation
 B8:DE:5E		Longcheer Telecommunication Limited
 B8:DF:6B		SpotCam Co., Ltd.
+B8:E2:8C		Motorola Solutions Malaysia Sdn. Bhd.
 B8:E3:B1		Huawei Technologies Co.,Ltd
 B8:E3:EE		Universal Electronics, Inc.
 B8:E5:89		Payter BV
@@ -45636,6 +45649,7 @@ D0:4E:50		Mobiwire Mobiles (NingBo) Co., LTD
 D0:4E:99		Huawei Technologies Co.,Ltd
 D0:4F:58		Ruckus Wireless
 D0:4F:7E		Apple, Inc.
+D0:4F:AB		Yoqu Technology (Shenzhen) Co., Ltd.
 D0:50:99		ASRock Incorporation
 D0:51:57		LEAX Arkivator Telecom
 D0:51:62		Sony Corporation
@@ -46682,7 +46696,7 @@ D8:A3:5C		Samsung Electronics Co.,Ltd
 D8:A4:91		Huawei Device Co., Ltd.
 D8:A5:34		Spectronix Corporation
 D8:A6:F0		Wu Qi Technologies,Inc.
-D8:A6:FD		Ghost Locomotion
+D8:A6:FD		Ghost Autonomy Inc.
 D8:A7:56		Sagemcom Broadband SAS
 D8:A8:C8		zte corporation
 D8:A9:8B		Texas Instruments
@@ -48720,6 +48734,7 @@ EC:C5:D2		Huawei Device Co., Ltd.
 EC:C8:82		Cisco Systems, Inc
 EC:C8:9C		Hangzhou Hikvision Digital Technology Co.,Ltd.
 EC:CB:30		Huawei Technologies Co.,Ltd
+EC:CD:4C		New H3C Technologies Co., Ltd
 EC:CD:6D		Allied Telesis, Inc.
 EC:CE:13		Cisco Systems, Inc
 EC:CE:D7		Apple, Inc.
