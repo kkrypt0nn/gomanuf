@@ -21047,6 +21047,7 @@
 24:4E:7B:D0:00:00/28	Church & Dwight Co., Inc.
 24:4E:7B:E0:00:00/28	WithWin Technology ShenZhen CO.,LTD
 24:4F:1D		iRule LLC
+24:50:6F		Thinkcar Tech Co.,Ltd.
 24:52:6A		Zhejiang Dahua Technology Co., Ltd.
 24:53:BF		Enernet
 24:58:6E		zte corporation
@@ -27212,6 +27213,7 @@
 58:8B:1C		Cisco Systems, Inc
 58:8B:F3		Zyxel Communications Corporation
 58:8D:09		Cisco Systems, Inc
+58:8D:39		Mitsubishi Electric Automation (China) Ltd.
 58:8D:64		Xi'an Clevbee Technology Co.,Ltd
 58:8E:81		Silicon Laboratories
 58:8F:CF		Hangzhou Ezviz Software Co.,Ltd.
@@ -34918,6 +34920,7 @@
 78:E9:80		RainUs Co.,Ltd
 78:E9:96		IEEE Registration Authority
 78:E9:96:00:00:00/28	Shenzhen Eeguard Technology Co.,Limited
+78:E9:96:10:00:00/28	Cogito Tech Company Limited
 78:E9:96:40:00:00/28	Shenzhen Jin Hao Mi Technology Co., LTD
 78:E9:96:50:00:00/28	Chuangming Futre Technology Co., Ltd.
 78:E9:96:70:00:00/28	Beisit Electric Tech(Hangzhou)Co.,Ltd.
@@ -34936,6 +34939,7 @@
 78:F2:38		Samsung Electronics Co.,Ltd
 78:F2:76		Cyklop Fastjet Technologies (Shanghai) Inc.
 78:F2:9E		Pegatron Corporation
+78:F5:05		Murata Manufacturing Co., Ltd.
 78:F5:57		Huawei Technologies Co.,Ltd
 78:F5:E5		BEGA Gantenbrink-Leuchten KG
 78:F5:FD		Huawei Technologies Co.,Ltd
@@ -39157,6 +39161,7 @@
 94:00:70		Nokia Corporation
 94:00:B0		Huawei Technologies Co.,Ltd
 94:01:49		AutoHotBox
+94:01:7D		Shenzhen Shlink.Co.,Limited
 94:01:AC		Wuhan Qianyang Iotian Technology Co., Ltd
 94:01:C2		Samsung Electronics Co.,Ltd
 94:02:30		Logitech
@@ -39400,6 +39405,7 @@
 94:BB:AE		Husqvarna AB
 94:BE:09		China Mobile Group Device Co.,Ltd.
 94:BE:46		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+94:BE:50		Remotesolution
 94:BF:1E		eflow Inc. / Smart Device Planning and Development Division
 94:BF:2D		Apple, Inc.
 94:BF:80		zte corporation
