@@ -26649,6 +26649,7 @@
 54:08:3B:C0:00:00/28	FairPhone B.V.
 54:08:3B:D0:00:00/28	BHS Corrugated Maschinen- und Anlagenbau GmbH
 54:08:3B:E0:00:00/28	Sinclair Technologies
+54:08:53		Qingdao Haier Technology Co.,Ltd
 54:09:10		Apple, Inc.
 54:09:29		Inventus Power Eletronica do Brasil LTDA
 54:09:55		zte corporation
@@ -34923,10 +34924,12 @@
 78:E9:96:10:00:00/28	Cogito Tech Company Limited
 78:E9:96:40:00:00/28	Shenzhen Jin Hao Mi Technology Co., LTD
 78:E9:96:50:00:00/28	Chuangming Futre Technology Co., Ltd.
+78:E9:96:60:00:00/28	Kilews
 78:E9:96:70:00:00/28	Beisit Electric Tech(Hangzhou)Co.,Ltd.
 78:E9:96:80:00:00/28	Shenzhen Zhiting Technology Co.,Ltd
 78:E9:96:90:00:00/28	Atm Solutions
 78:E9:96:A0:00:00/28	Shenzhen Farben lnformation Technology CO.,Ltd.
+78:E9:96:B0:00:00/28	CelAudio (Beijing) Technology Inc
 78:E9:96:C0:00:00/28	Garantir Technologies Private Limited
 78:E9:CF		Tellescom Industria E Comercio Em Telecomunicacao
 78:EB:14		Shenzhen Fast Technologies Co.,Ltd
@@ -37453,6 +37456,7 @@
 8C:1F:64:6E:A0:00/36	KMtronic ltd
 8C:1F:64:6E:C0:00/36	Bit Trade One, Ltd.
 8C:1F:64:6F:40:00/36	Elsist Srl
+8C:1F:64:6F:80:00/36	Proiker Technology Sl
 8C:1F:64:6F:90:00/36	Anddoro Llc
 8C:1F:64:6F:C0:00/36	HM Systems A/S
 8C:1F:64:70:00:00/36	Quantaflow
@@ -49311,6 +49315,7 @@ F4:1F:0B		YAMABISHI Corporation
 F4:1F:88		zte corporation
 F4:1F:C2		Cisco Systems, Inc
 F4:20:12		Cuciniale GmbH
+F4:20:15		Guangzhou Shiyuan Electronic Technology Company Limited
 F4:21:AE		Shanghai Xiaodu Technology Limited
 F4:21:CA		Apple, Inc.
 F4:22:7A		Guangdong Seneasy Intelligent Technology Co., Ltd.
