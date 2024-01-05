@@ -23852,6 +23852,7 @@
 3C:AA:3F		iKey, Ltd.
 3C:AB:8E		Apple, Inc.
 3C:AE:69		ESA Elektroschaltanlagen Grimma GmbH
+3C:AF:B7		Xiaomi Communications Co Ltd
 3C:B0:7E		Arounds Intelligent Equipment Co., Ltd.
 3C:B0:ED		Nothing Technology Limited
 3C:B1:5B		Avaya Inc
@@ -27459,6 +27460,7 @@
 5C:16:C7		Arista Networks
 5C:17:20		Huawei Device Co., Ltd.
 5C:17:37		I-View Now, LLC.
+5C:17:83		Edgecore Americas Networking Corporation
 5C:17:CF		OnePlus Technology (Shenzhen) Co., Ltd
 5C:17:D3		Lge
 5C:18:B5		Talon Communications
@@ -28741,6 +28743,7 @@
 68:4A:E9		Samsung Electronics Co.,Ltd
 68:4B:88		Galtronics Telemetry Inc.
 68:4C:A8		Shenzhen Herotel Tech. Co., Ltd.
+68:4D:B6		Xiaomi Communications Co Ltd
 68:4E:05		Hunan Fn-Link Technology Limited
 68:4F:64		Dell Inc.
 68:50:5D		Halo Technologies
@@ -29160,6 +29163,7 @@
 6C:45:98		Antex Electronic Corp.
 6C:45:C4		Cloudflare, Inc.
 6C:47:60		Sunitec Enterprise Co.,Ltd
+6C:48:3F		Xiaomi Communications Co Ltd
 6C:48:A6		Fiberhome Telecommunication Technologies Co.,LTD
 6C:49:C1		o2ones Co., Ltd.
 6C:4A:39		Bita
@@ -37080,6 +37084,7 @@
 8C:1F:64:30:90:00/36	Mect Srl
 8C:1F:64:30:A0:00/36	XCOM Labs
 8C:1F:64:30:D0:00/36	Flextronics International Kft
+8C:1F:64:30:E0:00/36	Tangent Design Engineering
 8C:1F:64:31:40:00/36	Cedel BV
 8C:1F:64:31:60:00/36	Potter Electric Signal Company
 8C:1F:64:31:70:00/36	Bacancy Systems LLP
@@ -37116,6 +37121,7 @@
 8C:1F:64:36:70:00/36	LAMTEC Mess- und Regeltechnik für Feuerungen GmbH & Co. KG
 8C:1F:64:36:90:00/36	Orbital Astronautics Ltd
 8C:1F:64:36:A0:00/36	INVENTIS S.r.l.
+8C:1F:64:36:B0:00/36	ViewSonic Corp
 8C:1F:64:36:E0:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:37:00:00/36	WOLF Advanced Technology
 8C:1F:64:37:20:00/36	WINK Streaming
@@ -43314,6 +43320,7 @@ BC:03:58		Intel Corporate
 BC:03:A7		Mfp Michelin
 BC:05:43		AVM GmbH
 BC:06:2D		Wacom Co.,Ltd.
+BC:08:66		Nestle Purina PetCare
 BC:09:1B		Intel Corporate
 BC:09:63		Apple, Inc.
 BC:09:EB		Tecno Mobile Limited
@@ -48046,6 +48053,7 @@ E8:13:24		GuangZhou Bonsoninfo System CO.,LTD
 E8:13:63		Comstock RD, Inc.
 E8:13:67		AIRSOUND Inc.
 E8:13:6E		Huawei Technologies Co.,Ltd
+E8:14:99		Yoqu Technology(Shenzhen)Co.,Ltd.
 E8:15:0E		Nokia Corporation
 E8:16:2B		IDEO Security Co., Ltd.
 E8:16:56		Hangzhou BroadLink Technology Co.,Ltd
