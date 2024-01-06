@@ -20678,6 +20678,7 @@
 20:5B:2A		Private
 20:5B:5E		Shenzhen Wonhe Technology Co., Ltd
 20:5C:FA		Yangzhou ChangLian Network Technology Co,ltd.
+20:5D:0D		Fiberhome Telecommunication Technologies Co.,LTD
 20:5D:47		vivo Mobile Communication Co., Ltd.
 20:5E:64		Huawei Device Co., Ltd.
 20:5E:97		Nokia
@@ -26526,6 +26527,7 @@
 50:D2:F5		Beijing Xiaomi Mobile Software Co., Ltd
 50:D3:3B		cloudnineinfo
 50:D3:7F		Yu Fly Mikly Way Science and Technology Co., Ltd.
+50:D4:48		Private
 50:D4:5C		Amazon Technologies Inc.
 50:D4:F7		Tp-Link Technologies Co.,Ltd.
 50:D5:9C		Thai Habel Industrial Co., Ltd.
@@ -37638,7 +37640,7 @@
 8C:1F:64:8D:10:00/36	Orlaco Products B.V.
 8C:1F:64:8D:40:00/36	Recab Sweden AB
 8C:1F:64:8D:50:00/36	Agramkow A/S
-8C:1F:64:8D:60:00/36	Private
+8C:1F:64:8D:60:00/36	ADC Global Technology Sdn Bhd
 8C:1F:64:8D:90:00/36	Pietro Fiorentini Spa
 8C:1F:64:8D:A0:00/36	Dart Systems Ltd
 8C:1F:64:8D:E0:00/36	Iconet Services
@@ -38533,6 +38535,7 @@
 8C:86:1E		Apple, Inc.
 8C:86:2A		Huawei Technologies Co.,Ltd
 8C:87:3B		Leica Camera AG
+8C:87:D0		Shenzhen Uascent Technology Co.,Ltd
 8C:88:81		Cisco Meraki
 8C:89:7A		Augtek
 8C:89:A5		Micro-Star INT'L CO., LTD
@@ -42353,6 +42356,7 @@ B0:A7:2A		Ensemble Designs, Inc.
 B0:A7:32		Espressif Inc.
 B0:A7:37		Roku, Inc.
 B0:A7:B9		TP-Link Corporation Limited
+B0:A7:D2		Fiberhome Telecommunication Technologies Co.,LTD
 B0:A8:6E		Juniper Networks
 B0:AA:36		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 B0:AA:77		Cisco Systems, Inc
@@ -43287,6 +43291,7 @@ B8:F6:53		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
 B8:F6:B1		Apple, Inc.
 B8:F7:32		Aryaka Networks Inc
 B8:F7:4A		Rcntec
+B8:F7:74		Fiberhome Telecommunication Technologies Co.,LTD
 B8:F8:28		Changshu Gaoshida Optoelectronic Technology Co. Ltd.
 B8:F8:53		Arcadyan Corporation
 B8:F8:83		Tp-Link Technologies Co.,Ltd.
@@ -45062,6 +45067,7 @@ C8:FF:77		Dyson Limited
 CA:04:5A		Ossia Inc
 CA:12:5C		Microsoft Corporation
 CA:1E:45		ASMedia Technology Inc.
+CA:22:2B		Beijing Puma Gear Power Equipment Co.,Ltd
 CA:2B:5E		Suzhou Motor-comm Electronic Technology Co.,Ltd
 CA:30:BF		IEEE 802.1 Chair
 CA:37:82		Storbyte, Inc.
