@@ -22147,6 +22147,7 @@
 2C:CD:69		Aqavi.com
 2C:CE:1E		Cloudtronics Pty Ltd
 2C:CF:58		Huawei Technologies Co.,Ltd
+2C:CF:67		Raspberry Pi (Trading) Ltd
 2C:D0:2D		Cisco Systems, Inc
 2C:D0:5A		Liteon Technology Corporation
 2C:D0:66		Xiaomi Communications Co Ltd
@@ -22513,6 +22514,7 @@
 30:A2:43		Shenzhen Prifox Innovation Technology Co., Ltd.
 30:A2:C2		Huawei Device Co., Ltd.
 30:A3:0F		Huawei Technologies Co.,Ltd
+30:A3:B5		Jiangsu Best Tone Information Service Co., Ltd
 30:A4:52		Arrival Elements BV
 30:A6:12		ShenZhen Hugsun Technology Co.,Ltd.
 30:A8:89		Decimator Design
@@ -23643,6 +23645,7 @@
 3C:33:00		Shenzhen Bilian electronic CO.,LTD
 3C:33:32		D-Link Corporation
 3C:35:56		Cognitec Systems GmbH
+3C:35:76		Itel Mobile Limited
 3C:36:3D		Nokia Corporation
 3C:36:6A		Huawei Technologies Co.,Ltd
 3C:36:E4		ARRIS Group, Inc.
@@ -27926,6 +27929,7 @@
 60:32:B1		Tp-Link Technologies Co.,Ltd.
 60:32:F0		Mplus technology
 60:33:4B		Apple, Inc.
+60:34:57		HP Tuners LLC
 60:35:53		Buwon Technology
 60:35:73		Earda Technologies co Ltd
 60:35:C0		Sfr
@@ -34928,6 +34932,7 @@
 78:E9:96		IEEE Registration Authority
 78:E9:96:00:00:00/28	Shenzhen Eeguard Technology Co.,Limited
 78:E9:96:10:00:00/28	Cogito Tech Company Limited
+78:E9:96:30:00:00/28	ACL Co.,Ltd.
 78:E9:96:40:00:00/28	Shenzhen Jin Hao Mi Technology Co., LTD
 78:E9:96:50:00:00/28	Chuangming Futre Technology Co., Ltd.
 78:E9:96:60:00:00/28	Kilews
@@ -35232,7 +35237,6 @@
 7C:89:31		Huawei Device Co., Ltd.
 7C:89:56		Samsung Electronics Co.,Ltd
 7C:89:C1		Palo Alto Networks
-7C:8A:C0		EVBox BV
 7C:8A:E1		Compal Information (Kunshan) Co., Ltd.
 7C:8B:B5		Samsung Electronics Co.,Ltd
 7C:8B:CA		Tp-Link Technologies Co.,Ltd.
@@ -35288,6 +35292,7 @@
 7C:B7:7B		Paradigm Electronics Inc
 7C:B9:4C		Bouffalo Lab (Nanjing) Co., Ltd.
 7C:B9:60		Shanghai X-Cheng telecom LTD
+7C:BA:C0		EVBox BV
 7C:BA:CC		IEEE Registration Authority
 7C:BA:CC:00:00:00/28	TGT Limited
 7C:BA:CC:10:00:00/28	Changsha SUNYE Electric Co., Ltd.
@@ -39663,6 +39668,7 @@
 98:22:EF		Liteon Technology Corporation
 98:23:4E		Micromedia AG
 98:25:4A		Tp-Link Corporation Pte. Ltd.
+98:25:6E		Private
 98:26:2A		Applied Research Associates, Inc
 98:26:AD		Quectel Wireless Solutions Co.,Ltd.
 98:27:82		IEEE Registration Authority
@@ -40524,6 +40530,7 @@ A0:1E:0B		MINIX Technology Limited
 A0:20:A6		Espressif Inc.
 A0:21:8B		ACE Antenna Co., ltd
 A0:21:95		Samsung Electronics Co.,Ltd
+A0:21:AA		China Mobile Group Device Co.,Ltd.
 A0:21:B7		Netgear
 A0:22:4E		IEEE Registration Authority
 A0:22:4E:00:00:00/28	Kyung In Electronics
