@@ -18213,6 +18213,7 @@
 08:D5:9D		Sagemcom Broadband SAS
 08:D5:C0		Seers Technology Co., Ltd
 08:D8:33		Shenzhen RF Technology Co., Ltd
+08:DD:EB		Silicon Laboratories
 08:DF:1F		Bose Corporation
 08:DF:CB		Systrome Networks
 08:E0:21		Honor Device Co., Ltd.
@@ -22953,6 +22954,8 @@
 34:C7:31		Alpsalpine Co,.Ltd
 34:C7:E9		Google, Inc.
 34:C8:03		Nokia Corporation
+34:C8:D6		IEEE Registration Authority
+34:C8:D6:70:00:00/28	ZXCLAA Technology(Suzhou) Co.,Ltd
 34:C9:3D		Intel Corporate
 34:C9:9D		Eidolon Communications Technology Co. Ltd.
 34:C9:F0		LM Technologies Ltd
@@ -23145,6 +23148,7 @@
 38:22:D6		Hangzhou H3C Technologies Co., Limited
 38:22:E2		HP Inc.
 38:22:F4		Huawei Device Co., Ltd.
+38:24:F1		Private
 38:25:6B		Microsoft Mobile Oy
 38:26:2B		UTran Technology
 38:26:56		TCL King Electrical Appliances(Huizhou)Co.,Ltd
@@ -25000,6 +25004,7 @@
 44:48:B9		MitraStar Technology Corp.
 44:48:C1		Hewlett Packard Enterprise
 44:48:FF		Qingdao Haier Technology Co.,Ltd
+44:49:63		Woven By Toyota U.S., Inc.
 44:49:88		Intel Corporate
 44:4A:65		Silverflare Ltd.
 44:4A:B0		Zhejiang Moorgen Intelligence Technology Co., Ltd
@@ -34934,6 +34939,7 @@
 78:E9:96		IEEE Registration Authority
 78:E9:96:00:00:00/28	Shenzhen Eeguard Technology Co.,Limited
 78:E9:96:10:00:00/28	Cogito Tech Company Limited
+78:E9:96:20:00:00/28	Stiebel Eltron Gmbh & Co. Kg
 78:E9:96:30:00:00/28	ACL Co.,Ltd.
 78:E9:96:40:00:00/28	Shenzhen Jin Hao Mi Technology Co., LTD
 78:E9:96:50:00:00/28	Chuangming Futre Technology Co., Ltd.
@@ -34945,6 +34951,7 @@
 78:E9:96:B0:00:00/28	CelAudio (Beijing) Technology Inc
 78:E9:96:C0:00:00/28	Garantir Technologies Private Limited
 78:E9:96:D0:00:00/28	Lorch Schweisstechnik GmbH
+78:E9:96:E0:00:00/28	Bita-International Co.,Ltd
 78:E9:CF		Tellescom Industria E Comercio Em Telecomunicacao
 78:EB:14		Shenzhen Fast Technologies Co.,Ltd
 78:EB:39		Instituto Nacional de Tecnología Industrial
@@ -37451,6 +37458,7 @@
 8C:1F:64:6A:B0:00/36	Toho System Co., Ltd.
 8C:1F:64:6A:D0:00/36	Potter Electric Signal Company
 8C:1F:64:6A:E0:00/36	Bray International
+8C:1F:64:6B:00:00/36	O-Net Technologies(Shenzhen)Group Co.,Ltd.
 8C:1F:64:6B:10:00/36	Specialist Mechanical Engineers (PTY)LTD
 8C:1F:64:6B:30:00/36	Feritech Ltd.
 8C:1F:64:6B:50:00/36	O-Net Communications(Shenzhen)Limited
@@ -37873,6 +37881,7 @@
 8C:1F:64:B2:60:00/36	AVL DiTEST GmbH
 8C:1F:64:B2:70:00/36	InHandPlus Inc.
 8C:1F:64:B2:80:00/36	Season Electronics Ltd
+8C:1F:64:B2:A0:00/36	Lumiplan Duhamel
 8C:1F:64:B2:B0:00/36	Rhombus Europe
 8C:1F:64:B2:C0:00/36	Sanmina Israel Medical Systems Ltd
 8C:1F:64:B2:F0:00/36	Mtechnology - Gamma Commerciale Srl
@@ -43896,6 +43905,7 @@ C0:6C:0F		Dobbs Stanford
 C0:6C:6D		MagneMotion, Inc.
 C0:6D:1A		Tianjin Henxinhuifeng Technology Co.,Ltd.
 C0:6D:ED		Hangzhou Hikvision Digital Technology Co.,Ltd.
+C0:6F:98		eero inc.
 C0:70:09		Huawei Technologies Co.,Ltd
 C0:71:AA		ShenZhen OnMicro Electronics Co.,Ltd.
 C0:74:2B		Shenzhen Xunlong Software Co.,Limited
@@ -46164,6 +46174,7 @@ D4:46:49		Huawei Technologies Co.,Ltd
 D4:46:E1		Apple, Inc.
 D4:47:5A		ScreenBeam, Inc.
 D4:48:2D		Shenzhen Deejoy Lighting Technology Co.,Ltd.
+D4:48:67		Silicon Laboratories
 D4:4B:5E		Taiyo Yuden Co., Ltd.
 D4:4B:B6		Zhejiang Tmall Technology Co., Ltd.
 D4:4C:24		Vuppalamritha Magnetic Components LTD
@@ -46726,6 +46737,7 @@ D8:9E:D4		Fiberhome Telecommunication Technologies Co.,LTD
 D8:9E:F3		Dell Inc.
 D8:A0:11		WiZ
 D8:A0:1D		Espressif Inc.
+D8:A0:E6		Chongqing Yipingfang Technology Co., Ltd.
 D8:A0:E8		zte corporation
 D8:A1:05		Syslane, Co., Ltd.
 D8:A2:5E		Apple, Inc.
