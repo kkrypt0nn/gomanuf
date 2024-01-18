@@ -22985,10 +22985,13 @@
 34:C8:D6:50:00:00/28	Prizma Group Distribution & Consulting D.O.O - Rubisec
 34:C8:D6:60:00:00/28	Signalwing Corporation
 34:C8:D6:70:00:00/28	ZXCLAA Technology(Suzhou) Co.,Ltd
+34:C8:D6:80:00:00/28	Illumina
 34:C8:D6:90:00:00/28	Laxton Group Limited
-34:C8:D6:B0:00:00/28	Yuanzhou Intelligen (Shenzhen) Co., Ltd.
+34:C8:D6:A0:00:00/28	Shenzhen Jooan Technology  Co., Ltd
+34:C8:D6:B0:00:00/28	Yuanzhou Intelligent (Shenzhen) Co., Ltd.
 34:C8:D6:C0:00:00/28	Huizhou KDT Intelligent Display Technology Co. Ltd
 34:C8:D6:D0:00:00/28	eight
+34:C8:D6:E0:00:00/28	Shenzhen C & D Electronics Co., Ltd.
 34:C9:3D		Intel Corporate
 34:C9:9D		Eidolon Communications Technology Co. Ltd.
 34:C9:F0		LM Technologies Ltd
@@ -29422,6 +29425,8 @@
 6C:C2:42		Shenzhen Skyworth Digital  Technology  CO., Ltd
 6C:C2:6B		Apple, Inc.
 6C:C3:74		Texas Instruments
+6C:C3:B2		Cisco Meraki
+6C:C4:1E		NEXSEC Incorporated
 6C:C4:9F		Aruba, a Hewlett Packard Enterprise Company
 6C:C4:D5		HMD Global Oy
 6C:C6:3B		Taicang T&W Electronics
@@ -29488,6 +29493,7 @@
 6C:EC:EB		Texas Instruments
 6C:ED:51		NEXCONTROL Co.,Ltd
 6C:EE:F7		shenzhen scodeno technology co., Ltd.
+6C:EF:BD		Cisco Meraki
 6C:EF:C6		Shenzhen Twowing Technologies Co.,Ltd.
 6C:F0:49		Giga-Byte Technology Co.,Ltd.
 6C:F1:7E		Zhejiang Uniview Technologies Co.,Ltd.
@@ -35039,6 +35045,7 @@
 7A:4B:F3		Dilon Technologies
 7A:4D:2F		Open Compute Project
 7A:84:F0		McDowell Signal Processing, LLC (dba McDSP)
+7A:8D:D1		TePS'EG
 7A:AB:77		Orange
 7A:F9:55		Relay, Inc.
 7A:FD:44		Rosenberger Hochfrequenztechnik GmbH & Co. KG
@@ -37413,6 +37420,7 @@
 8C:1F:64:5B:00:00/36	Sonel S.A.
 8C:1F:64:5B:30:00/36	eumig industrie-TV GmbH.
 8C:1F:64:5B:40:00/36	Axion Lighting
+8C:1F:64:5B:90:00/36	ViewSonic Corp
 8C:1F:64:5B:C0:00/36	Heitec Ag
 8C:1F:64:5B:D0:00/36	MPT-Service project
 8C:1F:64:5B:E0:00/36	Benchmark Electronics BV
@@ -37537,6 +37545,7 @@
 8C:1F:64:6E:A0:00/36	KMtronic ltd
 8C:1F:64:6E:C0:00/36	Bit Trade One, Ltd.
 8C:1F:64:6F:40:00/36	Elsist Srl
+8C:1F:64:6F:70:00/36	EddyWorks Co.,Ltd
 8C:1F:64:6F:80:00/36	Proiker Technology Sl
 8C:1F:64:6F:90:00/36	Anddoro Llc
 8C:1F:64:6F:C0:00/36	HM Systems A/S
