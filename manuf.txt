@@ -26572,6 +26572,7 @@
 50:CD:32		NanJing Chaoran Science & Technology Co.,Ltd.
 50:CE:75		Measy Electronics Co., Ltd.
 50:CE:E3		Gigafirm.co.LTD
+50:CF:56		China Mobile Group Device Co.,Ltd.
 50:D0:65		ESYLUX GmbH
 50:D2:13		CviLux Corporation
 50:D2:74		Steffes Corporation
@@ -29277,6 +29278,7 @@
 6C:5E:3B		Cisco Systems, Inc
 6C:5E:7A		Ubiquitous Internet Telecom Co., Ltd
 6C:5F:1C		Lenovo Mobile Communication Technology Ltd.
+6C:60:16		OnePlus Technology (Shenzhen) Co., Ltd
 6C:60:D0		Huawei Device Co., Ltd.
 6C:60:EB		Zhi Yuan Electronics Co., Limited
 6C:61:26		Rinicom Holdings
@@ -35776,6 +35778,8 @@
 80:A1:AB		Intellisis
 80:A1:D7		Shanghai DareGlobal Technologies Co.,Ltd
 80:A2:35		Edgecore Networks Corporation
+80:A5:79		IEEE Registration Authority
+80:A5:79:A0:00:00/28	ViewSonic Corp
 80:A5:89		AzureWave Technology Inc.
 80:A7:96		Neuralink Corp.
 80:A8:5D		Osterhout Design Group
@@ -35997,6 +36001,7 @@
 84:31:A8		Wuhan Funshion Online Technologies Co.,Ltd
 84:32:6F		Guangzhou Ava Electronics Technology Co.,Ltd
 84:32:EA		Anhui Wanzten P&T Co., Ltd
+84:33:F2		Shenzhen Stellamore Technology Co.,Ltd
 84:34:97		Hewlett Packard
 84:36:11		hyungseul publishing networks
 84:37:D5		Samsung Electronics Co.,Ltd
@@ -37050,6 +37055,7 @@
 8C:1F:64:1B:F0:00/36	Ossia Inc
 8C:1F:64:1C:00:00/36	INVENTIA Sp. z o.o.
 8C:1F:64:1C:20:00/36	Solid Invent Ltda.
+8C:1F:64:1C:90:00/36	Pneumax Spa
 8C:1F:64:1C:B0:00/36	SASYS e.K.
 8C:1F:64:1C:E0:00/36	Eiden Co.,Ltd.
 8C:1F:64:1D:00:00/36	MB connect line GmbH Fernwartungssysteme
@@ -37529,6 +37535,7 @@
 8C:1F:64:6B:70:00/36	Alpha-Omega Technology GmbH & Co. KG
 8C:1F:64:6B:90:00/36	GS Industrie-Elektronik GmbH
 8C:1F:64:6B:B0:00/36	Season Electronics Ltd
+8C:1F:64:6B:D0:00/36	IoT Water Analytics S.L.
 8C:1F:64:6C:60:00/36	Fit
 8C:1F:64:6C:B0:00/36	GJD Manufacturing
 8C:1F:64:6C:D0:00/36	Wuhan Xingtuxinke ELectronic Co.,Ltd
@@ -37994,6 +38001,7 @@
 8C:1F:64:BB:10:00/36	Transit Solutions, LLC.
 8C:1F:64:BB:20:00/36	Grupo Epelsa S.L.
 8C:1F:64:BB:30:00/36	Zaruc Tecnologia LTDA
+8C:1F:64:BB:70:00/36	Jiangxi Lv C-Chong Charging Technology Co.Ltd
 8C:1F:64:BB:C0:00/36	Liberator Pty Ltd
 8C:1F:64:BB:F0:00/36	Retency
 8C:1F:64:BC:00:00/36	GS Elektromedizinsiche Geräte G. Stemple GmbH
@@ -39299,6 +39307,7 @@
 94:0B:2D		NetView Technologies(Shenzhen) Co., Ltd
 94:0B:83		zte corporation
 94:0B:D5		Himax Technologies, Inc
+94:0B:FA		EM Microelectronic
 94:0C:6D		Tp-Link Technologies Co.,Ltd.
 94:0C:98		Apple, Inc.
 94:0D:2D		Universal Electronics, Inc.
@@ -39510,9 +39519,10 @@
 94:BA:56		Shenzhen Coship Electronics Co., Ltd.
 94:BB:43		AzureWave Technology Inc.
 94:BB:AE		Husqvarna AB
+94:BD:BE		TPV Display Technology (Xiamen) Co.,Ltd.
 94:BE:09		China Mobile Group Device Co.,Ltd.
 94:BE:46		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
-94:BE:50		Remotesolution
+94:BE:50		Remote Solution
 94:BF:1E		eflow Inc. / Smart Device Planning and Development Division
 94:BF:2D		Apple, Inc.
 94:BF:80		zte corporation
@@ -45863,6 +45873,7 @@ D0:73:80		Huawei Device Co., Ltd.
 D0:73:8E		Dong Oh Precision Co., Ltd.
 D0:73:D5		Lifi Labs Management Pty Ltd
 D0:75:BE		Reno A&E
+D0:76:02		Hui Zhou Gaoshengda Technology Co.,LTD
 D0:76:50		IEEE Registration Authority
 D0:76:50:00:00:00/28	CentrAlert, Inc.
 D0:76:50:10:00:00/28	Daiken Automacao Ltda
@@ -47507,6 +47518,7 @@ E0:46:9A		Netgear
 E0:46:E5		Gosuncn Technology Group Co., Ltd.
 E0:46:EE		Netgear
 E0:47:35		Ericsson AB
+E0:48:24		Garmin International
 E0:48:AF		Premietech Limited
 E0:48:D3		Mobiwire Mobiles (Ningbo) Co.,Ltd
 E0:48:D8		Guangzhi Wulian Technology(Guangzhou) Co., Ltd
@@ -47516,6 +47528,7 @@ E0:4B:45		Hi-P Electronics Pte Ltd
 E0:4B:A6		Huawei Technologies Co.,Ltd
 E0:4C:05		EverCharge
 E0:4C:12		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+E0:4E:7A		Nanjing Qinheng Microelectronics Co., Ltd.
 E0:4F:43		Universal Global Scientific Industrial Co., Ltd.
 E0:4F:BD		Sichuan Tianyi Comheart Telecom Co.,LTD
 E0:50:8B		Zhejiang Dahua Technology Co., Ltd.
@@ -49576,6 +49589,7 @@ F4:6D:3F		Intel Corporate
 F4:6D:E2		zte corporation
 F4:6E:24		NEC Personal Computers, Ltd.
 F4:6E:95		Extreme Networks Headquarters
+F4:6E:D6		EM Microelectronic
 F4:6F:4E		Echowell
 F4:6F:A4		Physik Instrumente GmbH & Co. KG
 F4:6F:ED		Fiberhome Telecommunication Technologies Co.,LTD
