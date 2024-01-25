@@ -27888,6 +27888,7 @@
 5C:F9:F0		Atomos Engineering P/L
 5C:F9:FD		Taicang T&W Electronics
 5C:FA:25		Sagemcom Broadband SAS
+5C:FA:5A		Sinepower Lda
 5C:FA:FB		Acubit
 5C:FB:3A		Chongqing Fugui Electronics Co.,Ltd.
 5C:FB:7C		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
@@ -35787,6 +35788,7 @@
 80:A1:D7		Shanghai DareGlobal Technologies Co.,Ltd
 80:A2:35		Edgecore Networks Corporation
 80:A5:79		IEEE Registration Authority
+80:A5:79:00:00:00/28	Benano Inc.
 80:A5:79:30:00:00/28	Tool-Temp AG
 80:A5:79:50:00:00/28	Potron Technology Co.,Ltd.,
 80:A5:79:70:00:00/28	Siemens Energy Global GmbH & Co. KG
@@ -37965,6 +37967,7 @@
 8C:1F:64:B1:00:00/36	MTU Aero Engines AG
 8C:1F:64:B1:30:00/36	Abode Systems Inc
 8C:1F:64:B1:40:00/36	Murata Manufacturing CO., Ltd.
+8C:1F:64:B1:80:00/36	Grossenbacher Systeme AG
 8C:1F:64:B1:90:00/36	DITRON S.r.l.
 8C:1F:64:B2:20:00/36	Blighter Surveillance Systems Ltd
 8C:1F:64:B2:40:00/36	Abb
@@ -38181,6 +38184,7 @@
 8C:1F:64:D5:40:00/36	Grupo Epelsa S.L.
 8C:1F:64:D5:60:00/36	Wisdom Audio
 8C:1F:64:D5:B0:00/36	Local Security
+8C:1F:64:D5:D0:00/36	Genius Vision Digital Private Limited
 8C:1F:64:D5:E0:00/36	Integer.pl S.A.
 8C:1F:64:D6:00:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:D6:10:00/36	Advent Diamond
@@ -41110,6 +41114,7 @@ A4:24:DD		Cambrionix Ltd
 A4:25:1B		Avaya Inc
 A4:26:18		Integrated Device Technology (Malaysia) Sdn. Bhd.
 A4:26:55		LTI Motion (Shanghai) Co., Ltd.
+A4:27:A5		Palo Alto Networks
 A4:28:B7		Yangtze Memory Technologies Co., Ltd.
 A4:29:40		Shenzhen YOUHUA Technology Co., Ltd
 A4:29:83		Boeing Defence Australia
@@ -43982,6 +43987,7 @@ C0:50:64		Shennan Circuits Co.,Ltd
 C0:51:5C		zte corporation
 C0:51:7E		Hangzhou Hikvision Digital Technology Co.,Ltd.
 C0:53:36		Beijing National Railway Research & Design Institute of Signal & Communication Group Co..Ltd.
+C0:55:5C		Impulse Labs
 C0:56:27		Belkin International Inc.
 C0:56:E3		Hangzhou Hikvision Digital Technology Co.,Ltd.
 C0:57:BC		Avaya Inc
@@ -49697,6 +49703,7 @@ F4:96:51		NAKAYO Inc
 F4:97:C2		Nebulon Inc
 F4:99:AC		WEBER Schraubautomaten GmbH
 F4:9C:12		Structab AB
+F4:9D:8A		Fantasia Trading LLC
 F4:9D:A7		Private
 F4:9E:EF		Taicang T&W Electronics
 F4:9F:54		Samsung Electronics Co.,Ltd
@@ -50118,6 +50125,7 @@ F8:8D:EF		Tenebraex
 F8:8E:85		Comtrend Corporation
 F8:8E:A1		Edgecore Networks Corporation
 F8:8F:07		Samsung Electronics Co.,Ltd
+F8:8F:C8		Chipsea Technologies (Shenzhen) Corp.
 F8:8F:CA		Google, Inc.
 F8:90:66		Nain Inc.
 F8:91:2A		GLP German Light Products GmbH
