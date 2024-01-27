@@ -19978,6 +19978,7 @@
 18:EE:86		Novatel Wireless Solutions, Inc.
 18:EF:3A		Sichuan AI-Link Technology Co., Ltd.
 18:EF:63		Cisco Systems, Inc
+18:EF:C0		Sercomm Japan Corporation
 18:F0:E4		Xiaomi Communications Co Ltd
 18:F1:45		NetComm Wireless Limited
 18:F1:8E		ChipER Technology co. ltd
@@ -21532,6 +21533,7 @@
 28:8E:B9		Wacom Co.,Ltd.
 28:8E:EC		Apple, Inc.
 28:8F:F6		Apple, Inc.
+28:91:76		Indyme Solutions, LLC
 28:91:D0		Stage Tec Entwicklungsgesellschaft für professionelle Audiotechnik mbH
 28:92:4A		Hewlett Packard
 28:93:7D		Sichuan Tianyi Comheart Telecom Co.,LTD
@@ -35798,7 +35800,10 @@
 80:A5:79:30:00:00/28	Tool-Temp AG
 80:A5:79:40:00:00/28	Hardened Networks
 80:A5:79:50:00:00/28	Potron Technology Co.,Ltd.,
+80:A5:79:60:00:00/28	Xiamen Pinnacle Electrical Co., Ltd
 80:A5:79:70:00:00/28	Siemens Energy Global GmbH & Co. KG
+80:A5:79:80:00:00/28	Di3 Infotech Llp
+80:A5:79:90:00:00/28	Yovil Ltd.
 80:A5:79:A0:00:00/28	ViewSonic Corp
 80:A5:79:B0:00:00/28	Ground Control Technologies UK Ltd.
 80:A5:79:C0:00:00/28	BluArmor
@@ -37682,6 +37687,7 @@
 8C:1F:64:7E:E0:00/36	Orange Precision Measurement LLC
 8C:1F:64:7F:10:00/36	AEM Singapore Pte Ltd
 8C:1F:64:7F:80:00/36	FleetSafe India Private Limited
+8C:1F:64:80:00:00/36	Shenzhen SDG Telecom Equipment Co.,Ltd.
 8C:1F:64:80:10:00/36	Zhejiang Laolan Information Technology Co., Ltd
 8C:1F:64:80:30:00/36	MOSCA Elektronik und Antriebstechnik GmbH
 8C:1F:64:80:40:00/36	EA Elektro-Automatik
@@ -38034,6 +38040,7 @@
 8C:1F:64:BB:30:00/36	Zaruc Tecnologia LTDA
 8C:1F:64:BB:70:00/36	Jiangxi Lv C-Chong Charging Technology Co.Ltd
 8C:1F:64:BB:C0:00/36	Liberator Pty Ltd
+8C:1F:64:BB:E0:00/36	AirScan, Inc. dba HemaTechnologies
 8C:1F:64:BB:F0:00/36	Retency
 8C:1F:64:BC:00:00/36	GS Elektromedizinsiche Geräte G. Stemple GmbH
 8C:1F:64:BC:10:00/36	CominTech, LLC
@@ -49423,6 +49430,7 @@ F0:F8:4A		Buffalo.Inc
 F0:F8:F2		Texas Instruments
 F0:F9:F7		IES GmbH & Co. KG
 F0:FA:C7		Huawei Device Co., Ltd.
+F0:FC:65		SynaXG Technologies Pte. Ltd.
 F0:FC:C8		ARRIS Group, Inc.
 F0:FD:A0		Acurix Networks Pty Ltd
 F0:FD:DD		Foxtron Vehicle Technologies Co., Ltd.
