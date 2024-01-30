@@ -24898,6 +24898,7 @@
 40:ED:98:E0:00:00/28	Borda Technology
 40:ED:CF		Apple, Inc.
 40:EE:15		Zioncom Electronics (Shenzhen) Ltd.
+40:EE:BE		NXP Semiconductor (Tianjin) LTD.
 40:EE:DD		Huawei Technologies Co.,Ltd
 40:EF:4C		Fihonest communication co.,Ltd
 40:F0:2F		Liteon Technology Corporation
@@ -28987,6 +28988,7 @@
 68:AF:FF		Shanghai Cambricon Information Technology Co., Ltd.
 68:B0:94		Inesa Electron Co.,Ltd
 68:B3:5E		Shenzhen Neostra Technology Co.Ltd
+68:B4:1E		Zeasn Technology Private Limited
 68:B4:3A		WaterFurnace International, Inc.
 68:B5:99		Hewlett Packard
 68:B6:91		Amazon Technologies Inc.
@@ -35333,6 +35335,7 @@
 7C:96:D2		Fihonest communication co.,Ltd
 7C:97:63		Openmatics s.r.o.
 7C:97:E1		Huawei Device Co., Ltd.
+7C:99:2E		Shanghai Notion lnformatio Technology Co.,Ltd.
 7C:9A:1D		Apple, Inc.
 7C:9A:54		Vantiva USA LLC
 7C:9A:9B		VSE valencia smart energy
@@ -35658,6 +35661,7 @@
 80:4A:F2		Sonos, Inc.
 80:4B:20		Ventilation Control
 80:4B:50		Silicon Laboratories
+80:4C:5D		NXP Semiconductor (Tianjin) LTD.
 80:4E:70		Samsung Electronics Co.,Ltd
 80:4E:81		Samsung Electronics Co.,Ltd
 80:4F:58		ThinkEco, Inc.
@@ -35797,6 +35801,7 @@
 80:A5:79		IEEE Registration Authority
 80:A5:79:00:00:00/28	Benano Inc.
 80:A5:79:10:00:00/28	Zhe Jiang EV-Tech Co.,Ltd
+80:A5:79:20:00:00/28	Jiangsu wonder-working electric co., LTD
 80:A5:79:30:00:00/28	Tool-Temp AG
 80:A5:79:40:00:00/28	Hardened Networks
 80:A5:79:50:00:00/28	Potron Technology Co.,Ltd.,
@@ -35807,6 +35812,7 @@
 80:A5:79:A0:00:00/28	ViewSonic Corp
 80:A5:79:B0:00:00/28	Ground Control Technologies UK Ltd.
 80:A5:79:C0:00:00/28	BluArmor
+80:A5:79:D0:00:00/28	Guangdong Province Ivsuan technology co., ltd
 80:A5:89		AzureWave Technology Inc.
 80:A7:96		Neuralink Corp.
 80:A8:5D		Osterhout Design Group
@@ -37239,6 +37245,7 @@
 8C:1F:64:36:E0:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:37:00:00/36	WOLF Advanced Technology
 8C:1F:64:37:20:00/36	WINK Streaming
+8C:1F:64:37:50:00/36	Duevi Srl
 8C:1F:64:37:60:00/36	DIAS Infrared GmbH
 8C:1F:64:37:80:00/36	spar Power Technologies Inc.
 8C:1F:64:37:F0:00/36	Scarlet Tech Co., Ltd.
@@ -37720,6 +37727,7 @@
 8C:1F:64:85:20:00/36	Abb
 8C:1F:64:85:50:00/36	e.kundenservice Netz GmbH
 8C:1F:64:85:60:00/36	Garten Automation
+8C:1F:64:85:80:00/36	SFERA srl
 8C:1F:64:85:B0:00/36	Atlantic Pumps Ltd
 8C:1F:64:85:C0:00/36	Zing 5g Communications Canada Inc.
 8C:1F:64:86:30:00/36	EngiNe srl
@@ -37773,6 +37781,7 @@
 8C:1F:64:8E:00:00/36	Reivax S/A Automação e Controle
 8C:1F:64:8E:20:00/36	ALPHA Corporation
 8C:1F:64:8E:30:00/36	UniTik Technology Co., Limited
+8C:1F:64:8E:40:00/36	Cominfo, Inc.
 8C:1F:64:8E:50:00/36	Druck Ltd.
 8C:1F:64:8E:80:00/36	Cominfo, Inc.
 8C:1F:64:8E:90:00/36	Vesperix Corporation
@@ -38072,6 +38081,7 @@
 8C:1F:64:C0:50:00/36	SkyCell AG
 8C:1F:64:C0:60:00/36	Tardis Technology
 8C:1F:64:C0:70:00/36	HYOSUNG Heavy Industries Corporation
+8C:1F:64:C0:80:00/36	Triamec Motion AG
 8C:1F:64:C0:A0:00/36	Acrolabs,Inc
 8C:1F:64:C0:C0:00/36	Giordano Controls Spa
 8C:1F:64:C0:D0:00/36	Abbott Diagnostics Technologies AS
@@ -38275,6 +38285,7 @@
 8C:1F:64:E2:B0:00/36	Glotech Exim Private Limited
 8C:1F:64:E2:D0:00/36	RADA Electronics Industries Ltd.
 8C:1F:64:E3:00:00/36	VMukti Solutions Private Limited
+8C:1F:64:E3:30:00/36	Amiad Water Systems
 8C:1F:64:E4:10:00/36	Grossenbacher Systeme AG
 8C:1F:64:E4:30:00/36	Daedalean AG
 8C:1F:64:E4:50:00/36	Integer.pl S.A.
@@ -39849,6 +39860,7 @@
 98:35:ED		Huawei Technologies Co.,Ltd
 98:37:13		PT.Navicom Indonesia
 98:38:7D		Itronic  Technology Co . , Ltd .
+98:39:10		Kaon Group Co., Ltd.
 98:39:8E		Samsung Electronics Co.,Ltd
 98:39:C0		Flextronics
 98:3B:16		AMPAK Technology, Inc.
