@@ -35813,6 +35813,7 @@
 80:A5:79:B0:00:00/28	Ground Control Technologies UK Ltd.
 80:A5:79:C0:00:00/28	BluArmor
 80:A5:79:D0:00:00/28	Guangdong Province Ivsuan technology co., ltd
+80:A5:79:E0:00:00/28	Unplugged Technologies Ltd.
 80:A5:89		AzureWave Technology Inc.
 80:A7:96		Neuralink Corp.
 80:A8:5D		Osterhout Design Group
@@ -37541,6 +37542,7 @@
 8C:1F:64:66:00:00/36	Llc Ntpc
 8C:1F:64:66:20:00/36	Suzhou Leamore Optronics Co., Ltd.
 8C:1F:64:66:30:00/36	mal-tech Technological Solutions Ltd/CRISP
+8C:1F:64:66:40:00/36	Thermoeye Inc
 8C:1F:64:66:C0:00/36	Lineage Power Pvt Ltd.,
 8C:1F:64:66:D0:00/36	Vt100 Srl
 8C:1F:64:66:F0:00/36	Elix Systems SA
@@ -37845,6 +37847,7 @@
 8C:1F:64:98:40:00/36	Abacus Peripherals Pvt Ltd
 8C:1F:64:98:70:00/36	Peter Huber Kaeltemaschinenbau SE
 8C:1F:64:98:90:00/36	Phe-nX B.V.
+8C:1F:64:98:B0:00/36	Syscom Instruments SA
 8C:1F:64:98:C0:00/36	PAN Business & Consulting (ANYOS]
 8C:1F:64:98:F0:00/36	Breas Medical AB
 8C:1F:64:99:10:00/36	DB Systel GmbH
@@ -38355,6 +38358,7 @@
 8C:1F:64:EF:B0:00/36	Warecube,Inc
 8C:1F:64:F0:40:00/36	IoTSecure, LLC
 8C:1F:64:F0:50:00/36	Preston Industries dba PolyScience
+8C:1F:64:F0:80:00/36	Advantor Corporation
 8C:1F:64:F0:90:00/36	Texi AS
 8C:1F:64:F1:00:00/36	Televic Rail GmbH
 8C:1F:64:F1:20:00/36	CAITRON GmbH
@@ -38848,6 +38852,7 @@
 8C:EA:12		Shenzhen MiaoMing  Intelligent Technology Co.,Ltd
 8C:EA:1B		Edgecore Networks Corporation
 8C:EA:48		Samsung Electronics Co.,Ltd
+8C:EA:88		Chengdu Yocto Communication Technology Co.Ltd.
 8C:EB:C6		Huawei Technologies Co.,Ltd
 8C:EC:4B		Dell Inc.
 8C:EC:7B		Apple, Inc.
@@ -41763,6 +41768,7 @@ A8:93:4A		Chongqing Fugui Electronics Co.,Ltd.
 A8:93:52		Shanghai Zhongmi Communication Technology Co.,Ltd
 A8:93:E6		Jiangxi Jinggangshan Cking Communication Technology Co.,Ltd
 A8:95:B0		Aker Subsea Ltd
+A8:96:09		FN-LINK TECHNOLOGY Ltd.
 A8:96:75		Motorola Mobility LLC, a Lenovo Company
 A8:96:8A		Apple, Inc.
 A8:97:CD		ARRIS Group, Inc.
