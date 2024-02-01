@@ -23610,6 +23610,7 @@
 3C:07:54		Apple, Inc.
 3C:07:71		Sony Corporation
 3C:08:1E		Beijing Yupont Electric Power Technology Co.,Ltd
+3C:08:68		Power Plus Communications AG
 3C:08:CD		Juniper Networks
 3C:08:F6		Cisco Systems, Inc
 3C:09:6D		Powerhouse Dynamics
@@ -35984,6 +35985,7 @@
 84:11:C2:E0:00:00/28	Dangerous Music Group, LLC
 84:13:9F		zte corporation
 84:14:4D		Intel Corporate
+84:15:71		TCT mobile ltd
 84:15:D3		Huawei Technologies Co.,Ltd
 84:16:0C		Broadcom Limited
 84:16:F9		Tp-Link Technologies Co.,Ltd.
@@ -38916,6 +38918,9 @@
 90:12:34		Shenzhen YOUHUA Technology Co., Ltd
 90:12:A1		We Corporation Inc.
 90:13:DA		Athom B.V.
+90:15:64		IEEE Registration Authority
+90:15:64:60:00:00/28	final Inc.
+90:15:64:B0:00:00/28	Shanghai AMP&MOONS'Automation Co.,Ltd.
 90:16:BA		Huawei Technologies Co.,Ltd
 90:17:11		Hagenuk Marinekommunikation GmbH
 90:17:3F		Huawei Technologies Co.,Ltd
@@ -39446,6 +39451,7 @@
 94:49:96		WiSilica Inc
 94:4A:09		BitWise Controls
 94:4A:0C		Sercomm Corporation.
+94:4B:F8		Tozo Inc
 94:4E:5B		Ubee Interactive Co., Limited
 94:4F:4C		Sound United LLC
 94:50:47		Rechnerbetriebsgruppe
@@ -40047,6 +40053,7 @@
 98:9B:CB		AVM Audiovisuelles Marketing und Computersysteme GmbH
 98:9C:57		Huawei Technologies Co.,Ltd
 98:9D:5D		Vantiva USA LLC
+98:9D:B2		GOIP Global Services Pvt. Ltd.
 98:9D:E5		Hangzhou Hikvision Digital Technology Co.,Ltd.
 98:9E:63		Apple, Inc.
 98:9F:1E		Huawei Technologies Co.,Ltd
@@ -44687,6 +44694,7 @@ C4:BB:4C		Zebra Information Tech Co. Ltd
 C4:BB:EA		Pakedge Device and Software Inc
 C4:BC:D7		New Ryatek
 C4:BD:6A		SKF GmbH
+C4:BD:8D		Shenzhen Chuangwei-Rgb Electronics Co.,Ltd
 C4:BD:E5		Intel Corporate
 C4:BE:84		Texas Instruments
 C4:BE:D4		Avaya Inc
