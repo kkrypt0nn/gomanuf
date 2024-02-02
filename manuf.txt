@@ -7514,7 +7514,7 @@
 00:1C:9E		Dualtech IT AB
 00:1C:9F		Razorstream, LLC
 00:1C:A0		Production Resource Group, LLC
-00:1C:A1		Akamai Technologies, Inc.
+00:1C:A1		Akamai Technologies Inc.
 00:1C:A2		ADB Broadband Italia
 00:1C:A3		Terra
 00:1C:A4		Sony Corporation
@@ -8913,7 +8913,7 @@
 00:22:15		ASUSTek COMPUTER INC.
 00:22:16		Shibaura Vending Machine Corporation
 00:22:17		Neat Electronics
-00:22:18		Akamai Technologies Inc
+00:22:18		Akamai Technologies Inc.
 00:22:19		Dell Inc.
 00:22:1A		Audio Precision
 00:22:1B		Morega Systems
@@ -37697,6 +37697,7 @@
 8C:1F:64:7E:C0:00/36	Methods2Business B.V.
 8C:1F:64:7E:E0:00/36	Orange Precision Measurement LLC
 8C:1F:64:7F:10:00/36	AEM Singapore Pte Ltd
+8C:1F:64:7F:40:00/36	G.M. International srl
 8C:1F:64:7F:80:00/36	FleetSafe India Private Limited
 8C:1F:64:80:00:00/36	Shenzhen SDG Telecom Equipment Co.,Ltd.
 8C:1F:64:80:10:00/36	Zhejiang Laolan Information Technology Co., Ltd
@@ -38919,6 +38920,7 @@
 90:12:A1		We Corporation Inc.
 90:13:DA		Athom B.V.
 90:15:64		IEEE Registration Authority
+90:15:64:20:00:00/28	Pin Genie, Inc.Dba Lockly
 90:15:64:60:00:00/28	final Inc.
 90:15:64:B0:00:00/28	Shanghai AMP&MOONS'Automation Co.,Ltd.
 90:16:BA		Huawei Technologies Co.,Ltd
@@ -50603,6 +50605,7 @@ FC:94:E3		Vantiva USA LLC
 FC:95:6A		Octagon Systems Corp.
 FC:96:43		Juniper Networks
 FC:97:A8		Cricut Inc.
+FC:98:16		Alpsalpine Co,.Ltd
 FC:99:47		Cisco Systems, Inc
 FC:9A:FA		Motus Global Inc.
 FC:9B:C6		Sumavision Technologies Co.,Ltd
