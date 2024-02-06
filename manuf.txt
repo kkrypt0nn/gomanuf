@@ -18303,6 +18303,7 @@
 08:FF:24		Shenzhen Skyworth Digital  Technology  CO., Ltd
 08:FF:44		Apple, Inc.
 0A:2A:33		Digistor
+0A:35:F2		Integrated Technical Vision Ltd
 0A:36:1C		Smardii
 0A:87:36		IEEE 1901 Working Group
 0A:8E:62		Delta Solutions LLC
@@ -37972,6 +37973,7 @@
 8C:1F:64:AA:B0:00/36	BlueSword Intelligent Technology Co., Ltd.
 8C:1F:64:AB:40:00/36	Beijing Zhongchen Microelectronics Co.,Ltd
 8C:1F:64:AB:50:00/36	Justmorph Pte. Ltd.
+8C:1F:64:AB:60:00/36	EMIT GmbH
 8C:1F:64:AB:70:00/36	MClavis Co.,Ltd.
 8C:1F:64:AB:E0:00/36	TAIYO DENON Corporation
 8C:1F:64:AC:00:00/36	AIQuatro
@@ -39535,6 +39537,7 @@
 94:8A:C6		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 94:8B:03		EAGET Innovation and Technology Co., Ltd.
 94:8B:C1		Samsung Electronics Co.,Ltd
+94:8C:D7		Hui Zhou Gaoshengda Technology Co.,LTD
 94:8D:50		Beamex Oy Ab
 94:8D:EF		Oetiker Schweiz AG
 94:8E:89		Industrias Unidas Sa De Cv
