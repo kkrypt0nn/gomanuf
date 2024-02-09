@@ -18070,6 +18070,7 @@
 08:60:83		zte corporation
 08:61:95		Rockwell Automation
 08:62:66		ASUSTek COMPUTER INC.
+08:63:32		IEEE Registration Authority
 08:63:32:30:00:00/28	Umano Medical Inc.
 08:63:61		Huawei Technologies Co.,Ltd
 08:65:18		Apple, Inc.
