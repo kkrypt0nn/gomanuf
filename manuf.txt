@@ -35956,6 +35956,7 @@
 80:E6:50		Apple, Inc.
 80:E8:2C		Hewlett Packard
 80:E8:6F		Cisco Systems, Inc
+80:E9:4A		LEAPS s.r.o.
 80:EA:07		Tp-Link Technologies Co.,Ltd.
 80:EA:0B		Zyxel Communications Corporation
 80:EA:23		Wistron Neweb Corporation
@@ -36966,6 +36967,7 @@
 8C:1F:64:00:A0:00/36	TaskUnite Inc. (dba AMPAworks)
 8C:1F:64:00:C0:00/36	Guan Show Technologe Co., Ltd.
 8C:1F:64:01:10:00/36	DEUTA-WERKE GmbH
+8C:1F:64:01:40:00/36	Cristal Controles Ltee
 8C:1F:64:01:70:00/36	Farmote Limited
 8C:1F:64:01:A0:00/36	Paragraf
 8C:1F:64:01:E0:00/36	SCIREQ Scientific Respiratory Equipment  Inc
@@ -37218,6 +37220,7 @@
 8C:1F:64:2C:70:00/36	Contralto Audio Srl
 8C:1F:64:2C:80:00/36	BRS Sistemas Eletrônicos
 8C:1F:64:2C:B0:00/36	Smart Component Technologies Ltd
+8C:1F:64:2C:C0:00/36	SBS SpA
 8C:1F:64:2C:D0:00/36	Taiwan Vtron
 8C:1F:64:2C:E0:00/36	E2 Nova Corporation
 8C:1F:64:2D:00:00/36	Cambridge Research Systems Ltd
@@ -37655,6 +37658,7 @@
 8C:1F:64:71:80:00/36	Abb
 8C:1F:64:71:B0:00/36	Adasky Ltd.
 8C:1F:64:72:10:00/36	M/S Milind Ramachandra Rajwade
+8C:1F:64:72:20:00/36	Artome Oy
 8C:1F:64:72:30:00/36	Celestica Inc.
 8C:1F:64:72:60:00/36	Dave Srl
 8C:1F:64:72:A0:00/36	Dorlet Sau
@@ -37953,6 +37957,7 @@
 8C:1F:64:A0:A0:00/36	Shanghai Wise-Tech Intelligent Technology Co.,Ltd.
 8C:1F:64:A0:D0:00/36	Lumiplan Duhamel
 8C:1F:64:A0:E0:00/36	Elac Americas Inc.
+8C:1F:64:A1:30:00/36	INVENTIA Sp. z o.o.
 8C:1F:64:A1:B0:00/36	Zilica Limited
 8C:1F:64:A1:F0:00/36	Hitachi Energy  India Limited
 8C:1F:64:A2:90:00/36	Ringtail Security
@@ -39464,6 +39469,7 @@
 94:24:E1		Alcatel-Lucent Enterprise
 94:25:33		Huawei Technologies Co.,Ltd
 94:26:1D		Huawei Technologies Co.,Ltd
+94:27:70		BSH Hausgeräte GmbH
 94:27:90		TCT mobile ltd
 94:28:2E		New H3C Technologies Co., Ltd
 94:28:6F		zte corporation
@@ -45802,6 +45808,7 @@ D0:06:6A		Cornelis Networks, Inc.
 D0:07:90		Texas Instruments
 D0:07:CA		Juniper Networks
 D0:09:C8		Cisco Systems, Inc
+D0:09:F5		Hosiden Corporation
 D0:0A:AB		Yokogawa Digital Computer Corporation
 D0:0B:27		Murata Manufacturing Co., Ltd.
 D0:0D:F7		Huawei Device Co., Ltd.
@@ -48591,6 +48598,7 @@ E8:A7:2F		Microsoft Corporation
 E8:A7:30		Apple, Inc.
 E8:A7:88		Xiamen Leelen Technology Co., Ltd
 E8:A7:F2		sTraffic
+E8:A8:48		Wacom Co.,Ltd.
 E8:AA:CB		Samsung Electronics Co.,Ltd
 E8:AB:F3		Huawei Technologies Co.,Ltd
 E8:AB:FA		Shenzhen Reecam Tech.Ltd.
