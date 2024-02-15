@@ -18074,6 +18074,8 @@
 08:63:32:00:00:00/28	Eaton
 08:63:32:20:00:00/28	innovative specialized security solutions
 08:63:32:30:00:00/28	Umano Medical Inc.
+08:63:32:60:00:00/28	OVT India pvt Ltd
+08:63:32:A0:00:00/28	Dynacom Communication
 08:63:61		Huawei Technologies Co.,Ltd
 08:65:18		Apple, Inc.
 08:65:F0		JM Zengge Co., Ltd
@@ -18313,6 +18315,7 @@
 0A:87:36		IEEE 1901 Working Group
 0A:8E:62		Delta Solutions LLC
 0A:A2:3B		Vitex LLC
+0A:AB:8C		Midwest Microwave Solutions Inc.
 0A:CD:8F		Cisco Systems Norway
 0A:D9:C4		Craft Designs, Inc
 0A:E4:71		Caterpillar Inc.
@@ -37397,6 +37400,7 @@
 8C:1F:64:47:60:00/36	Clair Global Corporation
 8C:1F:64:47:A0:00/36	Missing Link Electronics, Inc.
 8C:1F:64:47:D0:00/36	Eb Neuro Spa
+8C:1F:64:48:10:00/36	VirtualV Trading Limited
 8C:1F:64:48:70:00/36	TECHKON GmbH
 8C:1F:64:48:90:00/36	Hupi
 8C:1F:64:48:B0:00/36	Monnit Corporation
@@ -37692,6 +37696,7 @@
 8C:1F:64:77:40:00/36	navXperience GmbH
 8C:1F:64:77:50:00/36	Becton Dickinson
 8C:1F:64:77:70:00/36	Sicon srl
+8C:1F:64:77:90:00/36	Inventio Di Nicolo' Bordoli
 8C:1F:64:77:B0:00/36	Db Sas
 8C:1F:64:77:C0:00/36	Orange Tree Technologies Ltd
 8C:1F:64:77:E0:00/36	Institute of geophysics, China earthquake administration
@@ -38132,6 +38137,7 @@
 8C:1F:64:BF:30:00/36	Alphatek AS
 8C:1F:64:BF:40:00/36	Fluid Components Intl
 8C:1F:64:BF:50:00/36	The Urban Jungle Project
+8C:1F:64:BF:60:00/36	Panoramic Power
 8C:1F:64:BF:80:00/36	Cdsi
 8C:1F:64:BF:B0:00/36	TechArgos
 8C:1F:64:BF:C0:00/36	ASiS Technologies Pte Ltd
@@ -38352,6 +38358,7 @@
 8C:1F:64:E4:30:00/36	Daedalean AG
 8C:1F:64:E4:50:00/36	Integer.pl S.A.
 8C:1F:64:E4:60:00/36	Nautel LTD
+8C:1F:64:E4:70:00/36	BRS Sistemas Eletrônicos
 8C:1F:64:E4:90:00/36	Samwell International Inc
 8C:1F:64:E4:B0:00/36	Algazira Telecom Solutions
 8C:1F:64:E4:C0:00/36	TTC TELEKOMUNIKACE, s.r.o.
@@ -42048,6 +42055,7 @@ AC:1D:DF:D0:00:00/28	Elekon AG
 AC:1D:DF:E0:00:00/28	Duravit AG
 AC:1E:92		Samsung Electronics Co.,Ltd
 AC:1E:9E		Xiaomi Communications Co Ltd
+AC:1E:A9		Intelbras
 AC:1E:D0		Temic Automotive Philippines Inc.
 AC:1F:09		shenzhen RAKwireless technology  Co.,Ltd
 AC:1F:0F		Texas Instruments
@@ -43320,6 +43328,7 @@ B8:59:CE		Earda Technologies co Ltd
 B8:5A:73		Samsung Electronics Co.,Ltd
 B8:5A:F7		Ouya, Inc
 B8:5A:FE		Handaer Communication Technology (Beijing) Co., Ltd
+B8:5C:5C		Microsoft Corporation
 B8:5C:EE		Baidu Online Network Technology (Beijing) Co., Ltd
 B8:5D:0A		Apple, Inc.
 B8:5D:C3		Huawei Technologies Co.,Ltd
