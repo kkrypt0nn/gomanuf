@@ -13152,7 +13152,7 @@
 00:50:C2:88:30:00/36	Neocontrol Soluções em Automação
 00:50:C2:88:40:00/36	IP Thinking A/S
 00:50:C2:88:50:00/36	Ooo "Ntk "Imos"
-00:50:C2:88:60:00/36	Wartsila Voyage Limited
+00:50:C2:88:60:00/36	Wartsila Voyage Oy
 00:50:C2:88:70:00/36	Inventis Technology Pty Limited
 00:50:C2:88:80:00/36	IAdea Corporation
 00:50:C2:88:90:00/36	ACS Motion Control Ltd.
@@ -14509,7 +14509,7 @@
 00:50:C2:DD:30:00/36	Rohde&Schwarz Topex SA
 00:50:C2:DD:40:00/36	Systech
 00:50:C2:DD:50:00/36	Friend Spring Industrial Co., Ltd.
-00:50:C2:DD:60:00/36	Wartsila Voyage Limited
+00:50:C2:DD:60:00/36	Wartsila Voyage Oy
 00:50:C2:DD:70:00/36	Tornado Modular Systems
 00:50:C2:DD:80:00/36	Leonardo UK Ltd
 00:50:C2:DD:90:00/36	Metraware
@@ -21499,6 +21499,7 @@
 28:64:EF		Shenzhen Fsan Intelligent Technology Co.,Ltd
 28:65:6B		Keystone Microtech Corporation
 28:66:E3		AzureWave Technology Inc.
+28:68:47		Silicon Laboratories
 28:68:D2		Huawei Technologies Co.,Ltd
 28:6A:B8		Apple, Inc.
 28:6A:BA		Apple, Inc.
@@ -22745,6 +22746,7 @@
 34:15:93		Ruckus Wireless
 34:15:9E		Apple, Inc.
 34:17:EB		Dell Inc.
+34:19:4D		Arcadyan Corporation
 34:1A:35		Fiberhome Telecommunication Technologies Co.,LTD
 34:1A:4C		Shenzhen Weibu Electronics Co.,Ltd.
 34:1B:22		Grandbeing Technology Co., Ltd
@@ -24135,6 +24137,7 @@
 40:2E:71		Texas Instruments
 40:2F:86		LG Innotek
 40:30:04		Apple, Inc.
+40:30:59		Silicon Laboratories
 40:30:67		Conlog (Pty) Ltd
 40:31:3C		XIAOMI Electronics,CO.,LTD
 40:32:9D		Union Image Co.,Ltd
@@ -27768,7 +27771,7 @@
 5C:A1:78		TableTop Media (dba Ziosk)
 5C:A1:E0		EmbedWay Technologies
 5C:A3:9D		Samsung Electro Mechanics Co., Ltd.
-5C:A3:EB		Lokel s.r.o.
+5C:A3:EB		SKODA DIGITAL s.r.o.
 5C:A4:7D		Aruba, a Hewlett Packard Enterprise Company
 5C:A4:8A		Cisco Systems, Inc
 5C:A4:A4		Fiberhome Telecommunication Technologies Co.,LTD
@@ -30687,7 +30690,7 @@
 70:B3:D5:30:10:00/36	Wayne Analytics Llc
 70:B3:D5:30:20:00/36	DogWatch Inc
 70:B3:D5:30:30:00/36	Fuchu Giken, Inc.
-70:B3:D5:30:40:00/36	Wartsila Voyage Limited
+70:B3:D5:30:40:00/36	Wartsila Voyage Oy
 70:B3:D5:30:50:00/36	CAITRON Industrial Solutions GmbH
 70:B3:D5:30:60:00/36	Lemz-T, Llc
 70:B3:D5:30:70:00/36	Energi innovation Aps
@@ -32429,7 +32432,7 @@
 70:B3:D5:9D:10:00/36	OS42 UG (haftungsbeschraenkt)
 70:B3:D5:9D:20:00/36	Acs Motion Control
 70:B3:D5:9D:30:00/36	Communication Technology Ltd.
-70:B3:D5:9D:40:00/36	Wartsila Voyage Limited
+70:B3:D5:9D:40:00/36	Wartsila Voyage Oy
 70:B3:D5:9D:50:00/36	Southern Tier Technologies
 70:B3:D5:9D:60:00/36	Crown Solar Power Fencing Systems
 70:B3:D5:9D:70:00/36	KM OptoElektronik GmbH
@@ -32478,7 +32481,7 @@
 70:B3:D5:A0:20:00/36	GreenFlux
 70:B3:D5:A0:30:00/36	Proemion GmbH
 70:B3:D5:A0:40:00/36	Galea Electric S.L.
-70:B3:D5:A0:50:00/36	Wartsila Voyage Limited
+70:B3:D5:A0:50:00/36	Wartsila Voyage Oy
 70:B3:D5:A0:60:00/36	Kopis Mobile LLC
 70:B3:D5:A0:70:00/36	IoTrek Technology Private Limited
 70:B3:D5:A0:80:00/36	BioBusiness
@@ -32699,7 +32702,7 @@
 70:B3:D5:AD:F0:00/36	Seraphim Optronics Ltd
 70:B3:D5:AE:00:00/36	AnyComm.Co.,Ltd.
 70:B3:D5:AE:10:00/36	DimoCore Corporation
-70:B3:D5:AE:20:00/36	Wartsila Voyage Limited
+70:B3:D5:AE:20:00/36	Wartsila Voyage Oy
 70:B3:D5:AE:30:00/36	Zhejiang Wellsun Electric Meter Co.,Ltd
 70:B3:D5:AE:40:00/36	Nuance Hearing Ltd.
 70:B3:D5:AE:50:00/36	BeatCraft, Inc.
@@ -33712,7 +33715,7 @@
 70:B3:D5:ED:50:00/36	hangzhou battle link technology Co.,Ltd
 70:B3:D5:ED:60:00/36	Metrasens Limited
 70:B3:D5:ED:70:00/36	Wave
-70:B3:D5:ED:80:00/36	Wartsila Voyage Limited
+70:B3:D5:ED:80:00/36	Wartsila Voyage Oy
 70:B3:D5:ED:90:00/36	AADONA Communication Pvt Ltd
 70:B3:D5:ED:A0:00/36	Breas Medical AB
 70:B3:D5:ED:B0:00/36	Netfort Solutions
@@ -37309,7 +37312,7 @@
 8C:1F:64:38:B0:00/36	Borrell USA Corp
 8C:1F:64:38:C0:00/36	Xiamen Zhixiaojin Intelligent Technology Co., Ltd
 8C:1F:64:38:D0:00/36	Wilson Electronics
-8C:1F:64:38:E0:00/36	Wartsila Voyage Limited
+8C:1F:64:38:E0:00/36	Wartsila Voyage Oy
 8C:1F:64:38:F0:00/36	Unabiz
 8C:1F:64:39:00:00/36	SkyLabs d.o.o.
 8C:1F:64:39:10:00/36	Cpc (Uk)
@@ -37410,7 +37413,7 @@
 8C:1F:64:49:60:00/36	Qualsen(Guangzhou)Technologies Co.,Ltd
 8C:1F:64:49:80:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:49:90:00/36	Tiama
-8C:1F:64:49:B0:00/36	Wartsila Voyage Limited
+8C:1F:64:49:B0:00/36	Wartsila Voyage Oy
 8C:1F:64:4A:00:00/36	Tantec A/S
 8C:1F:64:4A:10:00/36	Breas Medical AB
 8C:1F:64:4A:20:00/36	Bludigit SpA
