@@ -18074,8 +18074,10 @@
 08:63:32:00:00:00/28	Eaton
 08:63:32:20:00:00/28	innovative specialized security solutions
 08:63:32:30:00:00/28	Umano Medical Inc.
+08:63:32:50:00:00/28	A Paul Software Systems Pvt. Ltd.
 08:63:32:60:00:00/28	OVT India pvt Ltd
 08:63:32:A0:00:00/28	Dynacom Communication
+08:63:32:D0:00:00/28	akYtec GmbH
 08:63:61		Huawei Technologies Co.,Ltd
 08:65:18		Apple, Inc.
 08:65:F0		JM Zengge Co., Ltd
@@ -22844,6 +22846,7 @@
 34:58:40		Huawei Technologies Co.,Ltd
 34:58:7C		Mirae Information Technology Co., Ltd.
 34:5A:06		SHARP Corporation
+34:5A:18		Alignment Engine Inc.
 34:5A:BA		tcloud intelligence
 34:5B:11		Evi Heat Ab
 34:5B:98		EM Microelectronic
@@ -37756,6 +37759,7 @@
 8C:1F:64:7F:10:00/36	AEM Singapore Pte Ltd
 8C:1F:64:7F:40:00/36	G.M. International srl
 8C:1F:64:7F:80:00/36	FleetSafe India Private Limited
+8C:1F:64:7F:C0:00/36	Mitsubishi Electric Klimat Transportation Systems S.p.A.
 8C:1F:64:80:00:00/36	Shenzhen SDG Telecom Equipment Co.,Ltd.
 8C:1F:64:80:10:00/36	Zhejiang Laolan Information Technology Co., Ltd
 8C:1F:64:80:30:00/36	MOSCA Elektronik und Antriebstechnik GmbH
