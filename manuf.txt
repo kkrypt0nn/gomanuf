@@ -18072,11 +18072,17 @@
 08:62:66		ASUSTek COMPUTER INC.
 08:63:32		IEEE Registration Authority
 08:63:32:00:00:00/28	Eaton
+08:63:32:10:00:00/28	Shanghai eCloud Technologies Co.,ltd
 08:63:32:20:00:00/28	innovative specialized security solutions
 08:63:32:30:00:00/28	Umano Medical Inc.
+08:63:32:40:00:00/28	Beijing KELIBANG Information technology Co.,LTD
 08:63:32:50:00:00/28	A Paul Software Systems Pvt. Ltd.
 08:63:32:60:00:00/28	OVT India pvt Ltd
+08:63:32:70:00:00/28	Software-Automation-Control Joint Stock Company (Cadpro., Jsc)
+08:63:32:80:00:00/28	in.hub GmbH
 08:63:32:A0:00:00/28	Dynacom Communication
+08:63:32:B0:00:00/28	ShenZhen YuanXiang Digital Technology Co., Ltd
+08:63:32:C0:00:00/28	Swiftronix AB
 08:63:32:D0:00:00/28	akYtec GmbH
 08:63:61		Huawei Technologies Co.,Ltd
 08:65:18		Apple, Inc.
@@ -25162,6 +25168,7 @@
 44:70:0B		Iffu
 44:70:98		Ming Hong Technology (Shen Zhen) Limited
 44:71:47		Beijing Xiaomi Electronics Co.,Ltd
+44:71:B3		Logitech Far East
 44:73:D6		Logitech
 44:74:6C		Sony Corporation
 44:76:54		Huawei Technologies Co.,Ltd
@@ -27311,6 +27318,7 @@
 58:85:6E		Qsc Ag
 58:85:A2		Realme Chongqing MobileTelecommunications Corp Ltd
 58:85:E9		Realme Chongqing MobileTelecommunications Corp Ltd
+58:86:70		Juniper Networks
 58:86:94		EFM Networks
 58:87:4C		Lite-On Clean Energy Technology Corp.
 58:87:9F		Huawei Device Co., Ltd.
@@ -28004,6 +28012,7 @@
 60:1A:C7		Nintendo Co.,Ltd
 60:1B:52		Vodafone Italia S.p.A.
 60:1D:0F		Midnite Solar
+60:1D:16		Med-Eng Holdings ULC
 60:1D:56		Extreme Networks Headquarters
 60:1D:91		Motorola Mobility LLC, a Lenovo Company
 60:1D:9D		Sichuan AI-Link Technology Co., Ltd.
@@ -38281,6 +38290,7 @@
 8C:1F:64:D4:40:00/36	Monarch Instrument
 8C:1F:64:D4:60:00/36	End 2 End Technologies
 8C:1F:64:D4:A0:00/36	Caproc Oy
+8C:1F:64:D4:F0:00/36	Henan Creatbot Technology Limited
 8C:1F:64:D5:10:00/36	ZIGEN Lighting Solution co., ltd.
 8C:1F:64:D5:20:00/36	Critical Software SA
 8C:1F:64:D5:30:00/36	Gridnt
@@ -38349,9 +38359,11 @@
 8C:1F:64:E0:00:00/36	Dvb-Tech S.R.L.
 8C:1F:64:E0:20:00/36	ITS Teknik A/S
 8C:1F:64:E0:90:00/36	Enless Wireless
+8C:1F:64:E0:B0:00/36	Laurel Electronics LLC
 8C:1F:64:E0:E0:00/36	Nokeval Oy
 8C:1F:64:E1:00:00/36	Scenario Automation
 8C:1F:64:E1:20:00/36	Pixus Technologies Inc.
+8C:1F:64:E1:40:00/36	Proserv
 8C:1F:64:E1:A0:00/36	DAccess Security Systems P Ltd
 8C:1F:64:E1:E0:00/36	Flextronics International Kft
 8C:1F:64:E2:10:00/36	LG-LHT Aircraft Solutions GmbH
@@ -40206,6 +40218,7 @@
 98:CA:20		Shanghai SIMCOM Ltd.
 98:CA:33		Apple, Inc.
 98:CB:27		Galore Networks Pvt. Ltd.
+98:CB:38		Boxin Communications Limited Liability Company
 98:CB:A4		Benchmark Electronics
 98:CC:4D		Shenzhen mantunsci co., LTD
 98:CC:D9		Shenzhen SuperElectron Technology Co.,Ltd.
@@ -40457,6 +40470,7 @@
 9C:58:3C		Apple, Inc.
 9C:58:84		Apple, Inc.
 9C:5A:44		Compal Information (Kunshan) Co., Ltd.
+9C:5A:80		Juniper Networks
 9C:5A:81		Xiaomi Communications Co Ltd
 9C:5B:96		NMR Corporation
 9C:5C:8D		Firemax Indústria E Comércio De Produtos Eletrônicos  Ltda
@@ -43040,6 +43054,7 @@ B4:8A:0A		Espressif Inc.
 B4:8A:5F		Juniper Networks
 B4:8B:19		Apple, Inc.
 B4:8C:9D		AzureWave Technology Inc.
+B4:92:FE		Arista Network, Inc.
 B4:94:4E		WeTelecom Co., Ltd.
 B4:96:91		Intel Corporate
 B4:98:42		zte corporation
