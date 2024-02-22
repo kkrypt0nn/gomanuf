@@ -5160,7 +5160,7 @@
 00:14:35		CityCom Corp.
 00:14:36		Qwerty Elektronik AB
 00:14:37		GSTeletech Co.,Ltd.
-00:14:38		Hewlett Packard Enterprise
+00:14:38		Hewlett Packard Enterprise – WW Corporate Headquarters
 00:14:39		Blonder Tongue Laboratories, Inc
 00:14:3A		Raytalk International Srl
 00:14:3B		Sensovation AG
@@ -10786,7 +10786,7 @@
 00:4C:E5		Sichuan Tianyi Comheart Telecom Co.,LTD
 00:4D:32		Andon Health Co.,Ltd.
 00:4E:01		Dell Inc.
-00:4E:35		Hewlett Packard Enterprise
+00:4E:35		Hewlett Packard Enterprise – WW Corporate Headquarters
 00:4F:1A		Huawei Technologies Co.,Ltd
 00:50:00		Nexo Communications, Inc.
 00:50:01		Yamashita Systems Corp.
@@ -17330,7 +17330,7 @@
 00:FC:8D		Hitron Technologies. Inc
 00:FC:BA		Cisco Systems, Inc
 00:FD:22		Cisco Systems, Inc
-00:FD:45		Hewlett Packard Enterprise
+00:FD:45		Hewlett Packard Enterprise – WW Corporate Headquarters
 00:FD:4C		Nevatec
 00:FE:C8		Cisco Systems, Inc
 02:07:01		Racal-Datacom
@@ -17356,7 +17356,7 @@
 04:04:EA		Valens Semiconductor Ltd.
 04:05:DD		Shenzhen Cultraview Digital Technology Co., Ltd
 04:07:2E		VTech Electronics Ltd.
-04:09:73		Hewlett Packard Enterprise
+04:09:73		Hewlett Packard Enterprise – WW Corporate Headquarters
 04:09:86		Arcadyan Corporation
 04:09:A5		HFR, Inc.
 04:0A:83		Alcatel-Lucent
@@ -18080,10 +18080,12 @@
 08:63:32:60:00:00/28	OVT India pvt Ltd
 08:63:32:70:00:00/28	Software-Automation-Control Joint Stock Company (Cadpro., Jsc)
 08:63:32:80:00:00/28	in.hub GmbH
+08:63:32:90:00:00/28	TZMedical Inc.
 08:63:32:A0:00:00/28	Dynacom Communication
 08:63:32:B0:00:00/28	ShenZhen YuanXiang Digital Technology Co., Ltd
 08:63:32:C0:00:00/28	Swiftronix AB
 08:63:32:D0:00:00/28	akYtec GmbH
+08:63:32:E0:00:00/28	C-Vue (Shanghai) Audio Technology Co.,Ltd
 08:63:61		Huawei Technologies Co.,Ltd
 08:65:18		Apple, Inc.
 08:65:F0		JM Zengge Co., Ltd
@@ -18152,7 +18154,7 @@
 08:95:42		Apple, Inc.
 08:96:AD		Cisco Systems, Inc
 08:96:D7		AVM GmbH
-08:97:34		Hewlett Packard Enterprise
+08:97:34		Hewlett Packard Enterprise – WW Corporate Headquarters
 08:97:58		Shenzhen Strong Rising Electronics Co.,Ltd DongGuan Subsidiary
 08:97:98		Compal Information (Kunshan) Co., Ltd.
 08:99:E8		KEMAS GmbH
@@ -18280,7 +18282,7 @@
 08:F0:B6		Edifier International
 08:F1:B3		Cisco Meraki
 08:F1:B7		Towerstream Corpration
-08:F1:EA		Hewlett Packard Enterprise
+08:F1:EA		Hewlett Packard Enterprise – WW Corporate Headquarters
 08:F2:F4		Net One Partners Co.,Ltd.
 08:F3:FB		Cisco Systems, Inc
 08:F4:58		Huawei Device Co., Ltd.
@@ -19193,7 +19195,7 @@
 14:00:E9		Mitel Networks Corporation
 14:01:52		Samsung Electronics Co.,Ltd
 14:01:9C		Ubyon Inc.
-14:02:EC		Hewlett Packard Enterprise
+14:02:EC		Hewlett Packard Enterprise – WW Corporate Headquarters
 14:04:67		SNK Technologies Co.,Ltd.
 14:06:4C		Vogl Electronic GmbH
 14:07:08		Cp Plus Gmbh & Co. Kg
@@ -20364,7 +20366,7 @@
 1C:97:C5		Ynomia Pty Ltd
 1C:97:FB		CoolBitX Ltd.
 1C:98:C1		Cloud Network Technology Singapore Pte. Ltd.
-1C:98:EC		Hewlett Packard Enterprise
+1C:98:EC		Hewlett Packard Enterprise – WW Corporate Headquarters
 1C:99:4C		Murata Manufacturing Co., Ltd.
 1C:99:57		Intel Corporate
 1C:9C:26		Zoovel Technologies
@@ -20625,6 +20627,7 @@
 20:17:42		LG Electronics
 20:17:46		Paradromics, Inc.
 20:18:0E		Shenzhen Sunchip Technology Co., Ltd
+20:18:5B		Shenzhen Jingxun Technology Co., Ltd.
 20:1A:06		Compal Information (Kunshan) Co., Ltd.
 20:1A:94		Apple, Inc.
 20:1B:88		Dongguan Liesheng Electronic Co., Ltd.
@@ -20732,7 +20735,7 @@
 20:65:8E		Huawei Technologies Co.,Ltd
 20:66:CF		Freebox Sas
 20:66:FD		Constell8 Nv
-20:67:7C		Hewlett Packard Enterprise
+20:67:7C		Hewlett Packard Enterprise – WW Corporate Headquarters
 20:67:B1		Pluto inc.
 20:67:E0		Shenzhen iComm Semiconductor CO.,LTD
 20:68:9D		Liteon Technology Corporation
@@ -20824,7 +20827,7 @@
 20:A5:CB		Apple, Inc.
 20:A6:0C		Xiaomi Communications Co Ltd
 20:A6:80		Huawei Technologies Co.,Ltd
-20:A6:CD		Hewlett Packard Enterprise
+20:A6:CD		Hewlett Packard Enterprise – WW Corporate Headquarters
 20:A7:66		Huawei Technologies Co.,Ltd
 20:A7:83		miControl GmbH
 20:A7:87		Bointec Taiwan Corporation Limited
@@ -21318,7 +21321,7 @@
 24:F0:FF		GHT Co., Ltd.
 24:F1:28		Telstra
 24:F1:50		Guangzhou Qi'an Technology Co., Ltd.
-24:F2:7F		Hewlett Packard Enterprise
+24:F2:7F		Hewlett Packard Enterprise – WW Corporate Headquarters
 24:F2:DD		Radiant Zemax LLC
 24:F5:7E		Hwh Co., Ltd.
 24:F5:A2		Belkin International Inc.
@@ -22413,7 +22416,7 @@
 30:3E:AD		Sonavox Canada Inc
 30:3F:5D		Pt Han Sung Electoronics Indonesia
 30:3F:7B		Shenzhen YOUHUA Technology Co., Ltd
-30:3F:BB		Hewlett Packard Enterprise
+30:3F:BB		Hewlett Packard Enterprise – WW Corporate Headquarters
 30:40:74		zte corporation
 30:41:74		Altec Lansing Llc
 30:42:25		Burg-Wächter Kg
@@ -22611,6 +22614,7 @@
 30:C3:D9		Alpsalpine Co,.Ltd
 30:C5:07		ECI Telecom Ltd.
 30:C5:0F		Huawei Technologies Co.,Ltd
+30:C6:AB		zte corporation
 30:C6:D7		New H3C Technologies Co., Ltd
 30:C6:F7		Espressif Inc.
 30:C7:50		MIC Technology Group
@@ -23142,7 +23146,7 @@
 34:FA:9F		Ruckus Wireless
 34:FC:6F		Alcea
 34:FC:A1		Micronet union Technology(Chengdu)Co., Ltd.
-34:FC:B9		Hewlett Packard Enterprise
+34:FC:B9		Hewlett Packard Enterprise – WW Corporate Headquarters
 34:FC:EF		LG Electronics (Mobile Communications)
 34:FD:6A		Apple, Inc.
 34:FE:1C		Choung Hwa Tech Co.,Ltd
@@ -23186,7 +23190,7 @@
 38:16:D1		Samsung Electronics Co.,Ltd
 38:17:30		Ulrich Lippert GmbH & Co KG
 38:17:66		Promzakaz Ltd.
-38:17:C3		Hewlett Packard Enterprise
+38:17:C3		Hewlett Packard Enterprise – WW Corporate Headquarters
 38:17:E1		Vantiva USA LLC
 38:18:4C		Sony Home Entertainment&Sound Products Inc
 38:19:2F		Nokia Corporation
@@ -23550,6 +23554,7 @@
 38:F0:98		Vapor Stone Rail Systems
 38:F0:C8		Logitech
 38:F1:35		SensorTec-Canada
+38:F1:8F		Technicolor (China) Technology Co., Ltd.
 38:F2:3E		Microsoft Mobile Oy
 38:F3:2E		Skullcandy
 38:F3:3F		Tatsuno Corporation
@@ -24364,7 +24369,7 @@
 40:B8:37		Sony Corporation
 40:B8:9A		Hon Hai Precision Ind. Co.,Ltd.
 40:B8:C2		Osmozis
-40:B9:3C		Hewlett Packard Enterprise
+40:B9:3C		Hewlett Packard Enterprise – WW Corporate Headquarters
 40:BA:61		ARIMA Communications Corp.
 40:BB:56		TeraNXT Global India Pvt Ltd.
 40:BC:60		Apple, Inc.
@@ -25088,7 +25093,7 @@
 44:47:CC		Hangzhou Hikvision Digital Technology Co.,Ltd.
 44:48:91		HDMI Licensing, LLC
 44:48:B9		MitraStar Technology Corp.
-44:48:C1		Hewlett Packard Enterprise
+44:48:C1		Hewlett Packard Enterprise – WW Corporate Headquarters
 44:48:FF		Qingdao Haier Technology Co.,Ltd
 44:49:63		Woven By Toyota U.S., Inc.
 44:49:88		Intel Corporate
@@ -25493,7 +25498,7 @@
 48:47:4B		Huawei Device Co., Ltd.
 48:49:C7		Samsung Electronics Co.,Ltd
 48:4A:30		George Robotics Limited
-48:4A:E9		Hewlett Packard Enterprise
+48:4A:E9		Hewlett Packard Enterprise – WW Corporate Headquarters
 48:4B:AA		Apple, Inc.
 48:4B:D4		Vantiva USA LLC
 48:4C:29		Huawei Technologies Co.,Ltd
@@ -25634,7 +25639,7 @@
 48:9D:D1		Samsung Electronics Co.,Ltd
 48:9E:9D		Hui Zhou Gaoshengda Technology Co.,LTD
 48:9E:BD		HP Inc.
-48:9E:CB		Hewlett Packard Enterprise
+48:9E:CB		Hewlett Packard Enterprise – WW Corporate Headquarters
 48:A0:F8		Fiberhome Telecommunication Technologies Co.,LTD
 48:A1:95		Apple, Inc.
 48:A2:2D		Shenzhen Huaxuchang Telecom Technology Co.,Ltd
@@ -25737,13 +25742,17 @@
 48:DD:0C		eero inc.
 48:DD:9D		Itel Mobile Limited
 48:DF:1C		Wuhan NEC Fibre Optic Communications industry Co. Ltd
-48:DF:37		Hewlett Packard Enterprise
+48:DF:37		Hewlett Packard Enterprise – WW Corporate Headquarters
 48:E1:5C		Apple, Inc.
 48:E1:AF		Vity
 48:E1:E9		Chengdu Meross Technology Co., Ltd.
 48:E2:44		Hon Hai Precision Ind. Co.,Ltd.
 48:E3:C3		JENOPTIK Advanced Systems GmbH
 48:E5:33		Sunnovo International Limited
+48:E6:63		IEEE Registration Authority
+48:E6:63:40:00:00/28	Smile Security and Survillence Private Limited
+48:E6:63:70:00:00/28	Earweiss Technology (Shenzhen) Co,. Ltd
+48:E6:63:B0:00:00/28	Nakamura-Tome Precision  Industry Co.,Ltd.
 48:E6:95		Insigma Inc
 48:E6:C0		SIMCom Wireless Solutions Co.,Ltd.
 48:E7:29		Espressif Inc.
@@ -26095,7 +26104,7 @@
 4C:AE:13		Huawei Technologies Co.,Ltd
 4C:AE:1C		SaiNXT Technologies LLP
 4C:AE:31		ShengHai Electronics (Shenzhen) Ltd
-4C:AE:A3		Hewlett Packard Enterprise
+4C:AE:A3		Hewlett Packard Enterprise – WW Corporate Headquarters
 4C:AE:EC		Guangzhou limee technology co.,LTD
 4C:B0:08		Shenzhen Gwelltimes Technology Co.,Ltd
 4C:B0:4A		Intel Corporate
@@ -26907,7 +26916,7 @@
 54:75:D0		Cisco Systems, Inc
 54:76:B2		Raisecom Technology CO., LTD
 54:77:87		Earda Technologies co Ltd
-54:77:8A		Hewlett Packard Enterprise
+54:77:8A		Hewlett Packard Enterprise – WW Corporate Headquarters
 54:78:1A		Cisco Systems, Inc
 54:78:85		Shenzhen Giec Digital Co.,Ltd
 54:78:C9		AMPAK Technology,Inc.
@@ -26920,7 +26929,7 @@
 54:7F:A8		TELCO systems, s.r.o.
 54:7F:BC		iodyne
 54:7F:EE		Cisco Systems, Inc
-54:80:28		Hewlett Packard Enterprise
+54:80:28		Hewlett Packard Enterprise – WW Corporate Headquarters
 54:81:2D		PAX Computer Technology(Shenzhen) Ltd.
 54:81:AD		Eagle Research Corporation
 54:83:3A		Zyxel Communications Corporation
@@ -27536,6 +27545,7 @@
 58:FD:5D		Hangzhou Xinyun technology Co., Ltd.
 58:FD:B1		LG Electronics
 58:FD:BE		Shenzhen Taikaida Technology Co., Ltd
+58:FE:7E		zte corporation
 58:FF:A1		zte corporation
 5A:03:BA		Wireless Broadband Alliance Ltd
 5A:18:FF		FiRa Consortium
@@ -27816,12 +27826,13 @@
 5C:B6:CC		NovaComm Technologies Inc.
 5C:B8:CB		Allis Communications
 5C:B9:01		Hewlett Packard
-5C:BA:2C		Hewlett Packard Enterprise
+5C:BA:2C		Hewlett Packard Enterprise – WW Corporate Headquarters
 5C:BA:37		Microsoft Corporation
 5C:BA:EF		Chongqing Fugui Electronics Co.,Ltd.
 5C:BB:EE		zte corporation
 5C:BD:9A		Huawei Device Co., Ltd.
 5C:BD:9E		Hongkong Miracle Eagle Technology(Group) Limited
+5C:BE:05		Ispec
 5C:C0:A0		Huawei Technologies Co.,Ltd
 5C:C1:D7		Samsung Electronics Co.,Ltd
 5C:C2:13		Fr. Sauter AG
@@ -27890,7 +27901,7 @@
 5C:EA:1D		Hon Hai Precision Ind. Co.,Ltd.
 5C:EB:4E		R. STAHL HMI Systems GmbH
 5C:EB:68		Cheerstar Technology Co., Ltd
-5C:ED:8C		Hewlett Packard Enterprise
+5C:ED:8C		Hewlett Packard Enterprise – WW Corporate Headquarters
 5C:ED:F4		Samsung Electronics Co.,Ltd
 5C:EE:79		Global Digitech Co LTD
 5C:F2:07		Speco Technologies
@@ -29382,6 +29393,7 @@
 6C:79:B8		Texas Instruments
 6C:7E:67		Apple, Inc.
 6C:7F:0C		Cisco Meraki
+6C:80:AB		ifanr Inc
 6C:81:FE		Mitsuba Corporation
 6C:83:36		Samsung Electronics Co.,Ltd
 6C:83:38		Ubihere
@@ -29618,7 +29630,7 @@
 70:0F:C7		Shenzhen Ikinloop Technology Co.,Ltd.
 70:0F:EC		Poindus Systems Corp.
 70:10:5C		Cisco Systems, Inc
-70:10:6F		Hewlett Packard Enterprise
+70:10:6F		Hewlett Packard Enterprise – WW Corporate Headquarters
 70:11:0E		zte corporation
 70:11:24		Apple, Inc.
 70:11:35		Livesecu co., Ltd
@@ -34830,6 +34842,7 @@
 78:7D:48		Itel Mobile Limited
 78:7D:53		Extreme Networks Headquarters
 78:7D:F3		Sterlite Technologies Limited
+78:7E:42		zte corporation
 78:7E:61		Apple, Inc.
 78:7F:62		GiK mbH
 78:80:38		Funai Electric Co., Ltd.
@@ -35403,7 +35416,7 @@
 7C:A2:9B		D.SignT GmbH & Co. KG
 7C:A4:49		Xiaomi Communications Co Ltd
 7C:A6:1D		Mhl, Llc
-7C:A6:2A		Hewlett Packard Enterprise
+7C:A6:2A		Hewlett Packard Enterprise – WW Corporate Headquarters
 7C:A7:B0		Shenzhen Bilian Electronic Co.，Ltd
 7C:A9:6B		Syrotech Networks. Ltd.
 7C:A9:7D		Objenious
@@ -35676,7 +35689,7 @@
 80:2F:DE		Zurich Instruments AG
 80:30:49		Liteon Technology Corporation
 80:30:DC		Texas Instruments
-80:30:E0		Hewlett Packard Enterprise
+80:30:E0		Hewlett Packard Enterprise – WW Corporate Headquarters
 80:31:F0		Samsung Electronics Co.,Ltd
 80:32:53		Intel Corporate
 80:34:28		Microchip Technology Inc.
@@ -35827,7 +35840,7 @@
 80:8A:F7		Nanoleaf
 80:8B:5C		Shenzhen Runhuicheng Technology Co., Ltd
 80:8C:97		Kaon Group Co., Ltd.
-80:8D:B7		Hewlett Packard Enterprise
+80:8D:B7		Hewlett Packard Enterprise – WW Corporate Headquarters
 80:8F:1D		Tp-Link Technologies Co.,Ltd.
 80:8F:E8		Intelbras
 80:91:2A		Lih Rong electronic Enterprise Co., Ltd.
@@ -36833,6 +36846,7 @@
 88:D8:2E		Intel Corporate
 88:D9:62		Canopus Systems US LLC
 88:D9:8F		Juniper Networks
+88:DA:18		China Mobile Group Device Co.,Ltd.
 88:DA:1A		Redpine Signals, Inc.
 88:DA:33		Beijing Xiaoyuer Network Technology Co., Ltd
 88:DC:96		EnGenius Technologies, Inc.
@@ -36855,7 +36869,7 @@
 88:E8:F8		Yong Tai Electronic (Dongguan) Ltd.
 88:E9:0F		innomdlelab
 88:E9:17		Tamaggo
-88:E9:A4		Hewlett Packard Enterprise
+88:E9:A4		Hewlett Packard Enterprise – WW Corporate Headquarters
 88:E9:FE		Apple, Inc.
 88:ED:1C		Cudo Communication Co., Ltd.
 88:EF:16		ARRIS Group, Inc.
@@ -36875,7 +36889,7 @@
 88:FD:15		Lineeye Co., Ltd
 88:FE:D6		ShangHai WangYong Software Co., Ltd.
 8A:00:B0		Eoptolink Technology Inc. Ltd,
-8A:07:75		Lyotech Labs Llc
+8A:07:75		Horys Technologies Llc
 8A:0A:F7		Montage Technology Co,.LTD
 8A:34:BC		Fiberworks AS
 8A:4F:8B		Irdeto
@@ -37207,6 +37221,7 @@
 8C:1F:64:26:80:00/36	Astro Machine Corporation
 8C:1F:64:26:E0:00/36	Koizumi Lighting Technology Corp.
 8C:1F:64:27:00:00/36	Xi‘an Hangguang Satellite and Control Technology Co.,Ltd
+8C:1F:64:27:30:00/36	Distran AG
 8C:1F:64:27:40:00/36	Invixium Access Inc
 8C:1F:64:27:B0:00/36	Oriux
 8C:1F:64:28:00:00/36	Heitec Ag
@@ -39095,7 +39110,7 @@
 90:48:9A		Hon Hai Precision Ind. Co.,Ltd.
 90:49:92		YSTen Technology Co.,Ltd
 90:49:FA		Intel Corporate
-90:4C:81		Hewlett Packard Enterprise
+90:4C:81		Hewlett Packard Enterprise – WW Corporate Headquarters
 90:4C:E5		Hon Hai Precision Ind. Co.,Ltd.
 90:4D:4A		Sagemcom Broadband SAS
 90:4D:C3		Flonidan A/S
@@ -39483,7 +39498,7 @@
 94:16:73		Point Core SARL
 94:17:00		Xiaomi Communications Co Ltd
 94:18:65		Netgear
-94:18:82		Hewlett Packard Enterprise
+94:18:82		Hewlett Packard Enterprise – WW Corporate Headquarters
 94:19:3A		Elvaco AB
 94:1C:56		Actiontec Electronics, Inc
 94:1D:1C		TLab West Systems AB
@@ -39532,10 +39547,10 @@
 94:3E:E4		WiSA Technologies Inc
 94:3F:0C		Genexis B.V.
 94:3F:BB		JSC RPC Istok named after Shokin
-94:3F:C2		Hewlett Packard Enterprise
+94:3F:C2		Hewlett Packard Enterprise – WW Corporate Headquarters
 94:3F:D6		Apple, Inc.
 94:40:A2		Anywave Communication Technologies, Inc.
-94:40:C9		Hewlett Packard Enterprise
+94:40:C9		Hewlett Packard Enterprise – WW Corporate Headquarters
 94:40:F3		Huawei Technologies Co.,Ltd
 94:41:C1		Mini-Cam Limited
 94:43:4D		Ciena Corporation
@@ -39805,7 +39820,7 @@
 94:EB:CD		BlackBerry RTS
 94:EE:9F		HMD Global Oy
 94:EF:49		BDR Thermea Group B.V
-94:F1:28		Hewlett Packard Enterprise
+94:F1:28		Hewlett Packard Enterprise – WW Corporate Headquarters
 94:F1:9E		Huizhou Maorong Intelligent Technology Co.,Ltd
 94:F2:78		Elma Electronic
 94:F2:BB		Valeo Vision Systems
@@ -40273,7 +40288,7 @@
 98:F1:81		New H3C Technologies Co., Ltd
 98:F1:99		NEC Platforms, Ltd.
 98:F2:17		Castlenet Technology Inc.
-98:F2:B3		Hewlett Packard Enterprise
+98:F2:B3		Hewlett Packard Enterprise – WW Corporate Headquarters
 98:F4:28		zte corporation
 98:F4:87		Texas Instruments
 98:F4:AB		Espressif Inc.
@@ -40557,7 +40572,7 @@
 9C:8B:A0		Apple, Inc.
 9C:8B:F1		The Warehouse Limited
 9C:8C:6E		Samsung Electronics Co.,Ltd
-9C:8C:D8		Hewlett Packard Enterprise
+9C:8C:D8		Hewlett Packard Enterprise – WW Corporate Headquarters
 9C:8D:1A		INTEG process group inc
 9C:8D:7C		Alpsalpine Co,.Ltd
 9C:8D:D3		Leonton Technologies
@@ -40662,7 +40677,7 @@
 9C:DB:07		Yellowtec GmbH
 9C:DB:AF		Huawei Technologies Co.,Ltd
 9C:DB:CB		Wuhan Funshion Online Technologies Co.,Ltd
-9C:DC:71		Hewlett Packard Enterprise
+9C:DC:71		Hewlett Packard Enterprise – WW Corporate Headquarters
 9C:DD:1F		Intelligent Steward Co.,Ltd
 9C:DE:4D		ML vision Co.,LTD
 9C:DF:03		Harman/Becker Automotive Systems GmbH
@@ -41653,6 +41668,7 @@ A4:FA:76		New H3C Technologies Co., Ltd
 A4:FB:8D		Hangzhou Dunchong Technology Co.Ltd
 A4:FC:14		Apple, Inc.
 A4:FC:77		Mega Well Limited
+A4:FC:A1		Nokia Solutions and Networks GmbH & Co. KG
 A4:FC:CE		Security Expert Ltd.
 A4:FF:95		Nokia
 A8:00:E3		Starkey Labs Inc.
@@ -41931,7 +41947,7 @@ A8:BB:56		Apple, Inc.
 A8:BB:CF		Apple, Inc.
 A8:BC:9C		Cloud Light Technology Limited
 A8:BD:1A		Honey Bee (Hong Kong) Limited
-A8:BD:27		Hewlett Packard Enterprise
+A8:BD:27		Hewlett Packard Enterprise – WW Corporate Headquarters
 A8:BD:3A		Union Man Technology Co.,Ltd
 A8:BE:27		Apple, Inc.
 A8:BF:3C		HDV Phoelectron Technology Limited
@@ -42545,6 +42561,7 @@ B0:55:08		Huawei Technologies Co.,Ltd
 B0:57:06		Vallox Oy
 B0:58:C4		Broadcast Microwave Services, Inc
 B0:59:47		Shenzhen Qihu Intelligent Technology Company Limited
+B0:5A:44		Fibocom Wireless Inc.
 B0:5A:DA		Hewlett Packard
 B0:5B:1F		Thermo Fisher Scientific S.P.A.
 B0:5B:67		Huawei Technologies Co.,Ltd
@@ -42685,7 +42702,7 @@ B0:B3:AD		HUMAX Co., Ltd.
 B0:B4:48		Texas Instruments
 B0:B5:C3		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 B0:B5:E8		Ruroc LTD
-B0:B8:67		Hewlett Packard Enterprise
+B0:B8:67		Hewlett Packard Enterprise – WW Corporate Headquarters
 B0:B8:D5		Nanjing Nengrui Auto Equipment CO.,Ltd
 B0:B9:8A		Netgear
 B0:BB:8B		Wavetel Technology Limited
@@ -43031,7 +43048,7 @@ B4:77:48		Shenzhen Neoway Technology Co.,Ltd.
 B4:79:47		Nutanix
 B4:79:A7		Samsung Electro-Mechanics(Thailand)
 B4:79:C8		Ruckus Wireless
-B4:7A:F1		Hewlett Packard Enterprise
+B4:7A:F1		Hewlett Packard Enterprise – WW Corporate Headquarters
 B4:7C:29		Shenzhen Guzidi Technology Co.,Ltd
 B4:7C:59		Jiangsu Hengxin Technology Co.,Ltd.
 B4:7C:9C		Amazon Technologies Inc.
@@ -43374,7 +43391,7 @@ B8:69:F4		Routerboard.com
 B8:6A:97		Edgecore Networks Corporation
 B8:6A:F1		Sagemcom Broadband SAS
 B8:6B:23		Toshiba
-B8:6C:E0		Hewlett Packard Enterprise
+B8:6C:E0		Hewlett Packard Enterprise – WW Corporate Headquarters
 B8:6C:E8		Samsung Electronics Co.,Ltd
 B8:70:F4		Compal Information (Kunshan) Co., Ltd.
 B8:74:24		Viessmann Elektronik GmbH
@@ -43399,7 +43416,7 @@ B8:80:35		Shenzhen Qihu Intelligent Technology Company Limited
 B8:80:4F		Texas Instruments
 B8:81:98		Intel Corporate
 B8:81:FA		Apple, Inc.
-B8:83:03		Hewlett Packard Enterprise
+B8:83:03		Hewlett Packard Enterprise – WW Corporate Headquarters
 B8:85:7B		Huawei Technologies Co.,Ltd
 B8:85:84		Dell Inc.
 B8:86:87		Liteon Technology Corporation
@@ -45239,7 +45256,7 @@ C8:B2:1E		Chipsea Technologies (Shenzhen) Corp.
 C8:B2:9B		Intel Corporate
 C8:B3:73		Cisco-Linksys, LLC
 C8:B4:22		Askey Computer Corp
-C8:B5:AD		Hewlett Packard Enterprise
+C8:B5:AD		Hewlett Packard Enterprise – WW Corporate Headquarters
 C8:B5:B7		Apple, Inc.
 C8:B6:D3		Huawei Technologies Co.,Ltd
 C8:B6:FE		Fitbit, Inc.
@@ -46047,7 +46064,7 @@ D0:65:78		Intel Corporate
 D0:65:CA		Huawei Technologies Co.,Ltd
 D0:66:6D		Shenzhen Bus-Lan Technology Co., Ltd.
 D0:66:7B		Samsung Electronics Co.,Ltd
-D0:67:26		Hewlett Packard Enterprise
+D0:67:26		Hewlett Packard Enterprise – WW Corporate Headquarters
 D0:67:E5		Dell Inc.
 D0:69:9E		LUMINEX Lighting Control Equipment
 D0:69:D0		Verto Medical Solutions, LLC
@@ -46777,7 +46794,7 @@ D4:F4:BE		Palo Alto Networks
 D4:F5:13		Texas Instruments
 D4:F5:27		Siemens Ag
 D4:F5:47		Google, Inc.
-D4:F5:EF		Hewlett Packard Enterprise
+D4:F5:EF		Hewlett Packard Enterprise – WW Corporate Headquarters
 D4:F6:3F		Iea S.R.L.
 D4:F7:56		zte corporation
 D4:F7:86		Fiberhome Telecommunication Technologies Co.,LTD
@@ -47008,7 +47025,7 @@ D8:90:E8		Samsung Electronics Co.,Ltd
 D8:91:2A		Zyxel Communications Corporation
 D8:91:36		Dover Fueling Solutions
 D8:93:41		General Electric Global Research
-D8:94:03		Hewlett Packard Enterprise
+D8:94:03		Hewlett Packard Enterprise – WW Corporate Headquarters
 D8:95:2F		Texas Instruments
 D8:95:63		Taiwan Digital Streaming Co.
 D8:96:85		GoPro
@@ -47360,7 +47377,7 @@ DC:65:55		New H3C Intelligence Terminal Co., Ltd.
 DC:66:3A		Apacer Technology Inc.
 DC:66:72		Samsung Electronics Co.,Ltd
 DC:67:23		barox Kommunikation GmbH
-DC:68:0C		Hewlett Packard Enterprise
+DC:68:0C		Hewlett Packard Enterprise – WW Corporate Headquarters
 DC:68:80		zte corporation
 DC:68:EB		Nintendo Co.,Ltd
 DC:69:E2		Samsung Electronics Co.,Ltd
@@ -47556,7 +47573,7 @@ DC:EB:53		Wuhan QianXiao Elecronic Technology CO.,LTD
 DC:EB:69		Vantiva USA LLC
 DC:EB:94		Cisco Systems, Inc
 DC:EC:06		Heimi Network Technology Co., Ltd.
-DC:EC:E3		Lyotech Labs Llc
+DC:EC:E3		Horys Technologies Llc
 DC:ED:83		Beijing Xiaomi Mobile Software Co., Ltd
 DC:ED:84		Haverford Systems Inc
 DC:EE:06		Huawei Technologies Co.,Ltd
@@ -47594,7 +47611,7 @@ E0:03:70		ShenZhen Continental Wireless Technology Co., Ltd.
 E0:05:C5		Tp-Link Technologies Co.,Ltd.
 E0:06:30		Huawei Technologies Co.,Ltd
 E0:06:E6		Hon Hai Precision Ind. Co.,Ltd.
-E0:07:1B		Hewlett Packard Enterprise
+E0:07:1B		Hewlett Packard Enterprise – WW Corporate Headquarters
 E0:07:C2		Fujian Star-Net Communication Co.,Ltd
 E0:08:55		AVM Audiovisuelles Marketing und Computersysteme GmbH
 E0:08:71		Dongguan Liesheng Electronic Co., Ltd.
@@ -48762,7 +48779,7 @@ E8:F2:E3		Starcor Beijing Co.,Limited
 E8:F3:75		Nokia
 E8:F4:08		Intel Corporate
 E8:F6:54		Huawei Technologies Co.,Ltd
-E8:F7:24		Hewlett Packard Enterprise
+E8:F7:24		Hewlett Packard Enterprise – WW Corporate Headquarters
 E8:F7:2F		Huawei Technologies Co.,Ltd
 E8:F7:91		Xiaomi Communications Co Ltd
 E8:F8:D0		Nokia Shanghai Bell Co., Ltd.
@@ -49021,7 +49038,7 @@ EC:9A:34		Texas Instruments
 EC:9A:74		Hewlett Packard
 EC:9B:2D		China Mobile Group Device Co.,Ltd.
 EC:9B:5B		Nokia Corporation
-EC:9B:8B		Hewlett Packard Enterprise
+EC:9B:8B		Hewlett Packard Enterprise – WW Corporate Headquarters
 EC:9B:F3		Samsung Electro-Mechanics(Thailand)
 EC:9C:32		Sichuan AI-Link Technology Co., Ltd.
 EC:9E:CD		Artesyn Embedded Technologies
@@ -49132,7 +49149,7 @@ EC:E9:0B		Sistema Solucoes Eletronicas Ltda - Easytech
 EC:E9:15		STI Ltd
 EC:E9:F8		Guang Zhou TRI-SUN Electronics Technology  Co., Ltd
 EC:EA:03		Darfon Lighting Corp
-EC:EB:B8		Hewlett Packard Enterprise
+EC:EB:B8		Hewlett Packard Enterprise – WW Corporate Headquarters
 EC:ED:73		Motorola Mobility LLC, a Lenovo Company
 EC:EE:D8		ZTLX Network Technology Co.,Ltd
 EC:EF:17		Sunplus Technology Co., Ltd.
@@ -49597,7 +49614,7 @@ F4:03:04		Google, Inc.
 F4:03:21		BeNeXt B.V.
 F4:03:2A		Amazon Technologies Inc.
 F4:03:2F		Reduxio Systems
-F4:03:43		Hewlett Packard Enterprise
+F4:03:43		Hewlett Packard Enterprise – WW Corporate Headquarters
 F4:04:4C		ValenceTech Limited
 F4:05:95		Sagemcom Broadband SAS
 F4:06:16		Apple, Inc.
