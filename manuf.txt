@@ -21370,6 +21370,7 @@
 28:16:A8		Microsoft Corporation
 28:16:AD		Intel Corporate
 28:17:09		Huawei Technologies Co.,Ltd
+28:17:CB		Software Freedom Conservancy
 28:17:CE		Omnisense Ltd
 28:18:78		Microsoft Corporation
 28:18:FD		Aditya Infotech Ltd.
@@ -24300,6 +24301,7 @@
 40:98:AD		Apple, Inc.
 40:99:22		AzureWave Technology Inc.
 40:99:E3		Guangzhou Mudi Information Technology Co., Ltd
+40:99:F6		Telink Semiconductor(Shanghai) Co.,Ltd
 40:9A:30		Tecno Mobile Limited
 40:9B:0D		Shenzhen Yourf Kwan Industrial Co., Ltd
 40:9B:21		Nokia
@@ -25750,6 +25752,7 @@
 48:E3:C3		JENOPTIK Advanced Systems GmbH
 48:E5:33		Sunnovo International Limited
 48:E6:63		IEEE Registration Authority
+48:E6:63:00:00:00/28	Huaqian Beijing Technology Co., Ltd
 48:E6:63:40:00:00/28	Smile Security and Survillence Private Limited
 48:E6:63:70:00:00/28	Earweiss Technology (Shenzhen) Co,. Ltd
 48:E6:63:B0:00:00/28	Nakamura-Tome Precision  Industry Co.,Ltd.
@@ -38172,6 +38175,7 @@
 8C:1F:64:BF:80:00/36	Cdsi
 8C:1F:64:BF:B0:00/36	TechArgos
 8C:1F:64:BF:C0:00/36	ASiS Technologies Pte Ltd
+8C:1F:64:BF:E0:00/36	PuS GmbH und Co. KG
 8C:1F:64:C0:10:00/36	Horiba Abx Sas
 8C:1F:64:C0:30:00/36	Abiman Engineering
 8C:1F:64:C0:40:00/36	Sanwa Corporation
