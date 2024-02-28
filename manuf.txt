@@ -18173,6 +18173,7 @@
 08:A5:C8		Sunnovo International Limited
 08:A5:DF		Samsung Electronics Co.,Ltd
 08:A6:BC		Amazon Technologies Inc.
+08:A6:F7		Espressif Inc.
 08:A7:C0		Vantiva USA LLC
 08:A8:42		Huawei Device Co., Ltd.
 08:A8:A1		Cyclotronics Power Concepts, Inc
@@ -18460,6 +18461,7 @@
 0C:67:14		Sernet (Suzhou) Technologies Corporation
 0C:67:43		Huawei Technologies Co.,Ltd
 0C:68:03		Cisco Systems, Inc
+0C:68:25		Suzhou HYC technology Co., Ltd.
 0C:6A:BC		Fiberhome Telecommunication Technologies Co.,LTD
 0C:6A:C4		Apple, Inc.
 0C:6A:E6		Stanley Security Solutions
@@ -23358,6 +23360,7 @@
 38:76:05		Inogeni
 38:76:CA		Shenzhen Smart Intelligent Technology Co.Ltd
 38:76:D1		Euronda SpA
+38:77:CD		Kokusai Electric Corporation
 38:78:62		Sony Corporation
 38:7A:0E		Intel Corporate
 38:7A:3C		Fiberhome Telecommunication Technologies Co.,LTD
@@ -25756,10 +25759,14 @@
 48:E5:33		Sunnovo International Limited
 48:E6:63		IEEE Registration Authority
 48:E6:63:00:00:00/28	Huaqian Beijing Technology Co., Ltd
+48:E6:63:20:00:00/28	Beijing Jingdong Qianshi Technology Co.,Ltd.
+48:E6:63:30:00:00/28	Makerfabs
 48:E6:63:40:00:00/28	Smile Security and Survillence Private Limited
 48:E6:63:70:00:00/28	Earweiss Technology (Shenzhen) Co,. Ltd
+48:E6:63:80:00:00/28	Shenzhen Peicheng Technology Co., LTD.
 48:E6:63:90:00:00/28	AceZone Aps
 48:E6:63:B0:00:00/28	Nakamura-Tome Precision  Industry Co.,Ltd.
+48:E6:63:D0:00:00/28	Neureality ltd
 48:E6:95		Insigma Inc
 48:E6:C0		SIMCom Wireless Solutions Co.,Ltd.
 48:E7:29		Espressif Inc.
@@ -26032,6 +26039,7 @@
 4C:80:93		Intel Corporate
 4C:80:BA		Wuhan Tianyu Information Industry Co., Ltd.
 4C:81:20		Taicang T&W Electronics
+4C:81:25		ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd
 4C:82:A9		Cloud Network Technology Singapore Pte. Ltd.
 4C:82:CF		Dish Technologies Corp
 4C:83:DE		Cisco SPVTG
@@ -28616,6 +28624,7 @@
 64:8C:BB		Texas Instruments
 64:8D:9E		IVT Electronic Co.,Ltd
 64:8F:3E		Cisco Systems, Inc
+64:8F:DB		Huaqin Technology Co.LTD
 64:90:C1		Beijing Xiaomi Mobile Software Co., Ltd
 64:95:6C		LG Electronics
 64:97:14		eero inc.
@@ -35296,6 +35305,7 @@
 7C:5A:1C		Sophos Ltd
 7C:5A:67		JNC Systems, Inc.
 7C:5C:F8		Intel Corporate
+7C:5E:98		eero inc.
 7C:60:4A		Avelon
 7C:60:97		Huawei Technologies Co.,Ltd
 7C:61:30		Apple, Inc.
@@ -37225,6 +37235,7 @@
 8C:1F:64:25:A0:00/36	Wuhan Xingtuxinke ELectronic Co.,Ltd
 8C:1F:64:25:C0:00/36	TimeMachines Inc.
 8C:1F:64:25:E0:00/36	R2Sonic, LLC
+8C:1F:64:25:F0:00/36	Acuris Inc
 8C:1F:64:26:30:00/36	EPC Power Corporation
 8C:1F:64:26:40:00/36	BR. Voss Ingenjörsfirma AB
 8C:1F:64:26:70:00/36	Karl DUNGS GmbH & Co. KG
@@ -37654,6 +37665,7 @@
 8C:1F:64:69:10:00/36	Wende Tan
 8C:1F:64:69:20:00/36	Nexilis Electronics India Pvt Ltd (PICSYS)
 8C:1F:64:69:40:00/36	Hubbell Power Systems
+8C:1F:64:69:60:00/36	Emerson Rosemount Analytical
 8C:1F:64:69:70:00/36	Sontay Ltd.
 8C:1F:64:69:80:00/36	Arcus-EDS GmbH
 8C:1F:64:69:90:00/36	FIDICA GmbH & Co. KG
@@ -37724,6 +37736,7 @@
 8C:1F:64:74:70:00/36	VisionTIR Multispectral Technology
 8C:1F:64:74:B0:00/36	AR Modular RF
 8C:1F:64:74:E0:00/36	OpenPark Technologies Kft
+8C:1F:64:75:50:00/36	Flextronics International Kft
 8C:1F:64:75:60:00/36	Star Systems International Limited
 8C:1F:64:75:90:00/36	Systel Inc
 8C:1F:64:75:F0:00/36	ASTRACOM Co. Ltd
@@ -38061,6 +38074,7 @@
 8C:1F:64:AB:60:00/36	EMIT GmbH
 8C:1F:64:AB:70:00/36	MClavis Co.,Ltd.
 8C:1F:64:AB:E0:00/36	TAIYO DENON Corporation
+8C:1F:64:AB:F0:00/36	Stackiot Technologies Private Limited
 8C:1F:64:AC:00:00/36	AIQuatro
 8C:1F:64:AC:30:00/36	Waves System
 8C:1F:64:AC:40:00/36	comelec
@@ -38081,6 +38095,7 @@
 8C:1F:64:AE:D0:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:AE:F0:00/36	Scenario Automation
 8C:1F:64:AF:00:00/36	MinebeaMitsumi Inc.
+8C:1F:64:AF:10:00/36	E-S-Tel
 8C:1F:64:AF:40:00/36	Nokia Bell Labs
 8C:1F:64:AF:50:00/36	Sanmina Israel Medical Systems Ltd
 8C:1F:64:AF:70:00/36	ard sa
@@ -38100,6 +38115,7 @@
 8C:1F:64:B1:40:00/36	Murata Manufacturing CO., Ltd.
 8C:1F:64:B1:80:00/36	Grossenbacher Systeme AG
 8C:1F:64:B1:90:00/36	DITRON S.r.l.
+8C:1F:64:B2:00:00/36	Lechpol Electronics Spółka z o.o. Sp.k.
 8C:1F:64:B2:20:00/36	Blighter Surveillance Systems Ltd
 8C:1F:64:B2:40:00/36	Abb
 8C:1F:64:B2:60:00/36	AVL DiTEST GmbH
@@ -38166,6 +38182,7 @@
 8C:1F:64:BC:C0:00/36	Sound Health Systems
 8C:1F:64:BC:E0:00/36	BESO sp. z o.o.
 8C:1F:64:BD:30:00/36	IO Master Technology
+8C:1F:64:BD:50:00/36	Pro-Custom Group
 8C:1F:64:BD:60:00/36	NOVA Products GmbH
 8C:1F:64:BD:70:00/36	Union Electronic.
 8C:1F:64:BD:B0:00/36	Cardinal Scales Manufacturing Co
@@ -38332,6 +38349,7 @@
 8C:1F:64:D6:C0:00/36	Packetalk LLC
 8C:1F:64:D7:30:00/36	BRS Sistemas Eletrônicos
 8C:1F:64:D7:40:00/36	Tex Computer Srl
+8C:1F:64:D7:70:00/36	Private
 8C:1F:64:D7:80:00/36	Hunan Oushi Electronic Technology Co.,Ltd
 8C:1F:64:D7:B0:00/36	Global Design Solutions Korea
 8C:1F:64:D7:C0:00/36	Quercus Technologies, S.L.
@@ -39312,7 +39330,7 @@
 90:B1:44		Samsung Electronics Co.,Ltd
 90:B1:E0		Beijing Nebula Link Technology Co., Ltd
 90:B2:1F		Apple, Inc.
-90:B4:DD		Private
+90:B4:DD		Zpt R&D
 90:B5:7F		Shenzhen iComm Semiconductor CO.,LTD
 90:B6:22		Samsung Electronics Co.,Ltd
 90:B6:7A		Shenzhen Skyworth Digital  Technology  CO., Ltd
@@ -41342,6 +41360,7 @@ A4:3E:A0		iComm HK LIMITED
 A4:3F:51		Shenzhen Benew Technology  Co.,Ltd.
 A4:3F:68		Arista Network, Inc.
 A4:40:27		zte corporation
+A4:40:3D		Shenzhen Baseus Technology Co., Ltd.
 A4:42:3B		Intel Corporate
 A4:43:8C		ARRIS Group, Inc.
 A4:44:D1		Wingtech Group (HongKong）Limited
@@ -42075,6 +42094,7 @@ AC:12:8E		Shanghai Baud Data Communication Co.,Ltd.
 AC:13:9C		Adtran Inc
 AC:14:61		ATAW  Co., Ltd.
 AC:14:D2		wi-daq, inc.
+AC:15:18		Espressif Inc.
 AC:15:85		silergy corp
 AC:15:A2		TP-Link Corporation Limited
 AC:15:F4		Apple, Inc.
@@ -44490,6 +44510,7 @@ C4:05:28		Huawei Technologies Co.,Ltd
 C4:06:83		Huawei Technologies Co.,Ltd
 C4:07:2F		Huawei Technologies Co.,Ltd
 C4:07:78		New H3C Technologies Co., Ltd
+C4:08:26		Hisense Visual Technology Co.,Ltd
 C4:08:4A		Nokia
 C4:08:80		Shenzhen UTEPO Tech Co., Ltd.
 C4:09:38		Fujian Star-Net Communication Co.,Ltd
