@@ -18052,6 +18052,7 @@
 08:51:14		Qingdao Topscomm Communication Co., Ltd
 08:51:2E		Orion Diagnostica Oy
 08:52:40		EbV Elektronikbau- und Vertriebs GmbH
+08:52:4E		Shenzhen Fangcheng Baiyi Technology Co., Ltd.
 08:54:11		Hangzhou Hikvision Digital Technology Co.,Ltd.
 08:54:BB		Shenzhen Chuangwei-Rgb Electronics Co.,Ltd
 08:55:31		Routerboard.com
@@ -19845,6 +19846,7 @@
 18:9C:27		ARRIS Group, Inc.
 18:9C:5D		Cisco Systems, Inc
 18:9E:2C		Huawei Device Co., Ltd.
+18:9E:2D		Allwinner Technology Co., Ltd
 18:9E:AD		Shenzhen Chengqian Information Technology Co., Ltd
 18:9E:FC		Apple, Inc.
 18:A2:8A		Essel-T Co., Ltd
@@ -20064,6 +20066,7 @@
 1C:12:B0		Amazon Technologies Inc.
 1C:13:38		Kimball Electronics Group, LLC
 1C:13:86		Huawei Device Co., Ltd.
+1C:13:FA		Huawei Device Co., Ltd.
 1C:14:48		ARRIS Group, Inc.
 1C:14:B3		Airwire Technologies
 1C:15:1F		Huawei Technologies Co.,Ltd
@@ -21458,6 +21461,7 @@
 28:36:38:C0:00:00/28	Swisson AG
 28:36:38:D0:00:00/28	APPEAK Technology System Co.Ltd.
 28:36:38:E0:00:00/28	SCA Hygiene Products AB
+28:36:F0		Huawei Device Co., Ltd.
 28:37:13		Shenzhen 3Nod Digital Technology Co., Ltd.
 28:37:37		Apple, Inc.
 28:38:5C		Flextronics
@@ -25481,6 +25485,7 @@
 48:35:2B		Apple, Inc.
 48:35:2E		Shenzhen Wolck Network Product Co.,LTD
 48:35:43		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
+48:35:84		Huawei Device Co., Ltd.
 48:36:5F		Wintecronics Ltd.
 48:38:71		Huawei Device Co., Ltd.
 48:38:B6		Auhui Taoyun Technology Co., Ltd
@@ -25504,6 +25509,7 @@
 48:46:F1		Uros Oy
 48:46:FB		Huawei Technologies Co.,Ltd
 48:47:4B		Huawei Device Co., Ltd.
+48:49:82		Huawei Device Co., Ltd.
 48:49:C7		Samsung Electronics Co.,Ltd
 48:4A:30		George Robotics Limited
 48:4A:E9		Hewlett Packard Enterprise – WW Corporate Headquarters
@@ -25759,13 +25765,17 @@
 48:E5:33		Sunnovo International Limited
 48:E6:63		IEEE Registration Authority
 48:E6:63:00:00:00/28	Huaqian Beijing Technology Co., Ltd
+48:E6:63:10:00:00/28	Nanning Nislight Communication Technology Co.,Ltd.,
 48:E6:63:20:00:00/28	Beijing Jingdong Qianshi Technology Co.,Ltd.
 48:E6:63:30:00:00/28	Makerfabs
 48:E6:63:40:00:00/28	Smile Security and Survillence Private Limited
+48:E6:63:60:00:00/28	Shenzhen Huabao New Energy Co.,Ltd
 48:E6:63:70:00:00/28	Earweiss Technology (Shenzhen) Co,. Ltd
 48:E6:63:80:00:00/28	Shenzhen Peicheng Technology Co., LTD.
 48:E6:63:90:00:00/28	AceZone Aps
+48:E6:63:A0:00:00/28	Shenzhen Jointelli Technologies Co.,Ltd
 48:E6:63:B0:00:00/28	Nakamura-Tome Precision  Industry Co.,Ltd.
+48:E6:63:C0:00:00/28	Beijing Cunyin Chengqi Technology Co., Ltd.
 48:E6:63:D0:00:00/28	Neureality ltd
 48:E6:95		Insigma Inc
 48:E6:C0		SIMCom Wireless Solutions Co.,Ltd.
@@ -27655,6 +27665,7 @@
 5C:45:27		Juniper Networks
 5C:46:B0		SIMCom Wireless Solutions Limited
 5C:47:5E		Ring LLC
+5C:48:42		Hangzhou Anysoft Information Technology Co. , Ltd
 5C:49:79		AVM Audiovisuelles Marketing und Computersysteme GmbH
 5C:49:7D		Samsung Electronics Co.,Ltd
 5C:49:FA		Shenzhen Guowei Shidai Communication Equipement Co., Ltd
@@ -28176,6 +28187,7 @@
 60:83:34		Huawei Technologies Co.,Ltd
 60:83:73		Apple, Inc.
 60:83:B2		GkWare e.K.
+60:83:E7		Tp-Link Corporation Pte. Ltd.
 60:84:3B		Soladigm, Inc.
 60:84:BD		Buffalo.Inc
 60:86:45		Avery Weigh-Tronix, LLC
@@ -36900,6 +36912,7 @@
 88:F4:88		cellon communications technology(shenzhen)Co.,Ltd.
 88:F4:90		Jetmobile Pte Ltd
 88:F5:6E		Huawei Technologies Co.,Ltd
+88:F6:DC		Huawei Device Co., Ltd.
 88:F7:BF		vivo Mobile Communication Co., Ltd.
 88:F7:C7		Vantiva USA LLC
 88:F8:72		Huawei Technologies Co.,Ltd
@@ -38937,6 +38950,7 @@
 8C:C8:F4:C0:00:00/28	Shenzhen KSTAR Science and Technology Co., Ltd
 8C:C8:F4:D0:00:00/28	Beijing Xinxunxintong Eletronics Co.,Ltd
 8C:C8:F4:E0:00:00/28	Evaporcool Solutions
+8C:C9:E9		Huawei Device Co., Ltd.
 8C:CB:14		TBS GmbH
 8C:CB:DF		Foxconn Interconnect Technology
 8C:CD:A2		ACTP, Inc.
@@ -39938,6 +39952,7 @@
 98:06:37:E0:00:00/28	Shanghai Jinnian information technology Co. Ltd
 98:06:3A		Home Control Singapore Pte Ltd
 98:06:3C		Samsung Electronics Co.,Ltd
+98:07:09		Huawei Device Co., Ltd.
 98:07:2D		Texas Instruments
 98:09:CF		OnePlus Technology (Shenzhen) Co., Ltd
 98:0C:33		Silicon Laboratories
@@ -41964,6 +41979,7 @@ A8:AD:3D		Alcatel-Lucent Shanghai Bell Co., Ltd
 A8:B0:28		CubePilot Pty Ltd
 A8:B0:88		eero inc.
 A8:B0:AE		BizLink Special Cables Germany GmbH
+A8:B0:D1		EFUN Display Technology (Shenzhen) Co., Ltd.
 A8:B1:3B		HP Inc.
 A8:B1:D4		Cisco Systems, Inc
 A8:B2:71		Huawei Technologies Co.,Ltd
@@ -42307,6 +42323,7 @@ AC:86:74		Open Mesh, Inc.
 AC:86:7E		Create New Technology (HK) Limited Company
 AC:86:A3		Apple, Inc.
 AC:87:A3		Apple, Inc.
+AC:88:66		Shenzhen Skyworth Digital  Technology  CO., Ltd
 AC:88:FD		Apple, Inc.
 AC:89:95		AzureWave Technology Inc.
 AC:89:D2		Ciena Corporation
@@ -42460,6 +42477,7 @@ AC:F0:B2		Becker Electronics Taiwan Ltd.
 AC:F1:08		LG Innotek
 AC:F1:DF		D-Link International
 AC:F2:C5		Cisco Systems, Inc
+AC:F4:2C		Earda Technologies co Ltd
 AC:F5:E6		Cisco Systems, Inc
 AC:F6:F7		LG Electronics (Mobile Communications)
 AC:F7:F3		Xiaomi Communications Co Ltd
@@ -44345,6 +44363,7 @@ C0:A6:6D		Inspur Group Co., Ltd.
 C0:A8:F0		Adamson Systems Engineering
 C0:A9:38		Huawei Technologies Co.,Ltd
 C0:AA:68		OSASI Technos Inc.
+C0:AB:2B		Huawei Device Co., Ltd.
 C0:AC:54		Sagemcom Broadband SAS
 C0:AD:97		Tecno Mobile Limited
 C0:AE:FD		Shenzhen HC-WLAN Technology Co.,Ltd
@@ -45674,6 +45693,7 @@ CC:88:C7		Aruba, a Hewlett Packard Enterprise Company
 CC:89:5E		Huawei Technologies Co.,Ltd
 CC:89:6C		GN Hearing A/S
 CC:89:FD		Nokia Corporation
+CC:8C:17		Itel Mobile Limited
 CC:8C:BF		Tuya Smart Inc.
 CC:8C:DA		Shenzhen Wei Da Intelligent Technology Go.,Ltd
 CC:8C:E3		Texas Instruments
@@ -46965,6 +46985,7 @@ D8:53:BC		Lenovo Information Products (Shenzhen)Co.,Ltd
 D8:54:3A		Texas Instruments
 D8:54:82		Oxit, LLC
 D8:54:A2		Extreme Networks Headquarters
+D8:54:F2		Huawei Device Co., Ltd.
 D8:55:75		Samsung Electronics Co.,Ltd
 D8:55:A3		zte corporation
 D8:57:EF		Samsung Electronics Co.,Ltd
@@ -48179,6 +48200,7 @@ E4:4F:5F		EDS Elektronik Destek San.Tic.Ltd.Sti
 E4:50:9A		HW Communications Ltd
 E4:50:EB		Apple, Inc.
 E4:52:1E		Texas Instruments
+E4:54:E5		Huawei Device Co., Ltd.
 E4:54:E8		Dell Inc.
 E4:55:A8		Cisco Meraki
 E4:55:EA		Dedicated Computing
