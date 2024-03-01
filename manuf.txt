@@ -19046,6 +19046,7 @@
 10:9F:4F		New H3C Intelligence Terminal Co., Ltd.
 10:9F:A9		Actiontec Electronics, Inc
 10:A1:3B		Fujikura Rubber Ltd.
+10:A1:45		nexzo india pvt ltd
 10:A2:4E		Gold3Link Electronics Co., Ltd
 10:A2:D3		Apple, Inc.
 10:A3:B8		Iskratel d.o.o.
@@ -23024,6 +23025,7 @@
 34:C5:15		Aruba, a Hewlett Packard Enterprise Company
 34:C5:D0		Hagleitner Hygiene International GmbH
 34:C6:9A		Enecsys Ltd
+34:C6:DD		Hangzhou Ezviz Software Co.,Ltd.
 34:C7:31		Alpsalpine Co,.Ltd
 34:C7:E9		Google, Inc.
 34:C8:03		Nokia Corporation
@@ -23055,6 +23057,7 @@
 34:CE:69		Nokia Solutions and Networks GmbH & Co. KG
 34:CE:94		Parsec (Pty) Ltd
 34:CF:6C		Hangzhou Taili wireless communication equipment Co.,Ltd
+34:CF:B5		Robotic d.o.o.
 34:CF:F6		Intel Corporate
 34:D0:9B		MobilMAX Technology Inc.
 34:D0:B8		IEEE Registration Authority
@@ -34137,6 +34140,7 @@
 70:E8:43		Beijing C&W Optical Communication Technology Co.,Ltd.
 70:EA:1A		Cisco Systems, Inc
 70:EA:5A		Apple, Inc.
+70:EB:74		Ningbo Goneo Electric Appliance Co., Ltd.
 70:EC:E4		Apple, Inc.
 70:EE:50		Netatmo
 70:EE:A3		Eoptolink Technology Inc. Ltd,
@@ -37070,6 +37074,7 @@
 8C:1F:64:07:10:00/36	Dorlet Sau
 8C:1F:64:07:70:00/36	Engage Technologies
 8C:1F:64:07:A0:00/36	Flextronics International Kft
+8C:1F:64:07:D0:00/36	Talleres de Escoriaza SAU
 8C:1F:64:07:E0:00/36	FLOYD inc.
 8C:1F:64:07:F0:00/36	G.S.D Group Inc.
 8C:1F:64:08:00:00/36	Twinleaf LLC
@@ -37093,6 +37098,7 @@
 8C:1F:64:09:D0:00/36	Flextronics International Kft
 8C:1F:64:09:E0:00/36	IWS Global Pty Ltd
 8C:1F:64:09:F0:00/36	MB connect line GmbH Fernwartungssysteme
+8C:1F:64:0A:00:00/36	Techniwave
 8C:1F:64:0A:40:00/36	Dynamic Research, Inc.
 8C:1F:64:0A:80:00/36	SamabaNova Systems
 8C:1F:64:0A:A0:00/36	Di3 Infotech Llp
@@ -37321,6 +37327,7 @@
 8C:1F:64:31:40:00/36	Cedel BV
 8C:1F:64:31:60:00/36	Potter Electric Signal Company
 8C:1F:64:31:70:00/36	Bacancy Systems LLP
+8C:1F:64:31:90:00/36	Exato Company
 8C:1F:64:31:A0:00/36	Asiga Pty Ltd
 8C:1F:64:31:B0:00/36	joint analytical systems GmbH
 8C:1F:64:31:C0:00/36	Accumetrics
@@ -38093,6 +38100,7 @@
 8C:1F:64:AC:40:00/36	comelec
 8C:1F:64:AC:50:00/36	Forever Engineering Systems Pvt. Ltd.
 8C:1F:64:AC:90:00/36	ShenYang LeShun Technology Co.,Ltd
+8C:1F:64:AC:B0:00/36	Villari B.V.
 8C:1F:64:AC:E0:00/36	Rayhaan Networks
 8C:1F:64:AD:00:00/36	Elektrotechnik & Elektronik Oltmann GmbH
 8C:1F:64:AD:20:00/36	YUYAMA MFG Co.,Ltd
@@ -44933,6 +44941,7 @@ C4:E5:10		Mechatro, Inc.
 C4:E5:32		Arcadyan Corporation
 C4:E5:B1		Suzhou PanKore Integrated Circuit Technology Co. Ltd.
 C4:E7:33		Clear Align LLC
+C4:E7:AE		Chengdu Meross Technology Co., Ltd.
 C4:E7:BE		SCSpro Co.,Ltd
 C4:E9:0A		D-Link International
 C4:E9:2F		AB Sciex
