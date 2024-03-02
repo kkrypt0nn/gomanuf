@@ -14470,7 +14470,7 @@
 00:50:C2:DA:C0:00/36	RFL Electronics, Inc.
 00:50:C2:DA:D0:00/36	Keith & Koep GmbH
 00:50:C2:DA:E0:00/36	Spang Power Electronics
-00:50:C2:DA:F0:00/36	eumig industrie-tv GmbH
+00:50:C2:DA:F0:00/36	eumig industrie-TV GmbH.
 00:50:C2:DB:00:00/36	IMAGO Technologies GmbH
 00:50:C2:DB:10:00/36	RF Code
 00:50:C2:DB:20:00/36	SoftwareCannery
@@ -16986,6 +16986,7 @@
 00:D4:9E		Intel Corporate
 00:D5:98		Bopel Mobile Technology Co.,Limited
 00:D6:32		GE Energy
+00:D6:CB		Quectel Wireless Solutions Co.,Ltd.
 00:D6:FE		Cisco Systems, Inc
 00:D7:6D		Intel Corporate
 00:D7:8F		Cisco Systems, Inc
@@ -20222,6 +20223,7 @@
 1C:63:B7		OpenProducts 237 AB
 1C:63:BF		Shenzhen Broadtel  Telecom Co.,Ltd
 1C:64:99		Comtrend Corporation
+1C:64:F0		Motorola Mobility LLC, a Lenovo Company
 1C:65:9D		Liteon Technology Corporation
 1C:66:6D		Hon Hai Precision Ind. Co.,Ltd.
 1C:66:AA		Samsung Electronics Co.,Ltd
@@ -24679,7 +24681,7 @@
 40:D8:55:0F:90:00/36	Invisua Lighting BV
 40:D8:55:0F:A0:00/36	Marmitek BV
 40:D8:55:0F:B0:00/36	InfoMac Sp. z o. o. Sp. k.
-40:D8:55:0F:C0:00/36	eumig industrie-tv GmbH
+40:D8:55:0F:C0:00/36	eumig industrie-TV GmbH.
 40:D8:55:0F:D0:00/36	MONOGRAM technologies ltd
 40:D8:55:0F:E0:00/36	Cytech Technology Pte Ltd
 40:D8:55:0F:F0:00/36	YUYAMA MFG Co.,Ltd
@@ -25772,6 +25774,7 @@
 48:E6:63:20:00:00/28	Beijing Jingdong Qianshi Technology Co.,Ltd.
 48:E6:63:30:00:00/28	Makerfabs
 48:E6:63:40:00:00/28	Smile Security and Survillence Private Limited
+48:E6:63:50:00:00/28	Hoypower Energy Co.,Ltd
 48:E6:63:60:00:00/28	Shenzhen Huabao New Energy Co.,Ltd
 48:E6:63:70:00:00/28	Earweiss Technology (Shenzhen) Co,. Ltd
 48:E6:63:80:00:00/28	Shenzhen Peicheng Technology Co., LTD.
@@ -25780,6 +25783,7 @@
 48:E6:63:B0:00:00/28	Nakamura-Tome Precision  Industry Co.,Ltd.
 48:E6:63:C0:00:00/28	Beijing Cunyin Chengqi Technology Co., Ltd.
 48:E6:63:D0:00:00/28	Neureality ltd
+48:E6:63:E0:00:00/28	Matribox Intelligent Technology co.Ltd.
 48:E6:95		Insigma Inc
 48:E6:C0		SIMCom Wireless Solutions Co.,Ltd.
 48:E7:29		Espressif Inc.
@@ -28318,6 +28322,7 @@
 60:D2:DD		Shenzhen Baitong Putian Technology Co.,Ltd.
 60:D3:0A		Quatius Limited
 60:D4:E9		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
+60:D5:1B		Fujitsu Limited
 60:D7:55		Huawei Technologies Co.,Ltd
 60:D7:E3		IEEE Registration Authority
 60:D7:E3:00:00:00/28	Avalun
@@ -32312,7 +32317,7 @@
 70:B3:D5:92:00:00/36	Slat
 70:B3:D5:92:10:00/36	QDevil
 70:B3:D5:92:20:00/36	Adcole Space
-70:B3:D5:92:30:00/36	eumig industrie-tv GmbH
+70:B3:D5:92:30:00/36	eumig industrie-TV GmbH.
 70:B3:D5:92:40:00/36	Meridian Technologies Inc
 70:B3:D5:92:50:00/36	Diamante Lighting Srl
 70:B3:D5:92:60:00/36	Advice
@@ -34374,6 +34379,7 @@
 74:6A:8F		VS Vision Systems GmbH
 74:6B:82		Movek
 74:6B:AB		Guangdong Enok Communication Co., Ltd
+74:6D:FA		Samsung Electronics Co.,Ltd
 74:6E:E4		Asia Vital Components Co.,Ltd.
 74:6F:19		Icarvisions (Shenzhen) Technology Co., Ltd.
 74:6F:3D		Contec GmbH
@@ -34496,6 +34502,7 @@
 74:BA:DB		Longconn Electornics(shenzhen)Co.,Ltd
 74:BB:D3		Shenzhen xeme Communication Co., Ltd.
 74:BE:08		ATEK Products, LLC
+74:BE:F3		Motorola Mobility LLC, a Lenovo Company
 74:BF:A1		Hyunteck
 74:BF:B7		Nusoft Corporation
 74:BF:C0		Canon Inc.
@@ -37237,6 +37244,7 @@
 8C:1F:64:21:E0:00/36	The Bionetics Corporation
 8C:1F:64:22:40:00/36	PHB Eletronica Ltda.
 8C:1F:64:22:70:00/36	Digilens
+8C:1F:64:22:D0:00/36	Kaysons Electricals Private Limited
 8C:1F:64:22:E0:00/36	Jide Car Rastreamento e Monitoramento LTDA
 8C:1F:64:23:20:00/36	Monnit Corporation
 8C:1F:64:23:D0:00/36	Mokila Networks Pvt Ltd
@@ -37287,6 +37295,7 @@
 8C:1F:64:2B:80:00/36	Veinland GmbH
 8C:1F:64:2B:B0:00/36	Chakra Technology Ltd
 8C:1F:64:2B:C0:00/36	DEUTA Werke GmbH
+8C:1F:64:2B:F0:00/36	Gogo Business Aviation
 8C:1F:64:2C:20:00/36	Tex Computer Srl
 8C:1F:64:2C:30:00/36	TeraDiode / Panasonic
 8C:1F:64:2C:50:00/36	Sysn
@@ -37449,6 +37458,7 @@
 8C:1F:64:43:20:00/36	Rebel Systems
 8C:1F:64:43:80:00/36	Integer.pl S.A.
 8C:1F:64:43:90:00/36	Bornico
+8C:1F:64:43:A0:00/36	Spacelite Inc
 8C:1F:64:43:D0:00/36	Solid State Supplies Ltd
 8C:1F:64:44:00:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:44:10:00/36	Novanta IMS
@@ -37833,7 +37843,7 @@
 8C:1F:64:80:40:00/36	EA Elektro-Automatik
 8C:1F:64:80:70:00/36	Giordano Controls Spa
 8C:1F:64:80:C0:00/36	Thermify Holdings Ltd
-8C:1F:64:80:E0:00/36	Taoglas IoT Solutions Ltd
+8C:1F:64:80:E0:00/36	TxWireless Limited
 8C:1F:64:80:F0:00/36	ASYS Corporation
 8C:1F:64:81:00:00/36	Kymata Srl
 8C:1F:64:81:10:00/36	Panoramic Power
@@ -38290,6 +38300,7 @@
 8C:1F:64:C9:B0:00/36	J.M. Voith SE & Co. KG
 8C:1F:64:C9:E0:00/36	CytoTronics
 8C:1F:64:CA:10:00/36	Pantherun Technologies Pvt Ltd
+8C:1F:64:CA:20:00/36	eumig industrie-TV GmbH.
 8C:1F:64:CA:40:00/36	Bit Part LLC
 8C:1F:64:CA:60:00/36	ReliaSpeak Information Technology Co., Ltd.
 8C:1F:64:CA:70:00/36	eumig industrie-TV GmbH.
@@ -39856,6 +39867,7 @@
 94:E3:EE		zte corporation
 94:E4:BA		Huawei Device Co., Ltd.
 94:E6:86		Espressif Inc.
+94:E6:BA		Samsung Electronics Co.,Ltd
 94:E6:F7		Intel Corporate
 94:E7:0B		Intel Corporate
 94:E7:11		Xirka Dama Persada PT
@@ -40231,6 +40243,7 @@
 98:A5:F9		Apple, Inc.
 98:A7:B0		Mcst Zao
 98:A8:29		AltoBeam Inc.
+98:A8:78		Agnigate Technologies Private Limited
 98:A9:2D		New H3C Technologies Co., Ltd
 98:A9:42		Guangzhou Tozed Kangwei Intelligent Technology Co., LTD
 98:AA:3C		Will i-tech Co., Ltd.
@@ -44907,6 +44920,7 @@ C4:CA:D9		Hangzhou H3C Technologies Co., Limited
 C4:CB:54		Fibocom Auto Inc.
 C4:CB:6B		Airista Flow, Inc.
 C4:CB:76		Microsoft Corporation
+C4:CB:BE		Great Talent Technology Limited
 C4:CB:E1		Dell Inc.
 C4:CD:45		Beijing Boomsense Technology CO.,LTD.
 C4:CD:82		Hangzhou Lowan Information Technology Co., Ltd.
@@ -48747,6 +48761,7 @@ E8:B4:70:D0:00:00/28	Medica Corporation
 E8:B4:70:E0:00:00/28	Unicacces Groupe
 E8:B4:AE		Shenzhen C&D Electronics Co.,Ltd
 E8:B4:C8		Samsung Electronics Co.,Ltd
+E8:B5:27		Phyplus Technology (Shanghai) Co., Ltd
 E8:B5:41		zte corporation
 E8:B5:D0		Dell Inc.
 E8:B6:C2		Juniper Networks
