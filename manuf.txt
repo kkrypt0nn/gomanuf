@@ -37287,6 +37287,7 @@
 8C:1F:64:28:D0:00/36	AVA Monitoring AB
 8C:1F:64:29:20:00/36	Gogo Business Aviation
 8C:1F:64:29:30:00/36	Landis+Gyr Equipamentos de Medição Ltda
+8C:1F:64:29:40:00/36	nanoTRONIX Computing Inc.
 8C:1F:64:29:60:00/36	Roog zhi tong Technology(Beijing) Co.,Ltd
 8C:1F:64:29:80:00/36	Megger Germany GmbH
 8C:1F:64:29:F0:00/36	Nagtech Llc
@@ -37751,6 +37752,7 @@
 8C:1F:64:71:20:00/36	Nexion Data Systems P/L
 8C:1F:64:71:80:00/36	Abb
 8C:1F:64:71:B0:00/36	Adasky Ltd.
+8C:1F:64:71:D0:00/36	Epigon spol. s r.o.
 8C:1F:64:72:10:00/36	M/S Milind Ramachandra Rajwade
 8C:1F:64:72:20:00/36	Artome Oy
 8C:1F:64:72:30:00/36	Celestica Inc.
@@ -37976,6 +37978,7 @@
 8C:1F:64:94:90:00/36	tickIoT Inc.
 8C:1F:64:94:C0:00/36	Bcmtech
 8C:1F:64:94:E0:00/36	Monnit Corporation
+8C:1F:64:94:F0:00/36	Förster Technik GmbH
 8C:1F:64:95:60:00/36	Paulmann Licht GmbH
 8C:1F:64:95:80:00/36	Sanchar Telesystems limited
 8C:1F:64:95:A0:00/36	Shenzhen Longyun Lighting Electric Appliances Co., Ltd
@@ -44941,8 +44944,10 @@ C4:CC:37		IEEE Registration Authority
 C4:CC:37:10:00:00/28	Taiwan Inpro International Co.Ltd
 C4:CC:37:20:00:00/28	Cix Technology Inc.
 C4:CC:37:40:00:00/28	Pineberry Pi
-C4:CC:37:80:00:00/28	Shenzhen Zhiguang systems technology co,.Ltd
+C4:CC:37:70:00:00/28	Vicinity Technologies Limited
+C4:CC:37:80:00:00/28	Smartlicht systems co., ltd
 C4:CC:37:90:00:00/28	Skychers Creations ShenZhen Limited
+C4:CC:37:C0:00:00/28	CHAINTECH Technology Corp.
 C4:CC:37:D0:00:00/28	Netavo Global Data Services Ltd
 C4:CD:45		Beijing Boomsense Technology CO.,LTD.
 C4:CD:82		Hangzhou Lowan Information Technology Co., Ltd.
@@ -47428,6 +47433,7 @@ DC:45:46		Intel Corporate
 DC:45:B8		Apple, Inc.
 DC:46:28		Intel Corporate
 DC:48:B2		Baraja Pty. Ltd.
+DC:49:65		DASAN Newtork Solutions
 DC:49:C9		Casco Signal Ltd
 DC:4A:3E		Hewlett Packard
 DC:4A:9E		IEEE Registration Authority
