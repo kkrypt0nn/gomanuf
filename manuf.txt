@@ -19156,6 +19156,7 @@
 10:E1:77		ARRIS Group, Inc.
 10:E2:C9		Apple, Inc.
 10:E2:D5		Qi Hardware Inc.
+10:E3:76		Cisco Systems, Inc
 10:E3:C7		Seohwa Telecom
 10:E4:AF		Apr, Llc
 10:E4:C2		Samsung Electronics Co.,Ltd
@@ -37378,6 +37379,7 @@
 8C:1F:64:33:C0:00/36	Hubris Technologies Private Limited
 8C:1F:64:33:D0:00/36	Arrow (China) Electronics Trading Co., Ltd.
 8C:1F:64:34:20:00/36	TimeMachines Inc.
+8C:1F:64:34:70:00/36	Plut d.o.o.
 8C:1F:64:34:90:00/36	Waves System
 8C:1F:64:34:B0:00/36	Infrared Inspection Systems
 8C:1F:64:34:C0:00/36	Kyushu Keisokki Co.,Ltd.
@@ -40616,6 +40618,7 @@
 9C:65:F9		AcSiP Technology Corp.
 9C:65:FA		AcSiP
 9C:66:50		Glodio Technolies Co.,Ltd Tianjin Branch
+9C:66:97		Cisco Systems, Inc
 9C:68:5B		Octonion SA
 9C:68:65		Fiberhome Telecommunication Technologies Co.,LTD
 9C:69:37		Qorvo International Pte. Ltd.
@@ -44921,6 +44924,7 @@ C4:A8:1D		D-Link International
 C4:AA:99		Huawei Technologies Co.,Ltd
 C4:AA:A1		SUMMIT DEVELOPMENT, spol.s r.o.
 C4:AA:C4		Zhejiang Dahua Technology Co., Ltd.
+C4:AB:4D		Cisco Systems, Inc
 C4:AB:B2		vivo Mobile Communication Co., Ltd.
 C4:AC:59		Murata Manufacturing Co., Ltd.
 C4:AC:AA		Apple, Inc.
@@ -44970,9 +44974,11 @@ C4:CC:37:00:00:00/28	KAIS Co.,Ltd.
 C4:CC:37:10:00:00/28	Taiwan Inpro International Co.Ltd
 C4:CC:37:20:00:00/28	Cix Technology Inc.
 C4:CC:37:40:00:00/28	Pineberry Pi
+C4:CC:37:60:00:00/28	Safety System Product GmbH & Co. KG
 C4:CC:37:70:00:00/28	Vicinity Technologies Limited
 C4:CC:37:80:00:00/28	SmartLicht systems co., ltd
 C4:CC:37:90:00:00/28	Skychers Creations ShenZhen Limited
+C4:CC:37:B0:00:00/28	DRS Naval Power Systems, Inc.
 C4:CC:37:C0:00:00/28	CHAINTECH Technology Corp.
 C4:CC:37:D0:00:00/28	Netavo Global Data Services Ltd
 C4:CD:45		Beijing Boomsense Technology CO.,LTD.
@@ -49983,6 +49989,7 @@ F4:70:AB		vivo Mobile Communication Co., Ltd.
 F4:71:90		Samsung Electronics Co.,Ltd
 F4:73:35		Logitech Far East
 F4:73:CA		Conversion Sound Inc.
+F4:74:70		Cisco Systems, Inc
 F4:74:88		New H3C Technologies Co., Ltd
 F4:76:26		Viltechmeda UAB
 F4:79:46		Huawei Technologies Co.,Ltd
