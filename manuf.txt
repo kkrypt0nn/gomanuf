@@ -23936,6 +23936,7 @@
 3C:97:7E		IPS Technology Limited
 3C:98:72		Sercomm Corporation.
 3C:98:BF		Quest Controls, Inc.
+3C:99:6D		Marelli Europe s.p.a.
 3C:99:8C		Houwa System Design Corp.
 3C:99:F7		Lansentechnology AB
 3C:9A:77		Vantiva USA LLC
@@ -34524,6 +34525,7 @@
 74:BF:C0		Canon Inc.
 74:C1:4F		Huawei Technologies Co.,Ltd
 74:C1:7D		Infinix mobility limited
+74:C1:7E		LG Electronics
 74:C2:46		Amazon Technologies Inc.
 74:C3:30		Shenzhen Fast Technologies Co.,Ltd
 74:C5:30		vivo Mobile Communication Co., Ltd.
@@ -36218,6 +36220,7 @@
 84:56:9C		Coho Data, Inc.,
 84:57:33		Microsoft Corporation
 84:57:87		DVR C&C Co., Ltd.
+84:57:F7		Meta Platforms Technologies, LLC
 84:5A:3E		Cisco Systems, Inc
 84:5A:81		ffly4u
 84:5B:12		Huawei Technologies Co.,Ltd
@@ -37187,6 +37190,7 @@
 8C:1F:64:13:30:00/36	Vtron Pty Ltd
 8C:1F:64:13:50:00/36	Yuval Fichman
 8C:1F:64:13:80:00/36	Vissavi sp. z o.o.
+8C:1F:64:13:C0:00/36	SiFive Inc
 8C:1F:64:13:F0:00/36	Elsist Srl
 8C:1F:64:14:10:00/36	Code Blue Corporation
 8C:1F:64:14:40:00/36	Langfang ENN lntelligent Technology Co.,Ltd.
@@ -40712,6 +40716,7 @@
 9C:9D:5D		Raden Inc
 9C:9D:7E		Beijing Xiaomi Mobile Software Co., Ltd
 9C:9E:03		awayfrom
+9C:9E:6E		Espressif Inc.
 9C:9E:71		Huawei Device Co., Ltd.
 9C:9E:D5		Xiaomi Communications Co Ltd
 9C:A1:0A		Scle Sfe
@@ -42067,6 +42072,7 @@ A8:BF:3C		HDV Phoelectron Technology Limited
 A8:C0:92		Huawei Device Co., Ltd.
 A8:C0:EA		Pepwave Limited
 A8:C2:22		TM-Research Inc.
+A8:C2:46		Gemtek Technology Co., Ltd.
 A8:C2:52		Huawei Device Co., Ltd.
 A8:C2:66		HUMAX Co., Ltd.
 A8:C5:6F		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -44973,7 +44979,9 @@ C4:CC:37		IEEE Registration Authority
 C4:CC:37:00:00:00/28	KAIS Co.,Ltd.
 C4:CC:37:10:00:00/28	Taiwan Inpro International Co.Ltd
 C4:CC:37:20:00:00/28	Cix Technology Inc.
+C4:CC:37:30:00:00/28	Qingdao Goertek Intelligent Sensor Co.,Ltd
 C4:CC:37:40:00:00/28	Pineberry Pi
+C4:CC:37:50:00:00/28	Changzhou runningtech industrial technology Co., Ltd.
 C4:CC:37:60:00:00/28	Safety System Product GmbH & Co. KG
 C4:CC:37:70:00:00/28	Vicinity Technologies Limited
 C4:CC:37:80:00:00/28	SmartLicht systems co., ltd
@@ -48428,6 +48436,7 @@ E4:AD:7D		SCL Elements
 E4:AF:A1		Hes-So
 E4:B0:05		Beijing IQIYI Science & Technology Co., Ltd.
 E4:B0:21		Samsung Electronics Co.,Ltd
+E4:B0:63		Espressif Inc.
 E4:B2:24		Huawei Technologies Co.,Ltd
 E4:B2:FB		Apple, Inc.
 E4:B3:18		Intel Corporate
