@@ -28268,6 +28268,7 @@
 60:A2:C6		Huawei Technologies Co.,Ltd
 60:A3:7D		Apple, Inc.
 60:A4:23		Silicon Laboratories
+60:A4:34		IEEE Registration Authority
 60:A4:34:C0:00:00/28	Annapurna labs
 60:A4:4C		ASUSTek COMPUTER INC.
 60:A4:B7		TP-Link Corporation Limited
