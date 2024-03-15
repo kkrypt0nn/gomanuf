@@ -19034,6 +19034,7 @@
 10:96:1A		Chipsea Technologies (Shenzhen) Corp.
 10:96:93		Amazon Technologies Inc.
 10:97:BD		Espressif Inc.
+10:98:19		Dell Inc.
 10:98:26		Nokia
 10:98:36		Dell Inc.
 10:98:C3		Murata Manufacturing Co., Ltd.
@@ -20946,6 +20947,7 @@
 20:EE:C6		Elefirst Science & Tech Co ., ltd
 20:EF:BD		Roku, Inc
 20:F0:02		MTData Developments Pty. Ltd.
+20:F0:94		Google, Inc.
 20:F1:7C		Huawei Technologies Co.,Ltd
 20:F1:9E		ARRIS Group, Inc.
 20:F3:75		ARRIS Group, Inc.
@@ -28269,6 +28271,8 @@
 60:A3:7D		Apple, Inc.
 60:A4:23		Silicon Laboratories
 60:A4:34		IEEE Registration Authority
+60:A4:34:00:00:00/28	Uniqon
+60:A4:34:60:00:00/28	Lechpol Electronics Leszek Sp.k.
 60:A4:34:C0:00:00/28	Annapurna labs
 60:A4:4C		ASUSTek COMPUTER INC.
 60:A4:B7		TP-Link Corporation Limited
@@ -28308,6 +28312,7 @@
 60:C0:1E		V&G Information System Co.,Ltd
 60:C0:BF		ON Semiconductor
 60:C1:CB		Fujian Great Power PLC Equipment Co.,Ltd
+60:C2:2A		Allwinner Technology Co., Ltd
 60:C3:97		2Wire Inc
 60:C5:47		Apple, Inc.
 60:C5:A8		Beijing LT Honway Technology Co.,Ltd
@@ -37468,6 +37473,7 @@
 8C:1F:64:3E:E0:00/36	BnB Information Technology
 8C:1F:64:3F:30:00/36	Scancom
 8C:1F:64:3F:40:00/36	Actelser S.L.
+8C:1F:64:3F:70:00/36	Mitsubishi Electric India Pvt. Ltd.
 8C:1F:64:3F:C0:00/36	STV Electronic GmbH
 8C:1F:64:3F:E0:00/36	Plum sp. z.o.o.
 8C:1F:64:3F:F0:00/36	Uisee(Shanghai) Automotive Technologies Ltd.
@@ -37991,6 +37997,7 @@
 8C:1F:64:91:B0:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:91:C0:00/36	Cospowers Changsha Branch
 8C:1F:64:91:D0:00/36	enlighten
+8C:1F:64:92:00:00/36	VuWall Technology Europe GmbH
 8C:1F:64:92:30:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:92:40:00/36	Magics Technologies
 8C:1F:64:92:80:00/36	ITG Co.Ltd
@@ -38421,6 +38428,7 @@
 8C:1F:64:D5:E0:00/36	Integer.pl S.A.
 8C:1F:64:D6:00:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:D6:10:00/36	Advent Diamond
+8C:1F:64:D6:20:00/36	Alpes recherche et développement
 8C:1F:64:D6:30:00/36	Mobileye
 8C:1F:64:D6:90:00/36	ADiCo Corporation
 8C:1F:64:D6:C0:00/36	Packetalk LLC
@@ -50908,6 +50916,7 @@ FC:8F:90		Samsung Electronics Co.,Ltd
 FC:8F:C4		Intelligent Technology Inc.
 FC:90:FA		Independent Technologies
 FC:91:14		Vantiva USA LLC
+FC:91:5D		Google, Inc.
 FC:91:89		Sichuan Tianyi Comheart Telecom Co.,LTD
 FC:92:3B		Nokia Corporation
 FC:92:57		Renesas Electronics (Penang) Sdn. Bhd.
