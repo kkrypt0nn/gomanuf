@@ -18716,6 +18716,7 @@
 0C:EC:80		Texas Instruments
 0C:EC:84		Shenzhen TINNO Mobile Technology Corp.
 0C:EC:8D		Motorola Mobility LLC, a Lenovo Company
+0C:ED:C8		Xiaomi Communications Co Ltd
 0C:EE:99		Amazon Technologies Inc.
 0C:EE:E6		Hon Hai Precision Ind. Co.,Ltd.
 0C:EF:7C		AnaCom Inc
@@ -21846,6 +21847,7 @@
 2C:08:B4		Huawei Device Co., Ltd.
 2C:09:4D		Raptor Engineering, LLC
 2C:09:CB		Cobs Ab
+2C:0B:97		Xiaomi Communications Co Ltd
 2C:0B:AB		Huawei Technologies Co.,Ltd
 2C:0B:E9		Cisco Systems, Inc
 2C:0D:A7		Intel Corporate
@@ -38474,6 +38476,7 @@
 8C:1F:64:D7:C0:00/36	Quercus Technologies, S.L.
 8C:1F:64:D7:E0:00/36	Thales Belgium
 8C:1F:64:D7:F0:00/36	Fiberstory communications Pvt Ltd
+8C:1F:64:D8:00:00/36	Aztek Sa
 8C:1F:64:D8:10:00/36	Mitsubishi Electric India Pvt. Ltd.
 8C:1F:64:D8:80:00/36	University of Geneva - Department of Particle Physics
 8C:1F:64:D8:C0:00/36	Smri
@@ -45592,6 +45595,10 @@ C8:FE:30		Bejing DAYO Mobile Communication Technology Ltd.
 C8:FE:6A		Juniper Networks
 C8:FF:28		Liteon Technology Corporation
 C8:FF:77		Dyson Limited
+C8:FF:BF		IEEE Registration Authority
+C8:FF:BF:20:00:00/28	Cognizant Mobility GmbH
+C8:FF:BF:40:00:00/28	Beijing Jingyibeifang Instrument Co.,Ltd.
+C8:FF:BF:A0:00:00/28	Maestro Food Co.
 CA:04:5A		Ossia Inc
 CA:12:5C		Microsoft Corporation
 CA:1E:45		ASMedia Technology Inc.
@@ -48738,6 +48745,7 @@ E8:5D:6B		Luminate Wireless
 E8:5D:86		Chang Yow Technologies International Co.,Ltd.
 E8:5E:53		Infratec Datentechnik GmbH
 E8:5F:02		Apple, Inc.
+E8:5F:B4		Xiaomi Communications Co Ltd
 E8:61:1F		Dawning Information Industry Co.,Ltd
 E8:61:7E		Liteon Technology Corporation
 E8:61:83		Black Diamond Advanced Technology, LLC
