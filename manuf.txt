@@ -19584,6 +19584,7 @@
 18:02:AE		vivo Mobile Communication Co., Ltd.
 18:03:73		Dell Inc.
 18:03:FA		IBT Interfaces
+18:04:03		vivo Mobile Communication Co., Ltd.
 18:04:ED		Texas Instruments
 18:06:75		Dilax Intelcom GmbH
 18:06:F5		RAD Data Communications, Ltd.
@@ -20763,6 +20764,7 @@
 20:6A:8A		Wistron Infocomm (Zhongshan) Corporation
 20:6A:94		Hitron Technologies. Inc
 20:6A:FF		Atlas Elektronik UK Limited
+20:6B:D5		vivo Mobile Communication Co., Ltd.
 20:6B:E7		Tp-Link Technologies Co.,Ltd.
 20:6B:F4		Huawei Device Co., Ltd.
 20:6C:8A		Extreme Networks Headquarters
@@ -21493,6 +21495,7 @@
 28:3C:90		Texas Instruments
 28:3C:E4		Huawei Technologies Co.,Ltd
 28:3D:C2		Samsung Electronics Co.,Ltd
+28:3D:E8		Guangzhou Shiyuan Electronic Technology Company Limited
 28:3E:0C		Preferred Robotics, Inc.
 28:3E:76		Common Networks
 28:3F:69		Sony Corporation
@@ -22897,6 +22900,7 @@
 34:5D:A8		Cisco Systems, Inc
 34:5E:08		Roku, Inc
 34:5E:E7		Hangzhou ChengFengErLai Digial Technology Co.,Ltd.
+34:5F:45		Espressif Inc.
 34:60:F9		TP-Link Corporation Limited
 34:61:78		The Boeing Company
 34:62:88		Cisco Systems, Inc
@@ -36577,6 +36581,7 @@
 88:12:3D		Suzhou Aquila Solutions Inc.
 88:12:4E		Qualcomm Inc.
 88:12:AC		Hunan Fn-Link Technology Limited
+88:13:BF		Espressif Inc.
 88:14:2B		Protonic Holland
 88:15:44		Cisco Meraki
 88:15:C5		Huawei Device Co., Ltd.
@@ -37797,6 +37802,7 @@
 8C:1F:64:6D:90:00/36	Khimo
 8C:1F:64:6D:C0:00/36	Intrinsic Innovation, LLC
 8C:1F:64:6D:D0:00/36	ViewSonic Corp
+8C:1F:64:6D:E0:00/36	SUN･TECTRO,Ltd.
 8C:1F:64:6E:20:00/36	SCU Co., Ltd.
 8C:1F:64:6E:30:00/36	ViewSonic International Corporation
 8C:1F:64:6E:40:00/36	RAB Microfluidics R&D Company Ltd
@@ -38989,7 +38995,7 @@
 8C:A6:82:40:00:00/28	China Information Technology Designing&Consulting Institute Co., Ltd.
 8C:A6:82:50:00:00/28	Qstar Technology Co,Ltd
 8C:A6:82:60:00:00/28	ShangHai Huijue Network Communication Equipment CO., Ltd.
-8C:A6:82:70:00:00/28	Wuhan Canpoint Education&Technology Co.,Ltd
+8C:A6:82:70:00:00/28	Anhui seeker electronic technology Co.,LTD
 8C:A6:82:80:00:00/28	Schok LLC
 8C:A6:82:90:00:00/28	Barkodes Bilgisayar Sistemleri Bilgi Iletisim ve Y
 8C:A6:82:A0:00:00/28	Schok LLC
@@ -40128,6 +40134,7 @@
 98:29:1D		Jaguar de Mexico, SA de CV
 98:29:3F		Fujian Start Computer Equipment Co.,Ltd
 98:29:A6		Compal Information (Kunshan) Co., Ltd.
+98:2A:0A		Intelbras
 98:2C:BC		Intel Corporate
 98:2C:BE		2Wire Inc
 98:2D:56		Resolution Audio
@@ -43632,6 +43639,7 @@ B8:94:D9		Texas Instruments
 B8:94:E7		Xiaomi Communications Co Ltd
 B8:96:74		AllDSP GmbH & Co. KG
 B8:97:5A		BIOSTAR Microtech Int'l Corp.
+B8:97:7A		Nokia Solutions and Networks GmbH & Co. KG
 B8:98:AD		Motorola Mobility LLC, a Lenovo Company
 B8:98:B0		Atlona Inc.
 B8:98:F7		Gionee Communication Equipment Co,Ltd.ShenZhen
@@ -50759,6 +50767,7 @@ FA:D9:88		Momentum Data Systems
 FA:E1:90		In Win Development Inc.
 FA:E5:1A		RSAE Labs Inc
 FA:EB:6E		xRAN.org
+FA:EE:B6		Shenzhen Jiahua Zhongli Technology Co., LTD
 FA:F9:C0		RAID Incorporated
 FC:00:12		Toshiba Samsung Storage Technolgoy Korea Corporation
 FC:01:7C		Hon Hai Precision Ind. Co.,Ltd.
