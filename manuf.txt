@@ -45620,6 +45620,7 @@ C8:FF:28		Liteon Technology Corporation
 C8:FF:77		Dyson Limited
 C8:FF:BF		IEEE Registration Authority
 C8:FF:BF:00:00:00/28	Shenzhen HC Electronic Technology Co.,LTD
+C8:FF:BF:10:00:00/28	robert juliat
 C8:FF:BF:20:00:00/28	Cognizant Mobility GmbH
 C8:FF:BF:30:00:00/28	Tectoy S.A
 C8:FF:BF:40:00:00/28	Beijing Jingyibeifang Instrument Co.,Ltd.
