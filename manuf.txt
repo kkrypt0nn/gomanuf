@@ -18904,6 +18904,7 @@
 10:3D:3E		China Mobile Group Device Co.,Ltd.
 10:3D:EA		HFC Technology (Beijing) Ltd. Co.
 10:3F:44		Xiaomi Communications Co Ltd
+10:3F:8C		New H3C Technologies Co., Ltd
 10:40:F3		Apple, Inc.
 10:41:21		Tellescom Industria E Comercio Em Telecomunicacao
 10:41:7F		Apple, Inc.
@@ -29687,6 +29688,7 @@
 6C:FA:89		Cisco Systems, Inc
 6C:FA:A7		AMPAK Technology, Inc.
 6C:FB:ED		GN Audio A/S
+6C:FD:22		Silicon Laboratories
 6C:FD:B9		Proware Technologies Co Ltd.
 6C:FE:54		Intel Corporate
 6C:FF:BE		MPB Communications Inc.
@@ -38148,6 +38150,7 @@
 8C:1F:64:A0:A0:00/36	Shanghai Wise-Tech Intelligent Technology Co.,Ltd.
 8C:1F:64:A0:D0:00/36	Lumiplan Duhamel
 8C:1F:64:A0:E0:00/36	Elac Americas Inc.
+8C:1F:64:A1:20:00/36	FUJIHENSOKUKI Co., Ltd.
 8C:1F:64:A1:30:00/36	INVENTIA Sp. z o.o.
 8C:1F:64:A1:B0:00/36	Zilica Limited
 8C:1F:64:A1:F0:00/36	Hitachi Energy  India Limited
@@ -39845,6 +39848,7 @@
 94:A4:B5		Mitsubishi Electric Corporation
 94:A4:F9		Huawei Technologies Co.,Ltd
 94:A6:7E		Netgear
+94:A6:D8		New H3C Technologies Co., Ltd
 94:A7:B7		zte corporation
 94:A7:BC		BodyMedia, Inc.
 94:A9:A8		Texas Instruments
@@ -45628,6 +45632,7 @@ C8:FF:BF:50:00:00/28	Chongqing Zhizhu Huaxin Technology Co.,Ltd
 C8:FF:BF:80:00:00/28	Shenzhen Fengrunda Technology Co.,Ltd
 C8:FF:BF:90:00:00/28	Shandong Wanshuo Optoelectronic Equipment Co.,Ltd
 C8:FF:BF:A0:00:00/28	Maestro Food Co.
+C8:FF:BF:C0:00:00/28	Density.IO
 C8:FF:BF:D0:00:00/28	ALDES DomNexX
 CA:04:5A		Ossia Inc
 CA:12:5C		Microsoft Corporation
@@ -45867,6 +45872,7 @@ CC:7B:5C		Espressif Inc.
 CC:7B:61		Nikkiso Co., Ltd.
 CC:7D:37		ARRIS Group, Inc.
 CC:7D:5B		Telink Semiconductor (Shanghai) Co., Ltd.
+CC:7E:0F		Theben AG
 CC:7E:E7		Panasonic Corporation AVC Networks Company
 CC:7F:75		Cisco Systems, Inc
 CC:7F:76		Cisco Systems, Inc
@@ -50454,6 +50460,7 @@ F8:3E:95		Huawei Technologies Co.,Ltd
 F8:3F:51		Samsung Electronics Co.,Ltd
 F8:42:88		Apple, Inc.
 F8:42:FB		Yasuda Joho Co.,ltd.
+F8:44:77		Silicon Laboratories
 F8:44:E3		Taicang T&W Electronics
 F8:45:AD		Konka Group Co., Ltd.
 F8:45:C4		Shenzhen Netforward Micro-Electronic Co., Ltd.
