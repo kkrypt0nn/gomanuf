@@ -8063,7 +8063,7 @@
 00:1E:C3		Kozio, Inc.
 00:1E:C4		Celio Corp
 00:1E:C5		Middle Atlantic Products Inc
-00:1E:C6		Obvius Holdings LLC
+00:1E:C6		Leviton Manufacturing Co., Inc
 00:1E:C7		2Wire Inc
 00:1E:C8		Rapid Mobile (Pty) Ltd
 00:1E:C9		Dell Inc.
@@ -11752,7 +11752,7 @@
 00:50:C2:30:B0:00/36	VX Technologies Inc.
 00:50:C2:30:C0:00/36	Teamlog
 00:50:C2:30:D0:00/36	Setaram
-00:50:C2:30:E0:00/36	Obvius
+00:50:C2:30:E0:00/36	Leviton Manufacturing Co., Inc
 00:50:C2:30:F0:00/36	Digicontrole Lda
 00:50:C2:31:00:00/36	Cybertron Co., Ltd.
 00:50:C2:31:10:00/36	Comodo
@@ -25798,6 +25798,7 @@
 48:E1:AF		Vity
 48:E1:E9		Chengdu Meross Technology Co., Ltd.
 48:E2:44		Hon Hai Precision Ind. Co.,Ltd.
+48:E2:AD		Humax Networks
 48:E3:C3		JENOPTIK Advanced Systems GmbH
 48:E5:33		Sunnovo International Limited
 48:E6:63		IEEE Registration Authority
@@ -37212,6 +37213,7 @@
 8C:1F:64:0E:E0:00/36	Rich Source Precision IND., Co., LTD.
 8C:1F:64:0E:F0:00/36	Dave Srl
 8C:1F:64:0F:00:00/36	Xylon
+8C:1F:64:0F:10:00/36	ideaForge Technology Limited
 8C:1F:64:0F:20:00/36	Graphimecc Group SRL
 8C:1F:64:0F:30:00/36	Lsi
 8C:1F:64:0F:40:00/36	AW-SOM Technologies LLC
@@ -37511,6 +37513,7 @@
 8C:1F:64:3D:50:00/36	FRAKO Kondensatoren- und Anlagenbau GmbH
 8C:1F:64:3D:90:00/36	Unlimited Bandwidth LLC
 8C:1F:64:3E:00:00/36	YPP Corporation
+8C:1F:64:3E:20:00/36	Agrico
 8C:1F:64:3E:30:00/36	FMTec GmbH - Future Management Technologies
 8C:1F:64:3E:50:00/36	Systems Mechanics
 8C:1F:64:3E:60:00/36	elbe informatik GmbH
@@ -38199,6 +38202,7 @@
 8C:1F:64:A9:B0:00/36	Ovide Maudet SL
 8C:1F:64:A9:C0:00/36	Upstart Power
 8C:1F:64:A9:E0:00/36	Optimum Instruments Inc.
+8C:1F:64:AA:00:00/36	Flextronics International Kft
 8C:1F:64:AA:30:00/36	Peter Huber Kaeltemaschinenbau SE
 8C:1F:64:AA:40:00/36	HEINEN ELEKTRONIK GmbH
 8C:1F:64:AA:80:00/36	axelife
@@ -38459,6 +38463,7 @@
 8C:1F:64:D0:F0:00/36	Mecco LLC
 8C:1F:64:D1:30:00/36	EYatsko Individual
 8C:1F:64:D1:70:00/36	I.S.A. - Altanova group srl
+8C:1F:64:D1:B0:00/36	Audiodo International AB
 8C:1F:64:D1:F0:00/36	Free Talk Engineering Co., Ltd
 8C:1F:64:D2:00:00/36	NAS Engineering PRO
 8C:1F:64:D2:10:00/36	Ametek Cts Gmbh
@@ -41906,6 +41911,7 @@ A8:24:B8		Nokia
 A8:24:EB		ZAO NPO Introtest
 A8:25:EB		Cambridge Industries(Group) Co.,Ltd.
 A8:26:D9		HTC Corporation
+A8:27:C8		Edgecore Americas Networking Corporation
 A8:29:4C		Precision Optical Transceivers, Inc.
 A8:2A:D6		Arthrex Inc.
 A8:2B:B5		Edgecore Networks Corporation
@@ -45629,9 +45635,12 @@ C8:FF:BF:20:00:00/28	Cognizant Mobility GmbH
 C8:FF:BF:30:00:00/28	Tectoy S.A
 C8:FF:BF:40:00:00/28	Beijing Jingyibeifang Instrument Co.,Ltd.
 C8:FF:BF:50:00:00/28	Chongqing Zhizhu Huaxin Technology Co.,Ltd
+C8:FF:BF:60:00:00/28	Accuphy Technologies Beijing Ltd
+C8:FF:BF:70:00:00/28	Indra Renewable Technologies
 C8:FF:BF:80:00:00/28	Shenzhen Fengrunda Technology Co.,Ltd
 C8:FF:BF:90:00:00/28	Shandong Wanshuo Optoelectronic Equipment Co.,Ltd
 C8:FF:BF:A0:00:00/28	Maestro Food Co.
+C8:FF:BF:B0:00:00/28	PubliBike SA
 C8:FF:BF:C0:00:00/28	Density.IO
 C8:FF:BF:D0:00:00/28	ALDES DomNexX
 CA:04:5A		Ossia Inc
@@ -48652,6 +48661,7 @@ E8:04:F3		Throughtek Co., Ltd.
 E8:05:6D		Nortel Networks
 E8:05:DC		Verifone Inc.
 E8:06:88		Apple, Inc.
+E8:06:90		Espressif Inc.
 E8:07:34		Champion Optical Network Engineering, LLC
 E8:07:BF		Shenzhen Boomtech Industry Co.,Ltd
 E8:08:8B		Huawei Technologies Co.,Ltd
@@ -49705,6 +49715,7 @@ F0:9C:D7		Guangzhou Blue Cheetah Intelligent Technology Co., Ltd.
 F0:9C:E9		Extreme Networks Headquarters
 F0:9E:4A		Intel Corporate
 F0:9E:63		Cisco Systems, Inc
+F0:9E:9E		Espressif Inc.
 F0:9F:C2		Ubiquiti Inc
 F0:9F:FC		SHARP Corporation
 F0:A0:B1		Huawei Technologies Co.,Ltd
