@@ -21312,6 +21312,7 @@
 24:DB:ED		Samsung Electronics Co.,Ltd
 24:DC:0F		Phytium Technology Co.,Ltd.
 24:DC:C3		Espressif Inc.
+24:DD:1B		Qingdao Hi-image Technologies Co., Ltd
 24:DE:C6		Hewlett Packard Enterprise
 24:DF:6A		Huawei Technologies Co.,Ltd
 24:DF:A7		Hangzhou BroadLink Technology Co.,Ltd
@@ -25920,6 +25921,7 @@
 4C:22:58		cozybit, Inc.
 4C:22:F3		Arcadyan Corporation
 4C:23:1A		Extreme Networks Headquarters
+4C:23:38		Cloud Network Technology Singapore Pte. Ltd.
 4C:24:98		Texas Instruments
 4C:24:CE		Sichuan AI-Link Technology Co., Ltd.
 4C:25:78		Nokia Corporation
@@ -45643,6 +45645,7 @@ C8:FF:BF:A0:00:00/28	Maestro Food Co.
 C8:FF:BF:B0:00:00/28	PubliBike SA
 C8:FF:BF:C0:00:00/28	Density.IO
 C8:FF:BF:D0:00:00/28	ALDES DomNexX
+C8:FF:BF:E0:00:00/28	Ht Italia Srl
 CA:04:5A		Ossia Inc
 CA:12:5C		Microsoft Corporation
 CA:1E:45		ASMedia Technology Inc.
@@ -47399,6 +47402,7 @@ D8:D6:F3		Integrated Device Technology (Malaysia) Sdn. Bhd.
 D8:D7:23		IDS, Inc
 D8:D7:75		Sagemcom Broadband SAS
 D8:D8:66		Shenzhen Tozed Technologies Co.,Ltd.
+D8:D8:E5		Vantiva Connected Home - Technologies Telco
 D8:DA:52		Apator S.A.
 D8:DA:F1		Huawei Technologies Co.,Ltd
 D8:DC:40		Apple, Inc.
