@@ -18682,6 +18682,7 @@
 0C:D0:F8		Cisco Systems, Inc
 0C:D2:92		Intel Corporate
 0C:D2:B5		Binatone Telecommunication Pvt. Ltd
+0C:D3:A1		Monthly Kitchen
 0C:D5:02		Westell Technologies Inc.
 0C:D5:D3		Cisco Systems, Inc
 0C:D6:96		Amimon Ltd
@@ -18972,6 +18973,9 @@
 10:62:E5		Hewlett Packard
 10:62:EB		D-Link International
 10:63:4B		Shenzhen Mercury Communication Technologies Co.,Ltd.
+10:63:A3		IEEE Registration Authority
+10:63:A3:50:00:00/28	Lianxin (Dalian) Technology Co.,Ltd
+10:63:A3:90:00:00/28	Nexite
 10:63:C8		Liteon Technology Corporation
 10:64:E2		ADFweb.com s.r.l.
 10:65:30		Dell Inc.
@@ -23952,6 +23956,7 @@
 3C:92:DC		Octopod Technology Co. Ltd.
 3C:93:F4		Huawei Technologies Co.,Ltd
 3C:94:D5		Juniper Networks
+3C:94:FD		Mist Systems, Inc.
 3C:95:09		Liteon Technology Corporation
 3C:97:0E		Wistron InfoComm(Kunshan)Co.,Ltd.
 3C:97:7E		IPS Technology Limited
@@ -24075,6 +24080,7 @@
 3C:EF:42		TCT mobile ltd
 3C:EF:8C		Zhejiang Dahua Technology Co., Ltd.
 3C:F0:11		Intel Corporate
+3C:F0:83		Arcadyan Corporation
 3C:F3:92		Virtualtek. Co. Ltd
 3C:F4:F9		Moda-InnoChips
 3C:F5:2C		DSPECIALISTS GmbH
@@ -26343,6 +26349,7 @@
 50:05:3D		CyWee Group Ltd
 50:06:04		Cisco Systems, Inc
 50:06:AB		Cisco Systems, Inc
+50:06:F5		Roku, Inc
 50:07:C3		Amazon Technologies Inc.
 50:09:59		Vantiva USA LLC
 50:09:E5		Drimsys,Inc
@@ -26425,6 +26432,7 @@
 50:33:8B		Texas Instruments
 50:33:F0		Yichen (Shenzhen) Technology Co.Ltd
 50:38:2F		ASE Group Chung-Li
+50:38:AB		Prove
 50:39:2F		Ingram Micro Services
 50:39:55		Cisco SPVTG
 50:3A:7D		AlphaTech PLC Int’l Co., Ltd.
@@ -37122,6 +37130,7 @@
 8C:1F:64:00:C0:00/36	Guan Show Technologe Co., Ltd.
 8C:1F:64:01:10:00/36	DEUTA-WERKE GmbH
 8C:1F:64:01:40:00/36	Cristal Controles Ltee
+8C:1F:64:01:60:00/36	Signtel Communications Pvt Ltd
 8C:1F:64:01:70:00/36	Farmote Limited
 8C:1F:64:01:A0:00/36	Paragraf
 8C:1F:64:01:E0:00/36	SCIREQ Scientific Respiratory Equipment  Inc
@@ -40562,6 +40571,7 @@
 9C:0C:DF		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 9C:0D:AC		Tymphany HK Limited
 9C:0E:4A		Shenzhen Vastking Electronic Co.,Ltd.
+9C:12:21		Sichuan AI-Link Technology Co., Ltd.
 9C:13:AB		Chanson Water Co., Ltd.
 9C:14:63		Zhejiang Dahua Technology Co., Ltd.
 9C:14:65		Edata Elektronik San. ve Tic. A.Ş.
@@ -44603,6 +44613,7 @@ C0:D6:0A		Texas Instruments
 C0:D6:82		Arista Networks
 C0:D7:AA		Arcadyan Corporation
 C0:D8:34		xvtec ltd
+C0:D9:41		Shenzhen VMAX Software Co., Ltd.
 C0:D9:62		Askey Computer Corp
 C0:D9:F7		ShanDong Domor Intelligent S&T CO.,Ltd
 C0:DA:74		Hangzhou Sunyard Technology Co., Ltd.
