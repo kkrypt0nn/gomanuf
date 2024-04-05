@@ -18975,6 +18975,7 @@
 10:63:4B		Shenzhen Mercury Communication Technologies Co.,Ltd.
 10:63:A3		IEEE Registration Authority
 10:63:A3:00:00:00/28	Changsha Sunvote Limited
+10:63:A3:10:00:00/28	Jacobs Technology, Inc.
 10:63:A3:20:00:00/28	Sichuan Puhui Zhida Communication Equipment Co. Ltd.
 10:63:A3:50:00:00/28	Lianxin (Dalian) Technology Co.,Ltd
 10:63:A3:70:00:00/28	NRS Co., Ltd.
@@ -21687,6 +21688,7 @@
 28:C2:1F		Samsung Electro-Mechanics(Thailand)
 28:C2:DD		AzureWave Technology Inc.
 28:C5:38		Apple, Inc.
+28:C5:C8		HP Inc.
 28:C5:D2		Intel Corporate
 28:C6:3F		Intel Corporate
 28:C6:71		Yota Devices OY
@@ -34806,6 +34808,7 @@
 78:2C:29		New H3C Technologies Co., Ltd
 78:2D:7E		TRENDnet, Inc.
 78:2D:AD		Huawei Technologies Co.,Ltd
+78:2E:03		Guangdong Genius Technology Co., Ltd.
 78:2E:56		China Mobile Group Device Co.,Ltd.
 78:2E:EF		Nokia Corporation
 78:2F:17		Xlab Co.,Ltd
@@ -37258,6 +37261,7 @@
 8C:1F:64:11:90:00/36	Foxconn Technology Co., Ltd.
 8C:1F:64:11:E0:00/36	Infosoft Digital Design and Services P L
 8C:1F:64:11:F0:00/36	NodeUDesign
+8C:1F:64:12:50:00/36	Hangzhou Sciener Smart Technology Co., Ltd.
 8C:1F:64:12:60:00/36	Harvest Technology Pty Ltd
 8C:1F:64:12:80:00/36	Yulista Integrated Solution
 8C:1F:64:12:90:00/36	Navtech Radar Ltd.
@@ -38557,6 +38561,7 @@
 8C:1F:64:DB:D0:00/36	Giordano Controls Spa
 8C:1F:64:DC:00:00/36	Pigs Can Fly Labs LLC
 8C:1F:64:DC:20:00/36	Procon Electronics Pty Ltd
+8C:1F:64:DC:60:00/36	R&K
 8C:1F:64:DC:80:00/36	Dwdm.Ru Llc
 8C:1F:64:DC:90:00/36	Peter Huber Kaeltemaschinenbau SE
 8C:1F:64:DC:A0:00/36	Porsche engineering
@@ -38643,6 +38648,7 @@
 8C:1F:64:EB:70:00/36	Delta Solutions LLC
 8C:1F:64:EB:90:00/36	KxS Technologies Oy
 8C:1F:64:EB:A0:00/36	Hyve Solutions
+8C:1F:64:EB:D0:00/36	Esprit Digital Ltd
 8C:1F:64:EB:F0:00/36	STEAMIQ, Inc.
 8C:1F:64:EC:10:00/36	Actronika SAS
 8C:1F:64:EC:C0:00/36	Baldwin Jimek AB
@@ -39950,6 +39956,7 @@
 94:C9:B7:D0:00:00/28	Dspread Technology (Beijing) Inc.
 94:C9:B7:E0:00:00/28	shenzhen UDD Technologies,co.,Ltd
 94:CA:0F		Honeywell Analytics
+94:CA:9A		Paul Vahle GmbH & Co. KG
 94:CB:CD		zte corporation
 94:CC:04		IEEE Registration Authority
 94:CC:04:00:00:00/28	Hangzhou Yongkong Technology Co., Ltd.
@@ -44581,6 +44588,7 @@ C0:BD:C8		Samsung Electronics Co.,Ltd
 C0:BD:D1		Samsung Electro-Mechanics(Thailand)
 C0:BF:A7		Juniper Networks
 C0:BF:AC		Huawei Device Co., Ltd.
+C0:BF:BE		AzureWave Technology Inc.
 C0:BF:C0		Huawei Technologies Co.,Ltd
 C0:C1:70		Shenzhen SuperElectron Technology Co.,Ltd.
 C0:C1:C0		Cisco-Linksys, LLC
@@ -47757,6 +47765,7 @@ DC:A5:F4		Cisco Systems, Inc
 DC:A6:32		Raspberry Pi Trading Ltd
 DC:A6:33		ARRIS Group, Inc.
 DC:A6:BD		Beijing Lanbo Technology Co., Ltd.
+DC:A7:06		Chengdu Kt Electronic Hi-Tech Co.,Ltd
 DC:A7:82		Huawei Technologies Co.,Ltd
 DC:A7:D9		Compressor Controls Corp
 DC:A8:CF		New Spin Golf, LLC.
