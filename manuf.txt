@@ -18196,6 +18196,7 @@
 08:B4:9D		Tecno Mobile Limited
 08:B4:B1		Google, Inc.
 08:B4:CF		Abicom International
+08:B4:D2		Intel Corporate
 08:B6:1F		Espressif Inc.
 08:B7:38		Lite-On Technogy Corp.
 08:B7:EC		Wireless Seismic
@@ -18977,6 +18978,7 @@
 10:63:A3:00:00:00/28	Changsha Sunvote Limited
 10:63:A3:10:00:00/28	Jacobs Technology, Inc.
 10:63:A3:20:00:00/28	Sichuan Puhui Zhida Communication Equipment Co. Ltd.
+10:63:A3:30:00:00/28	Nextvision Stabilized Systems LTD
 10:63:A3:40:00:00/28	Gantech E Technologies Private Limited
 10:63:A3:50:00:00/28	Lianxin (Dalian) Technology Co.,Ltd
 10:63:A3:60:00:00/28	Morgan Schaffer
@@ -18987,6 +18989,7 @@
 10:63:A3:B0:00:00/28	Shen zhen shi shang mei dian zi shang wu you xian gong si
 10:63:A3:C0:00:00/28	Flat-Pro Llc
 10:63:A3:D0:00:00/28	Triton Sensors
+10:63:A3:E0:00:00/28	Annapurna labs
 10:63:C8		Liteon Technology Corporation
 10:64:E2		ADFweb.com s.r.l.
 10:65:30		Dell Inc.
@@ -24028,6 +24031,7 @@
 3C:BB:FD		Samsung Electronics Co.,Ltd
 3C:BC:D0		zte corporation
 3C:BD:3E		Beijing Xiaomi Electronics Co., Ltd.
+3C:BD:69		Nokia Shanghai Bell Co., Ltd.
 3C:BD:C5		Arcadyan Corporation
 3C:BD:D8		Lg Electronics Inc
 3C:BE:E1		Nikon Corporation
@@ -25143,6 +25147,7 @@
 44:37:6F		Young Electric Sign Co
 44:37:E6		Hon Hai Precision Ind. Co.,Ltd.
 44:38:39		Cumulus Networks, inc
+44:38:E8		Intel Corporate
 44:39:C4		Universal Global Scientific Industrial Co., Ltd.
 44:3B:32		Intelbras
 44:3C:88		Ficosa Maroc International
@@ -25291,6 +25296,7 @@
 44:9F:7F		DataCore Software Corporation
 44:A0:38		Huawei Device Co., Ltd.
 44:A1:91		Huawei Technologies Co.,Ltd
+44:A3:BB		Intel Corporate
 44:A3:C7		zte corporation
 44:A4:2D		TCT mobile ltd
 44:A4:66		Groupe Ldlc
@@ -27917,6 +27923,7 @@
 5C:B3:95		Huawei Technologies Co.,Ltd
 5C:B3:F6		Human, Incorporated
 5C:B4:3E		Huawei Technologies Co.,Ltd
+5C:B4:7E		Intel Corporate
 5C:B4:E2		Inspur Software Group Ltd.
 5C:B5:24		Sony Corporation
 5C:B5:59		CNEX Labs
@@ -29191,6 +29198,7 @@
 68:C4:4C		Xiaomi Communications Co Ltd
 68:C4:4D		Motorola Mobility LLC, a Lenovo Company
 68:C6:3A		Espressif Inc.
+68:C6:AC		Intel Corporate
 68:C8:EB		Rockwell Automation
 68:C9:0B		Texas Instruments
 68:CA:00		Octopus Systems Limited
@@ -37356,6 +37364,7 @@
 8C:1F:64:21:90:00/36	Guangzhou Desam Audio Co.,Ltd
 8C:1F:64:21:C0:00/36	LLC "EMS-Expert"
 8C:1F:64:21:E0:00/36	The Bionetics Corporation
+8C:1F:64:22:10:00/36	Yuansiang Optoelectronics Co.,Ltd.
 8C:1F:64:22:40:00/36	PHB Eletronica Ltda.
 8C:1F:64:22:70:00/36	Digilens
 8C:1F:64:22:D0:00/36	Kaysons Electricals Private Limited
@@ -39916,6 +39925,7 @@
 94:B3:4F		Ruckus Wireless
 94:B4:0F		Hewlett Packard Enterprise
 94:B5:55		Espressif Inc.
+94:B6:09		Intel Corporate
 94:B8:19		Nokia
 94:B8:6D		Intel Corporate
 94:B8:C5		RuggedCom Inc.
@@ -41173,6 +41183,7 @@ A0:4E:01		CENTRAL ENGINEERING co.,ltd.
 A0:4E:04		Nokia Corporation
 A0:4E:A7		Apple, Inc.
 A0:4E:CF		Apple, Inc.
+A0:4F:52		Intel Corporate
 A0:4F:85		LG Electronics (Mobile Communications)
 A0:4F:D4		ADB Broadband Italia
 A0:51:0B		Intel Corporate
@@ -44001,6 +44012,7 @@ BC:34:00:F0:00:00/28	Private
 BC:35:E5		Hydro Systems Company
 BC:37:D3		Apple, Inc.
 BC:38:65		Jwcnetworks
+BC:38:98		Intel Corporate
 BC:38:D2		Pandachip Limited
 BC:39:A6		CSUN System Technology Co.,LTD
 BC:39:D9		Z-Tec
@@ -44833,6 +44845,7 @@ C4:45:EC		Shanghai Yali Electron Co.,LTD
 C4:46:06		Cisco Systems, Inc
 C4:46:19		Hon Hai Precision Ind. Co.,Ltd.
 C4:47:3F		Huawei Technologies Co.,Ltd
+C4:47:4E		Intel Corporate
 C4:48:38		Satcom Direct, Inc.
 C4:48:FA		Taicang T&W Electronics
 C4:49:BB		Mitsumi Electric Co.,Ltd.
@@ -45420,6 +45433,7 @@ C8:6C:20		Sichuan Tianyi Comheart Telecom Co.,LTD
 C8:6C:3D		Amazon Technologies Inc.
 C8:6C:87		Zyxel Communications Corporation
 C8:6C:B6		Optcom Co., Ltd.
+C8:6E:08		Intel Corporate
 C8:6F:1D		Apple, Inc.
 C8:70:23		Altice Labs S.A.
 C8:70:D4		IBO Technology Co,Ltd
