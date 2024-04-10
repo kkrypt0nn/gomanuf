@@ -20580,6 +20580,7 @@
 1C:E8:9E		Sjit
 1C:EA:0B		Edgecore Networks Corporation
 1C:EA:1B		Nokia
+1C:EA:AC		Beijing Xiaomi Mobile Software Co., Ltd
 1C:EC:72		Allradio Co., Ltd
 1C:ED:6F		AVM Audiovisuelles Marketing und Computersysteme GmbH
 1C:EE:C9		Elo touch solutions
@@ -27863,6 +27864,9 @@
 5C:87:30		Apple, Inc.
 5C:87:78		Cybertelbridge co.,ltd
 5C:87:9C		Intel Corporate
+5C:87:D8		IEEE Registration Authority
+5C:87:D8:10:00:00/28	COMET SYSTEM, s.r.o.
+5C:87:D8:40:00:00/28	Telfi Technologies Private Limited
 5C:88:16		Rockwell Automation
 5C:89:9A		Tp-Link Technologies Co.,Ltd.
 5C:89:D4		Beijing Banner Electric Co.,Ltd
@@ -34369,6 +34373,7 @@
 74:2B:62		Fujitsu Limited
 74:2D:0A		Norfolk Elektronik AG
 74:2E:4F		Stienen Group
+74:2E:C1		Dixon Electro Appliances Pvt Ltd
 74:2E:DB		Perinet GmbH
 74:2E:FC		DirectPacket Research, Inc,
 74:2F:68		AzureWave Technology Inc.
@@ -37361,6 +37366,7 @@
 8C:1F:64:20:D0:00/36	Grossenbacher Systeme AG
 8C:1F:64:20:E0:00/36	Alpha Bridge Technologies Private Limited
 8C:1F:64:21:10:00/36	Bipom Electronics, Inc.
+8C:1F:64:21:50:00/36	XLOGIC srl
 8C:1F:64:21:90:00/36	Guangzhou Desam Audio Co.,Ltd
 8C:1F:64:21:C0:00/36	LLC "EMS-Expert"
 8C:1F:64:21:E0:00/36	The Bionetics Corporation
@@ -38046,11 +38052,13 @@
 8C:1F:64:8A:80:00/36	Massachusetts Institute of Technology
 8C:1F:64:8A:90:00/36	Guan Show Technologe Co., Ltd.
 8C:1F:64:8A:A0:00/36	Forever Engineering Systems Pvt. Ltd.
+8C:1F:64:8A:B0:00/36	Asml Us, Lp
 8C:1F:64:8A:C0:00/36	BOZHON Precision Industry Technology Co.,Ltd
 8C:1F:64:8A:E0:00/36	Shenzhen Qunfang Technology Co., LTD.
 8C:1F:64:8A:F0:00/36	Ibeos
 8C:1F:64:8B:20:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:8B:50:00/36	Ashton Bentley Collaboration Spaces
+8C:1F:64:8B:60:00/36	AXIS Sp z o.o.
 8C:1F:64:8B:80:00/36	Wien Energie GmbH
 8C:1F:64:8B:90:00/36	Zynex Monitoring Solutions
 8C:1F:64:8C:20:00/36	Cirrus Systems, Inc.
@@ -45720,6 +45728,7 @@ CA:C2:76		Saab Seaeye Ltd
 CA:C8:7E		Allen Organ Company
 CA:E5:05		Mobilitie
 CA:F2:5B		Lexar Electronics(Shenzhen) Co.,Ltd.
+CA:FA:E6		Tianjin Ronghui microelectronics Technology Co., Ltd.
 CC:00:80		Bettini Srl
 CC:00:F1		Sagemcom Broadband SAS
 CC:03:7B		Texas Instruments
