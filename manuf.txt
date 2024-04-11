@@ -24307,6 +24307,7 @@
 40:62:34		Telink Semiconductor (Shanghai) Co., Ltd.
 40:62:B6		Tele system communication
 40:62:EA		China Mobile Group Device Co.,Ltd.
+40:62:EE		Chicony Electronics Co., Ltd.
 40:64:A4		The Furukawa Electric Co., Ltd
 40:64:DC		X-speed lnformation Technology Co.,Ltd
 40:65:A3		Sagemcom Broadband SAS
