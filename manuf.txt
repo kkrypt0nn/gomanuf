@@ -21102,6 +21102,7 @@
 24:3A:82		Irts
 24:3C:20		Dynamode Group
 24:3F:30		Oxygen Broadband s.a.
+24:3F:75		Hui Zhou Gaoshengda Technology Co.,LTD
 24:3F:AA		Huawei Device Co., Ltd.
 24:40:AE		NIIC Technology Co., Ltd.
 24:41:8C		Intel Corporate
@@ -27872,9 +27873,11 @@
 5C:87:D8		IEEE Registration Authority
 5C:87:D8:00:00:00/28	Nanjing Shufan Information Technology Co., Ltd.
 5C:87:D8:10:00:00/28	COMET SYSTEM, s.r.o.
+5C:87:D8:30:00:00/28	Shenzhen Beiens Import and Export Co.,Ltd
 5C:87:D8:40:00:00/28	Telfi Technologies Private Limited
 5C:87:D8:70:00:00/28	Tradewinds Networks Incorporated
 5C:87:D8:90:00:00/28	Annapurna labs
+5C:87:D8:C0:00:00/28	Dragonglass Technology(Shenzhen)Co.,Ltd.
 5C:88:16		Rockwell Automation
 5C:89:9A		Tp-Link Technologies Co.,Ltd.
 5C:89:D4		Beijing Banner Electric Co.,Ltd
@@ -49107,6 +49110,7 @@ E8:DE:27		Tp-Link Technologies Co.,Ltd.
 E8:DE:8E		Integrated Device Technology (Malaysia) Sdn. Bhd.
 E8:DE:D6		Intrising Networks, Inc.
 E8:DE:FB		Mesotic Sas
+E8:DF:24		Ohsung
 E8:DF:70		AVM Audiovisuelles Marketing und Computersysteme GmbH
 E8:DF:F2		PRF Co., Ltd.
 E8:E0:7E		Silicon Laboratories
