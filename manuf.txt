@@ -22903,6 +22903,7 @@
 34:4F:3F		IO-Power Technology Co., Ltd.
 34:4F:5C		R&M Ag
 34:4F:69		Ekinops Sas
+34:51:6F		Skychers Creations ShenZhen Limited
 34:51:80		TCL King Electrical Appliances (Huizhou) Co., Ltd
 34:51:84		Huawei Device Co., Ltd.
 34:51:AA		Jid Global
@@ -24342,6 +24343,7 @@
 40:7F:E0		Glory Star Technics (ShenZhen) Limited
 40:80:E1		FN-LINK TECHNOLOGY Ltd.
 40:82:56		Continental Automotive GmbH
+40:82:7B		STMicroelectronics Rousset SAS
 40:83:1D		Apple, Inc.
 40:83:DE		Zebra Technologies Inc
 40:84:32		Microchip Technology Inc.
@@ -27875,8 +27877,11 @@
 5C:87:D8:10:00:00/28	COMET SYSTEM, s.r.o.
 5C:87:D8:30:00:00/28	Shenzhen Beiens Import and Export Co.,Ltd
 5C:87:D8:40:00:00/28	Telfi Technologies Private Limited
+5C:87:D8:50:00:00/28	Hangzhou Advanced Intelligent Manufacturing Systems Co.,Ltd.
 5C:87:D8:70:00:00/28	Tradewinds Networks Incorporated
+5C:87:D8:80:00:00/28	fmad engineering
 5C:87:D8:90:00:00/28	Annapurna labs
+5C:87:D8:A0:00:00/28	Piscis Networks Private Limited
 5C:87:D8:C0:00:00/28	Dragonglass Technology(Shenzhen)Co.,Ltd.
 5C:88:16		Rockwell Automation
 5C:89:9A		Tp-Link Technologies Co.,Ltd.
@@ -37849,6 +37854,7 @@
 8C:1F:64:67:F0:00/36	Hamamatsu Photonics K.K.
 8C:1F:64:68:30:00/36	Slat
 8C:1F:64:68:50:00/36	Sanchar Communication Systems
+8C:1F:64:68:C0:00/36	GuangZhou HOKO Electric CO.,LTD
 8C:1F:64:69:10:00/36	Wende Tan
 8C:1F:64:69:20:00/36	Nexilis Electronics India Pvt Ltd (PICSYS)
 8C:1F:64:69:40:00/36	Hubbell Power Systems
@@ -39604,6 +39610,7 @@
 90:CF:7D		Qingdao Hisense Communications Co.,Ltd.
 90:D0:92		HUMAX Co., Ltd.
 90:D1:1B		Palomar Medical Technologies
+90:D3:CF		Askey Computer Corp
 90:D4:32		zte corporation
 90:D4:73		vivo Mobile Communication Co., Ltd.
 90:D6:89		Huahao Fangzhou Technology Co.,Ltd
