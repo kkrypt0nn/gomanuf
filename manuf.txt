@@ -21181,7 +21181,7 @@
 24:5F:DF		Kyocera Corporation
 24:60:81		razberi technologies
 24:61:5A		China Mobile Group Device Co.,Ltd.
-24:62:78		sysmocom - systems for mobile communications GmbH
+24:62:78		sysmocom - s.f.m.c. GmbH
 24:62:AB		Espressif Inc.
 24:62:CE		Hewlett Packard Enterprise
 24:64:9F		Huawei Device Co., Ltd.
@@ -23265,6 +23265,7 @@
 38:18:4C		Sony Home Entertainment&Sound Products Inc
 38:19:2F		Nokia Corporation
 38:1A:52		Seiko Epson Corporation
+38:1B:9E		Qingdao Intelligent&Precise Electronics Co.,Ltd.
 38:1C:1A		Cisco Systems, Inc
 38:1C:23		Hilan Technology CO.,LTD
 38:1C:4A		SIMCom Wireless Solutions Co.,Ltd.
@@ -27583,6 +27584,7 @@
 58:D8:A7		Bird Home Automation GmbH
 58:D9:C3		Motorola Mobility LLC, a Lenovo Company
 58:D9:D5		Tenda Technology Co.,Ltd.Dongguan branch
+58:DB:09		Quectel Wireless Solutions Co.,Ltd.
 58:DB:15		Tecno Mobile Limited
 58:DB:8D		Fast Co., Ltd.
 58:DC:6D		Exceptional Innovation, Inc.
@@ -27786,6 +27788,8 @@
 5C:58:E6		Palo Alto Networks
 5C:59:48		Apple, Inc.
 5C:5A:4C		IEEE Registration Authority
+5C:5A:4C:10:00:00/28	Orchid Products Limited
+5C:5A:4C:30:00:00/28	Ferroamp AB (publ)
 5C:5A:4C:40:00:00/28	Yihua Communications(Huizhou)Co.,Ltd
 5C:5A:4C:90:00:00/28	Linktech Systerm Technology Co.,Ltd
 5C:5A:C7		Cisco Systems, Inc
@@ -36361,6 +36365,7 @@
 84:62:A6		EuroCB (Phils), Inc.
 84:63:D6		Microsoft Corporation
 84:64:DD		Huawei Technologies Co.,Ltd
+84:65:2B		Donaldson Company
 84:65:69		New H3C Technologies Co., Ltd
 84:68:3E		Intel Corporate
 84:68:78		Apple, Inc.
@@ -38654,6 +38659,7 @@
 8C:1F:64:E1:00:00/36	Scenario Automation
 8C:1F:64:E1:20:00/36	Pixus Technologies Inc.
 8C:1F:64:E1:40:00/36	Proserv
+8C:1F:64:E1:50:00/36	Panascais ehf.
 8C:1F:64:E1:A0:00/36	DAccess Security Systems P Ltd
 8C:1F:64:E1:E0:00/36	Flextronics International Kft
 8C:1F:64:E2:10:00/36	LG-LHT Aircraft Solutions GmbH
@@ -40199,6 +40205,7 @@
 98:06:3C		Samsung Electronics Co.,Ltd
 98:07:09		Huawei Device Co., Ltd.
 98:07:2D		Texas Instruments
+98:08:02		Orbis Bv
 98:09:CF		OnePlus Technology (Shenzhen) Co., Ltd
 98:0C:33		Silicon Laboratories
 98:0C:82		Samsung Electro Mechanics Co., Ltd.
@@ -45492,6 +45499,7 @@ C8:6E:08		Intel Corporate
 C8:6F:1D		Apple, Inc.
 C8:70:23		Altice Labs S.A.
 C8:70:D4		IBO Technology Co,Ltd
+C8:71:1F		Suzhou Tesien Technology Co., Ltd.
 C8:71:25		Johnson Outdoors Marine Electronics d/b/a Minnkota
 C8:72:48		Aplicom Oy
 C8:72:7E		Nokia
@@ -47506,6 +47514,7 @@ D8:CF:9C		Apple, Inc.
 D8:CF:BF		Motorola Mobility LLC, a Lenovo Company
 D8:D0:90		Dell Inc.
 D8:D1:CB		Apple, Inc.
+D8:D2:61		GD Midea Air-Conditioning Equipment Co.,Ltd.
 D8:D2:7C		Jema Energy, Sa
 D8:D3:85		Hewlett Packard
 D8:D4:3C		Sony Corporation
