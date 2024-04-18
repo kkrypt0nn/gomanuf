@@ -2536,7 +2536,7 @@
 00:09:F4		Alcon Laboratories, Inc.
 00:09:F5		Emerson Network Power Co.,Ltd
 00:09:F6		Shenzhen Eastern Digital Tech Ltd.
-00:09:F7		SED, a division of Calian
+00:09:F7		Calian Advanced Technologies
 00:09:F8		Unimo Technology Co., Ltd.
 00:09:F9		Art Japan Co., Ltd.
 00:09:FB		Philips Patient Monitoring
@@ -19117,6 +19117,7 @@
 10:BF:48		ASUSTek COMPUTER INC.
 10:BF:67		Amazon Technologies Inc.
 10:C0:7C		Blu-ray Disc Association
+10:C0:D5		HOLOEYE Photonics AG
 10:C1:72		Huawei Technologies Co.,Ltd
 10:C2:2F		China Entropy Co., Ltd.
 10:C2:5A		Vantiva USA LLC
@@ -27789,9 +27790,11 @@
 5C:59:48		Apple, Inc.
 5C:5A:4C		IEEE Registration Authority
 5C:5A:4C:10:00:00/28	Orchid Products Limited
+5C:5A:4C:20:00:00/28	ITS Partner (O.B.S) S.L.
 5C:5A:4C:30:00:00/28	Ferroamp AB (publ)
 5C:5A:4C:40:00:00/28	Yihua Communications(Huizhou)Co.,Ltd
 5C:5A:4C:90:00:00/28	Linktech Systerm Technology Co.,Ltd
+5C:5A:4C:A0:00:00/28	Chengdu Skysoft Info&Tech Co.,Ltd.
 5C:5A:C7		Cisco Systems, Inc
 5C:5A:EA		Ford
 5C:5B:35		Mist Systems, Inc.
@@ -38592,6 +38595,7 @@
 8C:1F:64:D6:30:00/36	Mobileye
 8C:1F:64:D6:90:00/36	ADiCo Corporation
 8C:1F:64:D6:C0:00/36	Packetalk LLC
+8C:1F:64:D7:00:00/36	Beyond Laser Systems LLC
 8C:1F:64:D7:30:00/36	BRS Sistemas Eletrônicos
 8C:1F:64:D7:40:00/36	Tex Computer Srl
 8C:1F:64:D7:70:00/36	Private
