@@ -46860,6 +46860,7 @@ D4:3A:2F		Shenzhen Mtc Co Ltd
 D4:3A:65		IGRS Engineering Lab Ltd.
 D4:3A:E9		DONGGUAN ipt INDUSTRIAL CO., LTD
 D4:3B:04		Intel Corporate
+D4:3B:8A		Shenzhen Zhide technology Co., LTD
 D4:3D:39		Dialog Semiconductor
 D4:3D:67		Carma Industries Inc.
 D4:3D:7E		Micro-Star Int'l Co, Ltd
