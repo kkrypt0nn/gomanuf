@@ -29659,6 +29659,7 @@
 6C:B2:AE		Cisco Systems, Inc
 6C:B2:FD		Texas Instruments
 6C:B3:11		Shenzhen Lianrui Electronics Co.,Ltd
+6C:B3:4D		SharkNinja Operating LLC
 6C:B3:50		Anhui comhigher tech co.,ltd
 6C:B4:56		Espressif Inc.
 6C:B4:A7		Landauer, Inc.
@@ -37724,6 +37725,7 @@
 8C:1F:64:51:70:00/36	Smart Radar System, Inc
 8C:1F:64:51:80:00/36	Wagner Group GmbH
 8C:1F:64:52:10:00/36	MP-SENSOR GmbH
+8C:1F:64:52:40:00/36	Aski Industrie Elektronik GmbH
 8C:1F:64:52:50:00/36	United States Technologies Inc.
 8C:1F:64:52:A0:00/36	Hiwin Mikrosystem Corp.
 8C:1F:64:52:D0:00/36	Cubic ITS, Inc. dba GRIDSMART Technologies
@@ -37766,6 +37768,7 @@
 8C:1F:64:57:A0:00/36	NPO ECO-INTECH Ltd.
 8C:1F:64:57:B0:00/36	Potter Electric Signal Company
 8C:1F:64:57:D0:00/36	ISDI Ltd
+8C:1F:64:58:00:00/36	SAKURA SEIKI Co., Ltd.
 8C:1F:64:58:10:00/36	SpectraDynamics, Inc.
 8C:1F:64:58:90:00/36	Hvrnd
 8C:1F:64:58:B0:00/36	Quectel Wireless Solutions Co.,Ltd.
@@ -38295,6 +38298,7 @@
 8C:1F:64:A8:70:00/36	Morgen Technology
 8C:1F:64:A8:90:00/36	Mitsubishi Electric India Pvt. Ltd.
 8C:1F:64:A9:10:00/36	Infinitive Group Limited
+8C:1F:64:A9:20:00/36	Agrology, PBC
 8C:1F:64:A9:40:00/36	Future wave ultra tech Company
 8C:1F:64:A9:70:00/36	Integer.pl S.A.
 8C:1F:64:A9:80:00/36	Jacobs Technology, Inc.
