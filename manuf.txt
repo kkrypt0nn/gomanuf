@@ -27798,6 +27798,7 @@
 5C:58:E6		Palo Alto Networks
 5C:59:48		Apple, Inc.
 5C:5A:4C		IEEE Registration Authority
+5C:5A:4C:00:00:00/28	Jinchuan Group Co.,Ltd
 5C:5A:4C:10:00:00/28	Orchid Products Limited
 5C:5A:4C:20:00:00/28	ITS Partner (O.B.S) S.L.
 5C:5A:4C:30:00:00/28	Ferroamp AB (publ)
@@ -27806,6 +27807,9 @@
 5C:5A:4C:80:00:00/28	Spot AI, Inc.
 5C:5A:4C:90:00:00/28	Linktech Systerm Technology Co.,Ltd
 5C:5A:4C:A0:00:00/28	Chengdu Skysoft Info&Tech Co.,Ltd.
+5C:5A:4C:B0:00:00/28	Esme Solutions
+5C:5A:4C:C0:00:00/28	tarm AG
+5C:5A:4C:D0:00:00/28	Aeva, Inc.
 5C:5A:C7		Cisco Systems, Inc
 5C:5A:EA		Ford
 5C:5B:35		Mist Systems, Inc.
@@ -37985,6 +37989,7 @@
 8C:1F:64:75:50:00/36	Flextronics International Kft
 8C:1F:64:75:60:00/36	Star Systems International Limited
 8C:1F:64:75:90:00/36	Systel Inc
+8C:1F:64:75:C0:00/36	American Energy Storage Innovations
 8C:1F:64:75:F0:00/36	ASTRACOM Co. Ltd
 8C:1F:64:76:00:00/36	Q-Light AS
 8C:1F:64:76:20:00/36	Support Professionals B.V.
@@ -38399,6 +38404,7 @@
 8C:1F:64:B4:60:00/36	Phygitall Soluções Em Internet Das Coisas
 8C:1F:64:B4:70:00/36	Lineage Power Pvt Ltd.,
 8C:1F:64:B4:C0:00/36	Picocom Technology Ltd
+8C:1F:64:B4:F0:00/36	Vaunix Technology Corporation
 8C:1F:64:B5:50:00/36	Sanchar Telesystems limited
 8C:1F:64:B5:60:00/36	Arcvideo
 8C:1F:64:B5:A0:00/36	YUYAMA MFG Co.,Ltd
@@ -38524,6 +38530,7 @@
 8C:1F:64:C7:10:00/36	Yaviar LLC
 8C:1F:64:C7:B0:00/36	Freedom Atlantic
 8C:1F:64:C7:C0:00/36	MERKLE Schweissanlagen-Technik GmbH
+8C:1F:64:C7:D0:00/36	Glasson Electronics Ltd
 8C:1F:64:C8:00:00/36	VECOS Europe B.V.
 8C:1F:64:C8:10:00/36	Taolink Technologies Corporation
 8C:1F:64:C8:30:00/36	Power Electronics Espana, S.L.
@@ -38586,6 +38593,7 @@
 8C:1F:64:D0:90:00/36	Minartime(Beijing)Science &Technology Development Co.,Ltd
 8C:1F:64:D0:E0:00/36	Labforge Inc.
 8C:1F:64:D0:F0:00/36	Mecco LLC
+8C:1F:64:D1:10:00/36	Benetel
 8C:1F:64:D1:30:00/36	EYatsko Individual
 8C:1F:64:D1:70:00/36	I.S.A. - Altanova group srl
 8C:1F:64:D1:B0:00/36	Audiodo International AB
@@ -38595,6 +38603,7 @@
 8C:1F:64:D2:40:00/36	R3 IoT Ltd.
 8C:1F:64:D2:90:00/36	Secure Bits
 8C:1F:64:D2:A0:00/36	Anteus Kft.
+8C:1F:64:D2:D0:00/36	Eskomar Ltd.
 8C:1F:64:D3:40:00/36	Kronotech Srl
 8C:1F:64:D3:80:00/36	Cuu Long Technology And Trading Company Limited
 8C:1F:64:D3:A0:00/36	Applied Materials
@@ -49640,6 +49649,7 @@ F0:07:27		Interel Building Automation
 F0:07:86		Shandong Bittel Electronics Co., Ltd
 F0:08:D1		Espressif Inc.
 F0:08:F1		Samsung Electronics Co.,Ltd
+F0:09:0D		Tp-Link Corporation Pte. Ltd.
 F0:0D:5C		JinQianMao  Technology Co.,Ltd.
 F0:0D:F5		ACOMA Medical Industry Co,. Ltd.
 F0:0E:1D		Megafone Limited
