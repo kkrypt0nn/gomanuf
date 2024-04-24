@@ -21060,6 +21060,7 @@
 24:15:10:E0:00:00/28	Satellite Link Technology CO.,LTD
 24:15:51		Huawei Device Co., Ltd.
 24:16:1B		Cisco Systems, Inc
+24:16:51		Chipsea Technologies (Shenzhen) Corp.
 24:16:6D		Huawei Technologies Co.,Ltd
 24:16:9D		Cisco Systems, Inc
 24:18:1D		Samsung Electro-Mechanics(Thailand)
@@ -25143,6 +25144,7 @@
 44:23:AA		Farmage Co., Ltd.
 44:25:BB		Bamboo Entertainment Corporation
 44:27:2E		Huawei Device Co., Ltd.
+44:27:45		LG Innotek
 44:27:F3		70mai Co.,Ltd.
 44:28:A3		Jiangsu fulian  Communication Technology Co., Ltd.
 44:29:1E		AltoBeam (China) Inc.
@@ -27251,6 +27253,7 @@
 54:F8:76		Abb Ag
 54:F8:F0		Tesla Inc
 54:FA:3E		Samsung Electronics Co.,Ltd
+54:FA:89		Medtronic CRM
 54:FA:96		Nokia Solutions and Networks GmbH & Co. KG
 54:FB:58		WISEWARE, Lda
 54:FC:F0		Samsung Electronics Co.,Ltd
@@ -27431,6 +27434,7 @@
 58:73:D8		Apple, Inc.
 58:75:21		CJSC RTSoft
 58:76:75		Beijing ECHO Technologies Co.,Ltd
+58:76:9C		Palo Alto Networks
 58:76:AC		Sernet (Suzhou) Technologies Corporation
 58:76:B3		Ubee Interactive Co., Limited
 58:76:C5		Digi I'S Ltd
@@ -27804,6 +27808,8 @@
 5C:5A:4C:30:00:00/28	Ferroamp AB (publ)
 5C:5A:4C:40:00:00/28	Yihua Communications(Huizhou)Co.,Ltd
 5C:5A:4C:50:00:00/28	Annapurna labs
+5C:5A:4C:60:00:00/28	Shenzhen Sunsoont Technology Co.,Ltd
+5C:5A:4C:70:00:00/28	Ace Computers
 5C:5A:4C:80:00:00/28	Spot AI, Inc.
 5C:5A:4C:90:00:00/28	Linktech Systerm Technology Co.,Ltd
 5C:5A:4C:A0:00:00/28	Chengdu Skysoft Info&Tech Co.,Ltd.
