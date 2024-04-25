@@ -27708,6 +27708,7 @@
 5C:11:93		Seal One AG
 5C:14:37		Thyssenkrupp Aufzugswerke GmbH
 5C:15:15		Advan
+5C:15:C5		Shenzhen SSC Technology Co. Ltd
 5C:15:E1		Aidc Technology (S) Pte Ltd
 5C:16:48		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 5C:16:7D		Huawei Technologies Co.,Ltd
@@ -27816,6 +27817,7 @@
 5C:5A:4C:B0:00:00/28	Esme Solutions
 5C:5A:4C:C0:00:00/28	tarm AG
 5C:5A:4C:D0:00:00/28	Aeva, Inc.
+5C:5A:4C:E0:00:00/28	Ai-Rider Corporation
 5C:5A:C7		Cisco Systems, Inc
 5C:5A:EA		Ford
 5C:5B:35		Mist Systems, Inc.
@@ -37386,6 +37388,7 @@
 8C:1F:64:17:00:00/36	Fracarro Radioindustrie Srl
 8C:1F:64:17:70:00/36	Emcom Systems
 8C:1F:64:17:90:00/36	Agrowtek Inc.
+8C:1F:64:17:B0:00/36	Bavaria Digital Technik GmbH
 8C:1F:64:17:C0:00/36	Zelp Ltd
 8C:1F:64:17:E0:00/36	MI Inc.
 8C:1F:64:18:70:00/36	Sicon srl
@@ -37733,6 +37736,7 @@
 8C:1F:64:4E:90:00/36	Eers Global Technologies Inc.
 8C:1F:64:4E:C0:00/36	XOR UK Corporation Limited
 8C:1F:64:4F:00:00/36	Tieline Research Pty Ltd
+8C:1F:64:4F:10:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:4F:60:00/36	Private
 8C:1F:64:4F:70:00/36	SmartD Technologies Inc
 8C:1F:64:4F:90:00/36	Photonic Science and Engineering Ltd
@@ -43539,6 +43543,7 @@ B4:C2:F7		Huawei Device Co., Ltd.
 B4:C4:4E		VXL eTech Pvt Ltd
 B4:C4:76		Wuhan Maritime Communication Research Institute
 B4:C4:FC		Xiaomi Communications Co Ltd
+B4:C5:56		Shanghai Kenmyond Industrial Network Equipment Co., Ltd
 B4:C6:2E		Molex CMS
 B4:C6:F8		Axilspot Communication
 B4:C7:99		Extreme Networks Headquarters
@@ -48022,6 +48027,7 @@ DC:E7:1C		AUG Elektronik GmbH
 DC:E8:38		CK Telecom (Shenzhen) Limited
 DC:E9:94		Cloud Network Technology Singapore Pte. Ltd.
 DC:EA:E7		D-Link Corporation
+DC:EB:4D		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
 DC:EB:53		Wuhan QianXiao Elecronic Technology CO.,LTD
 DC:EB:69		Vantiva USA LLC
 DC:EB:94		Cisco Systems, Inc
