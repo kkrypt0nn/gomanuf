@@ -23440,6 +23440,7 @@
 38:78:62		Sony Corporation
 38:7A:0E		Intel Corporate
 38:7A:3C		Fiberhome Telecommunication Technologies Co.,LTD
+38:7A:CC		Shenzhen Bilian Electronic Co.，Ltd
 38:7B:01		Shenzhen MiaoMing Intelligent Technology Co.,Ltd
 38:7B:47		AKELA, Inc.
 38:7C:76		Universal Global Scientific Industrial Co., Ltd.
@@ -24026,6 +24027,7 @@
 3C:A6:F6		Apple, Inc.
 3C:A7:2B		MRV Communications (Networks) LTD
 3C:A7:AE		zte corporation
+3C:A8:0A		vivo Mobile Communication Co., Ltd.
 3C:A8:2A		Hewlett Packard
 3C:A8:ED		smart light technology
 3C:A9:16		Huawei Device Co., Ltd.
@@ -29888,6 +29890,7 @@
 70:32:17		Intel Corporate
 70:32:D5		Athena Wireless Communications Inc
 70:35:09		Cisco Systems, Inc
+70:35:7B		vivo Mobile Communication Co., Ltd.
 70:36:B2		Focusai Corp
 70:37:8E		Tianyi Telecom Terminals Company Limited
 70:38:11		Siemens Mobility Limited
@@ -42293,6 +42296,7 @@ A8:A5:E2		MSF-Vathauer Antriebstechnik GmbH & Co KG
 A8:A6:48		Qingdao Hisense Communications Co.,Ltd.
 A8:A6:68		zte corporation
 A8:A7:95		Hon Hai Precision Ind. Co.,Ltd.
+A8:A9:13		GN Hearing A/S
 A8:AA:7C		Huawei Device Co., Ltd.
 A8:AB:B5		Apple, Inc.
 A8:AD:3D		Alcatel-Lucent Shanghai Bell Co., Ltd
@@ -50756,6 +50760,11 @@ F8:79:07		Huawei Device Co., Ltd.
 F8:79:0A		ARRIS Group, Inc.
 F8:79:28		zte corporation
 F8:79:99		Guangdong Jiuzhi Technology Co.,Ltd
+F8:7A:39:00:00:00/28	Hangzhou Yongxie Technology Co., Ltd
+F8:7A:39:30:00:00/28	Overview Limited
+F8:7A:39:40:00:00/28	Zsystem technology co.,
+F8:7A:39:60:00:00/28	Annapurna labs
+F8:7A:39:C0:00:00/28	Flextronics International Kft
 F8:7A:41		Cisco Systems, Inc
 F8:7A:EF		Rosonix Technology, Inc.
 F8:7B:20		Cisco Systems, Inc
