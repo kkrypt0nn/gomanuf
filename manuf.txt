@@ -16335,6 +16335,7 @@
 00:A3:88		Sky Uk Limited
 00:A3:8E		Cisco Systems, Inc
 00:A3:D1		Cisco Systems, Inc
+00:A4:1C		Tonly Technology Co. Ltd
 00:A4:5F		Huawei Device Co., Ltd.
 00:A5:09		WigWag Inc.
 00:A5:54		Intel Corporate
@@ -19299,6 +19300,7 @@
 14:23:0A		Huawei Technologies Co.,Ltd
 14:23:D7		Eutronix Co., Ltd.
 14:23:F2		Broadcom Limited
+14:23:F3		Broadcom Limited
 14:24:75		4DReplay, Inc
 14:28:76		Apple, Inc.
 14:28:82		Midicom Electronics Co.Ltd
@@ -39590,6 +39592,7 @@
 90:9D:7D		ARRIS Group, Inc.
 90:9D:E0		Newland Design + Assoc. Inc.
 90:9E:24		ekey biometric systems gmbh
+90:9F:22		Zyxel Communications Corporation
 90:9F:33		EFM Networks
 90:9F:43		Accutron Instruments Inc.
 90:A0:BE		Cannice
@@ -44077,6 +44080,7 @@ BC:26:C7		Cisco Systems, Inc
 BC:28:2C		e-Smart Systems Pvt. Ltd
 BC:28:46		NextBIT Computing Pvt. Ltd.
 BC:28:D6		Rowley Associates Limited
+BC:29:78		Prama Hikvision India Private Limited
 BC:2B:6B		Beijing Haier IC Design Co.,Ltd
 BC:2B:D7		Revogi Innovation Co., Ltd.
 BC:2C:55		Bear Flag Design, Inc.
@@ -50760,7 +50764,9 @@ F8:79:07		Huawei Device Co., Ltd.
 F8:79:0A		ARRIS Group, Inc.
 F8:79:28		zte corporation
 F8:79:99		Guangdong Jiuzhi Technology Co.,Ltd
+F8:7A:39		IEEE Registration Authority
 F8:7A:39:00:00:00/28	Hangzhou Yongxie Technology Co., Ltd
+F8:7A:39:10:00:00/28	Hangzhou Jiemu Electronic Technology Co.,Ltd
 F8:7A:39:30:00:00/28	Overview Limited
 F8:7A:39:40:00:00/28	Zsystem technology co.,
 F8:7A:39:60:00:00/28	Annapurna labs
