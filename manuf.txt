@@ -18140,6 +18140,7 @@
 08:81:F4		Juniper Networks
 08:84:66		Novartis Pharma AG
 08:84:9D		Amazon Technologies Inc.
+08:84:FB		Honor Device Co., Ltd.
 08:85:5B		Kontron Europe GmbH
 08:86:20		Tecno Mobile Limited
 08:86:3B		Belkin International Inc.
@@ -35292,6 +35293,7 @@
 78:E3:B5		Hewlett Packard
 78:E3:DE		Apple, Inc.
 78:E4:00		Hon Hai Precision Ind. Co.,Ltd.
+78:E6:1C		Honor Device Co., Ltd.
 78:E7:D1		Hewlett Packard
 78:E8:B6		zte corporation
 78:E9:80		RainUs Co.,Ltd
@@ -36515,6 +36517,7 @@
 84:9D:64		SMC Corporation
 84:9D:C2		Shanghai MXCHIP Information Technology Co., Ltd.
 84:9D:C5		Centera Photonics Inc.
+84:9E:56		Cloud Network Technology Singapore Pte. Ltd.
 84:9F:B5		Huawei Technologies Co.,Ltd
 84:A0:6E		Sagemcom Broadband SAS
 84:A1:34		Apple, Inc.
@@ -40728,6 +40731,7 @@
 9C:0C:DF		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 9C:0D:AC		Tymphany HK Limited
 9C:0E:4A		Shenzhen Vastking Electronic Co.,Ltd.
+9C:0E:51		Schneider Electric
 9C:12:21		Sichuan AI-Link Technology Co., Ltd.
 9C:13:AB		Chanson Water Co., Ltd.
 9C:14:63		Zhejiang Dahua Technology Co., Ltd.
@@ -42957,6 +42961,7 @@ B0:5C:E5		Nokia Corporation
 B0:5D:D4		ARRIS Group, Inc.
 B0:60:88		Intel Corporate
 B0:61:C7		Ericsson-LG Enterprise
+B0:65:3A		Murata Manufacturing Co., Ltd.
 B0:65:63		Shanghai Railway Communication Factory
 B0:65:BD		Apple, Inc.
 B0:65:F1		WIO Manufacturing HK Limited
@@ -50770,6 +50775,7 @@ F8:7A:39:10:00:00/28	Hangzhou Jiemu Electronic Technology Co.,Ltd
 F8:7A:39:30:00:00/28	Overview Limited
 F8:7A:39:40:00:00/28	Zsystem technology co.,
 F8:7A:39:60:00:00/28	Annapurna labs
+F8:7A:39:A0:00:00/28	Feltrin Industria E Comercio
 F8:7A:39:C0:00:00/28	Flextronics International Kft
 F8:7A:41		Cisco Systems, Inc
 F8:7A:EF		Rosonix Technology, Inc.
