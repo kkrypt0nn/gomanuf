@@ -13230,7 +13230,7 @@
 00:50:C2:8D:10:00/36	Bachmann Monitoring GmbH
 00:50:C2:8D:20:00/36	TTi Ltd
 00:50:C2:8D:30:00/36	IFAM GmbH
-00:50:C2:8D:40:00/36	Internet Protocolo Lógica SL
+00:50:C2:8D:40:00/36	Internet Protocolo Logica Sl
 00:50:C2:8D:50:00/36	Peek Traffic Corp
 00:50:C2:8D:60:00/36	UltraVision Security Systems, Inc.
 00:50:C2:8D:70:00/36	Polygon Informatics Ltd.
@@ -17573,6 +17573,7 @@
 04:92:EE		iway AG
 04:94:6B		Tecno Mobile Limited
 04:94:A1		Catch The Wind Inc
+04:94:E9		FAXedge Technologies, LLC
 04:95:73		zte corporation
 04:95:E6		Tenda Technology Co.,Ltd.Dongguan branch
 04:96:45		Wuxi Sky Chip Interconnection Technology Co.,Ltd.
@@ -21260,6 +21261,7 @@
 24:9A:C8		Shenzhen Skyworth Digital  Technology  CO., Ltd
 24:9A:D8		Yealink(Xiamen) Network Technology Co.,Ltd.
 24:9D:2A		LinkData Technology (Tianjin) Co., LTD
+24:9E:7D		Beijing Roborock Technology Co., Ltd.
 24:9E:AB		Huawei Technologies Co.,Ltd
 24:9F:89		Texas Instruments
 24:A0:74		Apple, Inc.
@@ -35320,6 +35322,7 @@
 78:EC:22		Shanghai Qihui Telecom Technology Co., LTD
 78:EC:74		Kyland-USA
 78:ED:BC		OnePlus Technology (Shenzhen) Co., Ltd
+78:EE:4C		Espressif Inc.
 78:EF:4C		Unetconvergence Co., Ltd.
 78:F0:9B		Huawei Device Co., Ltd.
 78:F1:C6		Cisco Systems, Inc
@@ -37978,6 +37981,7 @@
 8C:1F:64:70:B0:00/36	Onicon
 8C:1F:64:70:E0:00/36	OvercomTech
 8C:1F:64:71:20:00/36	Nexion Data Systems P/L
+8C:1F:64:71:50:00/36	Internet Protocolo Logica Sl
 8C:1F:64:71:80:00/36	Abb
 8C:1F:64:71:B0:00/36	Adasky Ltd.
 8C:1F:64:71:D0:00/36	Epigon spol. s r.o.
@@ -38338,6 +38342,7 @@
 8C:1F:64:A8:10:00/36	3D perception AS
 8C:1F:64:A8:30:00/36	EkspertStroyProekt
 8C:1F:64:A8:40:00/36	Beijing Wenrise Technology Co., Ltd.
+8C:1F:64:A8:60:00/36	Global Design Tech(ZS) Co.,Ltd
 8C:1F:64:A8:70:00/36	Morgen Technology
 8C:1F:64:A8:90:00/36	Mitsubishi Electric India Pvt. Ltd.
 8C:1F:64:A9:10:00/36	Infinitive Group Limited
@@ -39361,6 +39366,7 @@
 90:12:34		Shenzhen YOUHUA Technology Co., Ltd
 90:12:A1		We Corporation Inc.
 90:13:DA		Athom B.V.
+90:15:06		Espressif Inc.
 90:15:64		IEEE Registration Authority
 90:15:64:00:00:00/28	Fengzhushou Co., Ltd.
 90:15:64:20:00:00/28	Pin Genie, Inc.Dba Lockly
@@ -50775,8 +50781,11 @@ F8:7A:39:10:00:00/28	Hangzhou Jiemu Electronic Technology Co.,Ltd
 F8:7A:39:30:00:00/28	Overview Limited
 F8:7A:39:40:00:00/28	Zsystem technology co.,
 F8:7A:39:60:00:00/28	Annapurna labs
+F8:7A:39:80:00:00/28	Beijing Zhongyuan Yishang Technology Co.,LTD
 F8:7A:39:A0:00:00/28	Feltrin Industria E Comercio
+F8:7A:39:B0:00:00/28	FuyanshengElectronicFujian Co.ltd
 F8:7A:39:C0:00:00/28	Flextronics International Kft
+F8:7A:39:D0:00:00/28	Xiamen Tonmind Technology Co.,Ltd
 F8:7A:41		Cisco Systems, Inc
 F8:7A:EF		Rosonix Technology, Inc.
 F8:7B:20		Cisco Systems, Inc
@@ -51313,6 +51322,7 @@ FC:B0:C4		Shanghai DareGlobal Technologies Co.,Ltd
 FC:B0:DE		Cloud Network Technology Singapore Pte. Ltd.
 FC:B1:0D		Shenzhen Tian Kun Technology Co.,LTD.
 FC:B2:D6		Cig Shanghai Co Ltd
+FC:B3:87		Leapmotor (Jinhua) New Energy Vehicle Parts Technology Co., Ltd.
 FC:B3:BC		Intel Corporate
 FC:B4:67		Espressif Inc.
 FC:B4:E6		Askey Computer Corp
