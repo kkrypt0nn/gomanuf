@@ -19542,6 +19542,7 @@
 14:B9:68		Huawei Technologies Co.,Ltd
 14:BB:6E		Samsung Electronics Co.,Ltd
 14:BD:61		Apple, Inc.
+14:BE:FC		Nanjing Jiahao Technology Co., Ltd.
 14:C0:3E		ARRIS Group, Inc.
 14:C0:50		Guangdong Genius Technology Co., Ltd.
 14:C0:89		Dune Hd Ltd
@@ -50819,6 +50820,7 @@ F8:7A:39:20:00:00/28	Total-one TECHNOLOGY CO., LTD.
 F8:7A:39:30:00:00/28	Overview Limited
 F8:7A:39:40:00:00/28	Zsystem technology co.,
 F8:7A:39:60:00:00/28	Annapurna labs
+F8:7A:39:70:00:00/28	Shenzhen Electron Technology Co., LTD.
 F8:7A:39:80:00:00/28	Beijing Zhongyuan Yishang Technology Co.,LTD
 F8:7A:39:90:00:00/28	Shenzhenshilemaikejiyouxiangongsi
 F8:7A:39:A0:00:00/28	Feltrin Industria E Comercio
