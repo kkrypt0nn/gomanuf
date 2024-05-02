@@ -38487,6 +38487,7 @@
 8C:1F:64:BB:20:00/36	Grupo Epelsa S.L.
 8C:1F:64:BB:30:00/36	Zaruc Tecnologia LTDA
 8C:1F:64:BB:70:00/36	Jiangxi Lv C-Chong Charging Technology Co.Ltd
+8C:1F:64:BB:90:00/36	SmartD Technologies Inc
 8C:1F:64:BB:C0:00/36	Liberator Pty Ltd
 8C:1F:64:BB:E0:00/36	AirScan, Inc. dba HemaTechnologies
 8C:1F:64:BB:F0:00/36	Retency
@@ -48148,6 +48149,7 @@ E0:19:95		Nutanix
 E0:19:D8		Bh Technologies
 E0:1A:EA		Allied Telesis, Inc.
 E0:1C:41		Extreme Networks Headquarters
+E0:1C:A7		Arista Networks, Inc.
 E0:1C:EE		Bravo Tech, Inc.
 E0:1C:FC		D-Link International
 E0:1D:38		Beijing HuaqinWorld Technology Co.,Ltd
@@ -50819,6 +50821,7 @@ F8:7A:39:10:00:00/28	Hangzhou Jiemu Electronic Technology Co.,Ltd
 F8:7A:39:20:00:00/28	Total-one TECHNOLOGY CO., LTD.
 F8:7A:39:30:00:00/28	Overview Limited
 F8:7A:39:40:00:00/28	Zsystem technology co.,
+F8:7A:39:50:00:00/28	tatwah SA
 F8:7A:39:60:00:00/28	Annapurna labs
 F8:7A:39:70:00:00/28	Shenzhen Electron Technology Co., LTD.
 F8:7A:39:80:00:00/28	Beijing Zhongyuan Yishang Technology Co.,LTD
@@ -50827,6 +50830,7 @@ F8:7A:39:A0:00:00/28	Feltrin Industria E Comercio
 F8:7A:39:B0:00:00/28	FuyanshengElectronicFujian Co.ltd
 F8:7A:39:C0:00:00/28	Flextronics International Kft
 F8:7A:39:D0:00:00/28	Xiamen Tonmind Technology Co.,Ltd
+F8:7A:39:E0:00:00/28	Cognosos, Inc.
 F8:7A:41		Cisco Systems, Inc
 F8:7A:EF		Rosonix Technology, Inc.
 F8:7B:20		Cisco Systems, Inc
