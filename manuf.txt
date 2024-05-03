@@ -49464,6 +49464,8 @@ EC:59:E7		Microsoft Corporation
 EC:5A:86		Yulong Computer Telecommunication Scientific (Shenzhen) Co.,Ltd
 EC:5A:A3		Huawei Device Co., Ltd.
 EC:5B:73		Advanced & Wise Technology Corp.
+EC:5B:CD		IEEE Registration Authority
+EC:5B:CD:D0:00:00/28	ASHIDA Electronics Pvt. Ltd
 EC:5C:68		Chongqing Fugui Electronics Co.,Ltd.
 EC:5C:69		Mitsubishi Heavy Industries Mechatronics Systems,Ltd.
 EC:5C:84		Murata Manufacturing Co., Ltd.
