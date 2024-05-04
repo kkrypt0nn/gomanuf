@@ -25136,6 +25136,7 @@
 44:13:D0		zte corporation
 44:14:41		AudioControl Inc.
 44:16:22		Microsoft Corporation
+44:16:90		Wuxi Ranke Technology Co., Ltd.
 44:16:FA		Samsung Electronics Co.,Ltd
 44:17:93		Espressif Inc.
 44:18:47		Hunan Scrown Electronic Information Tech.Co.,Ltd
@@ -35446,6 +35447,7 @@
 7C:2A:CA		Apple, Inc.
 7C:2A:DB		Xiaomi Communications Co Ltd
 7C:2B:E1		Shenzhen Ferex Electrical Co.,Ltd
+7C:2C:67		Espressif Inc.
 7C:2C:F3		Secure Electrans Ltd
 7C:2E:0D		Blackmagic Design
 7C:2E:BD		Google, Inc.
@@ -38566,6 +38568,7 @@
 8C:1F:64:C5:70:00/36	Strategic Robotic Systems
 8C:1F:64:C5:90:00/36	Tunstall A/S
 8C:1F:64:C5:D0:00/36	Alfa Proxima d.o.o.
+8C:1F:64:C5:E0:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:C6:10:00/36	Beijing Ceresdate Technology Co.,LTD
 8C:1F:64:C6:20:00/36	GMI Ltd
 8C:1F:64:C6:40:00/36	Ajeco Oy
@@ -47400,6 +47403,7 @@ D8:38:FC		Ruckus Wireless
 D8:3A:DD		Raspberry Pi Trading Ltd
 D8:3A:F5		Wideband Labs LLC
 D8:3B:BF		Intel Corporate
+D8:3B:DA		Espressif Inc.
 D8:3C:69		Shenzhen TINNO Mobile Technology Corp.
 D8:3D:3F		JOYNED GmbH
 D8:3D:CC		shenzhen UDD Technologies,co.,Ltd
@@ -49465,6 +49469,8 @@ EC:5A:86		Yulong Computer Telecommunication Scientific (Shenzhen) Co.,Ltd
 EC:5A:A3		Huawei Device Co., Ltd.
 EC:5B:73		Advanced & Wise Technology Corp.
 EC:5B:CD		IEEE Registration Authority
+EC:5B:CD:30:00:00/28	Hefei BOE Vision-electronic Technology Co.,Ltd.
+EC:5B:CD:90:00:00/28	C&D Technologies
 EC:5B:CD:D0:00:00/28	ASHIDA Electronics Pvt. Ltd
 EC:5C:68		Chongqing Fugui Electronics Co.,Ltd.
 EC:5C:69		Mitsubishi Heavy Industries Mechatronics Systems,Ltd.
