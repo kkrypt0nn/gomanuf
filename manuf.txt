@@ -49471,6 +49471,7 @@ EC:5B:73		Advanced & Wise Technology Corp.
 EC:5B:CD		IEEE Registration Authority
 EC:5B:CD:30:00:00/28	Hefei BOE Vision-electronic Technology Co.,Ltd.
 EC:5B:CD:90:00:00/28	C&D Technologies
+EC:5B:CD:C0:00:00/28	Quicklert Inc
 EC:5B:CD:D0:00:00/28	ASHIDA Electronics Pvt. Ltd
 EC:5C:68		Chongqing Fugui Electronics Co.,Ltd.
 EC:5C:69		Mitsubishi Heavy Industries Mechatronics Systems,Ltd.
