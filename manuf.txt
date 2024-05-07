@@ -18869,6 +18869,7 @@
 10:1E:DA		Ingenico Terminals Sas
 10:1F:74		Hewlett Packard
 10:22:79		ZeroDesktop, Inc.
+10:23:81		Barrot Technology Co.,LTD
 10:24:07		Huawei Technologies Co.,Ltd
 10:27:79		Sadel S.p.A.
 10:27:BE		Tvip
@@ -19854,7 +19855,7 @@
 18:87:96		HTC Corporation
 18:88:57		Beijing Jinhong Xi-Dian Information Technology Corp.
 18:89:5B		Samsung Electronics Co.,Ltd
-18:89:A0		Wuhan Funshion Online Technologies Co.,Ltd
+18:89:A0		Funshion Online Technologies Co.,Ltd
 18:89:CF		Tecno Mobile Limited
 18:89:DF		Omnivision
 18:8A:6A		AVPro Global Hldgs
@@ -24485,7 +24486,7 @@
 40:BA:61		ARIMA Communications Corp.
 40:BB:56		TeraNXT Global India Pvt Ltd.
 40:BC:60		Apple, Inc.
-40:BC:68		Wuhan Funshion Online Technologies Co.,Ltd
+40:BC:68		Funshion Online Technologies Co.,Ltd
 40:BC:73		Cronoplast  S.L.
 40:BC:8B		itelio GmbH
 40:BD:32		Texas Instruments
@@ -27695,6 +27696,7 @@
 58:FC:DB:D0:00:00/28	Xiamen Leelen Technology Co.,Ltd
 58:FC:DB:E0:00:00/28	Applied Device Technologies
 58:FC:DB:F0:00:00/28	Private
+58:FC:E3		Funshion Online Technologies Co.,Ltd
 58:FD:20		Systemhouse Solutions AB
 58:FD:5D		Hangzhou Xinyun technology Co., Ltd.
 58:FD:B1		LG Electronics
@@ -36357,7 +36359,7 @@
 84:30:95		Hon Hai Precision IND.CO.,LTD
 84:30:CE		Shenzhen Jaguar Microsystems Co., Ltd
 84:30:E5		SkyHawke Technologies, LLC
-84:31:A8		Wuhan Funshion Online Technologies Co.,Ltd
+84:31:A8		Funshion Online Technologies Co.,Ltd
 84:32:6F		Guangzhou Ava Electronics Technology Co.,Ltd
 84:32:EA		Anhui Wanzten P&T Co., Ltd
 84:33:F2		Shenzhen Stellamore Technology Co.,Ltd
@@ -37275,6 +37277,7 @@
 8C:1F:64:01:A0:00/36	Paragraf
 8C:1F:64:01:E0:00/36	SCIREQ Scientific Respiratory Equipment  Inc
 8C:1F:64:02:00:00/36	Utthunga Techologies Pvt Ltd
+8C:1F:64:02:20:00/36	Telica Telecom Private Limited
 8C:1F:64:02:40:00/36	Shin Nihon Denshi Co., Ltd.
 8C:1F:64:02:50:00/36	SMITEC S.p.A.
 8C:1F:64:02:80:00/36	eyrise B.V.
@@ -38588,6 +38591,7 @@
 8C:1F:64:C8:F0:00/36	JW Froehlich Maschinenfabrik GmbH
 8C:1F:64:C9:10:00/36	Soehnle Industrial Solutions GmbH
 8C:1F:64:C9:20:00/36	EQ Earthquake Ltd.
+8C:1F:64:C9:60:00/36	Smart Data (Shenzhen) Intelligent System Co., Ltd.
 8C:1F:64:C9:70:00/36	Magnet-Physik Dr. Steingroever GmbH
 8C:1F:64:C9:A0:00/36	Infosoft Digital Design and Services P L
 8C:1F:64:C9:B0:00/36	J.M. Voith SE & Co. KG
@@ -40386,7 +40390,7 @@
 98:3B:67		DWnet Technologies(Suzhou) Corporation
 98:3B:8F		Intel Corporate
 98:3F:60		Huawei Technologies Co.,Ltd
-98:3F:66		Wuhan Funshion Online Technologies Co.,Ltd
+98:3F:66		Funshion Online Technologies Co.,Ltd
 98:3F:9F		China SSJ (Suzhou) Network Technology Inc.
 98:40:BB		Dell Inc.
 98:41:5C		Nintendo Co.,Ltd
@@ -41083,7 +41087,7 @@
 9C:DA:A8		Apple, Inc.
 9C:DB:07		Yellowtec GmbH
 9C:DB:AF		Huawei Technologies Co.,Ltd
-9C:DB:CB		Wuhan Funshion Online Technologies Co.,Ltd
+9C:DB:CB		Funshion Online Technologies Co.,Ltd
 9C:DC:71		Hewlett Packard Enterprise
 9C:DD:1F		Intelligent Steward Co.,Ltd
 9C:DE:4D		ML vision Co.,LTD
@@ -47893,6 +47897,7 @@ DC:67:23		barox Kommunikation GmbH
 DC:68:0C		Hewlett Packard Enterprise
 DC:68:80		zte corporation
 DC:68:EB		Nintendo Co.,Ltd
+DC:69:B5		eero inc.
 DC:69:E2		Samsung Electronics Co.,Ltd
 DC:6A:E7		Xiaomi Communications Co Ltd
 DC:6A:EA		Infinix mobility limited
