@@ -21402,6 +21402,7 @@
 24:F1:50		Guangzhou Qi'an Technology Co., Ltd.
 24:F2:7F		Hewlett Packard Enterprise
 24:F2:DD		Radiant Zemax LLC
+24:F3:06		Itel Mobile Limited
 24:F5:7E		Hwh Co., Ltd.
 24:F5:A2		Belkin International Inc.
 24:F5:AA		Samsung Electronics Co.,Ltd
@@ -24190,6 +24191,7 @@
 40:01:07		Arista Corp
 40:01:7A		Cisco Systems, Inc
 40:01:C6		3Com Europe Ltd
+40:03:26		NXP Semiconductor (Tianjin) LTD.
 40:04:0C		A&T
 40:05:89		T-Mobile, USA
 40:06:34		Huawei Device Co., Ltd.
@@ -28857,6 +28859,7 @@
 64:9B:24		V Technology Co., Ltd.
 64:9C:81		Qualcomm Inc.
 64:9C:8E		Texas Instruments
+64:9C:F3		Fiberhome Telecommunication Technologies Co.,LTD
 64:9D:99		Fs Com Inc
 64:9E:31		Beijing Xiaomi Mobile Software Co., Ltd
 64:9E:F3		Cisco Systems, Inc
@@ -29301,6 +29304,7 @@
 68:BC:0C		Cisco Systems, Inc
 68:BD:AB		Cisco Systems, Inc
 68:BE:49		Nebula Matrix
+68:BF:6C		Arista Networks
 68:BF:C4		Samsung Electronics Co.,Ltd
 68:C4:4C		Xiaomi Communications Co Ltd
 68:C4:4D		Motorola Mobility LLC, a Lenovo Company
@@ -35830,6 +35834,7 @@
 7C:E4:AA		Private
 7C:E5:24		Quirky, Inc.
 7C:E5:6B		ESEN Optoelectronics Technology Co.,Ltd.
+7C:E7:12		Quectel Wireless Solutions Co.,Ltd.
 7C:E8:7F		Sagemcom Broadband SAS
 7C:E9:7C		Itel Mobile Limited
 7C:E9:D3		Hon Hai Precision Ind. Co.,Ltd.
@@ -37688,6 +37693,7 @@
 8C:1F:64:3C:E0:00/36	Mahindr & Mahindra
 8C:1F:64:3D:00:00/36	Tripltek
 8C:1F:64:3D:10:00/36	EMIT GmbH
+8C:1F:64:3D:20:00/36	UVIRCO Technologies
 8C:1F:64:3D:40:00/36	e.p.g. Elettronica s.r.l.
 8C:1F:64:3D:50:00/36	FRAKO Kondensatoren- und Anlagenbau GmbH
 8C:1F:64:3D:90:00/36	Unlimited Bandwidth LLC
@@ -37857,6 +37863,7 @@
 8C:1F:64:57:D0:00/36	ISDI Ltd
 8C:1F:64:58:00:00/36	SAKURA SEIKI Co., Ltd.
 8C:1F:64:58:10:00/36	SpectraDynamics, Inc.
+8C:1F:64:58:50:00/36	Shanghai DIDON Industry Co,. Ltd.
 8C:1F:64:58:90:00/36	Hvrnd
 8C:1F:64:58:B0:00/36	Quectel Wireless Solutions Co.,Ltd.
 8C:1F:64:58:C0:00/36	Ear Micro LLC
@@ -38037,6 +38044,7 @@
 8C:1F:64:72:60:00/36	Dave Srl
 8C:1F:64:72:A0:00/36	Dorlet Sau
 8C:1F:64:72:C0:00/36	Antai technology Co.,Ltd
+8C:1F:64:72:D0:00/36	Hills Health Solutions
 8C:1F:64:73:10:00/36	ehoosys Co.,LTD.
 8C:1F:64:73:30:00/36	Video Network Security
 8C:1F:64:73:70:00/36	Vytahy-Vymyslicky s.r.o.
@@ -38629,6 +38637,7 @@
 8C:1F:64:CA:F0:00/36	BRS Sistemas Eletrônicos
 8C:1F:64:CB:20:00/36	Dyncir Soluções Tecnológicas Ltda
 8C:1F:64:CB:50:00/36	Gamber-Johnson LLC
+8C:1F:64:CB:60:00/36	Rowan Elettronica Srl
 8C:1F:64:CB:70:00/36	ARKRAY,Inc.Kyoto Laboratory
 8C:1F:64:CB:90:00/36	iC-Haus GmbH
 8C:1F:64:CB:B0:00/36	Maris Tech Ltd.
@@ -41050,6 +41059,7 @@
 9C:A5:C0		vivo Mobile Communication Co., Ltd.
 9C:A6:15		Tp-Link Technologies Co.,Ltd.
 9C:A6:9D		Whaley Technology Co.Ltd
+9C:A6:D8		Fiberhome Telecommunication Technologies Co.,LTD
 9C:A9:E4		zte corporation
 9C:AA:1B		Microsoft Corporation
 9C:AC:6D		Universal Electronics, Inc.
@@ -43355,6 +43365,7 @@ B4:1C:30		zte corporation
 B4:1C:AB		ICR, inc.
 B4:1D:2B		Shenzhen YOUHUA Technology Co., Ltd
 B4:1D:EF		Internet Laboratories, Inc.
+B4:1E:52		Flock Safety
 B4:20:46		eero inc.
 B4:20:5B		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 B4:21:1D		Beijing GuangXin Technology Co., Ltd
@@ -43411,6 +43422,7 @@ B4:3A:28		Samsung Electronics Co.,Ltd
 B4:3A:31		Silicon Laboratories
 B4:3A:E2		Huawei Technologies Co.,Ltd
 B4:3D:08		GX International BV
+B4:3D:6B		NXP Semiconductor (Tianjin) LTD.
 B4:3D:B2		Degreane Horizon
 B4:3E:3B		Viableware, Inc
 B4:40:A4		Apple, Inc.
@@ -49507,6 +49519,7 @@ EC:5A:86		Yulong Computer Telecommunication Scientific (Shenzhen) Co.,Ltd
 EC:5A:A3		Huawei Device Co., Ltd.
 EC:5B:73		Advanced & Wise Technology Corp.
 EC:5B:CD		IEEE Registration Authority
+EC:5B:CD:20:00:00/28	Sfera Labs S.r.l.
 EC:5B:CD:30:00:00/28	Hefei BOE Vision-electronic Technology Co.,Ltd.
 EC:5B:CD:50:00:00/28	Shenzhen Qunfang Technology Co., LTD.
 EC:5B:CD:90:00:00/28	C&D Technologies
@@ -50033,6 +50046,7 @@ F0:A9:68		Antailiye Technology Co.,Ltd
 F0:AA:0B		Arra Networks/ Spectramesh
 F0:AB:1F		zte corporation
 F0:AB:54		Mitsumi Electric Co.,Ltd.
+F0:AB:F3		Fiberhome Telecommunication Technologies Co.,LTD
 F0:AC:A4		HBC-radiomatic
 F0:AC:D7		IEEE Registration Authority
 F0:AC:D7:00:00:00/28	Guilin glsun Science and Tech Co.,LTD
