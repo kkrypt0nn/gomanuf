@@ -23145,6 +23145,7 @@
 34:CB:1A		Procter & Gamble Company
 34:CC:28		Nexpring Co. LTD.,
 34:CD:6D		CommSky Technologies
+34:CD:B0		Espressif Inc.
 34:CD:BE		Huawei Technologies Co.,Ltd
 34:CE:00		XIAOMI Electronics,CO.,LTD
 34:CE:69		Nokia Solutions and Networks GmbH & Co. KG
@@ -34733,6 +34734,7 @@
 74:C6:3B		AzureWave Technology Inc.
 74:C6:4A		AGOS Co.,Ltd
 74:C7:6E		Rtk-Technologies, Llc
+74:C9:0F		Microchip Technologies Inc
 74:C9:29		Zhejiang Dahua Technology Co., Ltd.
 74:C9:9A		Ericsson AB
 74:C9:A3		Fiberhome Telecommunication Technologies Co.,LTD
@@ -44650,6 +44652,7 @@ C0:57:BC		Avaya Inc
 C0:58:A7		Pico Systems Co., Ltd.
 C0:5B:44		Beijing Xiaomi Mobile Software Co., Ltd
 C0:5D:39		Jiangsu Huitong Group Co.,Ltd.
+C0:5D:89		Espressif Inc.
 C0:5E:6F		V. Stonkaus firma "Kodinis Raktas"
 C0:5E:79		Shenzhen Huaxun Ark Technologies Co.,Ltd
 C0:5F:87		Legrand INTELLIGENT ELECTRICAL(HUIZHOU)CO.,LTD.
@@ -49522,6 +49525,7 @@ EC:5B:CD		IEEE Registration Authority
 EC:5B:CD:20:00:00/28	Sfera Labs S.r.l.
 EC:5B:CD:30:00:00/28	Hefei BOE Vision-electronic Technology Co.,Ltd.
 EC:5B:CD:50:00:00/28	Shenzhen Qunfang Technology Co., LTD.
+EC:5B:CD:70:00:00/28	Annapurna labs
 EC:5B:CD:90:00:00/28	C&D Technologies
 EC:5B:CD:A0:00:00/28	CareSix Inc.
 EC:5B:CD:B0:00:00/28	StepOver GmbH
