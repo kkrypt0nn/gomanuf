@@ -19061,6 +19061,7 @@
 10:8F:FE		Huawei Technologies Co.,Ltd
 10:90:7D		Funshion Online Technologies Co.,Ltd
 10:90:FA		New H3C Technologies Co., Ltd
+10:90:FC		Shenzhen DOOGEE Hengtong Technology CO.,LTD
 10:91:A8		Espressif Inc.
 10:91:D1		Intel Corporate
 10:92:66		Samsung Electronics Co.,Ltd
@@ -26484,6 +26485,7 @@
 50:23:A2		Apple, Inc.
 50:25:2B		Nethra Imaging Incorporated
 50:26:90		Fujitsu Limited
+50:26:D2		AVIRE Trading Limited
 50:26:EF		Murata Manufacturing Co., Ltd.
 50:27:A9		eero inc.
 50:27:C7		TECHNART Co.,Ltd
@@ -49522,6 +49524,7 @@ EC:5A:86		Yulong Computer Telecommunication Scientific (Shenzhen) Co.,Ltd
 EC:5A:A3		Huawei Device Co., Ltd.
 EC:5B:73		Advanced & Wise Technology Corp.
 EC:5B:CD		IEEE Registration Authority
+EC:5B:CD:00:00:00/28	Dong Guan Yung Fu Electronics Ltd.
 EC:5B:CD:20:00:00/28	Sfera Labs S.r.l.
 EC:5B:CD:30:00:00/28	Hefei BOE Vision-electronic Technology Co.,Ltd.
 EC:5B:CD:50:00:00/28	Shenzhen Qunfang Technology Co., LTD.
@@ -51428,6 +51431,7 @@ FC:AA:81		Apple, Inc.
 FC:AA:B6		Samsung Electronics Co.,Ltd
 FC:AB:90		Huawei Technologies Co.,Ltd
 FC:AD:0F		Qts Networks
+FC:AE:2B		Titan Products Ltd.
 FC:AE:34		ARRIS Group, Inc.
 FC:AF:6A		Qulsar Inc
 FC:AF:AC		Socionext Inc.
