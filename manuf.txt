@@ -20043,6 +20043,7 @@
 18:DF:C1		Aetheros
 18:E1:CA		wanze
 18:E1:DE		Chengdu ChipIntelli Technology Co., Ltd
+18:E2:04		Beijing Coolshark Technology Co.,Ltd.
 18:E2:15		Nokia
 18:E2:88		STT Condigi
 18:E2:9F		vivo Mobile Communication Co., Ltd.
@@ -22927,6 +22928,7 @@
 34:38:AF		Inlab Networks GmbH
 34:38:B7		HUMAX Co., Ltd.
 34:3A:20		Hewlett Packard Enterprise
+34:3D:7F		Klipsch Group, Inc.
 34:3D:98		JinQianMao Technology Co.,Ltd.
 34:3D:C4		Buffalo.Inc
 34:3E:A4		Ring LLC
@@ -22935,8 +22937,11 @@
 34:41:A8		ER-Telecom
 34:42:62		Apple, Inc.
 34:46:63		IEEE Registration Authority
+34:46:63:00:00:00/28	China Drive Electric Co.,Ltd（Zhe Jiang）
 34:46:63:10:00:00/28	Chain Reaction Ltd
 34:46:63:40:00:00/28	Luminys Systems Corporation
+34:46:63:90:00:00/28	Shenzhen C & D Electronics Co., Ltd.
+34:46:63:A0:00:00/28	Shenzhen Shenhong Communication Technology Co., Ltd
 34:46:63:C0:00:00/28	mirle automation corporation
 34:46:6F		HiTEM Engineering
 34:46:EC		Huawei Device Co., Ltd.
@@ -29144,6 +29149,7 @@
 68:4E:05		Hunan Fn-Link Technology Limited
 68:4F:64		Dell Inc.
 68:50:5D		Halo Technologies
+68:51:34		Hewlett Packard Enterprise
 68:51:B7		PowerCloud Systems, Inc.
 68:52:10		MCS Logic
 68:52:D6		UGame Technology Co.,Ltd
@@ -35837,6 +35843,7 @@
 7C:D1:C3		Apple, Inc.
 7C:D3:0A		Inventec Corporation
 7C:D3:E5		Huawei Technologies Co.,Ltd
+7C:D4:4D		Shanghai Moorewatt Energy Technology Co.,Ltd
 7C:D5:66		Amazon Technologies Inc.
 7C:D6:61		Xiaomi Communications Co Ltd
 7C:D7:62		Freestyle Technology Pty Ltd
@@ -37328,6 +37335,7 @@
 8C:1F:64:01:A0:00/36	Paragraf
 8C:1F:64:01:E0:00/36	SCIREQ Scientific Respiratory Equipment  Inc
 8C:1F:64:02:00:00/36	Utthunga Techologies Pvt Ltd
+8C:1F:64:02:10:00/36	Savant Group
 8C:1F:64:02:20:00/36	Telica Telecom Private Limited
 8C:1F:64:02:40:00/36	Shin Nihon Denshi Co., Ltd.
 8C:1F:64:02:50:00/36	SMITEC S.p.A.
@@ -37768,6 +37776,7 @@
 8C:1F:64:43:D0:00/36	Solid State Supplies Ltd
 8C:1F:64:44:00:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:44:10:00/36	Novanta IMS
+8C:1F:64:44:20:00/36	Potter Electric Signal Co LLC
 8C:1F:64:44:50:00/36	Figment Design Laboratories
 8C:1F:64:44:E0:00/36	GVA Lighting, Inc.
 8C:1F:64:44:F0:00/36	RealD, Inc.
@@ -40154,6 +40163,7 @@
 94:B2:71		Huawei Technologies Co.,Ltd
 94:B2:CC		Pioneer Corporation
 94:B3:4F		Ruckus Wireless
+94:B3:F7		Hui Zhou Gaoshengda Technology Co.,LTD
 94:B4:0F		Hewlett Packard Enterprise
 94:B5:55		Espressif Inc.
 94:B6:09		Intel Corporate
@@ -42974,6 +42984,7 @@ B0:14:08		Lightspeed International Co.
 B0:16:56		Huawei Technologies Co.,Ltd
 B0:17:43		Edison Global Circuits Llc
 B0:18:86		SmarDTV Corporation
+B0:19:21		Tp-Link Corporation Pte. Ltd.
 B0:19:C6		Apple, Inc.
 B0:1B:4B		Invisible Fun Studio Limited
 B0:1B:7C		Ontrol A.S.
@@ -43725,6 +43736,7 @@ B4:E1:0F		Dell Inc.
 B4:E1:C4		Microsoft Mobile Oy
 B4:E1:EB		Private
 B4:E2:65		Shenzhen SDMC Technology CO.,Ltd.
+B4:E3:D0		LG Electronics
 B4:E3:F9		Silicon Laboratories
 B4:E4:54		Amazon Technologies Inc.
 B4:E4:6B		China Mobile IOT Company Limited
@@ -50648,6 +50660,7 @@ F4:CE:48		Extreme Networks Headquarters
 F4:CF:A2		Espressif Inc.
 F4:CF:E2		Cisco Systems, Inc
 F4:D0:32		Yunnan Ideal Information&Technology.,Ltd
+F4:D0:A7		Zhejiang Weilai Jingling Artificial Intelligence Technology Co., Ltd.
 F4:D1:08		Intel Corporate
 F4:D2:61		SEMOCON Co., Ltd
 F4:D4:88		Apple, Inc.
