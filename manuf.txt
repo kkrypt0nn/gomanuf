@@ -22939,7 +22939,11 @@
 34:46:63		IEEE Registration Authority
 34:46:63:00:00:00/28	China Drive Electric Co.,Ltd（Zhe Jiang）
 34:46:63:10:00:00/28	Chain Reaction Ltd
+34:46:63:20:00:00/28	Amcrest Technologies
 34:46:63:40:00:00/28	Luminys Systems Corporation
+34:46:63:50:00:00/28	Wuhan IDXLINK Technology Co., Ltd
+34:46:63:70:00:00/28	Shenzhen Htfuture Co., Ltd
+34:46:63:80:00:00/28	Bluesoo Tech (HongKong) Co.,Limited
 34:46:63:90:00:00/28	Shenzhen C & D Electronics Co., Ltd.
 34:46:63:A0:00:00/28	Shenzhen Shenhong Communication Technology Co., Ltd
 34:46:63:C0:00:00/28	mirle automation corporation
@@ -34725,6 +34729,7 @@
 74:A4:B5		Powerleader Science and Technology Co. Ltd.
 74:A5:28		Huawei Technologies Co.,Ltd
 74:A5:8C		Texas Instruments
+74:A5:C2		KYOCERA Corporation
 74:A6:CD		Apple, Inc.
 74:A7:22		LG Electronics (Mobile Communications)
 74:A7:8E		zte corporation
@@ -37419,6 +37424,7 @@
 8C:1F:64:0D:50:00/36	RealD, Inc.
 8C:1F:64:0D:60:00/36	Avd Innovation Limited
 8C:1F:64:0D:80:00/36	Power Electronics Espana, S.L.
+8C:1F:64:0D:F0:00/36	Leidos
 8C:1F:64:0E:00:00/36	Autopharma
 8C:1F:64:0E:60:00/36	Cleanwatts Digital, S.A.
 8C:1F:64:0E:A0:00/36	SmartSky Networks LLC
@@ -37627,6 +37633,7 @@
 8C:1F:64:2F:10:00/36	DEUTA Werke GmbH
 8C:1F:64:2F:20:00/36	Enless Wireless
 8C:1F:64:2F:50:00/36	Florida R&D Associates LLC
+8C:1F:64:2F:90:00/36	TSS COMPANY s.r.o.
 8C:1F:64:2F:B0:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:2F:C0:00/36	Unimar, Inc.
 8C:1F:64:2F:D0:00/36	Enestone Corporation
@@ -38047,6 +38054,7 @@
 8C:1F:64:6B:90:00/36	GS Industrie-Elektronik GmbH
 8C:1F:64:6B:B0:00/36	Season Electronics Ltd
 8C:1F:64:6B:D0:00/36	IoT Water Analytics S.L.
+8C:1F:64:6B:F0:00/36	Automata GmbH & Co. KG
 8C:1F:64:6C:60:00/36	Fit
 8C:1F:64:6C:B0:00/36	GJD Manufacturing
 8C:1F:64:6C:D0:00/36	Wuhan Xingtuxinke ELectronic Co.,Ltd
@@ -38214,6 +38222,7 @@
 8C:1F:64:85:20:00/36	Abb
 8C:1F:64:85:50:00/36	e.kundenservice Netz GmbH
 8C:1F:64:85:60:00/36	Garten Automation
+8C:1F:64:85:70:00/36	roda computer GmbH
 8C:1F:64:85:80:00/36	SFERA srl
 8C:1F:64:85:B0:00/36	Atlantic Pumps Ltd
 8C:1F:64:85:C0:00/36	Zing 5g Communications Canada Inc.
@@ -50188,6 +50197,7 @@ F0:C9:D1		GD Midea Air-Conditioning Equipment Co.,Ltd.
 F0:CB:A1		Apple, Inc.
 F0:CC:E0		Shenzhen All-Smartlink Technology Co.,Ltd.
 F0:CD:31		Samsung Electronics Co.,Ltd
+F0:CF:4D		BitRecords GmbH
 F0:D0:8C		TCT mobile ltd
 F0:D1:4F		Linear Llc
 F0:D1:A9		Apple, Inc.
