@@ -5419,7 +5419,7 @@
 00:15:38		RFID, Inc.
 00:15:39		Technodrive srl
 00:15:3A		Shenzhen Syscan Technology Co.,Ltd.
-00:15:3B		EMH metering GmbH & Co. KG
+00:15:3B		EMH Metering GmbH & Co. KG
 00:15:3C		Kprotech Co., Ltd.
 00:15:3D		Elim Product Co.
 00:15:3E		Q-Matic Sweden AB
@@ -22940,13 +22940,17 @@
 34:46:63:00:00:00/28	China Drive Electric Co.,Ltd（Zhe Jiang）
 34:46:63:10:00:00/28	Chain Reaction Ltd
 34:46:63:20:00:00/28	Amcrest Technologies
+34:46:63:30:00:00/28	LA Clippers
 34:46:63:40:00:00/28	Luminys Systems Corporation
 34:46:63:50:00:00/28	Wuhan IDXLINK Technology Co., Ltd
+34:46:63:60:00:00/28	China Motor Corporation
 34:46:63:70:00:00/28	Shenzhen Htfuture Co., Ltd
 34:46:63:80:00:00/28	Bluesoo Tech (HongKong) Co.,Limited
 34:46:63:90:00:00/28	Shenzhen C & D Electronics Co., Ltd.
 34:46:63:A0:00:00/28	Shenzhen Shenhong Communication Technology Co., Ltd
+34:46:63:B0:00:00/28	Grohe AG
 34:46:63:C0:00:00/28	mirle automation corporation
+34:46:63:D0:00:00/28	Hangzhou Tashi Internet Of Things Technology Co., Ltd
 34:46:6F		HiTEM Engineering
 34:46:EC		Huawei Device Co., Ltd.
 34:47:9A		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -27355,6 +27359,7 @@
 58:1D:91		Advanced Mobile Telecom co.,ltd.
 58:1D:C9		Mse Co.,Ltd.
 58:1D:D8		Sagemcom Broadband SAS
+58:1F:19		EMH Metering GmbH & Co. KG
 58:1F:28		Huawei Technologies Co.,Ltd
 58:1F:67		Open-m technology limited
 58:1F:AA		Apple, Inc.
@@ -37785,6 +37790,7 @@
 8C:1F:64:44:10:00/36	Novanta IMS
 8C:1F:64:44:20:00/36	Potter Electric Signal Co LLC
 8C:1F:64:44:50:00/36	Figment Design Laboratories
+8C:1F:64:44:A0:00/36	Onbitel
 8C:1F:64:44:E0:00/36	GVA Lighting, Inc.
 8C:1F:64:44:F0:00/36	RealD, Inc.
 8C:1F:64:45:10:00/36	Guan Show Technologe Co., Ltd.
@@ -38846,6 +38852,7 @@
 8C:1F:64:E2:D0:00/36	RADA Electronics Industries Ltd.
 8C:1F:64:E3:00:00/36	VMukti Solutions Private Limited
 8C:1F:64:E3:30:00/36	Amiad Water Systems
+8C:1F:64:E3:F0:00/36	Teletech Services
 8C:1F:64:E4:10:00/36	Grossenbacher Systeme AG
 8C:1F:64:E4:20:00/36	Shenzhen Forddok Technology Co., Ltd
 8C:1F:64:E4:30:00/36	Daedalean AG
@@ -49585,6 +49592,7 @@ EC:52:DC		WORLD MEDIA AND TECHNOLOGY Corp.
 EC:53:82		Honor Device Co., Ltd.
 EC:54:2E		Shanghai XiMei Electronic Technology Co. Ltd
 EC:55:1C		Huawei Technologies Co.,Ltd
+EC:55:4D		Private
 EC:55:F9		Hon Hai Precision Ind. Co.,Ltd.
 EC:56:23		Huawei Technologies Co.,Ltd
 EC:57:0D		AFE Inc.
