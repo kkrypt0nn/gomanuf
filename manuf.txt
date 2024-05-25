@@ -28539,6 +28539,7 @@
 60:CE:86		Sercomm Corporation.
 60:CE:92		The Refined Industry Company Limited
 60:CF:69		meerecompany
+60:CF:84		ASUSTek COMPUTER INC.
 60:D0:2C		Ruckus Wireless
 60:D0:39		Apple, Inc.
 60:D0:A9		Samsung Electronics Co.,Ltd
@@ -35732,6 +35733,7 @@
 7C:A2:3E		Huawei Technologies Co.,Ltd
 7C:A2:9B		D.SignT GmbH & Co. KG
 7C:A4:49		Xiaomi Communications Co Ltd
+7C:A5:8F		shenzhen Qikai Electronic Co., Ltd.
 7C:A6:1D		Mhl, Llc
 7C:A6:2A		Hewlett Packard Enterprise
 7C:A7:B0		Shenzhen Bilian Electronic Co.，Ltd
@@ -37603,6 +37605,7 @@
 8C:1F:64:29:F0:00/36	Nagtech Llc
 8C:1F:64:2A:00:00/36	Connected Development
 8C:1F:64:2A:10:00/36	Pantherun Technologies Pvt Ltd
+8C:1F:64:2A:20:00/36	Serap
 8C:1F:64:2A:40:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:2A:50:00/36	Nonet Inc
 8C:1F:64:2A:60:00/36	Radiation Solutions Inc.
@@ -43883,6 +43886,7 @@ B8:45:F4		New H3C Technologies Co., Ltd
 B8:47:7A		Dasan Electron Co., Ltd.
 B8:47:C6		SanJet Technology Corp.
 B8:48:AA		EM Microelectronic
+B8:48:EC		Private
 B8:49:6D		Apple, Inc.
 B8:4C:87		IEEE Registration Authority
 B8:4C:87:00:00:00/28	Annapurna labs
