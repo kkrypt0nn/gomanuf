@@ -18059,6 +18059,7 @@
 08:4E:1C		H2A Systems, LLC
 08:4E:BF		Sumitomo Electric Industries, Ltd
 08:4F:0A		Huawei Technologies Co.,Ltd
+08:4F:66		Shenzhen Skyworth Digital  Technology  CO., Ltd
 08:4F:A9		Cisco Systems, Inc
 08:4F:F9		Cisco Systems, Inc
 08:51:04		Huawei Device Co., Ltd.
@@ -19771,6 +19772,7 @@
 18:4E:94		Messoa Technologies Inc.
 18:4E:CB		Samsung Electronics Co.,Ltd
 18:4F:32		Hon Hai Precision Ind. Co.,Ltd.
+18:4F:43		Unionman Technology Co.,Ltd
 18:4F:5D		JRC Mobility Inc.
 18:50:2A		Soarnex
 18:52:07		Sichuan Tianyi Comheart Telecom Co.,LTD
@@ -21448,6 +21450,7 @@
 28:05:2E		Dematic Corp
 28:06:1E		Ningbo Global Useful Electric Co.,Ltd
 28:06:8D		Itl, Llc
+28:07:08		Samsung Electronics Co.,Ltd
 28:07:0D		Guangzhou Winsound Information Technology Co.,Ltd.
 28:0A:EE		Renesas Electronics (Penang) Sdn. Bhd.
 28:0B:5C		Apple, Inc.
@@ -22790,6 +22793,7 @@
 30:EB:5A		Landis + Gyr
 30:EC:7C		Shenzhen Along Electronics Co., Ltd
 30:EF:D1		Alstom Strongwish (Shenzhen) Co., Ltd.
+30:F2:3C		Tecno Mobile Limited
 30:F3:1D		zte corporation
 30:F3:35		Huawei Technologies Co.,Ltd
 30:F3:3A		+plugg srl
@@ -24410,6 +24414,7 @@
 40:66:7A		mediola - connected living AG
 40:67:9B		Shenzhen Skyworth Digital  Technology  CO., Ltd
 40:68:26		Thales UK Limited
+40:69:18		EM Microelectronic
 40:6A:8E		Hangzhou Puwell OE Tech Ltd.
 40:6A:AB		Rim
 40:6C:8F		Apple, Inc.
@@ -34923,6 +34928,7 @@
 74:FF:4C		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 74:FF:7D		Wren Sound Systems, LLC
 78:00:9E		Samsung Electronics Co.,Ltd
+78:00:A8		Pt Han Sung Electoronics Indonesia
 78:02:8B		Apple, Inc.
 78:02:8F		Adaptive Spectrum and Signal Alignment (ASSIA), Inc.
 78:02:B1		Cisco Systems, Inc
@@ -36718,6 +36724,7 @@
 84:C8:B1		Incognito Software Systems Inc.
 84:C9:B2		D-Link International
 84:C9:C6		Shenzhen Gongjin Electronics Co.,Lt
+84:CB:85		EM Microelectronic
 84:CC:63		Huawei Device Co., Ltd.
 84:CC:A8		Espressif Inc.
 84:CD:62		ShenZhen IDWELL Technology CO.,Ltd
@@ -38501,6 +38508,7 @@
 8C:1F:64:AA:00:00/36	Flextronics International Kft
 8C:1F:64:AA:30:00/36	Peter Huber Kaeltemaschinenbau SE
 8C:1F:64:AA:40:00/36	HEINEN ELEKTRONIK GmbH
+8C:1F:64:AA:70:00/36	Shenzhen Anliji Electronics Co.,Ltd
 8C:1F:64:AA:80:00/36	axelife
 8C:1F:64:AA:A0:00/36	Leder Elektronik Design GmbH
 8C:1F:64:AA:B0:00/36	BlueSword Intelligent Technology Co., Ltd.
@@ -38519,6 +38527,7 @@
 8C:1F:64:AC:E0:00/36	Rayhaan Networks
 8C:1F:64:AD:00:00/36	Elektrotechnik & Elektronik Oltmann GmbH
 8C:1F:64:AD:20:00/36	YUYAMA MFG Co.,Ltd
+8C:1F:64:AD:30:00/36	Working Set Software Solutions
 8C:1F:64:AD:40:00/36	Flextronics International Kft
 8C:1F:64:AD:70:00/36	Monnit Corporation
 8C:1F:64:AD:80:00/36	Novanta IMS
@@ -38778,6 +38787,7 @@
 8C:1F:64:D2:30:00/36	PLX Inc.
 8C:1F:64:D2:40:00/36	R3 IoT Ltd.
 8C:1F:64:D2:70:00/36	Taiv Inc
+8C:1F:64:D2:80:00/36	MapleCloud Technologies
 8C:1F:64:D2:90:00/36	Secure Bits
 8C:1F:64:D2:A0:00/36	Anteus Kft.
 8C:1F:64:D2:D0:00/36	Eskomar Ltd.
@@ -39224,6 +39234,7 @@
 8C:5D:B2:C0:00:00/28	HEXIN Technologies Co., Ltd.
 8C:5D:B2:D0:00:00/28	Guandong Yuhang Automation Technology Co.,Ltd
 8C:5D:B2:E0:00:00/28	Surbhi Satcom Pvt Ltd
+8C:5E:4D		DragonWave Technologies DMCC
 8C:5E:BD		Huawei Device Co., Ltd.
 8C:5F:48		Continental Intelligent Transportation Systems LLC
 8C:5F:AD		Fiberhome Telecommunication Technologies Co.,LTD
@@ -43384,6 +43395,7 @@ B0:F1:BC		Dhemax Ingenieros Ltda
 B0:F1:D8		Apple, Inc.
 B0:F1:EC		AMPAK Technology, Inc.
 B0:F2:08		AVM Audiovisuelles Marketing und Computersysteme GmbH
+B0:F2:F6		Samsung Electronics Co.,Ltd
 B0:F5:30		Hitron Technologies. Inc
 B0:F7:C4		Amazon Technologies Inc.
 B0:F8:93		Shanghai MXCHIP Information Technology Co., Ltd.
@@ -48734,6 +48746,7 @@ E4:1E:0A:B0:00:00/28	Safety Vision, LLC
 E4:1E:0A:C0:00:00/28	Teletask Belgium
 E4:1E:0A:D0:00:00/28	ROMO Wind A/S
 E4:1E:0A:E0:00:00/28	Shanghai LeXiang Technology Co., Ltd
+E4:1E:33		Continental Automotive Technologies GmbH
 E4:1F:13		IBM Corp
 E4:1F:7B		Cisco Systems, Inc
 E4:1F:E9		Dunkermotoren GmbH
@@ -50983,6 +50996,7 @@ F8:66:F2		Cisco Systems, Inc
 F8:69:71		Seibu Electric Co.,
 F8:6B:14		Barrot Technology Co.,LTD
 F8:6B:D9		Cisco Systems, Inc
+F8:6B:FA		Infinix mobility limited
 F8:6C:03		Shenzhen Teleone Technology Co., Ltd
 F8:6C:E1		Taicang T&W Electronics
 F8:6D:73		Zengge Co., Limited
