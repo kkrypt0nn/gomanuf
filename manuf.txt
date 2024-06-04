@@ -18255,6 +18255,7 @@
 08:D5:C0		Seers Technology Co., Ltd
 08:D8:33		Shenzhen RF Technology Co., Ltd
 08:DA:33		IEEE Registration Authority
+08:DA:33:00:00:00/28	Smart and connective
 08:DA:33:10:00:00/28	TransTera Technology (HK) Limited
 08:DA:33:20:00:00/28	Shenzhen Zhenghao lnnovation Techenology Co.,LTD
 08:DA:33:30:00:00/28	AI Storm
@@ -18268,6 +18269,7 @@
 08:DA:33:B0:00:00/28	Shenzhen Fanxiang lnformation Technology Co.,Ltd
 08:DA:33:C0:00:00/28	Githon Technology Co., Ltd.
 08:DA:33:D0:00:00/28	Shanghai ReeLink Global Communication Company LTD
+08:DA:33:E0:00:00/28	Telo Communication（Shenzhen）Co.,Ltd
 08:DD:EB		Silicon Laboratories
 08:DF:1F		Bose Corporation
 08:DF:CB		Systrome Networks
@@ -25966,6 +25968,10 @@
 48:E6:63:E0:00:00/28	Matribox Intelligent Technology co.Ltd.
 48:E6:95		Insigma Inc
 48:E6:C0		SIMCom Wireless Solutions Co.,Ltd.
+48:E6:C6		IEEE Registration Authority
+48:E6:C6:00:00:00/28	Shenzhen Oumeihua Technology Co.,Ltd
+48:E6:C6:30:00:00/28	Varjo Technologies Oy
+48:E6:C6:C0:00:00/28	Odin Solutions, S.L. - B73845893
 48:E7:29		Espressif Inc.
 48:E7:DA		AzureWave Technology Inc.
 48:E9:CA		creoline GmbH
@@ -34381,6 +34387,7 @@
 70:BD:D2		Adva Network Security GmbH
 70:BF:3E		Charles River Laboratories
 70:BF:92		GN Audio A/S
+70:C5:9C		Silicon Laboratories
 70:C6:AC		Bosch Automotive Aftermarket
 70:C6:DD		New H3C Technologies Co., Ltd
 70:C7:6F		Inno S
@@ -37865,6 +37872,7 @@
 8C:1F:64:49:80:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:49:90:00/36	Tiama
 8C:1F:64:49:B0:00/36	Wartsila Voyage Oy
+8C:1F:64:49:F0:00/36	Shenzhen Dongman Technology Co.,Ltd
 8C:1F:64:4A:00:00/36	Tantec A/S
 8C:1F:64:4A:10:00/36	Breas Medical AB
 8C:1F:64:4A:20:00/36	Bludigit SpA
@@ -38903,6 +38911,7 @@
 8C:1F:64:E2:40:00/36	Cometa Sas
 8C:1F:64:E2:B0:00/36	Glotech Exim Private Limited
 8C:1F:64:E2:D0:00/36	RADA Electronics Industries Ltd.
+8C:1F:64:E2:E0:00/36	RADA Electronics Industries Ltd.
 8C:1F:64:E3:00:00/36	VMukti Solutions Private Limited
 8C:1F:64:E3:30:00/36	Amiad Water Systems
 8C:1F:64:E3:F0:00/36	Teletech Services
@@ -38934,6 +38943,7 @@
 8C:1F:64:E7:30:00/36	GTR Industries
 8C:1F:64:E7:40:00/36	Magosys Systems LTD
 8C:1F:64:E7:50:00/36	Stercom Power Soltions GmbH
+8C:1F:64:E7:60:00/36	Heitec Ag
 8C:1F:64:E7:70:00/36	Gy-Fx Sas
 8C:1F:64:E7:90:00/36	Shenzhen Guangwen Industrial Co.,Ltd
 8C:1F:64:E7:B0:00/36	Dongguan Pengchen Earth Instrument CO. LT
@@ -39522,6 +39532,7 @@
 90:02:8A		Shenzhen Shidean Legrand Electronic Products Co.,Ltd
 90:02:A9		Zhejiang Dahua Technology Co., Ltd.
 90:03:25		Huawei Technologies Co.,Ltd
+90:03:2E		Taicang T&W Electronics
 90:03:71		Quectel Wireless Solutions Co.,Ltd.
 90:03:72		Longnan Junya Digital Technology Co. Ltd.
 90:03:B7		Parrot Sa
@@ -40876,6 +40887,7 @@
 98:F9:C7:D0:00:00/28	hangzhou soar security technologies limited liability company
 98:F9:C7:E0:00:00/28	NC-LINK Technology Co., Ltd.
 98:F9:CC		Zhejiang Dahua Technology Co., Ltd.
+98:FA:2E		Sony Interactive Entertainment Inc.
 98:FA:9B		LCFC(HeFei) Electronics Technology co., ltd
 98:FA:A7		Innonet
 98:FA:E3		Xiaomi Communications Co Ltd
@@ -48727,6 +48739,7 @@ E0:FF:F7		Softiron Inc.
 E4:02:9B		Intel Corporate
 E4:04:39		TomTom Software Ltd
 E4:05:F8		Bytedance
+E4:06:BF		Silicon Laboratories
 E4:07:2B		Huawei Device Co., Ltd.
 E4:08:E7		Quectel Wireless Solutions Co.,Ltd.
 E4:0A:16		Huawei Technologies Co.,Ltd
@@ -50865,6 +50878,7 @@ F8:10:93		Apple, Inc.
 F8:13:08		Nokia
 F8:14:FE		Union Man Technology Co.,Ltd
 F8:15:47		Avaya Inc
+F8:16:0C		Shenzhen iComm Semiconductor CO.,LTD
 F8:16:54		Intel Corporate
 F8:18:97		2Wire Inc
 F8:1A:2B		Google, Inc.
