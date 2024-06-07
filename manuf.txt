@@ -18154,6 +18154,7 @@
 08:86:3B		Belkin International Inc.
 08:87:C6		Ingram Micro Services
 08:87:C7		Apple, Inc.
+08:8B:C8		Google, Inc.
 08:8C:2C		Samsung Electronics Co.,Ltd
 08:8D:C8		Ryowa Electronics Co.,Ltd
 08:8E:4F		SF Software Solutions
@@ -25973,6 +25974,7 @@
 48:E6:C6:00:00:00/28	Shenzhen Oumeihua Technology Co.,Ltd
 48:E6:C6:30:00:00/28	Varjo Technologies Oy
 48:E6:C6:50:00:00/28	Annapurna labs
+48:E6:C6:A0:00:00/28	Al Hami Information Technology - L.L.C
 48:E6:C6:C0:00:00/28	Odin Solutions, S.L. - B73845893
 48:E7:29		Espressif Inc.
 48:E7:DA		AzureWave Technology Inc.
@@ -27007,6 +27009,7 @@
 54:09:29		Inventus Power Eletronica do Brasil LTDA
 54:09:55		zte corporation
 54:09:8D		deister electronic GmbH
+54:0A:77		Fiberhome Telecommunication Technologies Co.,LTD
 54:0D:F9		Huawei Device Co., Ltd.
 54:0E:2D		vivo Mobile Communication Co., Ltd.
 54:0E:58		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -37382,6 +37385,7 @@
 8C:1C:DA:E0:00:00/28	Electronic Controlled Systems, Inc.
 8C:1D:96		Intel Corporate
 8C:1E:80		Cisco Systems, Inc
+8C:1E:CF		Unionman Technology Co.,Ltd
 8C:1E:D9		Beijing Unigroup Tsingteng Microsystem Co., LTD.
 8C:1F:64		IEEE Registration Authority
 8C:1F:64:00:00:00/36	Suzhou Xingxiangyi Precision Manufacturing Co.,Ltd.
@@ -37497,6 +37501,7 @@
 8C:1F:64:0F:50:00/36	Vishay Nobel AB
 8C:1F:64:0F:70:00/36	Combilent
 8C:1F:64:0F:90:00/36	ikan International LLC
+8C:1F:64:0F:A0:00/36	Nautel LTD
 8C:1F:64:0F:E0:00/36	Indra Heera Technology LLP
 8C:1F:64:10:10:00/36	ASW-ATI Srl
 8C:1F:64:10:30:00/36	Kronotech Srl
@@ -38805,6 +38810,7 @@
 8C:1F:64:D1:30:00/36	EYatsko Individual
 8C:1F:64:D1:70:00/36	I.S.A. - Altanova group srl
 8C:1F:64:D1:B0:00/36	Audiodo International AB
+8C:1F:64:D1:C0:00/36	Vesper Technologies
 8C:1F:64:D1:F0:00/36	Free Talk Engineering Co., Ltd
 8C:1F:64:D2:00:00/36	NAS Engineering PRO
 8C:1F:64:D2:10:00/36	Ametek Cts Gmbh
@@ -44704,6 +44710,7 @@ C0:18:85		Hon Hai Precision Ind. Co.,Ltd.
 C0:1A:DA		Apple, Inc.
 C0:1B:23		Sichuan Tianyi Comheart Telecom Co.,LTD
 C0:1C:30		Shenzhen WIFI-3L Technology Co.,Ltd
+C0:1C:6A		Google, Inc.
 C0:1E:9B		Pixavi AS
 C0:21:0D		Shenzhen Rf-Link Technology Co.,Ltd.
 C0:22:50		Koss Corporation
@@ -46003,6 +46010,7 @@ C8:DE:51		IntegraOptics
 C8:DE:C9		Coriant
 C8:DF:7C		Nokia Corporation
 C8:DF:84		Texas Instruments
+C8:E0:7A		Fiberhome Telecommunication Technologies Co.,LTD
 C8:E0:EB		Apple, Inc.
 C8:E1:30		Milkyway Group Ltd
 C8:E1:93		Itel Mobile Limited
@@ -46779,6 +46787,7 @@ D0:67:E5		Dell Inc.
 D0:69:9E		LUMINEX Lighting Control Equipment
 D0:69:C1		Huawei Technologies Co.,Ltd
 D0:69:D0		Verto Medical Solutions, LLC
+D0:69:FF		Fiberhome Telecommunication Technologies Co.,LTD
 D0:6A:1F		Bse Co.,Ltd.
 D0:6B:78		Apple, Inc.
 D0:6D:C8		Huawei Technologies Co.,Ltd
