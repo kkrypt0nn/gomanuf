@@ -25974,6 +25974,7 @@
 48:E6:C6:00:00:00/28	Shenzhen Oumeihua Technology Co.,Ltd
 48:E6:C6:30:00:00/28	Varjo Technologies Oy
 48:E6:C6:50:00:00/28	Annapurna labs
+48:E6:C6:90:00:00/28	Takiguchi Corporation
 48:E6:C6:A0:00:00/28	Al Hami Information Technology - L.L.C
 48:E6:C6:C0:00:00/28	Odin Solutions, S.L. - B73845893
 48:E7:29		Espressif Inc.
@@ -29403,6 +29404,7 @@
 68:CA:E4		Cisco Systems, Inc
 68:CC:6E		Huawei Technologies Co.,Ltd
 68:CC:9C		Mine Site Technologies
+68:CC:BA		Dense Air Networks US LLC
 68:CD:0F		U Tek Company Limited
 68:CE:4E		L-3 Communications Infrared Products
 68:D1:BA		Shenzhen YOUHUA Technology Co., Ltd
@@ -37576,6 +37578,7 @@
 8C:1F:64:1B:50:00/36	Xicato
 8C:1F:64:1B:60:00/36	Red Sensors Limited
 8C:1F:64:1B:70:00/36	Rax-Tech International
+8C:1F:64:1B:90:00/36	D.T.S Illuminazione Srl
 8C:1F:64:1B:B0:00/36	Renwei Electronics Technology (Shenzhen) Co.,LTD.
 8C:1F:64:1B:D0:00/36	Dorlet Sau
 8C:1F:64:1B:E0:00/36	Mideum Eng
@@ -37913,6 +37916,7 @@
 8C:1F:64:4E:C0:00/36	XOR UK Corporation Limited
 8C:1F:64:4F:00:00/36	Tieline Research Pty Ltd
 8C:1F:64:4F:10:00/36	Abbott Diagnostics Technologies AS
+8C:1F:64:4F:40:00/36	Staco Energy Products
 8C:1F:64:4F:60:00/36	Private
 8C:1F:64:4F:70:00/36	SmartD Technologies Inc
 8C:1F:64:4F:90:00/36	Photonic Science and Engineering Ltd
@@ -49638,6 +49642,7 @@ EC:2C:73		Apple, Inc.
 EC:2C:E2		Apple, Inc.
 EC:2E:4E		Hitachi-Lg Data Storage Inc
 EC:2E:98		AzureWave Technology Inc.
+EC:30:8E		Lierda Science & Technology Group Co., Ltd
 EC:30:91		Cisco Systems, Inc
 EC:30:B3		Xiaomi Communications Co Ltd
 EC:31:4A		Chengdu Quanjing Intelligent Technology Co.,Ltd
