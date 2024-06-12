@@ -21256,6 +21256,7 @@
 24:69:68		Tp-Link Technologies Co.,Ltd.
 24:69:8E		Shenzhen Mercury Communication Technologies Co.,Ltd.
 24:69:A5		Huawei Technologies Co.,Ltd
+24:6A:0E		HP Inc.
 24:6A:AB		IT-IS International
 24:6C:60		Huawei Device Co., Ltd.
 24:6C:84		Cisco Systems, Inc
@@ -25976,10 +25977,14 @@
 48:E6:C6		IEEE Registration Authority
 48:E6:C6:00:00:00/28	Shenzhen Oumeihua Technology Co.,Ltd
 48:E6:C6:10:00:00/28	Deico Muh. A.S.
+48:E6:C6:20:00:00/28	Satlab
 48:E6:C6:30:00:00/28	Varjo Technologies Oy
 48:E6:C6:50:00:00/28	Annapurna labs
+48:E6:C6:60:00:00/28	Moff Inc.
+48:E6:C6:70:00:00/28	Macriot
 48:E6:C6:90:00:00/28	Takiguchi Corporation
 48:E6:C6:A0:00:00/28	Al Hami Information Technology - L.L.C
+48:E6:C6:B0:00:00/28	Q-Pac
 48:E6:C6:C0:00:00/28	Odin Solutions, S.L. - B73845893
 48:E6:C6:D0:00:00/28	Digital Matter Pty Ltd
 48:E7:29		Espressif Inc.
@@ -37517,6 +37522,7 @@
 8C:1F:64:0F:E0:00/36	Indra Heera Technology LLP
 8C:1F:64:10:10:00/36	ASW-ATI Srl
 8C:1F:64:10:30:00/36	Kronotech Srl
+8C:1F:64:10:40:00/36	Timebeat.app Ltd
 8C:1F:64:10:50:00/36	AixControl GmbH
 8C:1F:64:10:70:00/36	SCI Technology, Inc.
 8C:1F:64:10:B0:00/36	Red Lion Europe GmbH
@@ -37536,6 +37542,7 @@
 8C:1F:64:12:80:00/36	Yulista Integrated Solution
 8C:1F:64:12:90:00/36	Navtech Radar Ltd.
 8C:1F:64:12:B0:00/36	Beijing Tongtech Technology Co., Ltd.
+8C:1F:64:12:D0:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:12:E0:00/36	inomatic GmbH
 8C:1F:64:13:30:00/36	Vtron Pty Ltd
 8C:1F:64:13:50:00/36	Yuval Fichman
@@ -37557,6 +37564,7 @@
 8C:1F:64:15:50:00/36	Slat
 8C:1F:64:15:A0:00/36	ASHIDA Electronics Pvt. Ltd
 8C:1F:64:15:C0:00/36	Tron Future Tech Inc.
+8C:1F:64:15:D0:00/36	Nhoa Energy Srl
 8C:1F:64:15:E0:00/36	Dynomotion, Inc
 8C:1F:64:16:40:00/36	Revo - Tec GmbH
 8C:1F:64:16:60:00/36	Hikari Alphax Inc.
@@ -37569,6 +37577,7 @@
 8C:1F:64:17:C0:00/36	Zelp Ltd
 8C:1F:64:17:E0:00/36	MI Inc.
 8C:1F:64:18:30:00/36	NICE Total Cash Management Co., Ltd.
+8C:1F:64:18:60:00/36	Breas Medical AB
 8C:1F:64:18:70:00/36	Sicon srl
 8C:1F:64:18:B0:00/36	M-Pulse GmbH & Co.KG
 8C:1F:64:19:30:00/36	Sicon srl
@@ -38152,6 +38161,7 @@
 8C:1F:64:6E:20:00/36	SCU Co., Ltd.
 8C:1F:64:6E:30:00/36	ViewSonic International Corporation
 8C:1F:64:6E:40:00/36	RAB Microfluidics R&D Company Ltd
+8C:1F:64:6E:70:00/36	WiTricity Corporation
 8C:1F:64:6E:A0:00/36	KMtronic ltd
 8C:1F:64:6E:C0:00/36	Bit Trade One, Ltd.
 8C:1F:64:6F:40:00/36	Elsist Srl
@@ -38532,6 +38542,7 @@
 8C:1F:64:A6:A0:00/36	Sphere Com Services Pvt Ltd
 8C:1F:64:A6:D0:00/36	CyberneX Co., Ltd
 8C:1F:64:A6:E0:00/36	shenzhen beswave co.,ltd
+8C:1F:64:A6:F0:00/36	Cardinal Scales Manufacturing Co
 8C:1F:64:A7:00:00/36	V-teknik Elektronik AB
 8C:1F:64:A7:60:00/36	DEUTA-WERKE GmbH
 8C:1F:64:A7:70:00/36	Rax-Tech International
@@ -38609,6 +38620,7 @@
 8C:1F:64:B1:40:00/36	Murata Manufacturing CO., Ltd.
 8C:1F:64:B1:80:00/36	Grossenbacher Systeme AG
 8C:1F:64:B1:90:00/36	DITRON S.r.l.
+8C:1F:64:B1:B0:00/36	Nov'in
 8C:1F:64:B2:00:00/36	Lechpol Electronics Spółka z o.o. Sp.k.
 8C:1F:64:B2:20:00/36	Blighter Surveillance Systems Ltd
 8C:1F:64:B2:40:00/36	Abb
@@ -38740,6 +38752,7 @@
 8C:1F:64:C4:50:00/36	Flextroincs International (Taiwain Ltd
 8C:1F:64:C4:A0:00/36	SGi Technology Group Ltd.
 8C:1F:64:C4:C0:00/36	Lumiplan Duhamel
+8C:1F:64:C4:E0:00/36	iCE-Intelligent Controlled Environments
 8C:1F:64:C5:00:00/36	Spacee
 8C:1F:64:C5:10:00/36	EPC Energy Inc
 8C:1F:64:C5:20:00/36	Invendis Technologies India Pvt Ltd
@@ -39073,6 +39086,7 @@
 8C:1F:64:F7:C0:00/36	General Dynamics IT
 8C:1F:64:F7:D0:00/36	Rpg Informatica, S.A.
 8C:1F:64:F7:F0:00/36	Vision Systems Safety Tech
+8C:1F:64:F8:30:00/36	Vishay Nobel AB
 8C:1F:64:F8:40:00/36	KST technology
 8C:1F:64:F8:60:00/36	INFOSTECH Co., Ltd.
 8C:1F:64:F8:70:00/36	Fly Electronic (Shang Hai) Technology Co.,Ltd
@@ -44909,6 +44923,7 @@ C0:84:88		Finis Inc
 C0:84:E0		Huawei Technologies Co.,Ltd
 C0:85:4C		Ragentek Technology Group
 C0:86:B3		Shenzhen Voxtech Co., Ltd.
+C0:87:06		Shenzhen Qianfenyi Intelligent Technology Co.,LTD
 C0:87:EB		Samsung Electronics Co.,Ltd
 C0:88:5B		SnD Tech Co., Ltd.
 C0:88:6D		Securosys SA
