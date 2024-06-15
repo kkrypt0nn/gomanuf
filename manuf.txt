@@ -25277,6 +25277,7 @@
 44:38:39		Cumulus Networks, inc
 44:38:E8		Intel Corporate
 44:39:C4		Universal Global Scientific Industrial Co., Ltd.
+44:3B:14		MitraStar Technology Corp.
 44:3B:32		Intelbras
 44:3C:88		Ficosa Maroc International
 44:3C:9C		Pintsch GmbH
@@ -25337,6 +25338,7 @@
 44:65:0D		Amazon Technologies Inc.
 44:65:6A		Mega Video Electronic(HK) Industry Co., Ltd
 44:65:7F		Calix Inc.
+44:65:E0		Merlion Consulting Services (Shenzhen) Co., Ltd
 44:66:6E		Ip-Line
 44:66:FC		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 44:67:47		Huawei Technologies Co.,Ltd
@@ -25989,6 +25991,7 @@
 48:E6:C6:50:00:00/28	Annapurna labs
 48:E6:C6:60:00:00/28	Moff Inc.
 48:E6:C6:70:00:00/28	Macriot
+48:E6:C6:80:00:00/28	DRD Automation GmbH
 48:E6:C6:90:00:00/28	Takiguchi Corporation
 48:E6:C6:A0:00:00/28	Al Hami Information Technology - L.L.C
 48:E6:C6:B0:00:00/28	Q-Pac
@@ -39147,6 +39150,7 @@
 8C:1F:64:FE:50:00/36	Truenorth
 8C:1F:64:FE:90:00/36	Alzajel Modern Telecommunication
 8C:1F:64:FE:A0:00/36	AKON Co.,Ltd.
+8C:1F:64:FE:C0:00/36	Newtec A/S
 8C:1F:64:FE:D0:00/36	Televic Rail GmbH
 8C:1F:64:FF:30:00/36	Fuzhou Tucsen Photonics Co.,Ltd
 8C:1F:64:FF:40:00/36	SMS group GmbH
@@ -45195,6 +45199,7 @@ C4:0B:CB		Xiaomi Communications Co Ltd
 C4:0D:96		Huawei Technologies Co.,Ltd
 C4:0E:45		ACK Networks,Inc.
 C4:0F:09		Hermes electronic GmbH
+C4:0F:A6		Sernet (Suzhou) Technologies Corporation
 C4:10:8A		Ruckus Wireless
 C4:11:E0		Bull Group Co., Ltd
 C4:12:34		Apple, Inc.
