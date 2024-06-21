@@ -13040,7 +13040,7 @@
 00:50:C2:81:30:00/36	Intelleflex Corporation
 00:50:C2:81:40:00/36	Telvent
 00:50:C2:81:50:00/36	microC Design SRL
-00:50:C2:81:60:00/36	Intelight Inc.
+00:50:C2:81:60:00/36	Q-Free America, Inc.
 00:50:C2:81:70:00/36	Odin TeleSystems Inc
 00:50:C2:81:80:00/36	Wireless Value BV
 00:50:C2:81:90:00/36	Cabinplant A/S
@@ -22392,6 +22392,7 @@
 2C:E6:CC		Ruckus Wireless
 2C:E8:71		Alert Metalguard ApS
 2C:EA:7F		Dell Inc.
+2C:EA:DA		ICC Intelligent Platforms GmbH
 2C:EA:DC		Askey Computer Corp
 2C:EC:F7		Shenzhen SDMC Technology CO.,Ltd.
 2C:ED:89		Huawei Technologies Co.,Ltd
@@ -27789,6 +27790,7 @@
 58:E8:76:C0:00:00/28	Kustom Signals Inc
 58:E8:76:D0:00:00/28	Xiamen Cacamle Technology Co.,Ltd.
 58:E8:76:E0:00:00/28	Baoruh Electronic Co., Ltd.
+58:EA:1F		Beijing Xiaomi Mobile Software Co., Ltd
 58:EA:FC		ELL-IoT Inc
 58:EB:14		Proteus Digital Health
 58:EC:E1		Newport Corporation
@@ -28868,7 +28870,7 @@
 64:53:5D		Frauscher Sensortechnik
 64:53:E0		Huawei Technologies Co.,Ltd
 64:54:22		Equinox Payments
-64:55:63		Intelight Inc.
+64:55:63		Q-Free America, Inc.
 64:55:7F		NSFOCUS Information Technology Co., Ltd.
 64:55:B1		ARRIS Group, Inc.
 64:56:01		Tp-Link Technologies Co.,Ltd.
@@ -37945,6 +37947,7 @@
 8C:1F:64:49:80:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:49:90:00/36	Tiama
 8C:1F:64:49:B0:00/36	Wartsila Voyage Oy
+8C:1F:64:49:C0:00/36	Red Lion Europe GmbH
 8C:1F:64:49:F0:00/36	Shenzhen Dongman Technology Co.,Ltd
 8C:1F:64:4A:00:00/36	Tantec A/S
 8C:1F:64:4A:10:00/36	Breas Medical AB
@@ -38437,6 +38440,7 @@
 8C:1F:64:8F:80:00/36	HIGHVOLT Prüftechnik
 8C:1F:64:8F:F0:00/36	Kruger DB Series Indústria Eletrônica ltda
 8C:1F:64:90:30:00/36	Portrait Displays, Inc.
+8C:1F:64:90:40:00/36	Hensoldt Sensors GmbH
 8C:1F:64:90:50:00/36	Qualitrol LLC
 8C:1F:64:90:70:00/36	Sicon srl
 8C:1F:64:90:90:00/36	Matelex
@@ -39325,7 +39329,7 @@
 8C:5A:F0		Exeltech Solar Products
 8C:5A:F8		Beijing Xiaomi Electronics Co., Ltd.
 8C:5B:F0		ARRIS Group, Inc.
-8C:5C:20		ARRIS Group, Inc.
+8C:5C:20		Vantiva USA LLC
 8C:5C:A1		d-broad,INC
 8C:5D:60		UCI Corporation Co.,Ltd.
 8C:5D:B2		IEEE Registration Authority
@@ -43687,7 +43691,7 @@ B4:4B:D6:50:00:00/28	ShenZhen Comstar Technology Company
 B4:4B:D6:60:00:00/28	Perspicace Intellegince Technology
 B4:4B:D6:70:00:00/28	Taizhou convergence Information technology Co.,LTD
 B4:4B:D6:80:00:00/28	Arnouse Digital Devices Corp
-B4:4B:D6:90:00:00/28	Qstar Technology Co,Ltd
+B4:4B:D6:90:00:00/28	Private
 B4:4B:D6:A0:00:00/28	Shenzhen Huabai Intelligent Technology Co., Ltd.
 B4:4B:D6:B0:00:00/28	DongYoung media
 B4:4B:D6:C0:00:00/28	Impakt S.A.
@@ -50214,7 +50218,7 @@ F0:4A:2B		PYRAMID Computer GmbH
 F0:4A:3D		Bosch Thermotechnik GmbH
 F0:4B:3A		Juniper Networks
 F0:4B:6A		Scientific Production Association Siberian Arsenal, Ltd.
-F0:4B:8A		ARRIS Group, Inc.
+F0:4B:8A		Vantiva USA LLC
 F0:4B:F2		JTECH Communications, Inc.
 F0:4C:D5		Maxlinear, Inc
 F0:4D:A2		Dell Inc.
@@ -50581,6 +50585,7 @@ F4:20:55:50:00:00/28	Proqualit Telecom LTDA
 F4:20:55:80:00:00/28	Huzhou Luxshare Precision Industry Co.LTD
 F4:20:55:90:00:00/28	Lens Technology (Xiangtan) Co.,Ltd
 F4:20:55:A0:00:00/28	Shenzhen C & D Electronics Co., Ltd.
+F4:20:55:B0:00:00/28	Synaps Technology S.r.l.
 F4:21:AE		Shanghai Xiaodu Technology Limited
 F4:21:CA		Apple, Inc.
 F4:22:7A		Guangdong Seneasy Intelligent Technology Co., Ltd.
@@ -51034,7 +51039,7 @@ F8:1E:DF		Apple, Inc.
 F8:1F:32		Motorola Mobility LLC, a Lenovo Company
 F8:20:55		Green Information System
 F8:20:A9		Huawei Device Co., Ltd.
-F8:20:D2		ARRIS Group, Inc.
+F8:20:D2		Vantiva USA LLC
 F8:21:11		HMD Global Oy
 F8:22:29		Nokia Shanghai Bell Co., Ltd.
 F8:22:85		Cypress Technology CO., LTD.
