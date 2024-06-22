@@ -38876,6 +38876,7 @@
 8C:1F:64:CF:40:00/36	Nt
 8C:1F:64:CF:60:00/36	NYBSYS Inc
 8C:1F:64:CF:70:00/36	BusPas
+8C:1F:64:CF:90:00/36	VeoTech
 8C:1F:64:CF:A0:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:CF:B0:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:CF:D0:00/36	Smart-VOD Pty Ltd
@@ -50582,10 +50583,12 @@ F4:20:15		Guangzhou Shiyuan Electronic Technology Company Limited
 F4:20:55		IEEE Registration Authority
 F4:20:55:20:00:00/28	Elehear inc.
 F4:20:55:50:00:00/28	Proqualit Telecom LTDA
+F4:20:55:70:00:00/28	Beyond Laser Systems LLC
 F4:20:55:80:00:00/28	Huzhou Luxshare Precision Industry Co.LTD
 F4:20:55:90:00:00/28	Lens Technology (Xiangtan) Co.,Ltd
 F4:20:55:A0:00:00/28	Shenzhen C & D Electronics Co., Ltd.
 F4:20:55:B0:00:00/28	Synaps Technology S.r.l.
+F4:20:55:D0:00:00/28	Wuxi Sunning Smart Devices Co.,Ltd
 F4:21:AE		Shanghai Xiaodu Technology Limited
 F4:21:CA		Apple, Inc.
 F4:22:7A		Guangdong Seneasy Intelligent Technology Co., Ltd.
