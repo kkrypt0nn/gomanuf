@@ -21304,9 +21304,13 @@
 24:82:8A		Prowave Technologies Ltd.
 24:84:98		Beijing Jiaoda Microunion Tech.Co.,Ltd.
 24:86:25		IEEE Registration Authority
+24:86:25:00:00:00/28	Shanghai Xizhi Technology Co., Ltd.
 24:86:25:20:00:00/28	Emerson Automation FCP Kft.
+24:86:25:70:00:00/28	Tianjin Optical Electrical Juneng Communication Co.,Ltd.
+24:86:25:80:00:00/28	Ningbo Sigmatek Automation Co., Ltd.
 24:86:25:90:00:00/28	Vtron Pty Ltd
 24:86:25:B0:00:00/28	Wynd Labs
+24:86:25:C0:00:00/28	L-LIGHT Co., Ltd.
 24:86:F4		Ctek, Inc.
 24:87:07		SEnergy Corporation
 24:88:94		shenzhen lensun Communication Technology LTD
@@ -26010,7 +26014,6 @@
 48:E6:C6:50:00:00/28	Annapurna labs
 48:E6:C6:60:00:00/28	Moff Inc.
 48:E6:C6:70:00:00/28	Macriot
-48:E6:C6:80:00:00/28	DRD Automation GmbH
 48:E6:C6:90:00:00/28	Takiguchi Corporation
 48:E6:C6:A0:00:00/28	Al Hami Information Technology - L.L.C
 48:E6:C6:B0:00:00/28	Q-Pac
@@ -35821,6 +35824,7 @@
 7C:8B:C1		Infinix mobility limited
 7C:8B:CA		Tp-Link Technologies Co.,Ltd.
 7C:8D:91		Shanghai Hongzhuo Information Technology co.,LTD
+7C:8D:9C		Edgecore Americas Networking Corporation
 7C:8E:E4		Texas Instruments
 7C:8F:DE		DWnet Technologies(Suzhou) Corporation
 7C:91:22		Samsung Electronics Co.,Ltd
@@ -38010,6 +38014,7 @@
 8C:1F:64:51:20:00/36	Blik Sensing B.V.
 8C:1F:64:51:70:00/36	Smart Radar System, Inc
 8C:1F:64:51:80:00/36	Wagner Group GmbH
+8C:1F:64:51:A0:00/36	TELE Haase Steuergeräte Ges.m.b.H
 8C:1F:64:52:10:00/36	MP-SENSOR GmbH
 8C:1F:64:52:40:00/36	Aski Industrie Elektronik GmbH
 8C:1F:64:52:50:00/36	United States Technologies Inc.
@@ -38214,6 +38219,7 @@
 8C:1F:64:6D:C0:00/36	Intrinsic Innovation, LLC
 8C:1F:64:6D:D0:00/36	ViewSonic Corp
 8C:1F:64:6D:E0:00/36	SUN･TECTRO,Ltd.
+8C:1F:64:6D:F0:00/36	ALPHI Technology Corporation
 8C:1F:64:6E:20:00/36	SCU Co., Ltd.
 8C:1F:64:6E:30:00/36	ViewSonic International Corporation
 8C:1F:64:6E:40:00/36	RAB Microfluidics R&D Company Ltd
@@ -39036,6 +39042,7 @@
 8C:1F:64:E6:10:00/36	Stange Elektronik GmbH
 8C:1F:64:E6:20:00/36	Axcend
 8C:1F:64:E6:40:00/36	Indefac company
+8C:1F:64:E6:60:00/36	Enless Wireless
 8C:1F:64:E6:80:00/36	LHA Systems (Pty) Ltd
 8C:1F:64:E6:E0:00/36	Human Dgm. Co., Ltd.
 8C:1F:64:E6:F0:00/36	Vision Systems Safety Tech
@@ -39099,6 +39106,7 @@
 8C:1F:64:F1:20:00/36	CAITRON GmbH
 8C:1F:64:F1:30:00/36	ACS Motion Control
 8C:1F:64:F1:40:00/36	Elektrosil GmbH
+8C:1F:64:F1:C0:00/36	Rigel Engineering, LLC
 8C:1F:64:F1:D0:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:F2:20:00/36	Voyage Audio LLC
 8C:1F:64:F2:30:00/36	IDEX India Pvt Ltd
@@ -40766,6 +40774,7 @@
 98:74:3D		Shenzhen Jun Kai Hengye Technology Co. Ltd
 98:74:DA		Infinix mobility limited
 98:75:1A		Huawei Device Co., Ltd.
+98:75:96		EM Microelectronic
 98:76:B6		Adafruit
 98:77:70		Pep Digital Technology (Guangzhou) Co., Ltd
 98:77:CB		Vorteks ED
@@ -46048,6 +46057,7 @@ C8:A7:0A		Verizon Business
 C8:A7:29		SYStronics Co., Ltd.
 C8:A7:76		Huawei Technologies Co.,Ltd
 C8:A8:23		Samsung Electronics Co.,Ltd
+C8:A9:13		Lontium Semiconductor Corporation
 C8:A9:FC		Goyoo Networks Inc.
 C8:AA:21		ARRIS Group, Inc.
 C8:AA:55		Hunan Comtom Electronic Incorporated Co.,Ltd
@@ -50828,6 +50838,7 @@ F4:99:AC		WEBER Schraubautomaten GmbH
 F4:9C:12		Structab AB
 F4:9D:8A		Fantasia Trading LLC
 F4:9D:A7		Private
+F4:9E:A4		Epiq Solutions
 F4:9E:CE		Sena Technologies Co., Ltd.
 F4:9E:EF		Taicang T&W Electronics
 F4:9F:54		Samsung Electronics Co.,Ltd
@@ -50983,6 +50994,7 @@ F4:F6:47		zte corporation
 F4:F7:0C		Avang - neterbit
 F4:F9:51		Apple, Inc.
 F4:FB:B8		Huawei Technologies Co.,Ltd
+F4:FB:F5		EM Microelectronic
 F4:FC:32		Texas Instruments
 F4:FC:B1		JJ Corp
 F4:FD:2B		ZOYI Company
