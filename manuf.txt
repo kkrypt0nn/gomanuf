@@ -18891,6 +18891,7 @@
 10:18:49		Weifang Goertek Electronics Co.,Ltd
 10:18:9E		Elmo Motion Control
 10:19:65		New H3C Technologies Co., Ltd
+10:1A:92		Akebono Brake Industry Co.,Ltd.
 10:1B:54		Huawei Technologies Co.,Ltd
 10:1C:0C		Apple, Inc.
 10:1D:51		8Mesh Networks Limited
@@ -21306,11 +21307,14 @@
 24:86:25		IEEE Registration Authority
 24:86:25:00:00:00/28	Shanghai Xizhi Technology Co., Ltd.
 24:86:25:20:00:00/28	Emerson Automation FCP Kft.
+24:86:25:50:00:00/28	Metro Electronics
 24:86:25:70:00:00/28	Tianjin Optical Electrical Juneng Communication Co.,Ltd.
 24:86:25:80:00:00/28	Ningbo Sigmatek Automation Co., Ltd.
 24:86:25:90:00:00/28	Vtron Pty Ltd
+24:86:25:A0:00:00/28	Tas India Pvt Ltd
 24:86:25:B0:00:00/28	Wynd Labs
 24:86:25:C0:00:00/28	L-LIGHT Co., Ltd.
+24:86:25:D0:00:00/28	Chengdu HOLDTECS Co.,Ltd
 24:86:F4		Ctek, Inc.
 24:87:07		SEnergy Corporation
 24:88:94		shenzhen lensun Communication Technology LTD
@@ -21426,6 +21430,7 @@
 24:E2:71		Qingdao Hisense Communications Co.,Ltd.
 24:E2:9D		Huawei Device Co., Ltd.
 24:E3:14		Apple, Inc.
+24:E3:A4		Fiberhome Telecommunication Technologies Co.,LTD
 24:E3:DE		China Telecom Fufu Information Technology Co., Ltd.
 24:E4:3F		Wenzhou Kunmei Communication Technology Co.,Ltd.
 24:E4:C8		Fiberhome Telecommunication Technologies Co.,LTD
@@ -22432,8 +22437,10 @@
 2C:FE:E2		Qingdao Hisense Communications Co.,Ltd.
 2C:FF:65		Oki Electric Industry Co., Ltd.
 2C:FF:EE		vivo Mobile Communication Co., Ltd.
+30:00:FC		Nokia
 30:03:C8		Cloud Network Technology Singapore Pte. Ltd.
 30:04:5C		Shenzhen SuperElectron Technology Co.,Ltd.
+30:04:75		Qbic Communications Dmcc
 30:05:05		Intel Corporate
 30:05:3F		JTI Co.,Ltd.
 30:05:5C		Brother industries, LTD.
@@ -35073,6 +35080,7 @@
 78:1D:BA		Huawei Technologies Co.,Ltd
 78:1D:FD		Jabil Inc
 78:1F:11		RAB Lighting
+78:1F:7C		Nokia
 78:1F:DB		Samsung Electronics Co.,Ltd
 78:20:79		ID Tech
 78:20:A5		Nintendo Co.,Ltd
@@ -37235,6 +37243,7 @@
 88:B1:68		Delta Control GmbH
 88:B1:E1		Mojo Networks, Inc.
 88:B2:91		Apple, Inc.
+88:B2:AB		Fiberhome Telecommunication Technologies Co.,LTD
 88:B3:62		Nokia Shanghai Bell Co., Ltd.
 88:B4:36		FUJIFILM Corporation
 88:B4:A6		Motorola Mobility LLC, a Lenovo Company
@@ -45036,6 +45045,7 @@ C0:95:6D		Apple, Inc.
 C0:95:73		AIxLink
 C0:95:CF		Amazon Technologies Inc.
 C0:95:DA		NXP India Private Limited
+C0:96:A4		Fiberhome Telecommunication Technologies Co.,LTD
 C0:97:27		Samsung Electro-Mechanics(Thailand)
 C0:98:79		Acer Inc.
 C0:98:DA		China Mobile IOT Company Limited
@@ -45271,6 +45281,7 @@ C4:11:E0		Bull Group Co., Ltd
 C4:12:34		Apple, Inc.
 C4:12:EC		Huawei Technologies Co.,Ltd
 C4:12:F5		D-Link International
+C4:13:75		Cloud Network Technology Singapore Pte. Ltd.
 C4:13:E2		Extreme Networks Headquarters
 C4:14:11		Apple, Inc.
 C4:14:3C		Cisco Systems, Inc
@@ -49873,6 +49884,7 @@ EC:6F:0B		FADU, Inc.
 EC:70:97		ARRIS Group, Inc.
 EC:71:DB		Reolink Innovation Limited
 EC:72:5B		zte corporation
+EC:73:59		Shenzhen Cloudsky Technologies Co., Ltd.
 EC:73:79		Apple, Inc.
 EC:74:27		eero inc.
 EC:74:8C		Sony Interactive Entertainment Inc.
