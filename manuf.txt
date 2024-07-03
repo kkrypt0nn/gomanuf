@@ -18936,6 +18936,7 @@
 10:33:78		FLECTRON Co., LTD
 10:33:BF		Vantiva USA LLC
 10:34:1B		Spacelink
+10:35:97		Qorvo Utrecht B.V.
 10:36:4A		Boston Dynamics
 10:37:11		Norbit Its
 10:38:1F		Sichuan AI-Link Technology Co., Ltd.
@@ -21320,6 +21321,7 @@
 24:86:25:B0:00:00/28	Wynd Labs
 24:86:25:C0:00:00/28	L-LIGHT Co., Ltd.
 24:86:25:D0:00:00/28	Chengdu HOLDTECS Co.,Ltd
+24:86:25:E0:00:00/28	Hangzhou UPAI Technology Co., Ltd
 24:86:F4		Ctek, Inc.
 24:87:07		SEnergy Corporation
 24:88:94		shenzhen lensun Communication Technology LTD
@@ -26026,6 +26028,7 @@
 48:E6:C6:50:00:00/28	Annapurna labs
 48:E6:C6:60:00:00/28	Moff Inc.
 48:E6:C6:70:00:00/28	Macriot
+48:E6:C6:80:00:00/28	Sanwa Electronic Instrument Co.,Ltd
 48:E6:C6:90:00:00/28	Takiguchi Corporation
 48:E6:C6:A0:00:00/28	Al Hami Information Technology - L.L.C
 48:E6:C6:B0:00:00/28	Q-Pac
@@ -28434,6 +28437,7 @@
 60:45:5E		Liptel s.r.o.
 60:45:BD		Microsoft
 60:45:CB		ASUSTek COMPUTER INC.
+60:45:CD		Sagemcom Broadband SAS
 60:46:16		Xiamen Vann Intelligent Co., Ltd
 60:47:62		Beijing Sensoro Technology Co.,Ltd.
 60:47:D4		FORICS Electronic Technology Co., Ltd.
@@ -36484,7 +36488,7 @@
 84:03:28		Juniper Networks
 84:04:D2		Kirale Technologies SL
 84:06:FA		Fiberhome Telecommunication Technologies Co.,LTD
-84:07:C4		Carrier Corporation
+84:07:C4		Walter Kidde Portable Equipment, Inc.
 84:0A:9E		Nexapp Technologies Pvt Ltd
 84:0B:2D		Samsung Electro Mechanics Co., Ltd.
 84:0B:7C		Hitron Technologies. Inc
@@ -37851,6 +37855,7 @@
 8C:1F:64:36:A0:00/36	INVENTIS S.r.l.
 8C:1F:64:36:B0:00/36	ViewSonic Corp
 8C:1F:64:36:E0:00/36	Abbott Diagnostics Technologies AS
+8C:1F:64:36:F0:00/36	Sp Manufacturing Pte Ltd
 8C:1F:64:37:00:00/36	WOLF Advanced Technology
 8C:1F:64:37:20:00/36	WINK Streaming
 8C:1F:64:37:50:00/36	Duevi Srl
@@ -38004,6 +38009,7 @@
 8C:1F:64:4D:C0:00/36	BESO sp. z o.o.
 8C:1F:64:4D:D0:00/36	Griffyn Robotech Private Limited
 8C:1F:64:4E:00:00/36	PuS GmbH und Co. KG
+8C:1F:64:4E:30:00/36	Exi Flow Measurement Ltd
 8C:1F:64:4E:40:00/36	Nuvation Energy
 8C:1F:64:4E:50:00/36	Renukas Castle Hard- and Software
 8C:1F:64:4E:70:00/36	Circuit Solutions
@@ -39060,6 +39066,7 @@
 8C:1F:64:E5:E0:00/36	BRICKMAKERS GmbH
 8C:1F:64:E6:10:00/36	Stange Elektronik GmbH
 8C:1F:64:E6:20:00/36	Axcend
+8C:1F:64:E6:30:00/36	Infosoft Digital Design and Services P L
 8C:1F:64:E6:40:00/36	Indefac company
 8C:1F:64:E6:60:00/36	Enless Wireless
 8C:1F:64:E6:80:00/36	LHA Systems (Pty) Ltd
@@ -49886,6 +49893,7 @@ EC:64:C9		Espressif Inc.
 EC:64:E7		MOCACARE Corporation
 EC:65:6E		The Things Industries B.V.
 EC:65:CC		Panasonic Automotive Systems Company of America
+EC:66:52		Info Fiber Solutions Pvt Ltd
 EC:66:D1		B&W Group LTD
 EC:67:94		Hewlett Packard Enterprise
 EC:68:81		Palo Alto Networks
@@ -50111,6 +50119,7 @@ EC:FA:5C		Beijing Xiaomi Electronics Co., Ltd.
 EC:FA:AA		The IMS Company
 EC:FA:BC		Espressif Inc.
 EC:FA:F4		SenRa Tech Pvt. Ltd
+EC:FC:2F		Sagemcom Broadband SAS
 EC:FC:55		A. Eberle GmbH & Co. KG
 EC:FC:C6		Hewlett Packard Enterprise
 EC:FE:7E		BlueRadios, Inc.
