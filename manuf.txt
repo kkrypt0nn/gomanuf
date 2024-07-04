@@ -19007,7 +19007,7 @@
 10:5C:3B		Perma-Pipe, Inc.
 10:5C:BF		DuroByte Inc
 10:5D:DC		Huawei Device Co., Ltd.
-10:5F:02		Private
+10:5F:02		Ruijie Networks Co.,LTD
 10:5F:06		Actiontec Electronics, Inc
 10:5F:49		Cisco SPVTG
 10:5F:AD		Intel Corporate
@@ -22151,6 +22151,7 @@
 2C:55:3C		Vecima Networks Inc.
 2C:55:7C		Shenzhen YOUHUA Technology Co., Ltd
 2C:55:D3		Huawei Technologies Co.,Ltd
+2C:56:83		China Mobile Group Device Co.,Ltd.
 2C:56:DC		ASUSTek COMPUTER INC.
 2C:57:2C		Allwinner Technology Co., Ltd
 2C:57:31		Wingtech Group (HongKong）Limited
@@ -25777,6 +25778,7 @@
 48:5A:B6		Hon Hai Precision Ind. Co.,Ltd.
 48:5A:EA		Fiberhome Telecommunication Technologies Co.,LTD
 48:5B:39		ASUSTek COMPUTER INC.
+48:5C:2C		Earda Technologies co Ltd
 48:5D:35		AVM Audiovisuelles Marketing und Computersysteme GmbH
 48:5D:36		Verizon
 48:5D:60		AzureWave Technology Inc.
@@ -36419,6 +36421,7 @@
 80:D3:36		Cern
 80:D4:33		LzLabs GmbH
 80:D4:A5		Huawei Technologies Co.,Ltd
+80:D5:2C		Beijing Cheering Networks Technology Co.,Ltd.
 80:D6:05		Apple, Inc.
 80:D7:33		QSR Automations, Inc.
 80:DA:13		eero inc.
@@ -38754,6 +38757,7 @@
 8C:1F:64:B8:40:00/36	SPX Flow Technology
 8C:1F:64:B8:60:00/36	Elektronik & Modellprodukter Gävle AB
 8C:1F:64:B8:D0:00/36	Tongye lnnovation Science and Technology (Shenzhen) Co.,Ltd
+8C:1F:64:B9:10:00/36	Clealink Technology
 8C:1F:64:B9:20:00/36	Neurable
 8C:1F:64:B9:70:00/36	Gemini Electronics B.V.
 8C:1F:64:B9:80:00/36	Calamity, Inc.
@@ -39557,6 +39561,7 @@
 8C:BE:BE		Xiaomi Communications Co Ltd
 8C:BF:9D		Shanghai Xinyou Information Technology Ltd. Co.
 8C:BF:A6		Samsung Electronics Co.,Ltd
+8C:BF:EA		Espressif Inc.
 8C:C1:21		Panasonic Corporation AVC Networks Company
 8C:C5:8C		ShenZhen Elsky Technology Co.,LTD
 8C:C5:B4		Sagemcom Broadband SAS
@@ -40414,6 +40419,7 @@
 94:C0:38		Tallac Networks
 94:C1:50		2Wire Inc
 94:C2:BD		Tecnobit
+94:C3:6B		DRD Automation GmbH
 94:C3:E4		Atlas Copco IAS GmbH
 94:C4:E9		PowerLayer Microsystems HongKong Limited
 94:C5:A6		Itel Mobile Limited
@@ -46557,6 +46563,7 @@ CC:AC:FE		Telink Semiconductor (Shanghai) Co., Ltd.
 CC:AF:78		Hon Hai Precision Ind. Co.,Ltd.
 CC:B0:71		Fiberhome Telecommunication Technologies Co.,LTD
 CC:B0:A8		Huawei Device Co., Ltd.
+CC:B0:B3		Microsoft Corporation
 CC:B0:DA		Liteon Technology Corporation
 CC:B1:1A		Samsung Electronics Co.,Ltd
 CC:B1:82		Huawei Technologies Co.,Ltd
@@ -47510,6 +47517,7 @@ D4:88:90		Samsung Electronics Co.,Ltd
 D4:8A:39		Samsung Electronics Co.,Ltd
 D4:8A:3B		Hunan Fn-Link Technology Limited
 D4:8A:FC		Espressif Inc.
+D4:8C:49		Espressif Inc.
 D4:8C:B5		Cisco Systems, Inc
 D4:8D:26		LG Innotek
 D4:8D:D9		Meld Technology, Inc
@@ -47752,6 +47760,7 @@ D8:25:22		ARRIS Group, Inc.
 D8:25:B0		Rockeetech Systems Co.,Ltd.
 D8:25:DF		Came Uk
 D8:26:B9		Guangdong Coagent Electronics S&T Co.,Ltd.
+D8:26:FA		Jiangxi Zhentian Technology CO.,LTD
 D8:27:0C		MaxTronic International Co., Ltd.
 D8:28:C9		General Electric Consumer and Industrial
 D8:29:16		Ascent Communication Technology
