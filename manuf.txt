@@ -18060,6 +18060,7 @@
 08:47:4C		Nokia
 08:47:D0		Nokia Shanghai Bell Co., Ltd.
 08:48:2C		Raycore Taiwan Co., LTD.
+08:48:57		Suteng Innovation Technology Co., Ltd.
 08:4A:CF		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 08:4E:1C		H2A Systems, LLC
 08:4E:BF		Sumitomo Electric Industries, Ltd
@@ -37591,6 +37592,7 @@
 8C:1F:64:0B:F0:00/36	Aurora Communication Technologies Corp.
 8C:1F:64:0C:00:00/36	Active Research Limited
 8C:1F:64:0C:50:00/36	TechnipFMC
+8C:1F:64:0C:80:00/36	EA Elektro-Automatik
 8C:1F:64:0C:A0:00/36	CLOUD TELECOM Inc.
 8C:1F:64:0C:D0:00/36	DEUTA Werke GmbH
 8C:1F:64:0D:20:00/36	biosilver .co.,ltd
@@ -40547,6 +40549,7 @@
 94:EA:EA		Tellescom Industria E Comercio Em Telecomunicacao
 94:EB:2C		Google, Inc.
 94:EB:CD		BlackBerry RTS
+94:EC:32		Silicon Laboratories
 94:EE:9F		HMD Global Oy
 94:EF:49		BDR Thermea Group B.V
 94:F1:28		Hewlett Packard Enterprise
@@ -43050,6 +43053,10 @@ AC:85:3D		Huawei Technologies Co.,Ltd
 AC:86:74		Open Mesh, Inc.
 AC:86:7E		Create New Technology (HK) Limited Company
 AC:86:A3		Apple, Inc.
+AC:86:D1		IEEE Registration Authority
+AC:86:D1:60:00:00/28	Adveco Technology Co., Ltd
+AC:86:D1:A0:00:00/28	EMIT GmbH
+AC:86:D1:B0:00:00/28	shenzhen ceita communications technology co.,ltd
 AC:87:A3		Apple, Inc.
 AC:88:66		Shenzhen Skyworth Digital  Technology  CO., Ltd
 AC:88:FD		Apple, Inc.
@@ -44742,7 +44749,7 @@ BC:9F:E4		Hewlett Packard Enterprise
 BC:9F:EF		Apple, Inc.
 BC:A0:42		Shanghai Flyco Electrical Appliance Co.,Ltd
 BC:A0:80		Samsung Electronics Co.,Ltd
-BC:A1:3A		SES-imagotag
+BC:A1:3A		VusionGroup
 BC:A3:7F		Rail-Mil Sp. z o.o. Sp. K.
 BC:A4:E1		Nabto
 BC:A5:11		Netgear
@@ -45661,6 +45668,7 @@ C4:B3:01		Apple, Inc.
 C4:B3:49		Apple, Inc.
 C4:B3:6A		Cisco Systems, Inc
 C4:B5:12		General Electric Digital Energy
+C4:B6:91		Angel Robotics
 C4:B8:B4		Huawei Technologies Co.,Ltd
 C4:B9:CD		Cisco Systems, Inc
 C4:BA:99		I+ME Actia Informatik und Mikro-Elektronik GmbH
@@ -45721,6 +45729,7 @@ C4:D6:55		Tercel technology co.,ltd
 C4:D6:66		Cisco Meraki
 C4:D7:38		Huawei Device Co., Ltd.
 C4:D7:FD		Bouffalo Lab (Nanjing) Co., Ltd.
+C4:D8:C8		Silicon Laboratories
 C4:D8:D5		Espressif Inc.
 C4:D8:F3		iZotope
 C4:D9:87		Intel Corporate
@@ -46130,6 +46139,7 @@ C8:B2:1E		Chipsea Technologies (Shenzhen) Corp.
 C8:B2:9B		Intel Corporate
 C8:B3:73		Cisco-Linksys, LLC
 C8:B4:22		Askey Computer Corp
+C8:B4:AB		Inspur Computer Technology Co.,Ltd.
 C8:B5:AD		Hewlett Packard Enterprise
 C8:B5:B7		Apple, Inc.
 C8:B6:D3		Huawei Technologies Co.,Ltd
@@ -49776,6 +49786,7 @@ EA:27:01		ACCE Technology Corp.
 EA:2A:DB		Labs Network Industrie 4. 0 e.V.
 EA:34:B4		ThinkRF Inc.
 EA:60:76		CloudSimple, Inc.
+EA:8F:96		Proficium, LLC
 EA:9F:B1		Philips International B.V.
 EA:B8:9B		Thread Group, Inc.
 EA:BC:04		G3-PLC Alliance
