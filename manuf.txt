@@ -37992,6 +37992,7 @@
 8C:1F:64:47:60:00/36	Clair Global Corporation
 8C:1F:64:47:A0:00/36	Missing Link Electronics, Inc.
 8C:1F:64:47:D0:00/36	Eb Neuro Spa
+8C:1F:64:47:E0:00/36	Novanta IMS
 8C:1F:64:48:10:00/36	VirtualV Trading Limited
 8C:1F:64:48:70:00/36	TECHKON GmbH
 8C:1F:64:48:90:00/36	Hupi
@@ -45813,6 +45814,7 @@ C8:02:8F		Nova Electronics (Shanghai) Co., Ltd.
 C8:02:A6		Beijing Newmine Technology
 C8:03:F5		Ruckus Wireless
 C8:05:9E		Hefei Symboltek Co.,Ltd
+C8:05:A4		Motorola(Wuhan) Mobility Technologies Communication Co.,Ltd
 C8:07:18		TDSi
 C8:07:39		NAKAYO Inc
 C8:08:73		Ruckus Wireless
