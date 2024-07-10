@@ -18626,6 +18626,7 @@
 0C:93:8F		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 0C:93:FB		BNS Solutions
 0C:95:05		The Chamberlain Group, Inc
+0C:95:15		Palltronics, Inc.
 0C:95:41		Chipsea Technologies (Shenzhen) Corp.
 0C:96:BF		Huawei Technologies Co.,Ltd
 0C:96:CD		Mercury Corporation
@@ -23062,6 +23063,7 @@
 34:58:7C		Mirae Information Technology Co., Ltd.
 34:5A:06		SHARP Corporation
 34:5A:18		Alignment Engine Inc.
+34:5A:60		Micro-Star INTL CO., LTD.
 34:5A:BA		tcloud intelligence
 34:5B:11		Evi Heat Ab
 34:5B:98		EM Microelectronic
@@ -26186,6 +26188,7 @@
 4C:44:5B		Intel Corporate
 4C:45:76		China Mobile(Hangzhou) Information Technology Co.,Ltd.
 4C:48:DA		Beijing Autelan Technology Co.,Ltd
+4C:49:29		TCL King Electrical Appliances(Huizhou)Co.,Ltd
 4C:49:4F		zte corporation
 4C:49:6C		Intel Corporate
 4C:49:E3		Xiaomi Communications Co Ltd
@@ -26565,6 +26568,7 @@
 4C:FF:12		Fuze Entertainment Co., ltd
 50:00:84		Siemens Canada
 50:00:8C		Hong Kong Telecommunications (HKT) Limited
+50:00:E0		Cisco Systems, Inc
 50:01:6B		Huawei Technologies Co.,Ltd
 50:01:BB		Samsung Electronics Co.,Ltd
 50:01:D9		Huawei Technologies Co.,Ltd
@@ -34984,6 +34988,7 @@
 74:E2:0C		Amazon Technologies Inc.
 74:E2:77		Vizmonet Pte Ltd
 74:E2:8C		Microsoft Corporation
+74:E2:E7		Cisco Systems, Inc
 74:E2:F5		Apple, Inc.
 74:E3:36		Fujian Star-Net Communication Co.,Ltd
 74:E4:24		Apiste Corporation
@@ -35251,6 +35256,7 @@
 78:61:7C		Mitsumi Electric Co.,Ltd.
 78:62:56		Huawei Technologies Co.,Ltd
 78:62:99		BITSTREAM sp. z o.o.
+78:64:A0		Cisco Systems, Inc
 78:64:C0		Apple, Inc.
 78:64:E6		Green Motive Technology Limited
 78:65:3B		Shaoxing Ourten Electronics Co., Ltd.
@@ -38349,6 +38355,7 @@
 8C:1F:64:7A:00:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:7A:10:00/36	Guardian Controls International Ltd
 8C:1F:64:7A:40:00/36	Hirotech inc.
+8C:1F:64:7A:50:00/36	Potter Electric Signal Company
 8C:1F:64:7A:60:00/36	OTMetric
 8C:1F:64:7A:70:00/36	Timegate Instruments Ltd.
 8C:1F:64:7A:A0:00/36	XSENSOR Technology Corp.
@@ -38576,6 +38583,7 @@
 8C:1F:64:9A:60:00/36	Instituto De Gestão, Redes Tecnológicas E Nergias
 8C:1F:64:9A:90:00/36	Tiama
 8C:1F:64:9A:B0:00/36	Dave Srl
+8C:1F:64:9A:C0:00/36	Hangzhou Jingtang Communication Technology Co.,Ltd.
 8C:1F:64:9B:20:00/36	Emerson Rosemount Analytical
 8C:1F:64:9B:30:00/36	Böckelt GmbH
 8C:1F:64:9B:60:00/36	GS Elektromedizinsiche Geräte G. Stemple GmbH
@@ -39034,6 +39042,7 @@
 8C:1F:64:DC:00:00/36	Pigs Can Fly Labs LLC
 8C:1F:64:DC:20:00/36	Procon Electronics Pty Ltd
 8C:1F:64:DC:60:00/36	R&K
+8C:1F:64:DC:70:00/36	Wide Swath Research, LLC
 8C:1F:64:DC:80:00/36	Dwdm.Ru Llc
 8C:1F:64:DC:90:00/36	Peter Huber Kaeltemaschinenbau SE
 8C:1F:64:DC:A0:00/36	Porsche engineering
@@ -43055,7 +43064,9 @@ AC:86:74		Open Mesh, Inc.
 AC:86:7E		Create New Technology (HK) Limited Company
 AC:86:A3		Apple, Inc.
 AC:86:D1		IEEE Registration Authority
+AC:86:D1:30:00:00/28	Inovaxe Corporation
 AC:86:D1:60:00:00/28	Adveco Technology Co., Ltd
+AC:86:D1:70:00:00/28	Quantum-Systems GmbH
 AC:86:D1:A0:00:00/28	EMIT GmbH
 AC:86:D1:B0:00:00/28	shenzhen ceita communications technology co.,ltd
 AC:87:A3		Apple, Inc.
@@ -46033,6 +46044,7 @@ C8:7D:77		Shenzhen Kingtech Communication Equipment Co.,Ltd
 C8:7E:75		Samsung Electronics Co.,Ltd
 C8:7E:A1		TCL MOKA International Limited
 C8:7F:54		ASUSTek COMPUTER INC.
+C8:82:34		Cisco Systems, Inc
 C8:83:14		Tempo Communications
 C8:84:39		Sunrise Technologies
 C8:84:47		Beautiful Enterprise Co., Ltd
