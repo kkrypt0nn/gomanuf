@@ -22945,6 +22945,7 @@
 34:15:13		Texas Instruments
 34:15:93		Ruckus Wireless
 34:15:9E		Apple, Inc.
+34:17:36		Shenzhen iComm Semiconductor CO.,LTD
 34:17:EB		Dell Inc.
 34:19:4D		Arcadyan Corporation
 34:1A:35		Fiberhome Telecommunication Technologies Co.,LTD
@@ -30289,6 +30290,7 @@
 70:7C:69		Avaya Inc
 70:7C:E3		Huawei Technologies Co.,Ltd
 70:7D:95		Shenzhen City LinwlanTechnology Co. Ltd.
+70:7D:AF		Plucent AB
 70:7D:B9		Cisco Systems, Inc
 70:7E:43		ARRIS Group, Inc.
 70:7E:DE		Nastec Ltd.
@@ -38024,6 +38026,7 @@
 8C:1F:64:4A:F0:00/36	miniDSP
 8C:1F:64:4B:00:00/36	U -Mei-Dah Int'L Enterprise Co.,Ltd.
 8C:1F:64:4B:B0:00/36	IWS Global Pty Ltd
+8C:1F:64:4B:F0:00/36	Smart Monitoring Innovations Private Limited
 8C:1F:64:4C:10:00/36	Clock-O-Matic
 8C:1F:64:4C:70:00/36	SBS SpA
 8C:1F:64:4C:90:00/36	Apantac LLC
@@ -38884,6 +38887,7 @@
 8C:1F:64:C5:10:00/36	EPC Energy Inc
 8C:1F:64:C5:20:00/36	Invendis Technologies India Pvt Ltd
 8C:1F:64:C5:40:00/36	First Mode
+8C:1F:64:C5:60:00/36	Eridan
 8C:1F:64:C5:70:00/36	Strategic Robotic Systems
 8C:1F:64:C5:90:00/36	Tunstall A/S
 8C:1F:64:C5:D0:00/36	Alfa Proxima d.o.o.
@@ -38912,6 +38916,7 @@
 8C:1F:64:C9:A0:00/36	Infosoft Digital Design and Services P L
 8C:1F:64:C9:B0:00/36	J.M. Voith SE & Co. KG
 8C:1F:64:C9:E0:00/36	CytoTronics
+8C:1F:64:C9:F0:00/36	PeachCreek
 8C:1F:64:CA:10:00/36	Pantherun Technologies Pvt Ltd
 8C:1F:64:CA:20:00/36	eumig industrie-TV GmbH.
 8C:1F:64:CA:40:00/36	Bit Part LLC
@@ -39046,6 +39051,7 @@
 8C:1F:64:DC:80:00/36	Dwdm.Ru Llc
 8C:1F:64:DC:90:00/36	Peter Huber Kaeltemaschinenbau SE
 8C:1F:64:DC:A0:00/36	Porsche engineering
+8C:1F:64:DC:F0:00/36	Reo Ag
 8C:1F:64:DD:40:00/36	Midlands Technical Co., Ltd.
 8C:1F:64:DD:50:00/36	Cardinal Scales Manufacturing Co
 8C:1F:64:DD:70:00/36	KST technology
@@ -43065,10 +43071,13 @@ AC:86:7E		Create New Technology (HK) Limited Company
 AC:86:A3		Apple, Inc.
 AC:86:D1		IEEE Registration Authority
 AC:86:D1:30:00:00/28	Inovaxe Corporation
+AC:86:D1:40:00:00/28	RayThink Technology Co.,Ltd
+AC:86:D1:50:00:00/28	Hangzhou Lingban Technology Co., Ltd
 AC:86:D1:60:00:00/28	Adveco Technology Co., Ltd
 AC:86:D1:70:00:00/28	Quantum-Systems GmbH
 AC:86:D1:A0:00:00/28	EMIT GmbH
 AC:86:D1:B0:00:00/28	shenzhen ceita communications technology co.,ltd
+AC:86:D1:C0:00:00/28	MOTUSTECHS(Wuhan)Co.,Ltd.
 AC:87:A3		Apple, Inc.
 AC:88:66		Shenzhen Skyworth Digital  Technology  CO., Ltd
 AC:88:FD		Apple, Inc.
@@ -46521,6 +46530,7 @@ CC:6A:33		Cisco Systems, Inc
 CC:6B:1E		Cloud Network Technology Singapore Pte. Ltd.
 CC:6B:98		Minetec Wireless Technologies
 CC:6B:F1		Sound Masking Inc.
+CC:6C:52		DZS Inc.
 CC:6D:A0		Roku, Inc.
 CC:6D:EF		TJK Tietolaite Oy
 CC:6E:2A		Cisco Meraki
