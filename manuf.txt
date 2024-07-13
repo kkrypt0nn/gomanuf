@@ -21968,6 +21968,7 @@
 2A:A1:39		Pointguard, Llc
 2A:A1:47		Distribuciones Cantilever
 2A:AC:53		Wolfspyre Labs
+2A:DB:D7		Vesper Technologies
 2A:EA:15		Tibit Communications
 2A:FD:6A		Charter Communications
 2C:00:2A		Shenzhen TINNO Mobile Technology Corp.
@@ -24533,6 +24534,7 @@
 40:8F:9D		Juniper Networks
 40:91:51		Espressif Inc.
 40:92:1A		Apple, Inc.
+40:92:49		Shanghai Baud Data Communication Co.,Ltd.
 40:95:05		Acoinfo Technology Co.,Ltd
 40:95:58		Aisino Corporation
 40:95:BD		NTmore.Co.,Ltd
@@ -25920,6 +25922,7 @@
 48:A7:3C		Sichuan tianyi kanghe communications co., LTD
 48:A7:4E		zte corporation
 48:A9:1C		Apple, Inc.
+48:A9:64		Apexsha Smarttech Private Limited
 48:A9:8A		Routerboard.com
 48:A9:D2		Wistron Neweb Corporation
 48:AA:5D		Store Electronic Systems
@@ -38372,6 +38375,7 @@
 8C:1F:64:7B:70:00/36	James G. Biddle dba Megger
 8C:1F:64:7B:80:00/36	TimeMachines Inc.
 8C:1F:64:7B:90:00/36	Deviceroy
+8C:1F:64:7B:B0:00/36	Kotsu Dengyosha Co., Ltd.
 8C:1F:64:7B:C0:00/36	GO development GmbH
 8C:1F:64:7C:60:00/36	Flextronics International Kft
 8C:1F:64:7C:70:00/36	Ascon Tecnologic S.r.l.
@@ -38597,6 +38601,7 @@
 8C:1F:64:9C:00:00/36	Header Rhyme
 8C:1F:64:9C:10:00/36	RealWear
 8C:1F:64:9C:30:00/36	Camozzi Automation SpA
+8C:1F:64:9C:A0:00/36	EDC Acoustics
 8C:1F:64:9C:B0:00/36	Shanghai Sizhong Information Technology Co., Ltd
 8C:1F:64:9C:D0:00/36	JiangYu Innovative Medical Technology
 8C:1F:64:9C:E0:00/36	Exi Flow Measurement Ltd
@@ -40929,6 +40934,7 @@
 98:9D:E5		Hangzhou Hikvision Digital Technology Co.,Ltd.
 98:9E:63		Apple, Inc.
 98:9F:1E		Huawei Technologies Co.,Ltd
+98:A1:4A		Quectel Wireless Solutions Co.,Ltd.
 98:A2:C0		Cisco Systems, Inc
 98:A4:04		Ericsson AB
 98:A4:0E		Snap, Inc.
@@ -41779,6 +41785,7 @@ A0:82:AC		Linear DMS Solutions Sdn. Bhd.
 A0:82:C7		P.T.I Co.,LTD
 A0:83:B4		HeNet B.V.
 A0:84:CB		SonicSensory,Inc.
+A0:85:E3		Espressif Inc.
 A0:85:FC		Microsoft Corporation
 A0:86:1D		Chengdu Fuhuaxin Technology co.,Ltd
 A0:86:C6		Xiaomi Communications Co Ltd
@@ -43075,6 +43082,8 @@ AC:86:D1:40:00:00/28	RayThink Technology Co.,Ltd
 AC:86:D1:50:00:00/28	Hangzhou Lingban Technology Co., Ltd
 AC:86:D1:60:00:00/28	Adveco Technology Co., Ltd
 AC:86:D1:70:00:00/28	Quantum-Systems GmbH
+AC:86:D1:80:00:00/28	PK Sound
+AC:86:D1:90:00:00/28	Annapurna labs
 AC:86:D1:A0:00:00/28	EMIT GmbH
 AC:86:D1:B0:00:00/28	shenzhen ceita communications technology co.,ltd
 AC:86:D1:C0:00:00/28	MOTUSTECHS(Wuhan)Co.,Ltd.
@@ -49416,6 +49425,7 @@ E8:1B:69		Sercomm Corporation.
 E8:1C:BA		Fortinet, Inc.
 E8:1C:D8		Apple, Inc.
 E8:1D:A8		Ruckus Wireless
+E8:1D:EE		i-TEK RFID
 E8:1E:92		Huawei Device Co., Ltd.
 E8:20:E2		HUMAX Co., Ltd.
 E8:22:81		GD Midea Air-Conditioning Equipment Co.,Ltd.
@@ -49846,6 +49856,7 @@ EC:17:66		Research Centre Module
 EC:19:2E		Cisco Systems, Inc
 EC:1A:02		Huawei Technologies Co.,Ltd
 EC:1A:59		Belkin International Inc.
+EC:1B:5F		Hewlett Packard Enterprise
 EC:1B:BD		Silicon Laboratories
 EC:1C:5D		Siemens AG
 EC:1D:7F		zte corporation
@@ -51457,6 +51468,7 @@ F8:B1:32		Huawei Technologies Co.,Ltd
 F8:B1:56		Dell Inc.
 F8:B1:DD		Apple, Inc.
 F8:B2:F3		Guangzhou Bosma Technology Co.,Ltd
+F8:B3:B7		Espressif Inc.
 F8:B4:6A		Hewlett Packard
 F8:B5:4D		Intel Corporate
 F8:B5:68		IEEE Registration Authority
