@@ -19059,6 +19059,7 @@
 10:73:C6		August Internet Limited
 10:73:EB		Infiniti Electro-Optics
 10:74:6F		Motorola Solutions Malaysia Sdn. Bhd.
+10:74:C5		Calix Inc.
 10:76:36		Earda Technologies co Ltd
 10:76:8A		EoCell
 10:77:17		Shenzhen Chuangwei-Rgb Electronics Co.,Ltd
@@ -22869,6 +22870,7 @@
 30:F7:7F		S Mobile Devices Limited
 30:F7:C5		Apple, Inc.
 30:F7:D7		Thread Technology Co., Ltd
+30:F9:47		Shenzhen Skyworth Digital  Technology  CO., Ltd
 30:F9:4B		Universal Electronics, Inc.
 30:F9:ED		Sony Corporation
 30:FA:B7		Tunai Creative
@@ -23382,6 +23384,7 @@
 38:05:46		Foctek Photonics, Inc.
 38:05:AC		Piller Group GmbH
 38:06:B4		A.D.C. GmbH
+38:06:E6		Arcadyan Corporation
 38:07:16		Freebox Sas
 38:07:D4		Zeppelin Systems GmbH
 38:08:FD		Silca Spa
@@ -25798,6 +25801,8 @@
 48:5D:60		AzureWave Technology Inc.
 48:5D:EB		Just Add Power
 48:5D:ED		Sichuan Tianyi Comheart Telecom Co.,LTD
+48:5E:0E		IEEE Registration Authority
+48:5E:0E:40:00:00/28	MHE Electronics
 48:5F:08		Tp-Link Technologies Co.,Ltd.
 48:5F:2D		Amazon Technologies Inc.
 48:5F:99		Cloud Network Technology (Samoa) Limited
@@ -28252,6 +28257,7 @@
 5C:D8:9E		Huawei Device Co., Ltd.
 5C:D9:98		D-Link Corporation
 5C:DA:D4		Murata Manufacturing Co., Ltd.
+5C:DB:36		Calix Inc.
 5C:DC:96		Arcadyan Technology Corporation
 5C:DD:70		Hangzhou H3C Technologies Co., Limited
 5C:DE:34		Shenzhen Mercury Communication Technologies Co.,Ltd.
@@ -35127,6 +35133,7 @@
 78:20:BD		Polysense (Beijing) Technologies Co. Ltd
 78:21:84		Espressif Inc.
 78:22:3D		Affirmed Networks
+78:22:88		Shenzhen Bilian Electronic Co.，Ltd
 78:23:27		Samsung Electronics Co.,Ltd
 78:23:AE		ARRIS Group, Inc.
 78:24:59		Alcatel-Lucent Enterprise
@@ -37547,6 +37554,7 @@
 8C:1F:64:04:80:00/36	FieldLine Medical
 8C:1F:64:04:90:00/36	Nuances Org
 8C:1F:64:04:E0:00/36	Auditdata
+8C:1F:64:04:F0:00/36	ISILINE srl
 8C:1F:64:05:10:00/36	CP contech electronic GmbH
 8C:1F:64:05:30:00/36	HS.com Kft
 8C:1F:64:05:50:00/36	Intercreate
@@ -37690,6 +37698,7 @@
 8C:1F:64:17:C0:00/36	Zelp Ltd
 8C:1F:64:17:E0:00/36	MI Inc.
 8C:1F:64:18:30:00/36	NICE Total Cash Management Co., Ltd.
+8C:1F:64:18:50:00/36	Biotage Gb Ltd
 8C:1F:64:18:60:00/36	Breas Medical AB
 8C:1F:64:18:70:00/36	Sicon srl
 8C:1F:64:18:B0:00/36	M-Pulse GmbH & Co.KG
@@ -38073,6 +38082,7 @@
 8C:1F:64:51:00:00/36	Novanta IMS
 8C:1F:64:51:10:00/36	Control Aut Tecnologia em Automação LTDA
 8C:1F:64:51:20:00/36	Blik Sensing B.V.
+8C:1F:64:51:60:00/36	Tcl Operations Polska Sp. Z O.O.
 8C:1F:64:51:70:00/36	Smart Radar System, Inc
 8C:1F:64:51:80:00/36	Wagner Group GmbH
 8C:1F:64:51:A0:00/36	TELE Haase Steuergeräte Ges.m.b.H
@@ -38813,6 +38823,7 @@
 8C:1F:64:B9:F0:00/36	Lithion Battery Inc
 8C:1F:64:BA:30:00/36	DEUTA-WERKE GmbH
 8C:1F:64:BA:60:00/36	FMC Technologies Measurement Solutions Inc
+8C:1F:64:BA:80:00/36	AvMap srlu
 8C:1F:64:BA:A0:00/36	Mine Vision Systems
 8C:1F:64:BA:E0:00/36	Tieline Research Pty Ltd
 8C:1F:64:BB:10:00/36	Transit Solutions, LLC.
@@ -43087,6 +43098,7 @@ AC:86:74		Open Mesh, Inc.
 AC:86:7E		Create New Technology (HK) Limited Company
 AC:86:A3		Apple, Inc.
 AC:86:D1		IEEE Registration Authority
+AC:86:D1:00:00:00/28	Advanced Rugged System Co., LTD
 AC:86:D1:10:00:00/28	Beijing Fantasy Mofang Technology Co.,Ltd
 AC:86:D1:20:00:00/28	Hamsa India
 AC:86:D1:30:00:00/28	Inovaxe Corporation
@@ -43100,6 +43112,7 @@ AC:86:D1:A0:00:00/28	EMIT GmbH
 AC:86:D1:B0:00:00/28	shenzhen ceita communications technology co.,ltd
 AC:86:D1:C0:00:00/28	MOTUSTECHS(Wuhan)Co.,Ltd.
 AC:86:D1:D0:00:00/28	Krixe Pte. Ltd.
+AC:86:D1:E0:00:00/28	Retina Development B.V.
 AC:87:A3		Apple, Inc.
 AC:88:66		Shenzhen Skyworth Digital  Technology  CO., Ltd
 AC:88:FD		Apple, Inc.
@@ -45804,6 +45817,7 @@ C4:EB:39		Sagemcom Broadband SAS
 C4:EB:41		Sagemcom Broadband SAS
 C4:EB:42		Sagemcom Broadband SAS
 C4:EB:43		Sagemcom Broadband SAS
+C4:EB:68		VusionGroup
 C4:EB:E3		Rrcn Sas
 C4:EB:FF		zte corporation
 C4:ED:BA		Texas Instruments
