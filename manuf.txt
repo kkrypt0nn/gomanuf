@@ -19483,6 +19483,7 @@
 14:7D:B3		Joa Telecom.Co.,Ltd
 14:7D:C5		Murata Manufacturing Co., Ltd.
 14:7D:DA		Apple, Inc.
+14:7E:19		Hewlett Packard Enterprise
 14:7E:A1		Britania Eletrônicos S.A.
 14:7F:0F		Texas Instruments
 14:7F:67		LG Innotek
@@ -22689,6 +22690,7 @@
 30:69:4B		Rim
 30:6A:85		Samsung Electronics Co.,Ltd
 30:6C:BE		Skymotion Technology (HK) Limited
+30:6D:F9		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 30:6E:5C		Validus Technologies
 30:6F:07		Nations Technologies Inc.
 30:71:B2		Hangzhou Prevail Optoelectronic Equipment Co.,LTD.
@@ -25802,7 +25804,13 @@
 48:5D:EB		Just Add Power
 48:5D:ED		Sichuan Tianyi Comheart Telecom Co.,LTD
 48:5E:0E		IEEE Registration Authority
+48:5E:0E:00:00:00/28	Shenzhen C & D Electronics Co., Ltd.
 48:5E:0E:40:00:00/28	MHE Electronics
+48:5E:0E:50:00:00/28	GlobalXtreme
+48:5E:0E:70:00:00/28	Shanghai B&A automation.net
+48:5E:0E:80:00:00/28	Itfc
+48:5E:0E:B0:00:00/28	Vital Oricraft Flows Technology Co., Ltd.
+48:5E:0E:D0:00:00/28	Huaqin Technology Co.,Ltd
 48:5F:08		Tp-Link Technologies Co.,Ltd.
 48:5F:2D		Amazon Technologies Inc.
 48:5F:99		Cloud Network Technology (Samoa) Limited
@@ -26327,6 +26335,7 @@
 4C:79:75		Apple, Inc.
 4C:79:BA		Intel Corporate
 4C:7A:48		Nippon Seiki (Europe) B.V.
+4C:7B:35		Unionman Technology Co.,Ltd
 4C:7C:5F		Apple, Inc.
 4C:7C:D9		Apple, Inc.
 4C:7F:62		Nokia Corporation
@@ -26587,6 +26596,7 @@
 50:02:91		Espressif Inc.
 50:04:B8		Huawei Technologies Co.,Ltd
 50:05:3D		CyWee Group Ltd
+50:05:6E		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 50:06:04		Cisco Systems, Inc
 50:06:AB		Cisco Systems, Inc
 50:06:F5		Roku, Inc
@@ -38287,6 +38297,7 @@
 8C:1F:64:6C:D0:00/36	Wuhan Xingtuxinke ELectronic Co.,Ltd
 8C:1F:64:6C:F0:00/36	Italora
 8C:1F:64:6D:00:00/36	Abb
+8C:1F:64:6D:40:00/36	Hitachi Energy Poland sp. Z o o
 8C:1F:64:6D:50:00/36	HTK Hamburg GmbH
 8C:1F:64:6D:60:00/36	Argosdyne Co., Ltd
 8C:1F:64:6D:90:00/36	Khimo
@@ -42942,6 +42953,7 @@ AC:31:84		Huawei Device Co., Ltd.
 AC:31:9D		Shenzhen TG-NET Botone Technology Co.,Ltd.
 AC:33:0B		Japan Computer Vision Corp.
 AC:33:28		Huawei Device Co., Ltd.
+AC:33:51		Ericsson AB
 AC:34:CB		Shanhai GBCOM Communication Technology Co. Ltd
 AC:35:EE		Fn-Link Technology Limited
 AC:36:13		Samsung Electronics Co.,Ltd
@@ -47331,6 +47343,7 @@ D0:F4:05		Hon Hai Precision Industry Co., Ltd.
 D0:F4:F7		Huawei Device Co., Ltd.
 D0:F5:20		KYOCERA Corporation
 D0:F7:3B		Helmut Mauell GmbH Werk Weida
+D0:F7:6E		Shenzhen YOUHUA Technology Co., Ltd
 D0:F8:65		Itel Mobile Limited
 D0:F8:8C		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
 D0:F9:28		zte corporation
@@ -48647,6 +48660,7 @@ E0:1D:3B		Cambridge Industries(Group) Co.,Ltd.
 E0:1E:07		Anite Telecoms  US. Inc
 E0:1F:0A		Xslent Energy Technologies. LLC
 E0:1F:2B		Nokia Solutions and Networks GmbH & Co. KG
+E0:1F:34		HMD Global Oy
 E0:1F:6A		Huawei Device Co., Ltd.
 E0:1F:88		Xiaomi Communications Co Ltd
 E0:1F:ED		Nokia Shanghai Bell Co., Ltd.
@@ -49950,6 +49964,7 @@ EC:46:2C		Infinix mobility limited
 EC:46:44		Ttk Sas
 EC:46:54		Apple, Inc.
 EC:46:70		Meinberg Funkuhren GmbH & Co. KG
+EC:47:0C		Universal Electronics, Inc.
 EC:47:3C		Redwire, LLC
 EC:49:93		Qihan Technology Co., Ltd
 EC:4C:4D		ZAO NPK RoTeK
