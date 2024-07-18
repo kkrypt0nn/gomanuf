@@ -23858,6 +23858,7 @@
 38:FF:36		Ruckus Wireless
 3A:02:92		Video Electronics Standards Association
 3A:0E:75		Kevcom Llc
+3A:1E:C0		Aces
 3A:35:41		Raspberry Pi (Trading) Ltd
 3A:5A:27		Shenzhen Longsys Electronics Co.,Ltd.
 3A:5E:03		Cirrus Data Solutions, Inc
@@ -45516,6 +45517,7 @@ C4:5B:F7		ants
 C4:5D:83		Samsung Electronics Co.,Ltd
 C4:5D:D8		HDMI Forum
 C4:5E:5C		Huawei Technologies Co.,Ltd
+C4:60:0A		Huaqin Technology Co.LTD
 C4:60:26		Sky Uk Limited
 C4:60:44		Everex Electronics Limited
 C4:61:8B		Apple, Inc.
