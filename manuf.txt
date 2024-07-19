@@ -17326,6 +17326,7 @@
 00:F8:2C		Cisco Systems, Inc
 00:F8:60		PT. Panggung Electric Citrabuana
 00:F8:71		Demant A/S
+00:F8:CC		Sagemcom Broadband SAS
 00:F9:52		Huawei Technologies Co.,Ltd
 00:FA:21		Samsung Electronics Co.,Ltd
 00:FA:3B		Cloos Electronic Gmbh
@@ -18548,6 +18549,7 @@
 0C:7B:C8		Cisco Meraki
 0C:7C:28		Nokia Solutions and Networks GmbH & Co. KG
 0C:7D:7C		Kexiang Information Technology Co, Ltd.
+0C:7E:24		Garmin International
 0C:7F:B2		ARRIS Group, Inc.
 0C:7F:ED		IEEE Registration Authority
 0C:7F:ED:00:00:00/28	Guangdong Tianshu New Energy Technology Co., Ltd
@@ -18681,6 +18683,7 @@
 0C:BF:3F		Shenzhen Lencotion Technology Co.,Ltd
 0C:BF:74		Morse Micro
 0C:C0:C0		Magneti Marelli Sistemas Electronicos Mexico
+0C:C1:19		Shenzhen Phaten Tech. LTD
 0C:C3:A7		Meritec
 0C:C3:B8		Shenzhen Jiahua Zhongli Technology Co., LTD
 0C:C4:13		Google, Inc.
@@ -22835,6 +22838,7 @@
 30:D9:7F		Tech4home, Lda
 30:D9:D9		Apple, Inc.
 30:DC:E7		zte corporation
+30:DD:AA		Zhejiang Dahua Technologyco.,Ltd
 30:DE:4B		TP-Link Corporation Limited
 30:DE:86		Cedac Software S.r.l.
 30:DF:17		Alpsalpine Co,.Ltd
@@ -23526,6 +23530,7 @@
 38:53:9C		Apple, Inc.
 38:54:39		Guangzhou Shiyuan Electronic Technology Company Limited
 38:54:9B		zte corporation
+38:54:F5		AltoBeam Inc.
 38:56:10		CANDY HOUSE, Inc.
 38:56:3D		Microsoft Corporation
 38:56:B5		Peerbridge Health Inc
@@ -25806,6 +25811,8 @@
 48:5D:ED		Sichuan Tianyi Comheart Telecom Co.,LTD
 48:5E:0E		IEEE Registration Authority
 48:5E:0E:00:00:00/28	Shenzhen C & D Electronics Co., Ltd.
+48:5E:0E:10:00:00/28	Dongguan YEHUO Technology Co.,LTD
+48:5E:0E:30:00:00/28	Shenzhen Anycon Electronics Technology Co.,Ltd
 48:5E:0E:40:00:00/28	MHE Electronics
 48:5E:0E:50:00:00/28	GlobalXtreme
 48:5E:0E:70:00:00/28	Shanghai B&A automation.net
@@ -34584,6 +34591,7 @@
 70:F3:5A		Cisco Systems, Inc
 70:F3:95		Universal Global Scientific Industrial Co., Ltd.
 70:F6:CF		Relay, Inc.
+70:F7:4F		Robert Bosch JuP1
 70:F7:54		AMPAK Technology,Inc.
 70:F8:2B		DWnet Technologies(Suzhou) Corporation
 70:F8:AE		Microsoft Corporation
@@ -34828,6 +34836,7 @@
 74:73:E2		Hillstone Networks Corp.
 74:74:46		Google, Inc.
 74:75:48		Amazon Technologies Inc.
+74:75:DF		Teclink
 74:76:5B		Quectel Wireless Solutions Co.,Ltd.
 74:76:7D		shenzhen kexint technology co.,ltd
 74:78:18		Jurumani Solutions
@@ -36234,6 +36243,7 @@
 80:47:31		Packet Design, Inc.
 80:47:86		Samsung Electronics Co.,Ltd
 80:48:2C		Wyze Labs Inc
+80:48:9F		Hangzhou Hikvision Digital Technology Co.,Ltd.
 80:48:A5		Sichuan Tianyi Comheart Telecom Co.,LTD
 80:49:71		Apple, Inc.
 80:4A:14		Apple, Inc.
@@ -36871,6 +36881,7 @@
 84:BB:26		Texas Instruments
 84:BB:69		ARRIS Group, Inc.
 84:BE:52		Huawei Technologies Co.,Ltd
+84:BE:8B		Chengdu Geeker Technology Co., Ltd.
 84:C0:EF		Samsung Electronics Co.,Ltd
 84:C1:C1		Juniper Networks
 84:C2:E4		Jiangsu Qinheng Co., Ltd.
@@ -37907,6 +37918,7 @@
 8C:1F:64:36:50:00/36	Vector Technologies, Llc
 8C:1F:64:36:60:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:36:70:00/36	LAMTEC Mess- und Regeltechnik für Feuerungen GmbH & Co. KG
+8C:1F:64:36:80:00/36	Crosstek Co., Ltd
 8C:1F:64:36:90:00/36	Orbital Astronautics Ltd
 8C:1F:64:36:A0:00/36	INVENTIS S.r.l.
 8C:1F:64:36:B0:00/36	ViewSonic Corp
@@ -38447,6 +38459,7 @@
 8C:1F:64:81:30:00/36	Pribusin Inc.
 8C:1F:64:81:70:00/36	nke marine electronics
 8C:1F:64:81:A0:00/36	Gemini Electronics B.V.
+8C:1F:64:81:D0:00/36	Gogo BA
 8C:1F:64:81:F0:00/36	ViewSonic Corp
 8C:1F:64:82:00:00/36	Tiama
 8C:1F:64:82:50:00/36	MTU Aero Engines AG
@@ -38841,6 +38854,7 @@
 8C:1F:64:BB:10:00/36	Transit Solutions, LLC.
 8C:1F:64:BB:20:00/36	Grupo Epelsa S.L.
 8C:1F:64:BB:30:00/36	Zaruc Tecnologia LTDA
+8C:1F:64:BB:40:00/36	HIGH RIGHT CO.,Ltd
 8C:1F:64:BB:70:00/36	Jiangxi Lv C-Chong Charging Technology Co.Ltd
 8C:1F:64:BB:90:00/36	SmartD Technologies Inc
 8C:1F:64:BB:C0:00/36	Liberator Pty Ltd
@@ -48124,6 +48138,7 @@ D8:CB:8A		Micro-Star INTL CO., LTD.
 D8:CC:98		Huawei Device Co., Ltd.
 D8:CD:2C		Wuxi Neihua Network Technology Co., Ltd
 D8:CE:3A		Xiaomi Communications Co Ltd
+D8:CF:61		Sagemcom Broadband SAS
 D8:CF:89		Beijing DoSee Science and Technology Co., Ltd.
 D8:CF:9C		Apple, Inc.
 D8:CF:BF		Motorola Mobility LLC, a Lenovo Company
@@ -48273,6 +48288,7 @@ DC:2D:DE		Ledworks SRL
 DC:2E:6A		HCT. Co., Ltd.
 DC:2F:03		Step forward Group Co., Ltd.
 DC:30:9C		Heyrex Limited
+DC:31:30		3onedata Technology Co. Ltd.
 DC:31:D1		vivo Mobile Communication Co., Ltd.
 DC:33:0D		Qing Dao Haier Telecom Co.,Ltd.
 DC:33:3D		Huawei Device Co., Ltd.
