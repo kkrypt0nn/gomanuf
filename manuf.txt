@@ -22931,6 +22931,7 @@
 34:04:9E:D0:00:00/28	uikismart
 34:04:9E:E0:00:00/28	ND SatCom GmbH
 34:07:4F		AccelStor, Inc.
+34:07:AC		Pronyx Trading Llc
 34:07:FB		Ericsson AB
 34:08:04		D-Link Corporation
 34:08:BC		Apple, Inc.
@@ -23341,6 +23342,7 @@
 34:E5:EC		Palo Alto Networks
 34:E6:AD		Intel Corporate
 34:E6:D7		Dell Inc.
+34:E6:E6		LG Innotek
 34:E7:0B		HAN Networks Co., Ltd
 34:E7:1C		Shenzhen YOUHUA Technology Co., Ltd
 34:E8:94		Tp-Link Technologies Co.,Ltd.
@@ -24052,6 +24054,7 @@
 3C:55:DB		Shenzhen Skyworth Digital  Technology  CO., Ltd
 3C:57:31		Cisco Systems, Inc
 3C:57:4F		China Mobile Group Device Co.,Ltd.
+3C:57:65		Unionman Technology Co.,Ltd
 3C:57:6C		Samsung Electronics Co.,Ltd
 3C:57:BD		Kessler Crane Inc.
 3C:57:D5		FiveCo
@@ -25542,6 +25545,7 @@
 44:B3:2D		Tp-Link Technologies Co.,Ltd.
 44:B3:82		Kuang-chi Institute of Advanced Technology
 44:B4:12		Sius Ag
+44:B4:23		Hanwha Vision Vietnam Company Limited
 44:B4:33		tide.co.,ltd
 44:B4:62		Flextronics Tech.(Ind) Pvt Ltd
 44:B4:B2		Amazon Technologies Inc.
@@ -29379,6 +29383,7 @@
 68:69:75		Angler Labs Inc
 68:69:CA		Hitachi, Ltd.
 68:69:F2		ComAp s.r.o.
+68:6B:6A		Phytium Technology Co.,Ltd.
 68:6C:E6		Microsoft Corporation
 68:6D:BC		Hangzhou Hikvision Digital Technology Co.,Ltd.
 68:6E:23		Wi3 Inc.
@@ -38209,6 +38214,7 @@
 8C:1F:64:5B:E0:00/36	Benchmark Electronics BV
 8C:1F:64:5C:30:00/36	R3Vox Ltd
 8C:1F:64:5C:40:00/36	Cooltera Limited
+8C:1F:64:5C:60:00/36	Systems With Intelligence Inc.
 8C:1F:64:5C:90:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:5C:B0:00/36	dinosys
 8C:1F:64:5C:D0:00/36	Mahindr & Mahindra
@@ -45906,6 +45912,10 @@ C4:FE:5B		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 C4:FE:E2		AMICCOM Electronics Corporation
 C4:FF:1F		Huawei Technologies Co.,Ltd
 C4:FF:22		Huawei Device Co., Ltd.
+C4:FF:84		IEEE Registration Authority
+C4:FF:84:70:00:00/28	NEKMA M.Mesek P.Mesek B.Mesek
+C4:FF:84:90:00:00/28	Atlas Copco
+C4:FF:84:A0:00:00/28	Openeye
 C4:FF:BC		IEEE Registration Authority
 C4:FF:BC:00:00:00/28	Danego BV
 C4:FF:BC:10:00:00/28	Visatech C0., Ltd.
@@ -47321,6 +47331,7 @@ D0:C8:57:D0:00:00/28	Iflytek Co.,Ltd.
 D0:C8:57:E0:00:00/28	E-T-A Elektrotechnische Apparate GmbH
 D0:C9:01		Gla Electronics Pvt Ltd
 D0:C9:07		Private
+D0:CB:DD		eero inc.
 D0:CD:E1		Scientech Electronics
 D0:CE:C0		Xiaomi Communications Co Ltd
 D0:CE:C9		Han Chang
