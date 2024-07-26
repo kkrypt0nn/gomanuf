@@ -37993,6 +37993,7 @@
 8C:1F:64:3B:B0:00/36	Clausal Computing Oy
 8C:1F:64:3B:D0:00/36	Oriux
 8C:1F:64:3C:10:00/36	Suzhou Lianshichuangzhi Technology Co., Ltd
+8C:1F:64:3C:20:00/36	Samuel Cosgrove
 8C:1F:64:3C:40:00/36	NavSys Technology Inc.
 8C:1F:64:3C:50:00/36	Stratis IOT
 8C:1F:64:3C:60:00/36	Wavestream Corp
@@ -38368,6 +38369,7 @@
 8C:1F:64:71:20:00/36	Nexion Data Systems P/L
 8C:1F:64:71:50:00/36	Internet Protocolo Logica Sl
 8C:1F:64:71:80:00/36	Abb
+8C:1F:64:71:A0:00/36	Chell Instruments Ltd
 8C:1F:64:71:B0:00/36	Adasky Ltd.
 8C:1F:64:71:D0:00/36	Epigon spol. s r.o.
 8C:1F:64:72:10:00/36	M/S Milind Ramachandra Rajwade
@@ -45913,9 +45915,14 @@ C4:FE:E2		AMICCOM Electronics Corporation
 C4:FF:1F		Huawei Technologies Co.,Ltd
 C4:FF:22		Huawei Device Co., Ltd.
 C4:FF:84		IEEE Registration Authority
+C4:FF:84:50:00:00/28	Eastern Acoustic Works
+C4:FF:84:60:00:00/28	Lens Technology (Xiangtan) Co.,Ltd
 C4:FF:84:70:00:00/28	NEKMA M.Mesek P.Mesek B.Mesek
+C4:FF:84:80:00:00/28	Ibm
 C4:FF:84:90:00:00/28	Atlas Copco
 C4:FF:84:A0:00:00/28	Openeye
+C4:FF:84:B0:00:00/28	Elaraby Company For Engineering Industries
+C4:FF:84:C0:00:00/28	KSB SE & Co. KGaA
 C4:FF:BC		IEEE Registration Authority
 C4:FF:BC:00:00:00/28	Danego BV
 C4:FF:BC:10:00:00/28	Visatech C0., Ltd.
@@ -46327,6 +46334,7 @@ C8:D7:B0		Samsung Electronics Co.,Ltd
 C8:D8:84		Universal Electronics, Inc.
 C8:D9:D2		Hewlett Packard
 C8:DB:26		Logitech
+C8:DD:6A		Ohsung
 C8:DD:C9		Lenovo Mobile Communication Technology Ltd.
 C8:DE:41		Sky Uk Limited
 C8:DE:51		IntegraOptics
@@ -47300,6 +47308,7 @@ D0:C0:50		Apple, Inc.
 D0:C0:BF		Actions Microelectronics Co., Ltd
 D0:C1:93		Skybell, Inc
 D0:C1:B1		Samsung Electronics Co.,Ltd
+D0:C1:B5		Dell Inc.
 D0:C2:4E		Samsung Electronics Co.,Ltd
 D0:C2:82		Cisco Systems, Inc
 D0:C3:1E		JUNGJIN Electronics Co.,Ltd
