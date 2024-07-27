@@ -17487,6 +17487,7 @@
 04:54:53		Apple, Inc.
 04:55:CA		BriView (Xiamen) Corp.
 04:56:04		Gionee Communication Equipment Co.,Ltd.
+04:56:65		Nokia Shanghai Bell Co., Ltd.
 04:56:E5		Intel Corporate
 04:57:2F		Sertel Electronics UK Ltd
 04:57:47		GoPro
@@ -19451,6 +19452,7 @@
 14:59:C0		Netgear
 14:59:C3		Creative Chips GmbH
 14:5A:05		Apple, Inc.
+14:5A:41		Cloud Network Technology Singapore Pte. Ltd.
 14:5A:83		Logi-D inc
 14:5A:FC		Liteon Technology Corporation
 14:5B:B9		ConMet
@@ -27782,6 +27784,7 @@
 58:B5:68		Securitas Direct España, Sau
 58:B6:23		Beijing Xiaomi Mobile Software Co., Ltd
 58:B6:33		Ruckus Wireless
+58:B8:58		Sz Dji Technology Co.,Ltd
 58:B9:61		SOLEM Electronique
 58:B9:65		Apple, Inc.
 58:B9:E1		Crystalfontz America, Inc.
@@ -40353,6 +40356,7 @@
 94:32:C1		Honor Device Co., Ltd.
 94:33:D8		Cisco Systems, Inc
 94:33:DD		Taco Inc
+94:34:2F		Itel Mobile Limited
 94:34:69		Silicon Laboratories
 94:35:0A		Samsung Electronics Co.,Ltd
 94:35:89		Huawei Technologies Co.,Ltd
@@ -41700,6 +41704,7 @@ A0:22:52		Astra Wireless Technology FZ-LLC
 A0:22:DE		vivo Mobile Communication Co., Ltd.
 A0:23:1B		TeleComp R&D Corp.
 A0:23:9F		Cisco Systems, Inc
+A0:24:42		Shenzhenshi Xinzhongxin Technology Co.Ltd
 A0:24:F9		Chengdu InnovaTest Technology Co., Ltd
 A0:25:D7		Hewlett Packard Enterprise
 A0:27:B6		Samsung Electronics Co.,Ltd
@@ -44079,6 +44084,7 @@ B4:B8:8D		Thuh Company
 B4:B9:E6		eero inc.
 B4:BA:02		Agatel Ltd
 B4:BA:12		China Mobile (Hangzhou) Information Technology Co.,Ltd.
+B4:BA:6A		Tecno Mobile Limited
 B4:BA:9D		Sky Uk Limited
 B4:BC:7C		Texas Instruments
 B4:BF:F6		Samsung Electronics Co.,Ltd
@@ -45915,6 +45921,10 @@ C4:FE:E2		AMICCOM Electronics Corporation
 C4:FF:1F		Huawei Technologies Co.,Ltd
 C4:FF:22		Huawei Device Co., Ltd.
 C4:FF:84		IEEE Registration Authority
+C4:FF:84:00:00:00/28	Zhuhai Ninestar Information Technology Co., Ltd.
+C4:FF:84:20:00:00/28	ShenZhen BoQiao Technologies CO.,LTD.
+C4:FF:84:30:00:00/28	Cloudhop Inc
+C4:FF:84:40:00:00/28	Malhotra Electronics Private Limited
 C4:FF:84:50:00:00/28	Eastern Acoustic Works
 C4:FF:84:60:00:00/28	Lens Technology (Xiangtan) Co.,Ltd
 C4:FF:84:70:00:00/28	NEKMA M.Mesek P.Mesek B.Mesek
@@ -45923,6 +45933,7 @@ C4:FF:84:90:00:00/28	Atlas Copco
 C4:FF:84:A0:00:00/28	Openeye
 C4:FF:84:B0:00:00/28	Elaraby Company For Engineering Industries
 C4:FF:84:C0:00:00/28	KSB SE & Co. KGaA
+C4:FF:84:D0:00:00/28	Aosaishi (Hong Kong) Co.,Limited
 C4:FF:BC		IEEE Registration Authority
 C4:FF:BC:00:00:00/28	Danego BV
 C4:FF:BC:10:00:00/28	Visatech C0., Ltd.
@@ -50358,6 +50369,7 @@ F0:1C:2D		Juniper Networks
 F0:1D:2D		Cisco Systems, Inc
 F0:1D:BC		Microsoft Corporation
 F0:1E:34		ORICO Technologies Co., Ltd
+F0:1E:AC		Rentokil Initial
 F0:1F:AF		Dell Inc.
 F0:1F:C7		Apple, Inc.
 F0:20:FF		Intel Corporate
