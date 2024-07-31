@@ -19338,7 +19338,7 @@
 14:1F:BA:30:00:00/28	Private
 14:1F:BA:40:00:00/28	Byzero
 14:1F:BA:50:00:00/28	Inttelix Brasil Tecnologia e Sistemas Ltda
-14:1F:BA:60:00:00/28	Revenue Collection Systems France SAS
+14:1F:BA:60:00:00/28	Hitachi Rail RCS France SAS
 14:1F:BA:70:00:00/28	Wisnetworks Technologies Co., Ltd.
 14:1F:BA:80:00:00/28	Shenzhen CATIC Information Technology Industry Co.,Ltd
 14:1F:BA:90:00:00/28	Black Moth Technologies
@@ -21198,6 +21198,7 @@
 24:3F:AA		Huawei Device Co., Ltd.
 24:40:AE		NIIC Technology Co., Ltd.
 24:41:8C		Intel Corporate
+24:41:FE		Wistron Neweb Corporation
 24:42:BC		Alinco,incorporated
 24:43:E2		DASAN Network Solutions
 24:44:27		Huawei Technologies Co.,Ltd
@@ -22416,6 +22417,7 @@
 2C:D2:E7		Nokia Corporation
 2C:D4:44		Fujitsu Limited
 2C:D7:FF		LANCOM Systems GmbH
+2C:D8:DE		AltoBeam Inc.
 2C:D9:74		Hui Zhou Gaoshengda Technology Co.,LTD
 2C:DB:07		Intel Corporate
 2C:DC:78		Descartes Systems (USA) LLC
@@ -23872,7 +23874,7 @@
 38:FF:36		Ruckus Wireless
 3A:02:92		Video Electronics Standards Association
 3A:0E:75		Kevcom Llc
-3A:1E:C0		Aces
+3A:1E:C0		Genesis
 3A:35:41		Raspberry Pi (Trading) Ltd
 3A:5A:27		Shenzhen Longsys Electronics Co.,Ltd.
 3A:5E:03		Cirrus Data Solutions, Inc
@@ -27427,6 +27429,7 @@
 54:C6:A6		Hubei Yangtze Mason Semiconductor Technology  Co., Ltd.
 54:C6:FF		New H3C Technologies Co., Ltd
 54:C8:0F		Tp-Link Technologies Co.,Ltd.
+54:C8:CC		Shenzhen SDG Telecom Equipment Co.,Ltd.
 54:C9:DF		Fn-Link Technology Limited
 54:CD:10		Panasonic Mobile Communications Co.,Ltd.
 54:CD:A7		Fujian Shenzhou Electronic Co.,Ltd
@@ -40001,6 +40004,7 @@
 90:6F:A9		Nanjing Putian Telecommunications Technology Co.,Ltd.
 90:70:25		Garea Microsys Co.,Ltd.
 90:70:65		Texas Instruments
+90:70:BF		Mimosa Networks
 90:70:D3		Fiberhome Telecommunication Technologies Co.,LTD
 90:72:40		Apple, Inc.
 90:72:82		Sagemcom Broadband SAS
@@ -40078,6 +40082,7 @@
 90:9F:43		Accutron Instruments Inc.
 90:A0:BE		Cannice
 90:A1:37		Beijing Splendidtel Communication Technology Co,. Ltd
+90:A1:96		HG Innovation Limited
 90:A1:BA		PNetworks Electronics Information
 90:A2:10		United Telecoms Ltd
 90:A2:5B		Apple, Inc.
@@ -50079,6 +50084,7 @@ EC:56:23		Huawei Technologies Co.,Ltd
 EC:57:0D		AFE Inc.
 EC:58:EA		Ruckus Wireless
 EC:59:E7		Microsoft Corporation
+EC:5A:31		Buffalo.Inc
 EC:5A:86		Yulong Computer Telecommunication Scientific (Shenzhen) Co.,Ltd
 EC:5A:A3		Huawei Device Co., Ltd.
 EC:5B:73		Advanced & Wise Technology Corp.
@@ -50234,7 +50240,10 @@ EC:A5:DE		ONYX WIFI Inc
 EC:A6:2F		Huawei Technologies Co.,Ltd
 EC:A7:AD		Barrot Technology Co.,Ltd.
 EC:A7:B1		IEEE Registration Authority
+EC:A7:B1:40:00:00/28	Sichuan Ruiting Zhihui Technology Co., Ltd
+EC:A7:B1:60:00:00/28	Digital Audio Labs
 EC:A7:B1:C0:00:00/28	Hiromokuten Co.,Ltd.
+EC:A7:B1:D0:00:00/28	Usu Telecom India Private Limited
 EC:A8:1F		Vantiva USA LLC
 EC:A8:6B		Elitegroup Computer Systems Co.,Ltd.
 EC:A9:07		Apple, Inc.
@@ -51159,6 +51168,7 @@ F4:BC:97		Shenzhen Crave Communication Co., LTD
 F4:BC:DA		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
 F4:BD:7C		Chengdu jinshi communication Co., LTD
 F4:BD:9E		Cisco Systems, Inc
+F4:BD:B9		Ubiqcom India Pvt Ltd
 F4:BE:EC		Apple, Inc.
 F4:BF:80		Huawei Technologies Co.,Ltd
 F4:BF:A8		Juniper Networks
