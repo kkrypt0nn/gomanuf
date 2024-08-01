@@ -16425,6 +16425,7 @@
 00:BB:01		Octothorpe Corp.
 00:BB:1C		Huawei Device Co., Ltd.
 00:BB:3A		Amazon Technologies Inc.
+00:BB:43		Tiinlab Corporation
 00:BB:60		Intel Corporate
 00:BB:8E		HME Co., Ltd.
 00:BB:C1		Canon Inc.
@@ -20280,6 +20281,7 @@
 1C:4C:48		Itel Mobile Limited
 1C:4D:66		Amazon Technologies Inc.
 1C:4D:70		Intel Corporate
+1C:4D:89		Hangzhou Huacheng Network Technology Co.,Ltd
 1C:50:1E		Sunplus Technology Co., Ltd.
 1C:51:B5		Techaya LTD
 1C:52:16		Dongguan Hele Electronics Co., Ltd
@@ -22103,6 +22105,7 @@
 2C:33:61		Apple, Inc.
 2C:33:7A		Hon Hai Precision Ind. Co.,Ltd.
 2C:34:27		Erco & Gener
+2C:34:7B		Shenzhen Junge Technology Co.,Ltd
 2C:35:57		ELIIY Power CO., Ltd.
 2C:36:A0		Capisco Limited
 2C:36:F2		Huawei Technologies Co.,Ltd
@@ -23058,6 +23061,7 @@
 34:47:D4		Chengdu Quanjing Intelligent Technology Co.,Ltd
 34:48:ED		Dell Inc.
 34:49:5B		Sagemcom Broadband SAS
+34:4A:1B		zte corporation
 34:4A:C3		HuNan ZiKun Information Technology CO., Ltd
 34:4B:3D		Fiberhome Telecommunication Technologies Co.,LTD
 34:4B:50		zte corporation
@@ -27891,6 +27895,7 @@
 58:EB:14		Proteus Digital Health
 58:EC:E1		Newport Corporation
 58:EC:ED		Integrated Device Technology (Malaysia) Sdn. Bhd.
+58:ED:99		zte corporation
 58:EE:CE		Icon Time Systems
 58:EF:68		Belkin International Inc.
 58:F1:02		BLU Products Inc.
@@ -38727,6 +38732,7 @@
 8C:1F:64:A0:F0:00/36	Dorlet Sau
 8C:1F:64:A1:20:00/36	FUJIHENSOKUKI Co., Ltd.
 8C:1F:64:A1:30:00/36	INVENTIA Sp. z o.o.
+8C:1F:64:A1:70:00/36	Pneumax Spa
 8C:1F:64:A1:B0:00/36	Zilica Limited
 8C:1F:64:A1:F0:00/36	Hitachi Energy  India Limited
 8C:1F:64:A2:90:00/36	Ringtail Security
@@ -40082,7 +40088,7 @@
 90:9F:43		Accutron Instruments Inc.
 90:A0:BE		Cannice
 90:A1:37		Beijing Splendidtel Communication Technology Co,. Ltd
-90:A1:96		HG Innovation Limited
+90:A1:96		Private
 90:A1:BA		PNetworks Electronics Information
 90:A2:10		United Telecoms Ltd
 90:A2:5B		Apple, Inc.
@@ -49325,6 +49331,7 @@ E4:7D:BD		Samsung Electronics Co.,Ltd
 E4:7D:EB		Shanghai Notion Information Technology CO.,LTD.
 E4:7E:66		Huawei Technologies Co.,Ltd
 E4:7E:9A		zte corporation
+E4:7F:3C		zte corporation
 E4:7F:B2		Fujitsu Limited
 E4:81:84		Nokia
 E4:81:B3		Shenzhen ACT Industrial Co.,Ltd.
@@ -50240,6 +50247,7 @@ EC:A5:DE		ONYX WIFI Inc
 EC:A6:2F		Huawei Technologies Co.,Ltd
 EC:A7:AD		Barrot Technology Co.,Ltd.
 EC:A7:B1		IEEE Registration Authority
+EC:A7:B1:10:00:00/28	AKOM Technologies Private Limited
 EC:A7:B1:40:00:00/28	Sichuan Ruiting Zhihui Technology Co., Ltd
 EC:A7:B1:60:00:00/28	Digital Audio Labs
 EC:A7:B1:C0:00:00/28	Hiromokuten Co.,Ltd.
@@ -50323,6 +50331,7 @@ EC:E6:1D		Huawei Device Co., Ltd.
 EC:E6:60		Qingdao Hisense Communications Co.,Ltd.
 EC:E6:A2		Fiberhome Telecommunication Technologies Co.,LTD
 EC:E7:44		Omntec mfg. inc
+EC:E7:8E		AsiaTelco Technologies Co.
 EC:E7:A7		Intel Corporate
 EC:E7:C2		China Mobile Group Device Co.,Ltd.
 EC:E9:0B		Sistema Solucoes Eletronicas Ltda - Easytech
