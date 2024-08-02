@@ -22034,6 +22034,7 @@
 2C:18:09		Apple, Inc.
 2C:18:75		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 2C:18:AE		Trend Electronics Co., Ltd.
+2C:19:5C		Beijing Xiaomi Mobile Software Co., Ltd
 2C:19:84		IDN Telecom, Inc.
 2C:1A:01		Huawei Technologies Co.,Ltd
 2C:1A:05		Cisco Systems, Inc
@@ -26842,6 +26843,7 @@
 50:67:F0		Zyxel Communications Corporation
 50:68:0A		Huawei Technologies Co.,Ltd
 50:68:AC		Huawei Device Co., Ltd.
+50:69:5A		AiFamous（shenzhen）Technology Co.,Ltd
 50:6A:03		Netgear
 50:6B:4B		Mellanox Technologies, Inc.
 50:6B:8D		Nutanix
@@ -27373,6 +27375,7 @@
 54:9F:C6		Cisco Systems, Inc
 54:A0:4F		t-mac Technologies Ltd
 54:A0:50		ASUSTek COMPUTER INC.
+54:A2:45		Digisol Systems Limited
 54:A2:74		Cisco Systems, Inc
 54:A3:1B		Shenzhen Linkworld Technology Co,.LTD
 54:A3:FA		BQT Solutions (Australia)Pty Ltd
@@ -28029,6 +28032,7 @@
 5C:3E:06		Cisco Systems, Inc
 5C:3E:1B		Apple, Inc.
 5C:40:58		Jefferson Audio Video Systems, Inc.
+5C:40:E3		Novaon
 5C:41:5A		Amazon.com, LLC
 5C:41:E7		Wiatec International Ltd.
 5C:43:D2		Hazemeyer
@@ -38087,6 +38091,7 @@
 8C:1F:64:47:D0:00/36	Eb Neuro Spa
 8C:1F:64:47:E0:00/36	Novanta IMS
 8C:1F:64:48:10:00/36	VirtualV Trading Limited
+8C:1F:64:48:20:00/36	Vismes sarl
 8C:1F:64:48:70:00/36	TECHKON GmbH
 8C:1F:64:48:90:00/36	Hupi
 8C:1F:64:48:B0:00/36	Monnit Corporation
@@ -38819,6 +38824,7 @@
 8C:1F:64:AE:80:00/36	Adetec Sas
 8C:1F:64:AE:90:00/36	Ennple
 8C:1F:64:AE:A0:00/36	INHEMETER Co.,Ltd
+8C:1F:64:AE:C0:00/36	Pixel Design & Manufacturing Sdn. Bhd.
 8C:1F:64:AE:D0:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:AE:F0:00/36	Scenario Automation
 8C:1F:64:AF:00:00/36	MinebeaMitsumi Inc.
@@ -39000,6 +39006,7 @@
 8C:1F:64:C6:A0:00/36	Red Phase Technologies Limited
 8C:1F:64:C6:B0:00/36	Mediana
 8C:1F:64:C6:D0:00/36	EA Elektro-Automatik
+8C:1F:64:C6:E0:00/36	Safe Instruments
 8C:1F:64:C7:10:00/36	Yaviar LLC
 8C:1F:64:C7:B0:00/36	Freedom Atlantic
 8C:1F:64:C7:C0:00/36	MERKLE Schweissanlagen-Technik GmbH
@@ -39252,6 +39259,7 @@
 8C:1F:64:EC:F0:00/36	Monnit Corporation
 8C:1F:64:ED:30:00/36	Senso2Me Nv
 8C:1F:64:ED:40:00/36	Zhejiang Chitic-Safeway New Energy Technical Co.,Ltd.
+8C:1F:64:ED:50:00/36	Smart Data (Shenzhen) Intelligent System Co., Ltd.
 8C:1F:64:ED:60:00/36	PowTechnology Limited
 8C:1F:64:ED:90:00/36	Netgen Hitech Solutions Llp
 8C:1F:64:ED:A0:00/36	DEUTA-WERKE GmbH
@@ -39610,6 +39618,7 @@
 8C:85:E6		Cleondris GmbH
 8C:86:1E		Apple, Inc.
 8C:86:2A		Huawei Technologies Co.,Ltd
+8C:87:26		VAST Data Inc
 8C:87:3B		Leica Camera AG
 8C:87:D0		Shenzhen Uascent Technology Co.,Ltd
 8C:88:81		Cisco Meraki
@@ -50247,6 +50256,7 @@ EC:A5:DE		ONYX WIFI Inc
 EC:A6:2F		Huawei Technologies Co.,Ltd
 EC:A7:AD		Barrot Technology Co.,Ltd.
 EC:A7:B1		IEEE Registration Authority
+EC:A7:B1:00:00:00/28	Nanjing Xinyun Technology Co., Ltd
 EC:A7:B1:10:00:00/28	AKOM Technologies Private Limited
 EC:A7:B1:40:00:00/28	Sichuan Ruiting Zhihui Technology Co., Ltd
 EC:A7:B1:60:00:00/28	Digital Audio Labs
