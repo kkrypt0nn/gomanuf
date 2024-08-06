@@ -20105,6 +20105,7 @@
 18:E8:29		Ubiquiti Inc
 18:E8:3B		Citadel Wallet LLC
 18:E8:DD		Moduletek
+18:E8:EC		STMicrolectronics International NV
 18:E9:1D		Huawei Technologies Co.,Ltd
 18:EC:E7		Buffalo.Inc
 18:EE:69		Apple, Inc.
@@ -25356,6 +25357,7 @@
 44:35:D3		GD Midea Air-Conditioning Equipment Co.,Ltd.
 44:36:5D		Shenzhen HippStor Technology Co., Ltd
 44:37:08		MRV Comunications
+44:37:0B		Guangzhou Shiyuan Electronic Technology Company Limited
 44:37:19		2 Save Energy Ltd
 44:37:6F		Young Electric Sign Co
 44:37:E6		Hon Hai Precision Ind. Co.,Ltd.
@@ -39178,6 +39180,7 @@
 8C:1F:64:DE:50:00/36	Gogo Business Aviation
 8C:1F:64:DE:90:00/36	EON Technology, Corp
 8C:1F:64:DE:B0:00/36	PXM Marek Zupnik spolka komandytowa
+8C:1F:64:DE:D0:00/36	PhotonPath
 8C:1F:64:DF:80:00/36	Wittra Networks AB
 8C:1F:64:DF:90:00/36	VuWall Technology Europe GmbH
 8C:1F:64:DF:A0:00/36	Atse Llc
@@ -44037,6 +44040,7 @@ B4:83:51		Intel Corporate
 B4:84:D5		GooWi Wireless Technology Co., Limited
 B4:85:47		Amptown System Company GmbH
 B4:85:E1		Apple, Inc.
+B4:86:18		GX India Pvt Ltd
 B4:86:55		Huawei Technologies Co.,Ltd
 B4:89:01		Huawei Technologies Co.,Ltd
 B4:89:10		Coster T.E. S.P.A.
@@ -49946,6 +49950,7 @@ E8:EF:05		Mind Tech International Limited
 E8:EF:22		Siemens Numerical Control Ltd., Nanjing
 E8:EF:89		OPMEX Tech.
 E8:F0:85		Huawei Technologies Co.,Ltd
+E8:F0:A4		Antonios A. Chariton
 E8:F1:B0		Sagemcom Broadband SAS
 E8:F2:26		Millson Custom Solutions Inc.
 E8:F2:E2		LG Innotek
@@ -50036,6 +50041,7 @@ EC:1C:5D		Siemens AG
 EC:1D:7F		zte corporation
 EC:1D:8B		Cisco Systems, Inc
 EC:1D:9E		Quectel Wireless Solutions Co.,Ltd.
+EC:1D:A9		Yealink(Xiamen) Network Technology Co.,Ltd.
 EC:1F:72		Samsung Electro-Mechanics(Thailand)
 EC:21:25		Toshiba Corp.
 EC:21:50		vivo Mobile Communication Co., Ltd.
@@ -50278,6 +50284,7 @@ EC:A7:B1:40:00:00/28	Sichuan Ruiting Zhihui Technology Co., Ltd
 EC:A7:B1:60:00:00/28	Digital Audio Labs
 EC:A7:B1:70:00:00/28	Shenzhen Lanroot Technology Co., Ltd
 EC:A7:B1:90:00:00/28	Print International Limited
+EC:A7:B1:B0:00:00/28	Shenzhen Adreamer Elite Co.,Ltd
 EC:A7:B1:C0:00:00/28	Hiromokuten Co.,Ltd.
 EC:A7:B1:D0:00:00/28	Usu Telecom India Private Limited
 EC:A8:1F		Vantiva USA LLC
