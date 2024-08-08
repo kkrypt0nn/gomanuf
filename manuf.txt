@@ -19644,6 +19644,7 @@
 14:DD:E5		Mpmkvvcl
 14:DE:39		Huawei Device Co., Ltd.
 14:E0:1D		Samsung Electronics Co.,Ltd
+14:E2:89		Abietec Inc.
 14:E4:EC		mLogic LLC
 14:E6:E4		Tp-Link Technologies Co.,Ltd.
 14:E7:C8		Integrated Device Technology (Malaysia) Sdn. Bhd.
@@ -21386,6 +21387,7 @@
 24:A9:37		PURE Storage
 24:AB:81		Apple, Inc.
 24:AC:AC		Polar Electro Oy
+24:AE:CC		Honor Device Co., Ltd.
 24:AF:4A		Alcatel-Lucent IPD
 24:AF:54		NEXGEN Mediatech Inc.
 24:B0:A9		Shanghai Mobiletek Communication Ltd.
@@ -21652,6 +21654,7 @@
 28:41:C6		Huawei Technologies Co.,Ltd
 28:41:EC		Huawei Technologies Co.,Ltd
 28:44:30		Arcade Communications Ltd.
+28:44:F4		Honor Device Co., Ltd.
 28:47:AA		Nokia Corporation
 28:48:46		GridCentric Inc.
 28:48:E7		Huawei Device Co., Ltd.
@@ -23502,6 +23505,7 @@
 38:38:A6		Arista Networks
 38:39:6C		Huawei Device Co., Ltd.
 38:39:8F		Silicon Laboratories
+38:39:CD		vivo Mobile Communication Co., Ltd.
 38:3A:21		IEEE Registration Authority
 38:3A:21:00:00:00/28	R3C Information(Shenzhen) Co.，Ltd.
 38:3A:21:10:00:00/28	HOBART GmbH
@@ -24529,6 +24533,7 @@
 40:70:F5		Apple, Inc.
 40:71:83		Juniper Networks
 40:72:18		Tonly Technology Co. Ltd
+40:73:4D		New H3C Technologies Co., Ltd
 40:74:96		aFUN TECHNOLOGY INC.
 40:74:E0		Intel Corporate
 40:75:C3		Vantiva USA LLC
@@ -29401,6 +29406,7 @@
 68:5D:43		Intel Corporate
 68:5E:1C		Texas Instruments
 68:5E:6B		PowerRay Co., Ltd.
+68:62:8A		vivo Mobile Communication Co., Ltd.
 68:63:50		Hella India Automotive Pvt Ltd
 68:63:59		Advanced Digital Broadcast SA
 68:63:72		Huawei Device Co., Ltd.
@@ -38558,6 +38564,7 @@
 8C:1F:64:85:C0:00/36	Zing 5g Communications Canada Inc.
 8C:1F:64:85:E0:00/36	Apen Group S.p.A.  (VAT IT08767740155)
 8C:1F:64:86:30:00/36	EngiNe srl
+8C:1F:64:86:40:00/36	IMI Thomson Valves
 8C:1F:64:86:60:00/36	Unitron Systems b.v.
 8C:1F:64:86:70:00/36	Forever Engineering Systems Pvt. Ltd.
 8C:1F:64:86:80:00/36	Shenzhen Peake Technology Co.,Ltd.
@@ -44721,6 +44728,7 @@ BC:31:98:B0:00:00/28	Suzhou Anchi Control system.,Co.Ltd
 BC:31:98:C0:00:00/28	Innoflight, Inc.
 BC:31:98:D0:00:00/28	Shanghai Sigen New Energy Technology Co., Ltd
 BC:31:98:E0:00:00/28	Radar
+BC:31:E2		New H3C Technologies Co., Ltd
 BC:32:5F		Zhejiang Dahua Technology Co., Ltd.
 BC:32:B2		Samsung Electronics Co.,Ltd
 BC:33:29		Sony Interactive Entertainment Inc.
@@ -45736,6 +45744,7 @@ C4:86:E9		Huawei Technologies Co.,Ltd
 C4:88:E5		Samsung Electronics Co.,Ltd
 C4:89:ED		Solid Optics EU N.V.
 C4:8A:5A		Jfcontrol
+C4:8B:66		Hui Zhou Gaoshengda Technology Co.,LTD
 C4:8B:A3		Cisco Meraki
 C4:8E:8F		Hon Hai Precision Ind. Co.,Ltd.
 C4:8F:07		Shenzhen Yihao Hulian Science and Technology Co., Ltd.
