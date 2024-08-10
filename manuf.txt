@@ -28724,6 +28724,7 @@
 60:AB:D2		Bose Corporation
 60:AC:C8		KunTeng Inc.
 60:AF:6D		Samsung Electronics Co.,Ltd
+60:B0:2B		Qingdao Haier Technology Co.,Ltd
 60:B1:85		ATH system
 60:B3:87		Synergics Technologies GmbH
 60:B3:C4		Elber Srl
@@ -34930,6 +34931,7 @@
 74:85:C4		New H3C Technologies Co., Ltd
 74:86:0B		Cisco Systems, Inc
 74:86:69		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
+74:86:6F		zte corporation
 74:86:7A		Dell Inc.
 74:86:E2		Dell Inc.
 74:87:2E		Huawei Technologies Co.,Ltd
@@ -38030,6 +38032,7 @@
 8C:1F:64:39:10:00/36	Cpc (Uk)
 8C:1F:64:39:20:00/36	mmc kommunikationstechnologie gmbh
 8C:1F:64:39:30:00/36	Gre System Inc.
+8C:1F:64:39:50:00/36	Beijing Ceresdata Technology Co., LTD
 8C:1F:64:39:70:00/36	Intel Corporate
 8C:1F:64:39:80:00/36	Software Systems Plus
 8C:1F:64:39:A0:00/36	Golding Audio Ltd
@@ -42739,6 +42742,7 @@ A8:4D:4A		Audiowise Technology Inc.
 A8:4E:3F		Hitron Technologies. Inc
 A8:4F:A4		China Dragon Technology Limited
 A8:4F:B1		Cisco Systems, Inc
+A8:50:08		Felion Technologies Company Limited
 A8:50:81		Huawei Technologies Co.,Ltd
 A8:51:5B		Samsung Electronics Co.,Ltd
 A8:51:AB		Apple, Inc.
@@ -49120,6 +49124,7 @@ E0:BE:03		Lite-On Network Communication (Dongguan) Limited
 E0:C0:D1		CK Telecom (Shenzhen) Limited
 E0:C2:64		Intel Corporate
 E0:C2:86		Aisai Communication Technology Co., Ltd.
+E0:C2:9E		zte corporation
 E0:C2:B7		Masimo Corporation
 E0:C3:77		Samsung Electronics Co.,Ltd
 E0:C3:EA		Apple, Inc.
@@ -49354,6 +49359,7 @@ E4:57:40		ARRIS Group, Inc.
 E4:57:68		vivo Mobile Communication Co., Ltd.
 E4:57:A8		Stuart Manufacturing, Inc.
 E4:58:B8		Samsung Electronics Co.,Ltd
+E4:58:BC		Bose Corporation
 E4:58:E7		Samsung Electronics Co.,Ltd
 E4:5A:A2		vivo Mobile Communication Co., Ltd.
 E4:5A:D4		Eltex Enterprise Ltd.
@@ -49978,6 +49984,7 @@ E8:E5:D6		Samsung Electronics Co.,Ltd
 E8:E7:32		Alcatel-Lucent Enterprise
 E8:E7:70		Warp9 Tech Design, Inc.
 E8:E7:76		Shenzhen Kootion Technology Co., Ltd
+E8:E7:C3		zte corporation
 E8:E8:75		iS5 Communications Inc.
 E8:E8:B7		Murata Manufacturing Co., Ltd.
 E8:E9:8E		SOLAR controls s.r.o.
@@ -51032,8 +51039,10 @@ F4:39:09		Hewlett Packard
 F4:39:A6		Apple, Inc.
 F4:3A:7B		zte corporation
 F4:3A:FA		IEEE Registration Authority
+F4:3A:FA:30:00:00/28	Jiaxing Haishijiaan Smartcity Technology CO., LTD.
+F4:3A:FA:50:00:00/28	Grayeye IT Systems Private Limited
 F4:3A:FA:90:00:00/28	Hemant Electronics
-F4:3A:FA:B0:00:00/28	CECT Suntai Information Technology Co.,Ltd
+F4:3A:FA:B0:00:00/28	CETC Suntai Information Technology Co., Ltd.
 F4:3B:D8		Intel Corporate
 F4:3C:3B		Hunan Fn-Link Technology Limited
 F4:3C:96		Ericsson AB
