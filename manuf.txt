@@ -38094,6 +38094,7 @@
 8C:1F:64:40:20:00/36	Integer.pl S.A.
 8C:1F:64:40:60:00/36	Anda Telecom Pvt Ltd
 8C:1F:64:40:80:00/36	techone system
+8C:1F:64:40:A0:00/36	Enki Multimedia
 8C:1F:64:40:C0:00/36	Sichuan Aiyijan Technology Company Ltd.
 8C:1F:64:40:D0:00/36	PROFITT Ltd
 8C:1F:64:40:E0:00/36	Baker Hughes EMEA
@@ -38868,6 +38869,7 @@
 8C:1F:64:AC:50:00/36	Forever Engineering Systems Pvt. Ltd.
 8C:1F:64:AC:90:00/36	ShenYang LeShun Technology Co.,Ltd
 8C:1F:64:AC:B0:00/36	Villari B.V.
+8C:1F:64:AC:D0:00/36	Escape Velocity Technologies
 8C:1F:64:AC:E0:00/36	Rayhaan Networks
 8C:1F:64:AD:00:00/36	Elektrotechnik & Elektronik Oltmann GmbH
 8C:1F:64:AD:20:00/36	YUYAMA MFG Co.,Ltd
@@ -38939,6 +38941,7 @@
 8C:1F:64:B6:80:00/36	All-Systems Electronics Pty Ltd
 8C:1F:64:B6:90:00/36	Quanxing Tech Co.,LTD
 8C:1F:64:B6:B0:00/36	KELC Electronics System Co., LTD.
+8C:1F:64:B6:C0:00/36	Laser Mechanisms, Inc.
 8C:1F:64:B6:D0:00/36	Andy-L Ltd
 8C:1F:64:B6:E0:00/36	Loop Technologies
 8C:1F:64:B7:30:00/36	Comm-ence, Inc.
@@ -39225,6 +39228,7 @@
 8C:1F:64:DD:B0:00/36	Efficient Residential Heating GmbH
 8C:1F:64:DD:E0:00/36	Jemac Sweden AB
 8C:1F:64:DE:10:00/36	Franke Aquarotter GmbH
+8C:1F:64:DE:20:00/36	Softgent sp. z o.o.
 8C:1F:64:DE:50:00/36	Gogo Business Aviation
 8C:1F:64:DE:90:00/36	EON Technology, Corp
 8C:1F:64:DE:B0:00/36	PXM Marek Zupnik spolka komandytowa
@@ -51061,6 +51065,7 @@ F4:3A:FA		IEEE Registration Authority
 F4:3A:FA:00:00:00/28	AugustDevices India Private limited
 F4:3A:FA:10:00:00/28	Dspread Technology (Beijing) Inc.
 F4:3A:FA:30:00:00/28	Jiaxing Haishijiaan Smartcity Technology CO., LTD.
+F4:3A:FA:40:00:00/28	Aifrutech Co.,LTD
 F4:3A:FA:50:00:00/28	Grayeye IT Systems Private Limited
 F4:3A:FA:90:00:00/28	Hemant Electronics
 F4:3A:FA:B0:00:00/28	CETC Suntai Information Technology Co., Ltd.
