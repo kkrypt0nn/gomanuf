@@ -22434,6 +22434,7 @@
 2C:D2:6B		Fn-Link Technology Limited
 2C:D2:E3		Guangzhou Aoshi Electronic Co.,Ltd
 2C:D2:E7		Nokia Corporation
+2C:D3:AD		Texas Instruments
 2C:D4:44		Fujitsu Limited
 2C:D7:FF		LANCOM Systems GmbH
 2C:D8:DE		AltoBeam Inc.
@@ -23267,6 +23268,7 @@
 34:C1:03		Hangzhou Huamu Technology Co.,Ltd.
 34:C3:AC		Samsung Electronics Co.,Ltd
 34:C3:D2		Fn-Link Technology Limited
+34:C4:59		Texas Instruments
 34:C5:15		Hewlett Packard Enterprise
 34:C5:D0		Hagleitner Hygiene International GmbH
 34:C6:9A		Enecsys Ltd
@@ -25510,6 +25512,7 @@
 44:87:DB		Tymphany Acoustic Technology (Huizhou) Co.,  Ltd.
 44:87:FC		Elitegroup Computer Systems Co.,Ltd.
 44:88:16		Cisco Systems, Inc
+44:88:BE		Texas Instruments
 44:88:CB		Camco Technologies NV
 44:89:6D		Tellescom Industria E Comercio Em Telecomunicacao
 44:8A:5B		Micro-Star INT'L CO., LTD.
@@ -27545,6 +27548,7 @@
 54:FA:89		Medtronic CRM
 54:FA:96		Nokia Solutions and Networks GmbH & Co. KG
 54:FB:58		WISEWARE, Lda
+54:FB:5A		Optomind Inc.
 54:FC:F0		Samsung Electronics Co.,Ltd
 54:FD:BF		Scheidt & Bachmann GmbH
 54:FE:EB		Texas Instruments
@@ -38807,6 +38811,7 @@
 8C:1F:64:A1:70:00/36	Pneumax Spa
 8C:1F:64:A1:B0:00/36	Zilica Limited
 8C:1F:64:A1:F0:00/36	Hitachi Energy  India Limited
+8C:1F:64:A2:60:00/36	Automatic Pty Ltd
 8C:1F:64:A2:90:00/36	Ringtail Security
 8C:1F:64:A2:B0:00/36	WENet Vietnam Joint Stock company
 8C:1F:64:A2:D0:00/36	ACSL Ltd.
@@ -42138,6 +42143,7 @@ A0:D7:F3		Samsung Electronics Co.,Ltd
 A0:D8:07		Huawei Device Co., Ltd.
 A0:D8:3D		Fiberhome Telecommunication Technologies Co.,LTD
 A0:D8:6F		Argo Ai, Llc
+A0:D9:1A		Texas Instruments
 A0:DA:92		Nanjing Glarun Atten Technology Co. Ltd.
 A0:DC:04		Becker-Antriebe GmbH
 A0:DD:6C		Espressif Inc.
@@ -42513,6 +42519,7 @@ A4:AD:B8		Vitec Group, Camera Dynamics Ltd
 A4:AE:11		Hon Hai Precision Industry Co., Ltd.
 A4:AE:12		Hon Hai Precision Industry Co., Ltd.
 A4:AE:9A		Maestro Wireless Solutions ltd.
+A4:B0:F5		Texas Instruments
 A4:B1:21		Arantia 2010 S.L.
 A4:B1:97		Apple, Inc.
 A4:B1:C1		Intel Corporate
@@ -45228,6 +45235,7 @@ C0:49:43		zte corporation
 C0:49:EF		Espressif Inc.
 C0:4A:00		Tp-Link Technologies Co.,Ltd.
 C0:4A:09		Zhejiang Everbright Communication Equip. Co,. Ltd
+C0:4A:0E		Texas Instruments
 C0:4B:13		WonderSound Technology Co., Ltd
 C0:4D:F7		Serelec
 C0:4E:30		Espressif Inc.
@@ -45686,6 +45694,7 @@ C4:55:C2		Bach-Simpson
 C4:56:00		Galleon Embedded Computing
 C4:56:FE		Lava International Ltd.
 C4:57:1F		June Life Inc
+C4:57:46		Texas Instruments
 C4:57:6E		Samsung Electronics Co.,Ltd
 C4:57:81		Wingtech Group (HongKong) Limited
 C4:57:CD		Huawei Technologies Co.,Ltd
@@ -47577,6 +47586,7 @@ D4:04:E6		Broadcom Limited
 D4:04:FF		Juniper Networks
 D4:05:98		ARRIS Group, Inc.
 D4:05:DE		eero inc.
+D4:06:0F		Texas Instruments
 D4:08:68		Beijing Lanxum Computer Technology CO.,LTD.
 D4:0A:A9		ARRIS Group, Inc.
 D4:0B:1A		HTC Corporation
@@ -51077,12 +51087,15 @@ F4:3A:7B		zte corporation
 F4:3A:FA		IEEE Registration Authority
 F4:3A:FA:00:00:00/28	AugustDevices India Private limited
 F4:3A:FA:10:00:00/28	Dspread Technology (Beijing) Inc.
+F4:3A:FA:20:00:00/28	Private
 F4:3A:FA:30:00:00/28	Jiaxing Haishijiaan Smartcity Technology CO., LTD.
 F4:3A:FA:40:00:00/28	Aifrutech Co.,LTD
 F4:3A:FA:50:00:00/28	Grayeye IT Systems Private Limited
+F4:3A:FA:60:00:00/28	sungshinsolution
 F4:3A:FA:70:00:00/28	Valeo Schalter und Sensoren GmbH
 F4:3A:FA:90:00:00/28	Hemant Electronics
 F4:3A:FA:B0:00:00/28	CETC Suntai Information Technology Co., Ltd.
+F4:3A:FA:C0:00:00/28	Lenovo India Private Limited
 F4:3A:FA:D0:00:00/28	Houngfu Technology
 F4:3B:D8		Intel Corporate
 F4:3C:3B		Hunan Fn-Link Technology Limited
@@ -52295,6 +52308,7 @@ FC:DB:B3		Murata Manufacturing Co., Ltd.
 FC:DC:4A		G-Wearables Corp.
 FC:DD:55		Shenzhen WeWins wireless Co.,Ltd
 FC:DE:90		Samsung Electronics Co.,Ltd
+FC:DE:C5		Texas Instruments
 FC:DF:00		GD Midea Air-Conditioning Equipment Co.,Ltd.
 FC:E1:4F		BRK Brands, Inc.
 FC:E1:86		A3M Co., LTD
