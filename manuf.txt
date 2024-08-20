@@ -21183,6 +21183,7 @@
 24:26:BA		Shenzhen Toptel Technology Co., Ltd.
 24:26:D6		Huawei Technologies Co.,Ltd
 24:27:30		GD Midea Air-Conditioning Equipment Co.,Ltd.
+24:28:56		Beijing Gctech Technology Co.,LTD
 24:28:FD		Hangzhou Hikvision Digital Technology Co.,Ltd.
 24:29:34		Google, Inc.
 24:29:FE		KYOCERA Corporation
@@ -21666,6 +21667,7 @@
 28:48:46		GridCentric Inc.
 28:48:E7		Huawei Device Co., Ltd.
 28:4C:53		Intune Networks
+28:4D:7D		zte corporation
 28:4D:92		Luminator
 28:4E:44		Huawei Technologies Co.,Ltd
 28:4E:D7		OutSmart Power Systems, Inc.
@@ -27684,6 +27686,7 @@
 58:49:25		E3 Enterprise
 58:49:3B		Palo Alto Networks
 58:49:BA		Chitai Electronic Corp.
+58:4B:BC		zte corporation
 58:4C:19		Chongqing Guohong Technology Development Company Limited
 58:4C:EE		Digital One Technologies, Limited
 58:4D:42		Dragos, Inc.
@@ -34929,6 +34932,7 @@
 74:76:7D		shenzhen kexint technology co.,ltd
 74:78:18		Jurumani Solutions
 74:78:27		Dell Inc.
+74:78:47		Interdisciplinary Consulting Corporation
 74:78:A6		Fortinet, Inc.
 74:7A:90		Murata Manufacturing Co., Ltd.
 74:7B:7A		ETH Inc.
@@ -35887,6 +35891,7 @@
 7C:5E:98		eero inc.
 7C:60:4A		Avelon
 7C:60:97		Huawei Technologies Co.,Ltd
+7C:60:DB		zte corporation
 7C:61:30		Apple, Inc.
 7C:61:66		Amazon Technologies Inc.
 7C:61:93		HTC Corporation
@@ -36996,6 +37001,7 @@
 84:C9:B2		D-Link International
 84:C9:C6		Shenzhen Gongjin Electronics Co.,Lt
 84:CB:85		EM Microelectronic
+84:CC:11		LG Electornics
 84:CC:63		Huawei Device Co., Ltd.
 84:CC:A8		Espressif Inc.
 84:CD:62		ShenZhen IDWELL Technology CO.,Ltd
@@ -37865,6 +37871,7 @@
 8C:1F:64:1E:30:00/36	WBNet
 8C:1F:64:1E:60:00/36	Radian Research, Inc.
 8C:1F:64:1E:70:00/36	Canon Electron Tubes & Devices Co., Ltd.
+8C:1F:64:1E:80:00/36	Haptech Defense Systems
 8C:1F:64:1E:F0:00/36	Tantronic AG
 8C:1F:64:1F:00:00/36	AVCOMM Technologies Inc
 8C:1F:64:1F:40:00/36	Eiffage Energie Electronique
@@ -38151,6 +38158,7 @@
 8C:1F:64:47:40:00/36	Audiobyte S.R.L.
 8C:1F:64:47:50:00/36	Alpine Quantum Technologies GmbH
 8C:1F:64:47:60:00/36	Clair Global Corporation
+8C:1F:64:47:70:00/36	Blaucomm Ltd
 8C:1F:64:47:90:00/36	AKSE srl
 8C:1F:64:47:A0:00/36	Missing Link Electronics, Inc.
 8C:1F:64:47:D0:00/36	Eb Neuro Spa
@@ -38837,6 +38845,7 @@
 8C:1F:64:A5:C0:00/36	Prosys
 8C:1F:64:A5:D0:00/36	Shenzhen zhushida Technology lnformation Co.,Ltd
 8C:1F:64:A5:E0:00/36	XTIA Ltd.
+8C:1F:64:A5:F0:00/36	Wattson Audio SA
 8C:1F:64:A6:00:00/36	Active Optical Systems, LLC
 8C:1F:64:A6:10:00/36	Breas Medical AB
 8C:1F:64:A6:70:00/36	Electrovymir LLC
@@ -39235,6 +39244,7 @@
 8C:1F:64:DC:80:00/36	Dwdm.Ru Llc
 8C:1F:64:DC:90:00/36	Peter Huber Kaeltemaschinenbau SE
 8C:1F:64:DC:A0:00/36	Porsche engineering
+8C:1F:64:DC:B0:00/36	Beijing Ceresdata Technology Co., LTD
 8C:1F:64:DC:F0:00/36	Reo Ag
 8C:1F:64:DD:40:00/36	Midlands Technical Co., Ltd.
 8C:1F:64:DD:50:00/36	Cardinal Scales Manufacturing Co
@@ -42135,6 +42145,7 @@ A0:D3:65		Intel Corporate
 A0:D3:7A		Intel Corporate
 A0:D3:85		AUMA Riester GmbH & Co. KG
 A0:D3:C1		Hewlett Packard
+A0:D4:2D		G.Tech Technology Ltd.
 A0:D6:35		WBS Technology
 A0:D7:22		Samsung Electronics Co.,Ltd
 A0:D7:95		Apple, Inc.
