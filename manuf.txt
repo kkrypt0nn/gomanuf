@@ -29480,6 +29480,7 @@
 68:79:12:D0:00:00/28	Neurolab
 68:79:12:E0:00:00/28	Ametek Solidstate Controls
 68:79:24		ELS-GmbH & Co. KG
+68:79:C4		Shanghai MXCHIP Information Technology Co., Ltd.
 68:79:DD		Omnipless Manufacturing (PTY) Ltd
 68:79:ED		SHARP Corporation
 68:7A:64		Intel Corporate
@@ -37897,6 +37898,7 @@
 8C:1F:64:22:D0:00/36	Kaysons Electricals Private Limited
 8C:1F:64:22:E0:00/36	Jide Car Rastreamento e Monitoramento LTDA
 8C:1F:64:23:20:00/36	Monnit Corporation
+8C:1F:64:23:50:00/36	Marson Technology Co., Ltd.
 8C:1F:64:23:D0:00/36	Mokila Networks Pvt Ltd
 8C:1F:64:24:00:00/36	HuiTong intelligence Company
 8C:1F:64:24:20:00/36	Giordano Controls Spa
@@ -45238,6 +45240,8 @@ C0:44:42		Apple, Inc.
 C0:44:E3		Shenzhen Sinkna Electronics Co., LTD
 C0:47:0E		Dell Inc.
 C0:47:54		vivo Mobile Communication Co., Ltd.
+C0:48:2F		IEEE Registration Authority
+C0:48:2F:C0:00:00/28	Lunar USA Inc.
 C0:48:84		Sigma Bilisim Sist. Tekn. Elk. Enj. ve San. D??. Tic. Ltd. ?ti.
 C0:48:E6		Samsung Electronics Co.,Ltd
 C0:48:FB		Shenzhen JingHanDa Electronics Co.Ltd
@@ -51104,10 +51108,13 @@ F4:3A:FA:40:00:00/28	Aifrutech Co.,LTD
 F4:3A:FA:50:00:00/28	Grayeye IT Systems Private Limited
 F4:3A:FA:60:00:00/28	sungshinsolution
 F4:3A:FA:70:00:00/28	Valeo Schalter und Sensoren GmbH
+F4:3A:FA:80:00:00/28	Metrasens Limited
 F4:3A:FA:90:00:00/28	Hemant Electronics
+F4:3A:FA:A0:00:00/28	Annapurna labs
 F4:3A:FA:B0:00:00/28	CETC Suntai Information Technology Co., Ltd.
 F4:3A:FA:C0:00:00/28	Lenovo India Private Limited
 F4:3A:FA:D0:00:00/28	Houngfu Technology
+F4:3A:FA:E0:00:00/28	Wakari Solutions,S.L.
 F4:3B:D8		Intel Corporate
 F4:3C:3B		Hunan Fn-Link Technology Limited
 F4:3C:96		Ericsson AB
