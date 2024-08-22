@@ -39353,6 +39353,7 @@
 8C:1F:64:ED:60:00/36	PowTechnology Limited
 8C:1F:64:ED:90:00/36	Netgen Hitech Solutions Llp
 8C:1F:64:ED:A0:00/36	DEUTA-WERKE GmbH
+8C:1F:64:ED:F0:00/36	Xlera Solutions, LLC
 8C:1F:64:EE:00:00/36	Private
 8C:1F:64:EE:10:00/36	PuS GmbH und Co. KG
 8C:1F:64:EE:30:00/36	Sichuan Huacun Zhigu Technology Co.,Ltd
@@ -39416,6 +39417,7 @@
 8C:1F:64:F6:30:00/36	Quantum Media Systems
 8C:1F:64:F6:50:00/36	Talleres de Escoriaza SA
 8C:1F:64:F6:80:00/36	YUYAMA MFG Co.,Ltd
+8C:1F:64:F6:C0:00/36	Sonatronic
 8C:1F:64:F6:D0:00/36	Ophir Manufacturing Solutions Pte Ltd
 8C:1F:64:F7:00:00/36	Vision Systems Safety Tech
 8C:1F:64:F7:20:00/36	Contrader
@@ -40185,6 +40187,7 @@
 90:9B:6F		Apple, Inc.
 90:9C:4A		Apple, Inc.
 90:9D:7D		ARRIS Group, Inc.
+90:9D:AC		Infinix mobility limited
 90:9D:E0		Newland Design + Assoc. Inc.
 90:9E:24		ekey biometric systems gmbh
 90:9F:22		Zyxel Communications Corporation
@@ -44776,6 +44779,7 @@ BC:28:2C		e-Smart Systems Pvt. Ltd
 BC:28:46		NextBIT Computing Pvt. Ltd.
 BC:28:D6		Rowley Associates Limited
 BC:29:78		Prama Hikvision India Private Limited
+BC:2B:02		China Dragon Technology Limited
 BC:2B:6B		Beijing Haier IC Design Co.,Ltd
 BC:2B:D7		Revogi Innovation Co., Ltd.
 BC:2C:55		Bear Flag Design, Inc.
@@ -45241,6 +45245,9 @@ C0:44:E3		Shenzhen Sinkna Electronics Co., LTD
 C0:47:0E		Dell Inc.
 C0:47:54		vivo Mobile Communication Co., Ltd.
 C0:48:2F		IEEE Registration Authority
+C0:48:2F:00:00:00/28	Protect A/S
+C0:48:2F:70:00:00/28	Megawin Switchgear Pvt. Ltd.
+C0:48:2F:B0:00:00/28	Shenzhen C & D Electronics Co., Ltd.
 C0:48:2F:C0:00:00/28	Lunar USA Inc.
 C0:48:84		Sigma Bilisim Sist. Tekn. Elk. Enj. ve San. D??. Tic. Ltd. ?ti.
 C0:48:E6		Samsung Electronics Co.,Ltd
