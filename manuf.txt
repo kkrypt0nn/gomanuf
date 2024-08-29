@@ -21384,6 +21384,9 @@
 24:A1:60		Espressif Inc.
 24:A1:86		ARRIS Group, Inc.
 24:A2:E1		Apple, Inc.
+24:A3:F0		IEEE Registration Authority
+24:A3:F0:60:00:00/28	dissecto GmbH
+24:A3:F0:80:00:00/28	Weihai Hualing Opto-electronics Co., Ltd.
 24:A4:2C		NETIO products a.s.
 24:A4:3C		Ubiquiti Inc
 24:A4:87		Huawei Device Co., Ltd.
@@ -35896,6 +35899,7 @@
 7C:50:49		Apple, Inc.
 7C:50:79		Intel Corporate
 7C:50:DA		E.J Ward
+7C:51:84		Unis Flash Memory Technology(Chengdu)Co.,Ltd.
 7C:51:89		SG Wireless Limited
 7C:52:59		Sichuan Jiuzhou Electronic Technology Co., Ltd.
 7C:53:4A		Metamako
@@ -38038,6 +38042,7 @@
 8C:1F:64:33:80:00/36	Rheingold Heavy LLC
 8C:1F:64:33:C0:00/36	Hubris Technologies Private Limited
 8C:1F:64:33:D0:00/36	Arrow (China) Electronics Trading Co., Ltd.
+8C:1F:64:34:00:00/36	BRS Sistemas Eletrônicos
 8C:1F:64:34:20:00/36	TimeMachines Inc.
 8C:1F:64:34:70:00/36	Plut d.o.o.
 8C:1F:64:34:90:00/36	Waves System
@@ -38291,6 +38296,7 @@
 8C:1F:64:55:E0:00/36	Hanateksystem
 8C:1F:64:56:00:00/36	Dexter Laundry Inc.
 8C:1F:64:56:10:00/36	Deep Detection / ESB01736990
+8C:1F:64:56:60:00/36	Ultiroam
 8C:1F:64:56:B0:00/36	Avida, Inc.
 8C:1F:64:56:C0:00/36	ELTEK SpA
 8C:1F:64:56:D0:00/36	Acod
@@ -41274,6 +41280,7 @@
 98:DF:82		Hangzhou Hikvision Digital Technology Co.,Ltd.
 98:E0:D9		Apple, Inc.
 98:E1:65		Accutome
+98:E2:55		Nintendo Co.,Ltd
 98:E4:76		Zentan
 98:E7:43		Dell Inc.
 98:E7:9A		Foxconn(NanJing) Communication Co.,Ltd.
