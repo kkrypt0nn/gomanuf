@@ -21387,6 +21387,8 @@
 24:A3:F0		IEEE Registration Authority
 24:A3:F0:60:00:00/28	dissecto GmbH
 24:A3:F0:80:00:00/28	Weihai Hualing Opto-electronics Co., Ltd.
+24:A3:F0:90:00:00/28	EONCA Corporation
+24:A3:F0:C0:00:00/28	Beijing Cunyin Chengqi Technology Co., Ltd.
 24:A4:2C		NETIO products a.s.
 24:A4:3C		Ubiquiti Inc
 24:A4:87		Huawei Device Co., Ltd.
@@ -34660,6 +34662,7 @@
 70:D8:C2		Intel Corporate
 70:D9:23		vivo Mobile Communication Co., Ltd.
 70:D9:31		Cambridge Industries(Group) Co.,Ltd.
+70:D9:83		Shanghai JINXVM Microelectronics Co.,Ltd.
 70:DA:17		Austrian Audio GmbH
 70:DA:48		Cisco Systems, Inc
 70:DA:9C		Tecsen
@@ -37090,6 +37093,7 @@
 84:EA:ED		Roku, Inc
 84:EB:18		Texas Instruments
 84:EB:3E		Vivint Smart Home
+84:EB:3F		Vivint Inc
 84:EB:EF		Cisco Systems, Inc
 84:ED:33		BBMC Co.,Ltd
 84:EE:7F		Huawei Technologies Co.,Ltd
@@ -38134,6 +38138,7 @@
 8C:1F:64:3E:E0:00/36	BnB Information Technology
 8C:1F:64:3F:40:00/36	Actelser S.L.
 8C:1F:64:3F:70:00/36	Mitsubishi Electric India Pvt. Ltd.
+8C:1F:64:3F:90:00/36	Yu Yan System Technology Co., Ltd.
 8C:1F:64:3F:C0:00/36	STV Electronic GmbH
 8C:1F:64:3F:E0:00/36	Plum sp. z.o.o.
 8C:1F:64:3F:F0:00/36	Uisee(Shanghai) Automotive Technologies Ltd.
@@ -38178,6 +38183,7 @@
 8C:1F:64:46:00:00/36	Solace Systems Inc.
 8C:1F:64:46:10:00/36	Kara Partners LLC
 8C:1F:64:46:20:00/36	Reo Ag
+8C:1F:64:46:50:00/36	Ixorigue Technologies Sl
 8C:1F:64:46:60:00/36	Intamsys Technology Co.Ltd
 8C:1F:64:46:A0:00/36	Pharsighted LLC
 8C:1F:64:47:20:00/36	Surge Networks, Inc.
@@ -38718,6 +38724,7 @@
 8C:1F:64:8F:40:00/36	Loadrite (Auckland) Limited
 8C:1F:64:8F:60:00/36	Idneo Technologies S.A.U.
 8C:1F:64:8F:80:00/36	HIGHVOLT Prüftechnik
+8C:1F:64:8F:B0:00/36	Televic Rail GmbH
 8C:1F:64:8F:E0:00/36	Potter Electric Signal Company
 8C:1F:64:8F:F0:00/36	Kruger DB Series Indústria Eletrônica ltda
 8C:1F:64:90:30:00/36	Portrait Displays, Inc.
@@ -38806,6 +38813,7 @@
 8C:1F:64:9C:00:00/36	Header Rhyme
 8C:1F:64:9C:10:00/36	RealWear
 8C:1F:64:9C:30:00/36	Camozzi Automation SpA
+8C:1F:64:9C:60:00/36	Golding Audio Ltd
 8C:1F:64:9C:A0:00/36	EDC Acoustics
 8C:1F:64:9C:B0:00/36	Shanghai Sizhong Information Technology Co., Ltd
 8C:1F:64:9C:D0:00/36	JiangYu Innovative Medical Technology
@@ -46994,6 +47002,7 @@ CC:BD:35		Steinel GmbH
 CC:BD:D3		Ultimaker B.V.
 CC:BE:59		Calix Inc.
 CC:BE:71		OptiLogix BV
+CC:BF:0C		Shenzhen Fenda Technology Co., Ltd
 CC:C0:79		Murata Manufacturing Co., Ltd.
 CC:C1:04		Applied Technical Systems
 CC:C2:61		IEEE Registration Authority
