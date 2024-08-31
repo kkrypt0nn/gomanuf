@@ -845,7 +845,7 @@
 00:03:3E		Tateyama System Laboratory Co., Ltd.
 00:03:3F		BigBand Networks, Ltd.
 00:03:40		Floware Wireless Systems, Ltd.
-00:03:41		Axon Digital Design
+00:03:41		EVS Broadcast Equipment
 00:03:42		Nortel Networks
 00:03:43		Martin Professional A/S
 00:03:44		Tietech.Co., Ltd.
@@ -7596,7 +7596,7 @@
 00:1C:F0		D-Link Corporation
 00:1C:F1		SUPoX Technology Co. , LTD.
 00:1C:F2		Tenlon Technology Co.,Ltd.
-00:1C:F3		Evs Broadcast Equipment
+00:1C:F3		EVS Broadcast Equipment
 00:1C:F4		Media Technology Systems Inc
 00:1C:F5		Wiseblue Technology Limited
 00:1C:F6		Cisco Systems, Inc
@@ -21385,6 +21385,7 @@
 24:A1:86		ARRIS Group, Inc.
 24:A2:E1		Apple, Inc.
 24:A3:F0		IEEE Registration Authority
+24:A3:F0:00:00:00/28	Shanghai AYAN Industry System Co.L,td
 24:A3:F0:60:00:00/28	dissecto GmbH
 24:A3:F0:80:00:00/28	Weihai Hualing Opto-electronics Co., Ltd.
 24:A3:F0:90:00:00/28	EONCA Corporation
@@ -35265,6 +35266,7 @@
 78:1F:11		RAB Lighting
 78:1F:7C		Nokia
 78:1F:DB		Samsung Electronics Co.,Ltd
+78:20:2E		Skychers Creations ShenZhen Limited
 78:20:79		ID Tech
 78:20:A5		Nintendo Co.,Ltd
 78:20:BD		Polysense (Beijing) Technologies Co. Ltd
@@ -37755,6 +37757,7 @@
 8C:1F:64:09:F0:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:0A:00:00/36	Techniwave
 8C:1F:64:0A:40:00/36	Dynamic Research, Inc.
+8C:1F:64:0A:50:00/36	Gomero Nordic AB
 8C:1F:64:0A:80:00/36	SamabaNova Systems
 8C:1F:64:0A:A0:00/36	Di3 Infotech Llp
 8C:1F:64:0A:B0:00/36	Norbit ODM AS
@@ -39233,6 +39236,7 @@
 8C:1F:64:D5:30:00/36	Gridnt
 8C:1F:64:D5:40:00/36	Grupo Epelsa S.L.
 8C:1F:64:D5:60:00/36	Wisdom Audio
+8C:1F:64:D5:80:00/36	Zumbach Electronic AG
 8C:1F:64:D5:B0:00/36	Local Security
 8C:1F:64:D5:D0:00/36	Genius Vision Digital Private Limited
 8C:1F:64:D5:E0:00/36	Integer.pl S.A.
@@ -41681,7 +41685,7 @@
 9C:BD:6E		DERA Co., Ltd
 9C:BD:9D		SkyDisk, Inc.
 9C:BE:E0		Biosoundlab Co., Ltd.
-9C:BF:0D		Framework Computer LLC
+9C:BF:0D		Framework Computer Inc.
 9C:BF:CD		Huawei Technologies Co.,Ltd
 9C:C0:77		PrintCounts, LLC
 9C:C0:D2		Conductix-Wampfler GmbH
