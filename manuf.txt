@@ -21393,6 +21393,7 @@
 24:A3:F0:40:00:00/28	Misaka Network, Inc.
 24:A3:F0:50:00:00/28	Phoenix Season LLC
 24:A3:F0:60:00:00/28	dissecto GmbH
+24:A3:F0:70:00:00/28	Coban Srl
 24:A3:F0:80:00:00/28	Weihai Hualing Opto-electronics Co., Ltd.
 24:A3:F0:90:00:00/28	EONCA Corporation
 24:A3:F0:B0:00:00/28	Shenzhen Woody International Trade Co., Ltd
@@ -27643,6 +27644,7 @@
 58:23:8C		Vantiva USA LLC
 58:24:29		Google, Inc.
 58:25:75		Huawei Technologies Co.,Ltd
+58:25:7A		Mobiwire Mobiles(Ningbo) Co.,Ltd
 58:27:8C		Buffalo.Inc
 58:2A:F7		Huawei Technologies Co.,Ltd
 58:2B:0A		Texas Instruments
