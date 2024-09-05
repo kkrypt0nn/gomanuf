@@ -18642,6 +18642,7 @@
 0C:96:CD		Mercury Corporation
 0C:96:E6		Cloud Network Technology (Samoa) Limited
 0C:97:5F		Hewlett Packard Enterprise
+0C:97:9B		Fujian Star-Net Communication Co.,Ltd
 0C:98:38		Xiaomi Communications Co Ltd
 0C:9A:3C		Intel Corporate
 0C:9A:42		Fn-Link Technology Limited
@@ -21389,6 +21390,8 @@
 24:A3:F0		IEEE Registration Authority
 24:A3:F0:00:00:00/28	Shanghai AYAN Industry System Co.L,td
 24:A3:F0:10:00:00/28	Hunan Newman Internet of vehicles Co,Ltd
+24:A3:F0:40:00:00/28	Misaka Network, Inc.
+24:A3:F0:50:00:00/28	Phoenix Season LLC
 24:A3:F0:60:00:00/28	dissecto GmbH
 24:A3:F0:80:00:00/28	Weihai Hualing Opto-electronics Co., Ltd.
 24:A3:F0:90:00:00/28	EONCA Corporation
@@ -26688,6 +26691,7 @@
 50:01:D9		Huawei Technologies Co.,Ltd
 50:02:38		Nokia Shanghai Bell Co., Ltd.
 50:02:91		Espressif Inc.
+50:04:01		TelHi Corporation
 50:04:B8		Huawei Technologies Co.,Ltd
 50:05:3D		CyWee Group Ltd
 50:05:6E		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -38635,6 +38639,7 @@
 8C:1F:64:81:00:00/36	Kymata Srl
 8C:1F:64:81:10:00/36	Panoramic Power
 8C:1F:64:81:30:00/36	Pribusin Inc.
+8C:1F:64:81:60:00/36	PalmSens BV
 8C:1F:64:81:70:00/36	nke marine electronics
 8C:1F:64:81:A0:00/36	Gemini Electronics B.V.
 8C:1F:64:81:D0:00/36	Gogo BA
@@ -40608,6 +40613,7 @@
 94:67:7E		Belden India Private Limited
 94:6A:77		Vantiva USA LLC
 94:6A:B0		Arcadyan Corporation
+94:6C:04		EM Microelectronic
 94:6D:AE		Mellanox Technologies, Inc.
 94:70:6C		Quectel Wireless Solutions Co.,Ltd.
 94:70:D2		Winfirm Technology
@@ -42072,6 +42078,7 @@ A0:88:69		Intel Corporate
 A0:88:9D		Huawei Device Co., Ltd.
 A0:88:B4		Intel Corporate
 A0:88:C2		Mellanox Technologies, Inc.
+A0:89:66		Cig Shanghai Co Ltd
 A0:89:E4		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 A0:8A:87		HuiZhou KaiYue Electronic Co.,Ltd
 A0:8C:15		Gerhard D. Wempe KG
@@ -43136,6 +43143,7 @@ AC:02:EF		Comsis
 AC:04:0B		Peloton Interactive, Inc
 AC:04:25		ball-b GmbH Co KG
 AC:04:81		Jiangsu Huaxing Electronics Co., Ltd.
+AC:04:AA		GoPro
 AC:06:13		Senselogix Ltd
 AC:06:C7		ServerNet S.r.l.
 AC:07:5F		Huawei Technologies Co.,Ltd
@@ -43159,6 +43167,7 @@ AC:16:15		Apple, Inc.
 AC:16:2D		Hewlett Packard
 AC:17:02		Fibar Group sp. z o.o.
 AC:17:54		tiko Energy Solutions AG
+AC:17:94		Shenzhen Chuangwei-Rgb Electronics Co.,Ltd
 AC:17:C8		Cisco Meraki
 AC:18:26		Seiko Epson Corporation
 AC:19:8E		Intel Corporate
@@ -44583,6 +44592,7 @@ B8:8D:12		Apple, Inc.
 B8:8D:F1		Nanjing BigFish Semiconductor Co., Ltd.
 B8:8E:3A		Infinite Technologies JLT
 B8:8E:82		Huawei Device Co., Ltd.
+B8:8E:B0		Shenzhen Skyworth Digital  Technology  CO., Ltd
 B8:8E:C6		Stateless Networks
 B8:8E:DF		Zencheer Communication Technology Co., Ltd.
 B8:8F:14		Analytica GmbH
@@ -46767,6 +46777,7 @@ CC:22:37:B0:00:00/28	Tolomatic, Inc.
 CC:22:37:C0:00:00/28	Hebei ZHSF Technology Co.,Ltd.
 CC:22:37:D0:00:00/28	Shenzhen Hooenergy Technology Co.,Ltd
 CC:22:37:E0:00:00/28	Manufacturas Y Transformados Ab, S.L.
+CC:22:DF		EM Microelectronic
 CC:24:2E		Shenzhen SuperElectron Technology Co.,Ltd.
 CC:25:EF		Apple, Inc.
 CC:26:14		Sichuan Tianyi Comheart Telecom Co.,LTD
@@ -48549,6 +48560,7 @@ DC:05:2F		National Products Inc.
 DC:05:39		Cisco Systems, Inc
 DC:05:75		Siemens Energy Automation
 DC:05:ED		Nabtesco  Corporation
+DC:06:75		Espressif Inc.
 DC:06:82		Accessia Technology Ltd.
 DC:07:C1		HangZhou QiYang Technology Co.,Ltd.
 DC:07:F8		Hangzhou Hikvision Digital Technology Co.,Ltd.
@@ -48578,6 +48590,7 @@ DC:1B:A1		Intel Corporate
 DC:1D:9F		U & B tech
 DC:1D:D4		Microstep-MIS spol. s r.o.
 DC:1E:A3		Accensus LLC
+DC:1E:D5		Espressif Inc.
 DC:20:08		ASD Electronics Ltd
 DC:21:48		Intel Corporate
 DC:21:5C		Intel Corporate
@@ -50088,6 +50101,7 @@ E8:C2:DD		Infinix mobility limited
 E8:C3:20		Austco Marketing & Service (USA) ltd.
 E8:C4:17		Fiberhome Telecommunication Technologies Co.,LTD
 E8:C5:7A		Ufispace Co., LTD.
+E8:C6:E6		Changhong (Hongkong) Trading Limited
 E8:C7:4F		Liteon Technology Corporation
 E8:C7:CF		Wistron Neweb Corporation
 E8:C8:29		Intel Corporate
