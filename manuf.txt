@@ -21390,6 +21390,7 @@
 24:A3:F0		IEEE Registration Authority
 24:A3:F0:00:00:00/28	Shanghai AYAN Industry System Co.L,td
 24:A3:F0:10:00:00/28	Hunan Newman Internet of vehicles Co,Ltd
+24:A3:F0:30:00:00/28	Shanghai Weirui Electronic Technology Co., Ltd.
 24:A3:F0:40:00:00/28	Misaka Network, Inc.
 24:A3:F0:50:00:00/28	Phoenix Season LLC
 24:A3:F0:60:00:00/28	dissecto GmbH
@@ -48101,6 +48102,7 @@ D4:D9:19		GoPro
 D4:DA:21		Beijing Xiaomi Mobile Software Co., Ltd
 D4:DA:CD		Sky Uk Limited
 D4:DC:09		Mist Systems, Inc.
+D4:DC:85		Edgecore Americas Networking Corporation
 D4:DC:CD		Apple, Inc.
 D4:DD:0B		Wavetel Technology Limited
 D4:DF:57		Alpinion Medical Systems
@@ -49712,6 +49714,7 @@ E4:D3:73		Huawei Technologies Co.,Ltd
 E4:D3:AA		Fcnt Llc
 E4:D3:F1		Cisco Systems, Inc
 E4:D5:3D		Hon Hai Precision Ind. Co.,Ltd.
+E4:D5:8B		Hangzhou Hikvision Digital Technology Co.,Ltd.
 E4:D7:1D		Oraya Therapeutics
 E4:DA:DF		Taicang T&W Electronics
 E4:DB:6D		Beijing Xiaomi Electronics Co., Ltd.
