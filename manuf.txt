@@ -2879,7 +2879,7 @@
 00:0B:4C		Clarion (M) Sdn Bhd
 00:0B:4D		Emuzed
 00:0B:4E		Communications & Power Industries
-00:0B:4F		Verifone
+00:0B:4F		Verifone, Inc.
 00:0B:50		Oxygnet
 00:0B:51		Micetek International Inc.
 00:0B:52		Joymax Electronics Co. Ltd.
@@ -9089,7 +9089,7 @@
 00:22:C5		INFORSON Co,Ltd.
 00:22:C6		Sutus Inc
 00:22:C7		SEGGER Microcontroller GmbH & Co. KG
-00:22:C8		Applied Instruments B.V.
+00:22:C8		ModuVision Technologies
 00:22:C9		Lenord, Bauer & Co GmbH
 00:22:CA		Anviz Biometric Tech. Co., Ltd.
 00:22:CB		IONODES Inc.
@@ -15379,7 +15379,7 @@
 00:60:D2		Lucent Technologies Taiwan Telecommunications Co., Ltd.
 00:60:D3		At&T
 00:60:D4		Eldat Communication Ltd.
-00:60:D5		AMADA MIYACHI Co., Ltd
+00:60:D5		Amada Co., Ltd
 00:60:D6		NovAtel Inc.
 00:60:D7		Ecole Polytechnique Federale De Lausanne (Epfl)
 00:60:D8		Elmic Systems, Inc.
@@ -24330,6 +24330,10 @@
 3C:D9:CE		Eclipse WiFi
 3C:DA:2A		zte corporation
 3C:DA:6D		Tiandy Technologies CO.,LTD
+3C:DC:03		IEEE Registration Authority
+3C:DC:03:10:00:00/28	Zaptec
+3C:DC:03:50:00:00/28	Zhuhai Means Company Limited
+3C:DC:03:60:00:00/28	ATANS Technology Inc.
 3C:DC:BC		Samsung Electronics Co.,Ltd
 3C:DD:57		Apple, Inc.
 3C:DD:89		Somo Holdings & Tech. Co.,Ltd.
@@ -28817,7 +28821,7 @@
 60:C6:58		PHYTRONIX Co.,Ltd.
 60:C7:27		Digiboard Eletronica da Amazonia Ltda
 60:C7:8D		Juniper Networks
-60:C7:98		Verifone
+60:C7:98		Verifone, Inc.
 60:C7:BE		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 60:C9:80		Trymus
 60:C9:AA		Nokia
@@ -34952,6 +34956,7 @@
 74:6A:3A		Aperi Corporation
 74:6A:89		Rezolt Corporation
 74:6A:8F		VS Vision Systems GmbH
+74:6A:B3		MICIUS Laboratory
 74:6B:82		Movek
 74:6B:AB		Guangdong Enok Communication Co., Ltd
 74:6D:FA		Samsung Electronics Co.,Ltd
@@ -37495,6 +37500,7 @@
 88:BC:C1		Huawei Technologies Co.,Ltd
 88:BD:45		Samsung Electronics Co.,Ltd
 88:BD:78		Flaircomm Microelectronics,Inc.
+88:BF:35		Verifone, Inc.
 88:BF:D5		Simple Audio Ltd
 88:BF:E4		Huawei Technologies Co.,Ltd
 88:C0:8B		Apple, Inc.
@@ -39413,6 +39419,7 @@
 8C:1F:64:EA:80:00/36	Zumbach Electronic AG
 8C:1F:64:EA:A0:00/36	"KB "Modul", LLC
 8C:1F:64:EA:C0:00/36	Miracle Healthcare, Inc.
+8C:1F:64:EA:D0:00/36	Messung Systems Pvt Ltd
 8C:1F:64:EB:20:00/36	Aqua Broadcast Ltd
 8C:1F:64:EB:50:00/36	Meiryo Denshi Corp.
 8C:1F:64:EB:70:00/36	Delta Solutions LLC
@@ -40973,6 +40980,7 @@
 98:14:D2		Avonic
 98:16:CD		leapio
 98:16:EC		IC Intracom
+98:17:3C		Private
 98:17:F1		zte corporation
 98:18:88		Cisco Meraki
 98:19:2C		Edgecore Networks Corporation
@@ -42519,7 +42527,7 @@ A4:5E:5A		ACTIVIO Inc.
 A4:5E:60		Apple, Inc.
 A4:5F:9B		Nexell
 A4:5F:B9		DreamBig Semiconductor, Inc.
-A4:60:11		Verifone
+A4:60:11		Verifone, Inc.
 A4:60:32		MRV Communications (Networks) LTD
 A4:61:91		NamJunSa
 A4:62:DF		DS Global. Co., LTD
@@ -43101,6 +43109,7 @@ A8:DC:5A		Digital Watchdog
 A8:DE:68		Beijing Wide Technology Co.,Ltd
 A8:E0:18		Nokia Corporation
 A8:E2:07		GOIP Global Services Pvt. Ltd.
+A8:E2:91		AzureWave Technology Inc.
 A8:E2:C1		Texas Instruments
 A8:E2:C3		Shenzhen YOUHUA Technology Co., Ltd
 A8:E3:EE		Sony Interactive Entertainment Inc.
@@ -47730,6 +47739,7 @@ D4:08:68		Beijing Lanxum Computer Technology CO.,LTD.
 D4:0A:A9		ARRIS Group, Inc.
 D4:0B:1A		HTC Corporation
 D4:0B:B9		Solid Semecs bv.
+D4:0E:60		Nanjing phx-gctech Information Technology Co., Ltd
 D4:0F:9E		Apple, Inc.
 D4:0F:B2		Applied Micro Electronics AME bv
 D4:10:90		iNFORM Systems AG
@@ -49795,7 +49805,7 @@ E8:04:10		Private
 E8:04:62		Cisco Systems, Inc
 E8:04:F3		Throughtek Co., Ltd.
 E8:05:6D		Nortel Networks
-E8:05:DC		Verifone Inc.
+E8:05:DC		Verifone, Inc.
 E8:06:88		Apple, Inc.
 E8:06:90		Espressif Inc.
 E8:06:EB		ShieldSOS LLC
