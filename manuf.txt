@@ -40866,6 +40866,7 @@
 94:EA:EA		Tellescom Industria E Comercio Em Telecomunicacao
 94:EB:2C		Google, Inc.
 94:EB:CD		BlackBerry RTS
+94:EC:13		Hangzhou Ezviz Software Co.,Ltd.
 94:EC:32		Silicon Laboratories
 94:EE:9F		HMD Global Oy
 94:EF:49		BDR Thermea Group B.V
@@ -44050,6 +44051,7 @@ B4:14:89		Cisco Systems, Inc
 B4:14:E6		Huawei Technologies Co.,Ltd
 B4:15:13		Huawei Technologies Co.,Ltd
 B4:15:7E		Celona Inc.
+B4:16:78		Juniper Networks
 B4:17:4D		Project Monitor Inc
 B4:17:80		DTI Group Ltd
 B4:17:A8		Meta Platforms Technologies, LLC
@@ -45268,6 +45270,7 @@ C0:17:54		Apple, Inc.
 C0:18:03		HP Inc.
 C0:18:50		Quanta Computer Inc.
 C0:18:85		Hon Hai Precision Ind. Co.,Ltd.
+C0:19:44		Juniper Networks
 C0:1A:DA		Apple, Inc.
 C0:1B:23		Sichuan Tianyi Comheart Telecom Co.,LTD
 C0:1C:30		Shenzhen WIFI-3L Technology Co.,Ltd
