@@ -19100,6 +19100,7 @@
 10:83:B4		Sidora Srl
 10:83:D2		Microseven Systems, LLC
 10:86:8C		ARRIS Group, Inc.
+10:86:F4		Huawei Device Co., Ltd.
 10:88:0F		Daruma Telecomunicações e Informática S.A.
 10:88:CE		Fiberhome Telecommunication Technologies Co.,LTD
 10:89:FB		Samsung Electronics Co.,Ltd
@@ -21185,6 +21186,7 @@
 24:1F:BD		Extreme Networks Headquarters
 24:20:C7		Sagemcom Broadband SAS
 24:21:24		Nokia
+24:21:5E		Quectel Wireless Solutions Co.,Ltd.
 24:21:AB		Sony Corporation
 24:23:61		vivo Mobile Communication Co., Ltd.
 24:24:0E		Apple, Inc.
@@ -21692,6 +21694,7 @@
 28:41:EC		Huawei Technologies Co.,Ltd
 28:44:30		Arcade Communications Ltd.
 28:44:F4		Honor Device Co., Ltd.
+28:45:AC		Huawei Device Co., Ltd.
 28:47:AA		Nokia Corporation
 28:48:46		GridCentric Inc.
 28:48:E7		Huawei Device Co., Ltd.
@@ -21909,6 +21912,7 @@
 28:D9:3E		Telecor Inc.
 28:D9:8A		Hangzhou Konke Technology Co.,Ltd.
 28:D9:97		Yuduan Mobile Co., Ltd.
+28:DB:02		zte corporation
 28:DB:81		Shanghai Guao Electronic Technology Co., Ltd
 28:DB:A7		Silicon Laboratories
 28:DE:59		Domus NTW CORP.
@@ -23261,6 +23265,7 @@
 34:A7:BA		Fischer International Systems Corporation
 34:A8:43		KYOCERA Display Corporation
 34:A8:4E		Cisco Systems, Inc
+34:A8:DB		SenArch ApS
 34:A8:EB		Apple, Inc.
 34:AA:31		Shenzhen Skyworth Digital  Technology  CO., Ltd
 34:AA:8B		Samsung Electronics Co.,Ltd
@@ -24185,6 +24190,7 @@
 3C:71:BF		Espressif Inc.
 3C:74:37		Rim
 3C:75:4A		ARRIS Group, Inc.
+3C:76:25		zte corporation
 3C:77:E6		Hon Hai Precision Ind. Co.,Ltd.
 3C:78:43		Huawei Technologies Co.,Ltd
 3C:78:73		Airsonics
@@ -24335,6 +24341,7 @@
 3C:DC:03		IEEE Registration Authority
 3C:DC:03:10:00:00/28	Zaptec
 3C:DC:03:20:00:00/28	Guangdong Yada Electronics Co.,Ltd
+3C:DC:03:40:00:00/28	Annapurna labs
 3C:DC:03:50:00:00/28	Zhuhai Means Company Limited
 3C:DC:03:60:00:00/28	ATANS Technology Inc.
 3C:DC:03:70:00:00/28	LINX Corporation
@@ -25551,6 +25558,7 @@
 44:83:12		Star-Net
 44:85:00		Intel Corporate
 44:85:02		Shenzhen SuperElectron Technology Co.,Ltd.
+44:85:DA		Shenzhen Skyworth Digital  Technology  CO., Ltd
 44:86:C1		Siemens Low Voltage & Products
 44:87:23		Hoya Service Corporation
 44:87:63		FN-LINK TECHNOLOGY Ltd.
@@ -26288,6 +26296,7 @@
 4C:24:CE		Sichuan AI-Link Technology Co., Ltd.
 4C:25:78		Nokia Corporation
 4C:26:E7		Welgate Co., Ltd.
+4C:2B:3B		Huawei Device Co., Ltd.
 4C:2C:80		Beijing Skyway Technologies Co.,Ltd
 4C:2C:83		Zhejiang KaNong Network Technology Co.,Ltd.
 4C:2E:5E		Samsung Electronics Co.,Ltd
@@ -26383,6 +26392,7 @@
 4C:63:71		Xiaomi Communications Co Ltd
 4C:63:AD		Huawei Device Co., Ltd.
 4C:63:EB		Application Solutions (Electronics and Vision) Ltd
+4C:64:60		Itel Mobile Limited
 4C:64:D9		Guangdong Leawin Group Co., Ltd
 4C:65:A8		IEEE Registration Authority
 4C:65:A8:00:00:00/28	WELT Corporation
@@ -27330,6 +27340,7 @@
 54:4A:16		Texas Instruments
 54:4B:8C		Juniper Networks
 54:4C:8A		Microsoft Corporation
+54:4D:D4		China Mobile Group Device Co.,Ltd.
 54:4E:45		Private
 54:4E:90		Apple, Inc.
 54:51:1B		Huawei Technologies Co.,Ltd
@@ -27883,6 +27894,7 @@
 58:B0:D4		ZuniData Systems Inc.
 58:B0:FE		Team EPS GmbH
 58:B1:0F		Samsung Electronics Co.,Ltd
+58:B1:8F		Huawei Device Co., Ltd.
 58:B3:8F		New H3C Technologies Co., Ltd
 58:B3:FC		Shenzhen Rf-Link Technology Co.,Ltd.
 58:B4:2D		YSTen Technology Co.,Ltd
@@ -28797,6 +28809,7 @@
 60:AC:C8		KunTeng Inc.
 60:AF:6D		Samsung Electronics Co.,Ltd
 60:B0:2B		Qingdao Haier Technology Co.,Ltd
+60:B0:E8		Huawei Device Co., Ltd.
 60:B1:85		ATH system
 60:B3:87		Synergics Technologies GmbH
 60:B3:C4		Elber Srl
@@ -29914,6 +29927,7 @@
 6C:4D:73		Apple, Inc.
 6C:4E:86		Third Millennium Systems Ltd.
 6C:4E:F6		Cisco Systems, Inc
+6C:4F:89		Zyxel Communications Corporation
 6C:50:4D		Cisco Systems, Inc
 6C:51:BF		Huawei Device Co., Ltd.
 6C:51:E4		Huawei Device Co., Ltd.
@@ -37188,6 +37202,7 @@
 88:13:BF		Espressif Inc.
 88:14:2B		Protonic Holland
 88:15:44		Cisco Meraki
+88:15:66		Huawei Device Co., Ltd.
 88:15:C5		Huawei Device Co., Ltd.
 88:17:A3		Integrated Device Technology (Malaysia) Sdn. Bhd.
 88:18:AE		Tamron Co., Ltd
@@ -39432,6 +39447,7 @@
 8C:1F:64:E9:40:00/36	Zin Technologies
 8C:1F:64:E9:80:00/36	Luxshare Electronic Technology (Kunshan) LTD
 8C:1F:64:E9:90:00/36	Pantherun Technologies Pvt Ltd
+8C:1F:64:E9:F0:00/36	Lumiplan Duhamel
 8C:1F:64:EA:80:00/36	Zumbach Electronic AG
 8C:1F:64:EA:A0:00/36	"KB "Modul", LLC
 8C:1F:64:EA:C0:00/36	Miracle Healthcare, Inc.
@@ -42457,6 +42473,7 @@ A4:3F:68		Arista Network, Inc.
 A4:40:27		zte corporation
 A4:40:3D		Shenzhen Baseus Technology Co., Ltd.
 A4:42:3B		Intel Corporate
+A4:43:80		Huawei Device Co., Ltd.
 A4:43:8C		ARRIS Group, Inc.
 A4:44:D1		Wingtech Group (HongKong）Limited
 A4:45:19		Xiaomi Communications Co Ltd
@@ -42812,6 +42829,7 @@ A8:03:2A		Espressif Inc.
 A8:05:56		vivo Mobile Communication Co., Ltd.
 A8:05:77		Netlist, Inc.
 A8:06:00		Samsung Electronics Co.,Ltd
+A8:09:B1		Huawei Device Co., Ltd.
 A8:0B:FB		Ruckus Wireless
 A8:0C:03		Florawise
 A8:0C:0D		Cisco Systems, Inc
@@ -44520,6 +44538,7 @@ B8:3A:9D		Alarm.com
 B8:3B:8F		Hangzhou Hylin IoT Techonology Co.,Ltd.
 B8:3B:AB		Arcadyan Corporation
 B8:3B:CC		Xiaomi Communications Co Ltd
+B8:3C:20		Huawei Device Co., Ltd.
 B8:3C:28		Apple, Inc.
 B8:3D:4E		Shenzhen Cultraview Digital Technology Co.,Ltd Shanghai Branch
 B8:3D:F6		Texas Instruments
@@ -45265,6 +45284,7 @@ BC:FE:8C		Altronic, LLC
 BC:FE:D9		Apple, Inc.
 BC:FF:21		Smart Code(shenzhen)Technology Co.,Ltd
 BC:FF:4D		Espressif Inc.
+BC:FF:54		zte corporation
 BC:FF:AC		Topcon Corporation
 BC:FF:EB		Motorola Mobility LLC, a Lenovo Company
 C0:02:8D		WINSTAR Display CO.,Ltd
@@ -49722,6 +49742,7 @@ E4:AF:A1		Hes-So
 E4:B0:05		Beijing IQIYI Science & Technology Co., Ltd.
 E4:B0:21		Samsung Electronics Co.,Ltd
 E4:B0:63		Espressif Inc.
+E4:B1:07		Huawei Device Co., Ltd.
 E4:B2:24		Huawei Technologies Co.,Ltd
 E4:B2:FB		Apple, Inc.
 E4:B3:18		Intel Corporate
@@ -49893,6 +49914,7 @@ E8:25:87		Shenzhen Chilink IoT Technology Co., Ltd.
 E8:26:89		Hewlett Packard Enterprise
 E8:26:8D		Shenzhen SuperElectron Technology Co.,Ltd.
 E8:26:B6		Companies House to GlucoRx Technologies Ltd.
+E8:26:CF		Shenzhen Jingxun Technology Co., Ltd.
 E8:27:25		Axis Communications AB
 E8:28:77		TMY Co., Ltd.
 E8:28:8D		Huawei Device Co., Ltd.
