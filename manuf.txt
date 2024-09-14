@@ -17738,6 +17738,7 @@
 04:E2:F8		AEP Ticketing solutions srl
 04:E3:1A		Sagemcom Broadband SAS
 04:E3:87		Cisco Systems, Inc
+04:E3:E5		Silicon Laboratories
 04:E4:51		Texas Instruments
 04:E4:B6		Samsung Electronics Co.,Ltd
 04:E5:36		Apple, Inc.
@@ -24345,6 +24346,9 @@
 3C:DC:03:50:00:00/28	Zhuhai Means Company Limited
 3C:DC:03:60:00:00/28	ATANS Technology Inc.
 3C:DC:03:70:00:00/28	LINX Corporation
+3C:DC:03:80:00:00/28	Oceasoft Sas
+3C:DC:03:B0:00:00/28	pakflow
+3C:DC:03:D0:00:00/28	Vieletech
 3C:DC:BC		Samsung Electronics Co.,Ltd
 3C:DD:57		Apple, Inc.
 3C:DD:89		Somo Holdings & Tech. Co.,Ltd.
@@ -26871,6 +26875,7 @@
 50:4B:9E		Huawei Device Co., Ltd.
 50:4C:7E		The 41St Institute Of Cetc
 50:4E:DC		Ping Communication
+50:4F:3B		Beijing Xiaomi Mobile Software Co., Ltd
 50:4F:94		Loxone Electronics GmbH
 50:50:2A		Egardia
 50:50:65		TAKT Corporation
@@ -41333,6 +41338,7 @@
 98:C8:54		Chiun Mai Communication System, Inc
 98:C8:B8		vivo Mobile Communication Co., Ltd.
 98:C9:7C		Shenzhen iComm Semiconductor CO.,LTD
+98:C9:BE		Shenzhen SDMC Technology CO., LTD
 98:CA:20		Shanghai SIMCOM Ltd.
 98:CA:33		Apple, Inc.
 98:CB:27		Galore Networks Pvt. Ltd.
@@ -43492,6 +43498,7 @@ AC:9B:0A		Sony Corporation
 AC:9B:84		Smak Tecnologia e Automacao
 AC:9C:E4		Alcatel-Lucent Shanghai Bell Co., Ltd
 AC:9E:17		ASUSTek COMPUTER INC.
+AC:9F:C3		Ring LLC
 AC:A0:16		Cisco Systems, Inc
 AC:A0:9D		Juniper Networks
 AC:A2:13		Shenzhen Bilian electronic CO.,LTD
@@ -44248,6 +44255,7 @@ B4:6D:35		Dalian Seasky Automation Co;Ltd
 B4:6D:83		Intel Corporate
 B4:6D:C2		Shenzhen Bilian Electronic Co.，Ltd
 B4:6E:08		Huawei Technologies Co.,Ltd
+B4:6E:10		vivo Mobile Communication Co., Ltd.
 B4:6F:2D		Wahoo Fitness
 B4:70:64		Samsung Electronics Co.,Ltd
 B4:73:56		Hangzhou Treebear Networking Co., Ltd.
@@ -48063,6 +48071,7 @@ D4:95:24		Clover Network, Inc.
 D4:95:5D		zte corporation
 D4:96:DF		Sungjin C&T Co.,Ltd
 D4:97:0B		Xiaomi Communications Co Ltd
+D4:98:B9		vivo Mobile Communication Co., Ltd.
 D4:99:6C		Juniper Networks
 D4:9A:20		Apple, Inc.
 D4:9A:A0		Vnpt Technology
@@ -48135,6 +48144,7 @@ D4:BB:E6		Huawei Device Co., Ltd.
 D4:BD:1E		5VT Technologies,Taiwan LTd.
 D4:BD:4F		Ruckus Wireless
 D4:BE:D9		Dell Inc.
+D4:BE:DC		Roku, Inc
 D4:BF:2D		SE Controls Asia Pacific Ltd
 D4:BF:7F		Upvel
 D4:C1:9E		Ruckus Wireless
@@ -52261,6 +52271,7 @@ FC:4A:E9		Castlenet Technology Inc.
 FC:4B:1C		Intersensor S.R.L.
 FC:4B:57		Peerless Instrument Division of Curtiss-Wright
 FC:4B:BC		Sunplus Technology Co., Ltd.
+FC:4D:6A		Silicon Laboratories
 FC:4D:8C		Shenzhen Pante Electronics Technology Co., Ltd
 FC:4D:A6		Huawei Technologies Co.,Ltd
 FC:4D:D4		Universal Global Scientific Industrial Co., Ltd.
