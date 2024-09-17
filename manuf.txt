@@ -17758,6 +17758,7 @@
 04:EC:BB		Fiberhome Telecommunication Technologies Co.,LTD
 04:EC:D8		Intel Corporate
 04:ED:33		Intel Corporate
+04:ED:62		Daikin Europe NV
 04:EE:03		Texas Instruments
 04:EE:91		x-fabric GmbH
 04:EE:E8		IEEE Registration Authority
@@ -21737,6 +21738,7 @@
 28:6A:BA		Apple, Inc.
 28:6B:35		Intel Corporate
 28:6B:5C		Cisco Systems, Inc
+28:6B:B4		SJIT Co., Ltd.
 28:6C:07		XIAOMI Electronics,CO.,LTD
 28:6D:97		SAMJIN Co., Ltd.
 28:6D:CD		Beijing Winner Microelectronics Co.,Ltd.
@@ -24312,6 +24314,7 @@
 3C:C1:F6		Melange Systems Pvt. Ltd.
 3C:C2:43		Nokia Corporation
 3C:C2:E1		Xinhua Control Engineering Co.,Ltd
+3C:C5:DD		Hui Zhou Gaoshengda Technology Co.,LTD
 3C:C7:86		Dongguan Huarong Communication Technologies Co.,Ltd.
 3C:C9:9E		Huiyang Technology Co., Ltd
 3C:CA:61		Tecno Mobile Limited
@@ -24340,6 +24343,7 @@
 3C:DA:2A		zte corporation
 3C:DA:6D		Tiandy Technologies CO.,LTD
 3C:DC:03		IEEE Registration Authority
+3C:DC:03:00:00:00/28	Rancommunication Solutions Private Limited
 3C:DC:03:10:00:00/28	Zaptec
 3C:DC:03:20:00:00/28	Guangdong Yada Electronics Co.,Ltd
 3C:DC:03:40:00:00/28	Annapurna labs
@@ -24347,6 +24351,7 @@
 3C:DC:03:60:00:00/28	ATANS Technology Inc.
 3C:DC:03:70:00:00/28	LINX Corporation
 3C:DC:03:80:00:00/28	Oceasoft Sas
+3C:DC:03:A0:00:00/28	Wenet Technology Limited
 3C:DC:03:B0:00:00/28	pakflow
 3C:DC:03:D0:00:00/28	Vieletech
 3C:DC:BC		Samsung Electronics Co.,Ltd
@@ -27011,6 +27016,7 @@
 50:9A:46		Safetrust Inc
 50:9A:4C		Dell Inc.
 50:9A:88		Huawei Technologies Co.,Ltd
+50:9B:94		Shenzhen iComm Semiconductor CO.,LTD
 50:9E:A7		Samsung Electronics Co.,Ltd
 50:9F:27		Huawei Technologies Co.,Ltd
 50:9F:3B		Oi Electric Co.,Ltd
@@ -37750,6 +37756,7 @@
 8C:1F:64:01:40:00/36	Cristal Controles Ltee
 8C:1F:64:01:60:00/36	Signtel Communications Pvt Ltd
 8C:1F:64:01:70:00/36	Farmote Limited
+8C:1F:64:01:80:00/36	Rax-Tech International
 8C:1F:64:01:A0:00/36	Paragraf
 8C:1F:64:01:D0:00/36	Nordson Corporation
 8C:1F:64:01:E0:00/36	SCIREQ Scientific Respiratory Equipment  Inc
@@ -37876,8 +37883,10 @@
 8C:1F:64:11:70:00/36	Grossenbacher Systeme AG
 8C:1F:64:11:80:00/36	Automata GmbH & Co. KG
 8C:1F:64:11:90:00/36	Foxconn Technology Co., Ltd.
+8C:1F:64:11:B0:00/36	Power Electronics Espana, S.L.
 8C:1F:64:11:E0:00/36	Infosoft Digital Design and Services P L
 8C:1F:64:11:F0:00/36	NodeUDesign
+8C:1F:64:12:10:00/36	Hefei EverACQ Technology Co., LTD
 8C:1F:64:12:50:00/36	Hangzhou Sciener Smart Technology Co., Ltd.
 8C:1F:64:12:60:00/36	Harvest Technology Pty Ltd
 8C:1F:64:12:80:00/36	Yulista Integrated Solution
@@ -40456,6 +40465,7 @@
 90:E2:FC:D0:00:00/28	Beijing Lanxum Computer Technology CO.,LTD.
 90:E2:FC:E0:00:00/28	DevCom spol. s r.o.
 90:E4:68		Guangzhou Shiyuan Electronic Technology Company Limited
+90:E4:B0		SHARP Corporation
 90:E6:BA		ASUSTek COMPUTER INC.
 90:E7:10		New H3C Technologies Co., Ltd
 90:E7:C4		HTC Corporation
