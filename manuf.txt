@@ -44433,6 +44433,7 @@ B4:DF:3B		Chromlech
 B4:DF:91		Cisco Meraki
 B4:DF:FA		Litemax Electronics Inc.
 B4:E0:1D		Conception Electronique
+B4:E0:25		ITLook
 B4:E0:CD		Fusion-io, Inc
 B4:E1:0F		Dell Inc.
 B4:E1:C4		Microsoft Mobile Oy
