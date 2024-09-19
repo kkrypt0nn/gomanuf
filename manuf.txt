@@ -24351,6 +24351,7 @@
 3C:DC:03:60:00:00/28	ATANS Technology Inc.
 3C:DC:03:70:00:00/28	LINX Corporation
 3C:DC:03:80:00:00/28	Oceasoft Sas
+3C:DC:03:90:00:00/28	ible Technology Inc.
 3C:DC:03:A0:00:00/28	Wenet Technology Limited
 3C:DC:03:B0:00:00/28	pakflow
 3C:DC:03:D0:00:00/28	Vieletech
@@ -25948,6 +25949,7 @@
 48:60:BC		Apple, Inc.
 48:61:A3		Concern "Axion" JSC
 48:61:EE		Samsung Electronics Co.,Ltd
+48:62:64		Arlo Technology
 48:62:76		Huawei Technologies Co.,Ltd
 48:63:45		Huawei Device Co., Ltd.
 48:65:EE		IEEE Registration Authority
@@ -26742,6 +26744,7 @@
 50:09:59		Vantiva USA LLC
 50:09:E5		Drimsys,Inc
 50:0A:52		Huiwan Technologies Co. Ltd
+50:0A:9C		Extreme Networks Headquarters
 50:0B:26		Huawei Technologies Co.,Ltd
 50:0B:32		Foxda Technology Industrial(ShenZhen)Co.,LTD
 50:0B:91		IEEE Registration Authority
@@ -38300,6 +38303,7 @@
 8C:1F:64:4B:B0:00/36	IWS Global Pty Ltd
 8C:1F:64:4B:F0:00/36	Smart Monitoring Innovations Private Limited
 8C:1F:64:4C:10:00/36	Clock-O-Matic
+8C:1F:64:4C:20:00/36	Laser Imagineering Vertriebs GmbH
 8C:1F:64:4C:70:00/36	SBS SpA
 8C:1F:64:4C:90:00/36	Apantac LLC
 8C:1F:64:4C:D0:00/36	Guan Show Technologe Co., Ltd.
@@ -38846,6 +38850,7 @@
 8C:1F:64:94:C0:00/36	Bcmtech
 8C:1F:64:94:E0:00/36	Monnit Corporation
 8C:1F:64:94:F0:00/36	Förster Technik GmbH
+8C:1F:64:95:30:00/36	VAF Instruments BV
 8C:1F:64:95:60:00/36	Paulmann Licht GmbH
 8C:1F:64:95:80:00/36	Sanchar Telesystems limited
 8C:1F:64:95:A0:00/36	Shenzhen Longyun Lighting Electric Appliances Co., Ltd
@@ -38876,6 +38881,7 @@
 8C:1F:64:99:30:00/36	Applied Electro Magnetics Pvt. Ltd.
 8C:1F:64:99:40:00/36	uHave Control, Inc
 8C:1F:64:99:80:00/36	EVLO Stockage Énergie
+8C:1F:64:99:90:00/36	Advanced Techne
 8C:1F:64:99:E0:00/36	EIDOS s.r.l.
 8C:1F:64:9A:10:00/36	Pacific Software Development Co., Ltd.
 8C:1F:64:9A:20:00/36	LadyBug Technologies, LLC
@@ -41818,6 +41824,7 @@
 9C:DC:71		Hewlett Packard Enterprise
 9C:DD:1F		Intelligent Steward Co.,Ltd
 9C:DE:4D		ML vision Co.,LTD
+9C:DE:F0		Jiangxi Risound Electronics Co.,LTD
 9C:DF:03		Harman/Becker Automotive Systems GmbH
 9C:DF:B1		Shenzhen Crave Communication Co., LTD
 9C:E0:41		Nokia
@@ -50683,6 +50690,7 @@ EC:D0:40		GEA Farm Technologies GmbH
 EC:D0:9F		Xiaomi Communications Co Ltd
 EC:D1:9A		Zhuhai Liming Industries Co., Ltd
 EC:D6:8A		Shenzhen JMicron Intelligent Technology Developmen
+EC:D9:09		Alpsalpine Co,.Ltd
 EC:D9:25		Rami
 EC:D9:50		Irt Sa
 EC:D9:D1		Shenzhen TG-NET Botone Technology Co.,Ltd.
