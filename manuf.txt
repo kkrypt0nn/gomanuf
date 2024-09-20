@@ -21691,6 +21691,7 @@
 28:3E:76		Common Networks
 28:3F:69		Sony Corporation
 28:40:1A		C8 MediSensors, Inc.
+28:40:DD		Sony Interactive Entertainment Inc.
 28:41:21		OptiSense Network, LLC
 28:41:C6		Huawei Technologies Co.,Ltd
 28:41:EC		Huawei Technologies Co.,Ltd
@@ -24577,6 +24578,7 @@
 40:56:62		GuoTengShengHua Electronics LTD.
 40:58:99		Logitech Far East
 40:5A:9B		Anovo
+40:5B:7F		Broadcom Limited
 40:5B:D8		Chongqing Fugui Electronics Co.,Ltd.
 40:5C:FD		Dell Inc.
 40:5D:82		Netgear
@@ -25834,6 +25836,7 @@
 48:25:67		Poly
 48:25:F3		Huawei Device Co., Ltd.
 48:26:2C		Apple, Inc.
+48:26:4C		BSH Electrical Appliances (Jiangsu) Co., Ltd.
 48:26:E8		Tek-Air Systems, Inc.
 48:27:59		Levven Electronics Ltd.
 48:27:C5		Huawei Technologies Co.,Ltd
@@ -27250,6 +27253,7 @@
 54:08:3B:D0:00:00/28	BHS Corrugated Maschinen- und Anlagenbau GmbH
 54:08:3B:E0:00:00/28	Sinclair Technologies
 54:08:53		Qingdao Haier Technology Co.,Ltd
+54:08:D3		Tianyi Telecom Terminals Company Limited
 54:09:10		Apple, Inc.
 54:09:29		Inventus Power Eletronica do Brasil LTDA
 54:09:55		zte corporation
@@ -28092,6 +28096,7 @@
 5C:10:C5		Samsung Electronics Co.,Ltd
 5C:11:93		Seal One AG
 5C:14:37		Thyssenkrupp Aufzugswerke GmbH
+5C:14:EB		Trident IoT
 5C:15:15		Advan
 5C:15:C5		Shenzhen SSC Technology Co. Ltd
 5C:15:E1		Aidc Technology (S) Pte Ltd
@@ -30024,6 +30029,7 @@
 6C:83:36		Samsung Electronics Co.,Ltd
 6C:83:38		Ubihere
 6C:83:66		Nanjing SAC Power Grid Automation Co., Ltd.
+6C:83:75		Broadcom Limited
 6C:86:86		Technonia
 6C:87:20		New H3C Technologies Co., Ltd
 6C:88:14		Intel Corporate
@@ -34867,6 +34873,7 @@
 74:1F:4A		Hangzhou H3C Technologies Co., Limited
 74:1F:79		Youngkook Electronics Co.,Ltd
 74:20:5F		Shenzhen Zhongruixin Intelligent Technology Co., Ltd.
+74:22:0D		Chengdu Xuguang Technology Co,Ltd
 74:22:BB		Huawei Device Co., Ltd.
 74:23:44		Xiaomi Communications Co Ltd
 74:23:8D		zte corporation
@@ -39120,6 +39127,7 @@
 8C:1F:64:BA:80:00/36	AvMap srlu
 8C:1F:64:BA:A0:00/36	Mine Vision Systems
 8C:1F:64:BA:B0:00/36	Ycn
+8C:1F:64:BA:D0:00/36	Jemac Sweden AB
 8C:1F:64:BA:E0:00/36	Tieline Research Pty Ltd
 8C:1F:64:BB:10:00/36	Transit Solutions, LLC.
 8C:1F:64:BB:20:00/36	Grupo Epelsa S.L.
@@ -39433,6 +39441,7 @@
 8C:1F:64:E4:F0:00/36	Sabl Systems Pty Ltd
 8C:1F:64:E5:20:00/36	LcmVeloci ApS
 8C:1F:64:E5:30:00/36	T Proje Muhendislik Dis Tic. Ltd. Sti.
+8C:1F:64:E5:80:00/36	Heitec Ag
 8C:1F:64:E5:C0:00/36	Scientific Lightning Solutions
 8C:1F:64:E5:D0:00/36	JinYuan International Corporation
 8C:1F:64:E5:E0:00/36	BRICKMAKERS GmbH
