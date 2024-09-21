@@ -19823,6 +19823,7 @@
 18:4F:43		Unionman Technology Co.,Ltd
 18:4F:5D		JRC Mobility Inc.
 18:50:2A		Soarnex
+18:50:73		Tianjin HuaLai Technology CO., Ltd.
 18:52:07		Sichuan Tianyi Comheart Telecom Co.,LTD
 18:52:3D		Xiamen Jiwu Technology CO.,Ltd
 18:52:53		Pixord Corporation
@@ -21626,6 +21627,7 @@
 28:2C:B2		Tp-Link Technologies Co.,Ltd.
 28:2D:06		AMPAK Technology,Inc.
 28:2D:7F		Apple, Inc.
+28:2E:30		Mechatronics Innovation Technologies, S.L.U.
 28:2E:89		Wistron Neweb Corporation
 28:2F:C2		Automotive Data Solutions
 28:30:AC		Frontiir Co. Ltd.
@@ -29573,6 +29575,7 @@
 68:7A:64		Intel Corporate
 68:7C:C8		Measurement Systems S. de R.L.
 68:7C:D5		Y Soft Corporation, a.s.
+68:7D:00		Shenzhen YOUHUA Technology Co., Ltd
 68:7D:6B		Samsung Electronics Co.,Ltd
 68:7D:B4		Cisco Systems, Inc
 68:7F:74		Cisco-Linksys, LLC
@@ -43423,6 +43426,7 @@ AC:67:5D		Intel Corporate
 AC:67:6F		Electrocompaniet A.S.
 AC:67:84		Google, Inc.
 AC:67:B2		Espressif Inc.
+AC:69:CF		Cisco Meraki
 AC:6A:A3		Shenzhen Kertong Technology Co.,Ltd
 AC:6B:0F		Cadence Design Systems Inc
 AC:6B:AC		Jenny Science AG
@@ -44730,6 +44734,7 @@ B8:9F:CC		Huawei Technologies Co.,Ltd
 B8:A0:B8		Samsung Electronics Co.,Ltd
 B8:A1:4A		Raisecom Technology CO., LTD
 B8:A1:75		Roku, Inc.
+B8:A1:B8		Arista Networks
 B8:A2:5D		Motorola Mobility LLC, a Lenovo Company
 B8:A3:77		Cisco Systems, Inc
 B8:A3:86		D-Link International
@@ -47556,6 +47561,7 @@ D0:81:7A		Apple, Inc.
 D0:81:C5		Juniper Networks
 D0:83:D4		Xtel Wireless ApS
 D0:84:B0		Sagemcom Broadband SAS
+D0:87:B5		Safemo Pte. Ltd.
 D0:87:E2		Samsung Electronics Co.,Ltd
 D0:88:0C		Apple, Inc.
 D0:89:99		APCON, Inc.
@@ -49482,6 +49488,7 @@ E0:EF:02		Chengdu Quanjing Intelligent Technology Co.,Ltd
 E0:EF:25		Lintes Technology Co., Ltd.
 E0:F2:11		Digitalwatt
 E0:F3:18		Sichuan Tianyi Comheart Telecom Co.,LTD
+E0:F3:25		Elkor Technologies Inc.
 E0:F3:30		Huawei Technologies Co.,Ltd
 E0:F3:79		Vaddio
 E0:F4:42		Huawei Device Co., Ltd.
@@ -49840,6 +49847,7 @@ E4:E1:30		TCT mobile ltd
 E4:E2:6C		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 E4:E4:09		Leifheit Ag
 E4:E4:AB		Apple, Inc.
+E4:E6:08		Kiwibit Inc.
 E4:E6:6C		Tiandy Technologies Co.,LTD
 E4:E7:49		Hewlett Packard
 E4:EA:83		Shenzhen Gongjin Electronics Co.,Lt
@@ -49937,6 +49945,7 @@ E8:1A:58		Technologic Systems
 E8:1A:AC		ORFEO SOUNDWORKS Inc.
 E8:1B:4B		amnimo Inc.
 E8:1B:69		Sercomm Corporation.
+E8:1C:A5		Hewlett Packard Enterprise
 E8:1C:BA		Fortinet, Inc.
 E8:1C:D8		Apple, Inc.
 E8:1D:A8		Ruckus Wireless
@@ -52193,6 +52202,7 @@ FC:02:96		Xiaomi Communications Co Ltd
 FC:03:9F		Samsung Electronics Co.,Ltd
 FC:04:1C		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 FC:06:47		Cortland Research, LLC
+FC:06:8C		Shenzhen Micipc Technology Co.,Ltd
 FC:06:ED		M2Motive Technology Inc.
 FC:07:36		Huawei Device Co., Ltd.
 FC:07:A0		LRE Medical GmbH
@@ -52408,6 +52418,7 @@ FC:91:89		Sichuan Tianyi Comheart Telecom Co.,LTD
 FC:92:3B		Nokia Corporation
 FC:92:57		Renesas Electronics (Penang) Sdn. Bhd.
 FC:93:6B		Samsung Electronics Co.,Ltd
+FC:94:2E		Cisco Meraki
 FC:94:35		Huawei Technologies Co.,Ltd
 FC:94:6C		Ubivelox
 FC:94:CE		zte corporation
