@@ -22619,6 +22619,7 @@
 30:23:03		Belkin International Inc.
 30:23:64		Nokia Shanghai Bell Co., Ltd.
 30:23:BA		Accelerated Memory Production Inc.
+30:23:CD		Fujian Star-Net Communication Co.,Ltd
 30:24:32		Intel Corporate
 30:24:78		Sagemcom Broadband SAS
 30:24:A9		HP Inc.
@@ -24349,6 +24350,7 @@
 3C:DC:03:00:00:00/28	Rancommunication Solutions Private Limited
 3C:DC:03:10:00:00/28	Zaptec
 3C:DC:03:20:00:00/28	Guangdong Yada Electronics Co.,Ltd
+3C:DC:03:30:00:00/28	Shenzhen Xinruizhi Industrial Co., Ltd
 3C:DC:03:40:00:00/28	Annapurna labs
 3C:DC:03:50:00:00/28	Zhuhai Means Company Limited
 3C:DC:03:60:00:00/28	ATANS Technology Inc.
@@ -24357,7 +24359,9 @@
 3C:DC:03:90:00:00/28	ible Technology Inc.
 3C:DC:03:A0:00:00/28	Wenet Technology Limited
 3C:DC:03:B0:00:00/28	pakflow
+3C:DC:03:C0:00:00/28	Wly
 3C:DC:03:D0:00:00/28	Vieletech
+3C:DC:03:E0:00:00/28	JP Morgan Chase Bank, N.A.
 3C:DC:BC		Samsung Electronics Co.,Ltd
 3C:DD:57		Apple, Inc.
 3C:DD:89		Somo Holdings & Tech. Co.,Ltd.
@@ -28112,6 +28116,7 @@
 5C:17:D3		Lge
 5C:18:B5		Talon Communications
 5C:18:DD		Cig Shanghai Co Ltd
+5C:19:23		Hangzhou Lanly Technology Co., Ltd.
 5C:1A:6F		Cambridge Industries(Group) Co.,Ltd.
 5C:1B:F4		Apple, Inc.
 5C:1C:B9		vivo Mobile Communication Co., Ltd.
@@ -34881,6 +34886,8 @@
 74:23:44		Xiaomi Communications Co Ltd
 74:23:8D		zte corporation
 74:24:9F		TIBRO Corp.
+74:25:84		IEEE Registration Authority
+74:25:84:10:00:00/28	Creative Synergy Ventures Pty. Ltd.
 74:25:8A		Hangzhou H3C Technologies Co., Limited
 74:26:AC		Cisco Systems, Inc
 74:26:FF		zte corporation
@@ -38555,6 +38562,7 @@
 8C:1F:64:6B:30:00/36	Feritech Ltd.
 8C:1F:64:6B:50:00/36	O-Net Communications(Shenzhen)Limited
 8C:1F:64:6B:70:00/36	Alpha-Omega Technology GmbH & Co. KG
+8C:1F:64:6B:80:00/36	Larraioz Elektronika
 8C:1F:64:6B:90:00/36	GS Industrie-Elektronik GmbH
 8C:1F:64:6B:B0:00/36	Season Electronics Ltd
 8C:1F:64:6B:D0:00/36	IoT Water Analytics S.L.
@@ -38823,6 +38831,7 @@
 8C:1F:64:8F:B0:00/36	Televic Rail GmbH
 8C:1F:64:8F:E0:00/36	Potter Electric Signal Company
 8C:1F:64:8F:F0:00/36	Kruger DB Series Indústria Eletrônica ltda
+8C:1F:64:90:10:00/36	Comrex
 8C:1F:64:90:30:00/36	Portrait Displays, Inc.
 8C:1F:64:90:40:00/36	Hensoldt Sensors GmbH
 8C:1F:64:90:50:00/36	Qualitrol LLC
@@ -39000,6 +39009,7 @@
 8C:1F:64:A8:60:00/36	Global Design Tech(ZS) Co.,Ltd
 8C:1F:64:A8:70:00/36	Morgen Technology
 8C:1F:64:A8:90:00/36	Mitsubishi Electric India Pvt. Ltd.
+8C:1F:64:A9:00:00/36	DSGio Global Pte Ltd
 8C:1F:64:A9:10:00/36	Infinitive Group Limited
 8C:1F:64:A9:20:00/36	Agrology, PBC
 8C:1F:64:A9:40:00/36	Future wave ultra tech Company
@@ -39881,6 +39891,7 @@
 8C:8E:F2		Apple, Inc.
 8C:8F:8B		China Mobile Chongqing branch
 8C:8F:E9		Apple, Inc.
+8C:90:2D		TP-Link Systems Inc.
 8C:90:D3		Nokia
 8C:91:09		Toyoshima Electric Technoeogy(Suzhou) Co.,Ltd.
 8C:92:36		Aus.Linx Technology Co., Ltd.
@@ -42611,6 +42622,7 @@ A4:6C:24		Huawei Technologies Co.,Ltd
 A4:6C:2A		Cisco Systems, Inc
 A4:6C:C1		LTi REEnergy GmbH
 A4:6C:F1		Samsung Electronics Co.,Ltd
+A4:6D:33		Phyplus Technology (Shanghai) Co., Ltd
 A4:6D:A4		Huawei Technologies Co.,Ltd
 A4:6D:D4		Silicon Laboratories
 A4:6E:79		DFT System Co.Ltd
@@ -45701,6 +45713,7 @@ C0:D3:C0		Samsung Electronics Co.,Ltd
 C0:D4:6B		Huawei Device Co., Ltd.
 C0:D6:0A		Texas Instruments
 C0:D6:82		Arista Networks
+C0:D6:D5		Microsoft Corporation
 C0:D7:AA		Arcadyan Corporation
 C0:D8:34		xvtec ltd
 C0:D9:41		Shenzhen VMAX Software Co., Ltd.
@@ -50175,6 +50188,7 @@ E8:AA:CB		Samsung Electronics Co.,Ltd
 E8:AB:F3		Huawei Technologies Co.,Ltd
 E8:AB:FA		Shenzhen Reecam Tech.Ltd.
 E8:AC:23		Huawei Technologies Co.,Ltd
+E8:AC:7E		Terahop Pte.Ltd.
 E8:AC:AD		zte corporation
 E8:AD:A6		Sagemcom Broadband SAS
 E8:AE:C5		Arista Networks
@@ -50309,6 +50323,7 @@ E8:F2:E2		LG Innotek
 E8:F2:E3		Starcor Beijing Co.,Limited
 E8:F3:75		Nokia
 E8:F4:08		Intel Corporate
+E8:F4:94		AltoBeam Inc.
 E8:F6:54		Huawei Technologies Co.,Ltd
 E8:F6:73		Microsoft Corporation
 E8:F7:24		Hewlett Packard Enterprise
@@ -52248,6 +52263,7 @@ FC:1D:84		Autobase
 FC:1E:16		IPEVO corp
 FC:1F:19		Samsung Electro Mechanics Co., Ltd.
 FC:1F:C0		Eurecam
+FC:22:1C		Shenzhen Xunman Technology Co., Ltd
 FC:22:9C		Han Kyung I Net Co.,Ltd.
 FC:22:D3		Fdsys
 FC:22:F4		Zyxel Communications Corporation
