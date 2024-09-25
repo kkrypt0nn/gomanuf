@@ -19253,6 +19253,7 @@
 10:DF:8B		Shenzhen CareDear Communication Technology Co.,Ltd
 10:DF:FC		Siemens AG
 10:E1:77		ARRIS Group, Inc.
+10:E1:8E		Universal Global Scientific Industrial., Ltd
 10:E2:C9		Apple, Inc.
 10:E2:D5		Qi Hardware Inc.
 10:E3:76		Cisco Systems, Inc
@@ -19304,6 +19305,7 @@
 14:02:EC		Hewlett Packard Enterprise
 14:04:67		SNK Technologies Co.,Ltd.
 14:06:4C		Vogl Electronic GmbH
+14:06:A7		Cresyn
 14:07:08		Cp Plus Gmbh & Co. Kg
 14:07:E0		Abrantix AG
 14:09:B4		zte corporation
@@ -21496,6 +21498,7 @@
 24:DD:1B		Qingdao Hi-image Technologies Co., Ltd
 24:DE:8A		Nokia Solutions and Networks GmbH & Co. KG
 24:DE:C6		Hewlett Packard Enterprise
+24:DE:EB		Huawei Technologies Co.,Ltd
 24:DF:6A		Huawei Technologies Co.,Ltd
 24:DF:A7		Hangzhou BroadLink Technology Co.,Ltd
 24:E1:24		Xiamen Milesight IoT Co., Ltd.
@@ -23463,6 +23466,7 @@
 34:FE:77		Apple, Inc.
 34:FE:9E		Fujitsu Limited
 34:FE:C5		Shenzhen Sunwoda intelligent hardware Co.,Ltd
+34:FF:F3		Huawei Technologies Co.,Ltd
 38:00:25		Intel Corporate
 38:01:18		ULVAC,Inc.
 38:01:46		Shenzhen Bilian Electronic Co.，Ltd
@@ -24147,6 +24151,7 @@
 3C:58:5D		Sagemcom Broadband SAS
 3C:58:C2		Intel Corporate
 3C:59:1E		TCL King Electrical Appliances (Huizhou) Co., Ltd
+3C:59:C0		Huawei Technologies Co.,Ltd
 3C:5A:37		Samsung Electronics Co.,Ltd
 3C:5A:B4		Google, Inc.
 3C:5C:C3		Shenzhen First Blue Chip Technology Ltd
@@ -26123,6 +26128,7 @@
 48:CA:C6		Union Man Technology Co.,Ltd
 48:CB:6E		Cello Electronics (UK) Ltd
 48:CD:D3		Huawei Technologies Co.,Ltd
+48:CF:A9		Huawei Technologies Co.,Ltd
 48:D0:17		Telecom Infra Project
 48:D0:CF		Universal Electronics, Inc.
 48:D1:8E		Metis Communication Co.,Ltd
@@ -35065,6 +35071,7 @@
 74:87:BB		Ciena Corporation
 74:88:2A		Huawei Technologies Co.,Ltd
 74:88:8B		ADB Broadband Italia
+74:88:A8		Bouffalo Lab (Nanjing) Co., Ltd.
 74:88:BB		Cisco Systems, Inc
 74:8A:0D		ARRIS Group, Inc.
 74:8A:28		HMD Global Oy
@@ -41754,6 +41761,7 @@
 9C:96:13		Lenovo Future Communication Technology (Chongqing) Company Limited
 9C:97:26		Technicolor Delivery Technologies Belgium NV
 9C:97:89		1More
+9C:97:93		Huawei Technologies Co.,Ltd
 9C:98:11		Guangzhou Sunrise Electronics Development Co., Ltd
 9C:99:A0		Xiaomi Communications Co Ltd
 9C:99:CD		Voippartners
@@ -43850,6 +43858,7 @@ B0:78:F0		Beijing HuaqinWorld Technology Co.,Ltd.
 B0:79:08		Cummings Engineering
 B0:79:3C		Revolv Inc
 B0:79:94		Motorola Mobility LLC, a Lenovo Company
+B0:7A:DF		Huawei Technologies Co.,Ltd
 B0:7B:25		Dell Inc.
 B0:7C:51		Ruckus Wireless
 B0:7D:47		Cisco Systems, Inc
@@ -44545,6 +44554,7 @@ B8:18:6F		Oriental Motor Co., Ltd.
 B8:19:04		Nokia Shanghai Bell Co., Ltd.
 B8:19:99		Nesys
 B8:1D:AA		LG Electronics (Mobile Communications)
+B8:1E:9E		Huawei Technologies Co.,Ltd
 B8:1E:A4		Liteon Technology Corporation
 B8:1F:5E		Apption Labs Limited
 B8:20:8E		Panasonic Connect Co., Ltd.
@@ -45218,6 +45228,7 @@ BC:9F:E4		Hewlett Packard Enterprise
 BC:9F:EF		Apple, Inc.
 BC:A0:42		Shanghai Flyco Electrical Appliance Co.,Ltd
 BC:A0:80		Samsung Electronics Co.,Ltd
+BC:A0:B9		Huawei Technologies Co.,Ltd
 BC:A1:3A		VusionGroup
 BC:A3:7F		Rail-Mil Sp. z o.o. Sp. K.
 BC:A4:E1		Nabto
@@ -47000,6 +47011,7 @@ CC:52:89		Shenzhen Optfocus Technology.,Ltd
 CC:52:AF		Universal Global Scientific Industrial Co., Ltd.
 CC:53:B5		Huawei Technologies Co.,Ltd
 CC:54:59		OnTime Networks AS
+CC:54:FE		Mimosa Networks
 CC:55:AD		Rim
 CC:57:63		Panasonic Automotive Systems Co.,Ltd
 CC:58:30		Sagemcom Broadband SAS
@@ -48330,6 +48342,7 @@ D8:1E:DE		B&W Group Ltd
 D8:1F:12		Tuya Smart Inc.
 D8:1F:CC		Brocade Communications Systems LLC
 D8:20:9F		Cubro Acronet GesmbH
+D8:20:A2		Huawei Technologies Co.,Ltd
 D8:21:DA		Sernet (Suzhou) Technologies Corporation
 D8:22:F4		Avnet Silica
 D8:23:E0		Speedtech Corp.
@@ -48901,6 +48914,7 @@ DC:82:5B		JANUS, spol. s r.o.
 DC:82:F6		iPort
 DC:84:E9		Shenzhen Qihoo Intelligent Technology Co.,Ltd
 DC:85:DE		AzureWave Technology Inc.
+DC:86:8D		Huawei Technologies Co.,Ltd
 DC:86:D8		Apple, Inc.
 DC:87:CB		Beijing Perfectek Technologies Co., Ltd.
 DC:89:83		Samsung Electronics Co.,Ltd
