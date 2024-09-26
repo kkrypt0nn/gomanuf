@@ -24652,6 +24652,7 @@
 40:85:56		Continental Automotive Romania SLR
 40:86:2E		Jdm Mobile Internet Solution Co., Ltd.
 40:86:CB		D-Link Corporation
+40:87:E5		Wu Qi Technologies,Inc.
 40:88:05		Motorola Mobility LLC, a Lenovo Company
 40:88:2F		Extreme Networks Headquarters
 40:88:E0		Beijing Ereneben Information Technology Limited Shenzhen Branch
@@ -34897,6 +34898,7 @@
 74:24:9F		TIBRO Corp.
 74:25:84		IEEE Registration Authority
 74:25:84:10:00:00/28	Creative Synergy Ventures Pty. Ltd.
+74:25:84:20:00:00/28	Suzhou Surinno Photonics Technology Co.Ltd.
 74:25:84:60:00:00/28	Ezeconet
 74:25:84:D0:00:00/28	Shenzhen smart-core technology co.,ltd.
 74:25:8A		Hangzhou H3C Technologies Co., Limited
