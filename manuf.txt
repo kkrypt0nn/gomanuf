@@ -17682,6 +17682,7 @@
 04:CB:88		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
 04:CC:BC		Huawei Technologies Co.,Ltd
 04:CD:15		Silicon Laboratories
+04:CD:C0		Mist Systems, Inc.
 04:CE:09		Shenzhen Skyworth Digital  Technology  CO., Ltd
 04:CE:14		Wilocity LTD.
 04:CE:7E		NXP France Semiconductors France
@@ -23853,6 +23854,7 @@
 38:D2:69		Texas Instruments
 38:D2:CA		Zhejiang Tmall Technology Co., Ltd.
 38:D4:0B		Samsung Electronics Co.,Ltd
+38:D5:18		GooWi Wireless Technology Co., Limited
 38:D5:47		ASUSTek COMPUTER INC.
 38:D5:7A		Cloud Network Technology Singapore Pte. Ltd.
 38:D6:20		Limidea Concept Pte. Ltd.
@@ -28083,6 +28085,7 @@
 58:FF:A1		zte corporation
 5A:03:BA		Wireless Broadband Alliance Ltd
 5A:18:FF		FiRa Consortium
+5A:55:AD		Disruptive Cities SAPI DE CV
 5A:6B:B4		Xconn Technologies
 5A:73:CF		Gogo Business Aviation
 5A:CB:D3		Simaudio Ltd
@@ -29780,6 +29783,7 @@
 68:EE:88		Shenzhen TINNO Mobile Technology Corp.
 68:EE:96		Cisco SPVTG
 68:EF:43		Apple, Inc.
+68:EF:AB		Vention
 68:EF:BD		Cisco Systems, Inc
 68:F0:6D		Along Industrial Co., Limited
 68:F0:B5		Honor Device Co., Ltd.
@@ -34899,6 +34903,7 @@
 74:25:84		IEEE Registration Authority
 74:25:84:10:00:00/28	Creative Synergy Ventures Pty. Ltd.
 74:25:84:20:00:00/28	Suzhou Surinno Photonics Technology Co.Ltd.
+74:25:84:30:00:00/28	alt digital s.r.o.
 74:25:84:60:00:00/28	Ezeconet
 74:25:84:D0:00:00/28	Shenzhen smart-core technology co.,ltd.
 74:25:8A		Hangzhou H3C Technologies Co., Limited
@@ -38801,6 +38806,7 @@
 8C:1F:64:89:80:00/36	Copper Connections Ltd
 8C:1F:64:89:90:00/36	American Edge IP
 8C:1F:64:89:E0:00/36	Cinetix Srl
+8C:1F:64:8A:00:00/36	H&abyz
 8C:1F:64:8A:40:00/36	Genesis Technologies AG
 8C:1F:64:8A:80:00/36	Massachusetts Institute of Technology
 8C:1F:64:8A:90:00/36	Guan Show Technologe Co., Ltd.
@@ -39198,6 +39204,7 @@
 8C:1F:64:BF:B0:00/36	TechArgos
 8C:1F:64:BF:C0:00/36	ASiS Technologies Pte Ltd
 8C:1F:64:BF:E0:00/36	PuS GmbH und Co. KG
+8C:1F:64:BF:F0:00/36	Evolution Ventures LLC
 8C:1F:64:C0:10:00/36	Horiba Abx Sas
 8C:1F:64:C0:30:00/36	Abiman Engineering
 8C:1F:64:C0:40:00/36	Sanwa Corporation
@@ -46292,6 +46299,7 @@ C4:EE:F5		II-VI Incorporated
 C4:EF:70		Home Skinovations
 C4:EF:BB		LCFC(Hefei) Electronics Technology co., ltd
 C4:EF:DA		Honeywell
+C4:F0:35		Hughes Network Systems, LLC
 C4:F0:81		Huawei Technologies Co.,Ltd
 C4:F0:EC		Fiberhome Telecommunication Technologies Co.,LTD
 C4:F1:22		Nexar Ltd.
@@ -47258,6 +47266,7 @@ CC:D8:11		Aiconn Technology Corporation
 CC:D8:1F		Maipu Communication Technology Co.,Ltd.
 CC:D8:43		Beijing Xiaomi Mobile Software Co., Ltd
 CC:D8:C1		Cisco Systems, Inc
+CC:D9:20		Huizhou Desay SV Automotive Co., Ltd.
 CC:D9:AC		Intel Corporate
 CC:D9:E9		SCR Engineers Ltd.
 CC:DA:20		Beijing Xiaomi Mobile Software Co., Ltd
