@@ -18287,6 +18287,7 @@
 08:DA:33:C0:00:00/28	Githon Technology Co., Ltd.
 08:DA:33:D0:00:00/28	Shanghai ReeLink Global Communication Company LTD
 08:DA:33:E0:00:00/28	Telo Communication（Shenzhen）Co.,Ltd
+08:DD:03		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 08:DD:EB		Silicon Laboratories
 08:DF:1F		Bose Corporation
 08:DF:CB		Systrome Networks
@@ -21681,6 +21682,7 @@
 28:36:38:E0:00:00/28	SCA Hygiene Products AB
 28:36:F0		Huawei Device Co., Ltd.
 28:37:13		Shenzhen 3Nod Digital Technology Co., Ltd.
+28:37:2F		Espressif Inc.
 28:37:37		Apple, Inc.
 28:38:5C		Flextronics
 28:38:CF		Gen2wave
@@ -22410,6 +22412,7 @@
 2C:B6:8F		Huawei Technologies Co.,Ltd
 2C:B6:93		Radware
 2C:B6:9D		RED Digital Cinema
+2C:B6:C2		zte corporation
 2C:B6:C8		Raisecom Technology CO., LTD
 2C:B7:A1		Huawei Device Co., Ltd.
 2C:B8:ED		SonicWall
@@ -22943,6 +22946,7 @@
 30:EB:5A		Landis + Gyr
 30:EC:7C		Shenzhen Along Electronics Co., Ltd
 30:ED:96		LS Mecapion
+30:ED:A0		Espressif Inc.
 30:EF:D1		Alstom Strongwish (Shenzhen) Co., Ltd.
 30:F2:3C		Tecno Mobile Limited
 30:F3:1D		zte corporation
@@ -24554,6 +24558,7 @@
 40:45:DA		Spreadtrum Communications (Shanghai) Co., Ltd.
 40:47:5E		eero inc.
 40:47:6A		Astro Gaming
+40:48:6E		Nokia Solutions and Networks GmbH & Co. KG
 40:48:FD		IEEE Registration Authority
 40:48:FD:00:00:00/28	Beijing C&W Electronics(Group)Co.,Ltd
 40:48:FD:10:00:00/28	Fast Programming
@@ -26145,6 +26150,7 @@
 48:D4:75		Lampuga GmbH
 48:D5:39		Huawei Technologies Co.,Ltd
 48:D5:4C		Jeda Networks
+48:D6:82		zte corporation
 48:D6:D5		Google, Inc.
 48:D7:05		Apple, Inc.
 48:D7:FF		BLANKOM Antennentechnik GmbH
@@ -26533,6 +26539,7 @@
 4C:91:7A:C0:00:00/28	Alibaba (Beijing) Software Service Inc.
 4C:91:7A:D0:00:00/28	Shenzhen bankledger Technology Co, Ltd
 4C:91:7A:E0:00:00/28	Annapurna labs
+4C:92:D2		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 4C:93:A6		IEEE Registration Authority
 4C:93:A6:00:00:00/28	Vestaboard, Inc.
 4C:93:A6:10:00:00/28	Atrie Technology Fzc
@@ -27509,6 +27516,7 @@
 54:9F:C6		Cisco Systems, Inc
 54:A0:4F		t-mac Technologies Ltd
 54:A0:50		ASUSTek COMPUTER INC.
+54:A1:04		OPTOWL Co.,Ltd
 54:A2:45		Digisol Systems Limited
 54:A2:74		Cisco Systems, Inc
 54:A3:1B		Shenzhen Linkworld Technology Co,.LTD
@@ -34905,6 +34913,8 @@
 74:25:84:20:00:00/28	Suzhou Surinno Photonics Technology Co.Ltd.
 74:25:84:30:00:00/28	alt digital s.r.o.
 74:25:84:60:00:00/28	Ezeconet
+74:25:84:70:00:00/28	Annapurna labs
+74:25:84:C0:00:00/28	Hsptek Jsc
 74:25:84:D0:00:00/28	Shenzhen smart-core technology co.,ltd.
 74:25:8A		Hangzhou H3C Technologies Co., Limited
 74:26:AC		Cisco Systems, Inc
@@ -37719,6 +37729,7 @@
 8C:10:D4		Sagemcom Broadband SAS
 8C:11:CB		ABUS Security-Center GmbH & Co. KG
 8C:12:C2		GLBB Japan
+8C:13:E2		Netlink Ict
 8C:14:7D		IEEE Registration Authority
 8C:14:7D:00:00:00/28	Nio
 8C:14:7D:10:00:00/28	Private
@@ -38344,6 +38355,7 @@
 8C:1F:64:4C:20:00/36	Laser Imagineering Vertriebs GmbH
 8C:1F:64:4C:70:00/36	SBS SpA
 8C:1F:64:4C:90:00/36	Apantac LLC
+8C:1F:64:4C:A0:00/36	North Building Technologies Limited
 8C:1F:64:4C:D0:00/36	Guan Show Technologe Co., Ltd.
 8C:1F:64:4C:F0:00/36	Sicon srl
 8C:1F:64:4D:60:00/36	Dan Smith LLC
@@ -48586,6 +48598,7 @@ D8:B0:20		Taicang T&W Electronics
 D8:B0:2E		Guangzhou Zonerich Business Machine Co., LTD.
 D8:B0:4C		Jinan USR IOT Technology Co., Ltd.
 D8:B0:53		Xiaomi Communications Co Ltd
+D8:B0:61		Shenzhen Wenxun Technology Co.,Ltd
 D8:B1:22		Juniper Networks
 D8:B1:2A		Panasonic Mobile Communications Co.,Ltd.
 D8:B1:90		Cisco Systems, Inc
@@ -49675,6 +49688,7 @@ E4:4C:C7:B0:00:00/28	SmallHD
 E4:4C:C7:C0:00:00/28	EPS Bio
 E4:4C:C7:D0:00:00/28	Telo Systems Limitd
 E4:4C:C7:E0:00:00/28	FLK information security technology Co,. Ltd
+E4:4E:12		zte corporation
 E4:4E:18		Gardasoft VisionLimited
 E4:4E:2D		Cisco Systems, Inc
 E4:4E:76		Championtech  Enterprise (Shenzhen) Inc
