@@ -23974,6 +23974,7 @@
 3A:79:6E		LX Semicon co.,Ltd.
 3A:A3:F8		IEEE 802.1 Chair
 3A:BA:37		Cirrent
+3A:C6:CF		Parakey AB
 3A:CF:C5		Quickline AG
 3A:F5:21		Single Digits
 3C:01:EF		Sony Corporation
@@ -27662,6 +27663,7 @@
 58:00:32		Genexis B.V.
 58:00:BB		Juniper Networks
 58:00:E3		Liteon Technology Corporation
+58:02:05		AzureWave Technology Inc.
 58:03:FB		Hangzhou Hikvision Digital Technology Co.,Ltd.
 58:04:54		Icomm Hk Limited
 58:04:CB		Tianjin Huisun Technology Co.,Ltd.
@@ -28186,6 +28188,7 @@
 5C:3E:06		Cisco Systems, Inc
 5C:3E:1B		Apple, Inc.
 5C:40:58		Jefferson Audio Video Systems, Inc.
+5C:40:71		Xiaomi Communications Co Ltd
 5C:40:E3		Novaon
 5C:41:5A		Amazon.com, LLC
 5C:41:E7		Wiatec International Ltd.
@@ -29006,6 +29009,7 @@
 64:01:FB		Landis+Gyr GmbH
 64:02:CB		ARRIS Group, Inc.
 64:03:7F		Samsung Electronics Co.,Ltd
+64:05:52		China Post Communication Equipment Co.,
 64:05:BE		New Light Led
 64:05:E4		Alpsalpine Co,.Ltd
 64:05:E9		Shenzhen WayOS Technology Crop., Ltd.
@@ -34909,11 +34913,14 @@
 74:23:8D		zte corporation
 74:24:9F		TIBRO Corp.
 74:25:84		IEEE Registration Authority
+74:25:84:00:00:00/28	Alcon Wireless Private Limited
 74:25:84:10:00:00/28	Creative Synergy Ventures Pty. Ltd.
 74:25:84:20:00:00/28	Suzhou Surinno Photonics Technology Co.Ltd.
 74:25:84:30:00:00/28	alt digital s.r.o.
+74:25:84:40:00:00/28	Hive Media Control
 74:25:84:60:00:00/28	Ezeconet
 74:25:84:70:00:00/28	Annapurna labs
+74:25:84:90:00:00/28	Sercomm Japan Corporation
 74:25:84:C0:00:00/28	Hsptek Jsc
 74:25:84:D0:00:00/28	Shenzhen smart-core technology co.,ltd.
 74:25:8A		Hangzhou H3C Technologies Co., Limited
@@ -38383,6 +38390,7 @@
 8C:1F:64:50:00:00/36	Nepean Networks Pty Ltd
 8C:1F:64:50:10:00/36	QUISS GmbH
 8C:1F:64:50:20:00/36	Samwell International Inc
+8C:1F:64:50:30:00/36	Tualcom Elektronik A.S.
 8C:1F:64:50:40:00/36	EA Elektroautomatik GmbH & Co. KG
 8C:1F:64:50:90:00/36	Season Electronics Ltd
 8C:1F:64:50:A0:00/36	Bellco Trading Company (Pvt) Ltd
@@ -38761,6 +38769,7 @@
 8C:1F:64:81:30:00/36	Pribusin Inc.
 8C:1F:64:81:60:00/36	PalmSens BV
 8C:1F:64:81:70:00/36	nke marine electronics
+8C:1F:64:81:90:00/36	Warecube, Inc.
 8C:1F:64:81:A0:00/36	Gemini Electronics B.V.
 8C:1F:64:81:D0:00/36	Gogo BA
 8C:1F:64:81:F0:00/36	ViewSonic Corp
@@ -42782,6 +42791,7 @@ A4:C2:3E		Huizhou Speed Wireless Technology Co.,Ltd
 A4:C2:AB		Hangzhou LEAD-IT Information & Technology Co.,Ltd
 A4:C3:37		Apple, Inc.
 A4:C3:61		Apple, Inc.
+A4:C3:BE		Xiaomi Communications Co Ltd
 A4:C3:F0		Intel Corporate
 A4:C4:0D		WAC Lighting
 A4:C4:94		Intel Corporate
@@ -47567,6 +47577,7 @@ D0:69:D0		Verto Medical Solutions, LLC
 D0:69:FF		Fiberhome Telecommunication Technologies Co.,LTD
 D0:6A:1F		Bse Co.,Ltd.
 D0:6B:78		Apple, Inc.
+D0:6C:37		ikeja wireless (pty) ltd
 D0:6D:C8		Huawei Technologies Co.,Ltd
 D0:6D:C9		Sagemcom Broadband SAS
 D0:6E:DE		Sagemcom Broadband SAS
@@ -51553,6 +51564,7 @@ F4:83:CD		Tp-Link Technologies Co.,Ltd.
 F4:83:E1		Shanghai Clouder Semiconductor Co.,Ltd
 F4:84:4C		Texas Instruments
 F4:84:8D		Tp-Link Technologies Co.,Ltd.
+F4:85:AE		Senbiosys SA
 F4:85:C6		FDT Technologies
 F4:87:71		Infoblox
 F4:87:C5		Huawei Device Co., Ltd.
@@ -52356,6 +52368,7 @@ FC:40:09		zte corporation
 FC:41:16		Google, Inc.
 FC:42:03		Samsung Electronics Co.,Ltd
 FC:42:65		Zhejiang Tmall Technology Co., Ltd.
+FC:43:45		Xiaomi Communications Co Ltd
 FC:44:63		Universal Audio, Inc
 FC:44:82		Intel Corporate
 FC:44:99		Swarco LEA d.o.o.
