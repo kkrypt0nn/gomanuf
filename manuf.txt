@@ -34921,6 +34921,8 @@
 74:25:84:60:00:00/28	Ezeconet
 74:25:84:70:00:00/28	Annapurna labs
 74:25:84:90:00:00/28	Sercomm Japan Corporation
+74:25:84:A0:00:00/28	Annapurna labs
+74:25:84:B0:00:00/28	International Technology And Telecomminication FZC
 74:25:84:C0:00:00/28	Hsptek Jsc
 74:25:84:D0:00:00/28	Shenzhen smart-core technology co.,ltd.
 74:25:8A		Hangzhou H3C Technologies Co., Limited
@@ -38332,6 +38334,7 @@
 8C:1F:64:47:E0:00/36	Novanta IMS
 8C:1F:64:48:10:00/36	VirtualV Trading Limited
 8C:1F:64:48:20:00/36	Vismes sarl
+8C:1F:64:48:60:00/36	Longhorn lntelligent Tech Co.,Ltd.
 8C:1F:64:48:70:00/36	TECHKON GmbH
 8C:1F:64:48:90:00/36	Hupi
 8C:1F:64:48:B0:00/36	Monnit Corporation
@@ -39065,6 +39068,7 @@
 8C:1F:64:AA:00:00/36	Flextronics International Kft
 8C:1F:64:AA:30:00/36	Peter Huber Kaeltemaschinenbau SE
 8C:1F:64:AA:40:00/36	HEINEN ELEKTRONIK GmbH
+8C:1F:64:AA:60:00/36	Data Conversion Systems Ltd
 8C:1F:64:AA:70:00/36	Shenzhen Anliji Electronics Co.,Ltd
 8C:1F:64:AA:80:00/36	axelife
 8C:1F:64:AA:A0:00/36	Leder Elektronik Design GmbH
@@ -46695,6 +46699,7 @@ C8:A4:0D		Cooler Master Technology Inc
 C8:A6:08		Ruckus Wireless
 C8:A6:20		Nebula, Inc
 C8:A6:EF		Samsung Electronics Co.,Ltd
+C8:A7:02		Hangzhou Hikvision Digital Technology Co.,Ltd.
 C8:A7:0A		Verizon Business
 C8:A7:29		SYStronics Co., Ltd.
 C8:A7:76		Huawei Technologies Co.,Ltd
@@ -47192,6 +47197,7 @@ CC:B6:91		NECMagnusCommunications
 CC:B6:C8		Cisco Systems, Inc
 CC:B7:77		zte corporation
 CC:B7:C4		Huawei Technologies Co.,Ltd
+CC:B8:5E		Shenzhen Phaten Tech. LTD
 CC:B8:88		AnB Securite s.a.
 CC:B8:A8		AMPAK Technology, Inc.
 CC:B8:F1		Eagle Kingdom Technologies Limited
