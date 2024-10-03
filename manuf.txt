@@ -22536,6 +22536,7 @@
 2C:FD:B3		Tonly Technology Co. Ltd
 2C:FD:B4		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
 2C:FE:4F		Xiaomi Communications Co Ltd
+2C:FE:8B		Microchip Technologies Inc
 2C:FE:E2		Qingdao Hisense Communications Co.,Ltd.
 2C:FF:65		Oki Electric Industry Co., Ltd.
 2C:FF:EE		vivo Mobile Communication Co., Ltd.
@@ -34918,8 +34919,10 @@
 74:25:84:20:00:00/28	Suzhou Surinno Photonics Technology Co.Ltd.
 74:25:84:30:00:00/28	alt digital s.r.o.
 74:25:84:40:00:00/28	Hive Media Control
+74:25:84:50:00:00/28	Dexter Laundry Inc.
 74:25:84:60:00:00/28	Ezeconet
 74:25:84:70:00:00/28	Annapurna labs
+74:25:84:80:00:00/28	Annapurna labs
 74:25:84:90:00:00/28	Sercomm Japan Corporation
 74:25:84:A0:00:00/28	Annapurna labs
 74:25:84:B0:00:00/28	International Technology And Telecomminication FZC
@@ -38109,6 +38112,7 @@
 8C:1F:64:2A:40:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:2A:50:00/36	Nonet Inc
 8C:1F:64:2A:60:00/36	Radiation Solutions Inc.
+8C:1F:64:2A:70:00/36	aelettronica group srl
 8C:1F:64:2A:80:00/36	SHALARM SECURITY Co.,LTD
 8C:1F:64:2A:90:00/36	Elbit Systems of America, LLC
 8C:1F:64:2A:C0:00/36	Dco Systems Ltd
@@ -39151,6 +39155,7 @@
 8C:1F:64:B5:40:00/36	Framatome Inc.
 8C:1F:64:B5:50:00/36	Sanchar Telesystems limited
 8C:1F:64:B5:60:00/36	Arcvideo
+8C:1F:64:B5:90:00/36	Vision Systems Safety Tech
 8C:1F:64:B5:A0:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:B5:B0:00/36	Tri-light Wuhan Electronics Technology Co.,Ltd
 8C:1F:64:B6:40:00/36	Televic Rail GmbH
@@ -39319,6 +39324,7 @@
 8C:1F:64:CA:E0:00/36	Ophir Manufacturing Solutions Pte Ltd
 8C:1F:64:CA:F0:00/36	BRS Sistemas Eletrônicos
 8C:1F:64:CB:20:00/36	Dyncir Soluções Tecnológicas Ltda
+8C:1F:64:CB:30:00/36	DELO Industrie Klebstoffe GmbH & Co. KGaA
 8C:1F:64:CB:50:00/36	Gamber-Johnson LLC
 8C:1F:64:CB:60:00/36	Rowan Elettronica Srl
 8C:1F:64:CB:70:00/36	ARKRAY,Inc.Kyoto Laboratory
@@ -48036,6 +48042,7 @@ D4:55:56		Fiber Mountain Inc.
 D4:55:BE		Shenzhen Fast Technologies Co.,Ltd
 D4:57:63		Apple, Inc.
 D4:58:00		Fiberhome Telecommunication Technologies Co.,LTD
+D4:59:44		tonies GmbH
 D4:5A:3F		Juniper Networks
 D4:5A:B2		Galleon Systems
 D4:5C:70		Wi-Fi Alliance
