@@ -16069,6 +16069,7 @@
 00:9C:02		Hewlett Packard
 00:9C:C0		vivo Mobile Communication Co., Ltd.
 00:9D:6B		Murata Manufacturing Co., Ltd.
+00:9D:85		Sigmastar Technology Ltd.
 00:9D:8E		Cardiac Recorders, Inc.
 00:9E:1E		Cisco Systems, Inc
 00:9E:C8		Xiaomi Communications Co Ltd
@@ -38857,6 +38858,7 @@
 8C:1F:64:8A:A0:00/36	Forever Engineering Systems Pvt. Ltd.
 8C:1F:64:8A:B0:00/36	Asml Us, Lp
 8C:1F:64:8A:C0:00/36	BOZHON Precision Industry Technology Co.,Ltd
+8C:1F:64:8A:D0:00/36	Gateview Technologies
 8C:1F:64:8A:E0:00/36	Shenzhen Qunfang Technology Co., LTD.
 8C:1F:64:8A:F0:00/36	Ibeos
 8C:1F:64:8B:20:00/36	Abbott Diagnostics Technologies AS
@@ -39200,12 +39202,14 @@
 8C:1F:64:B9:20:00/36	Neurable
 8C:1F:64:B9:70:00/36	Gemini Electronics B.V.
 8C:1F:64:B9:80:00/36	Calamity, Inc.
+8C:1F:64:B9:90:00/36	iLifeX
 8C:1F:64:B9:A0:00/36	Quercus Technologies, S.L.
 8C:1F:64:B9:B0:00/36	Kromek Limited
 8C:1F:64:B9:E0:00/36	Power Electronics Espana, S.L.
 8C:1F:64:B9:F0:00/36	Lithion Battery Inc
 8C:1F:64:BA:30:00/36	DEUTA-WERKE GmbH
 8C:1F:64:BA:60:00/36	FMC Technologies Measurement Solutions Inc
+8C:1F:64:BA:70:00/36	iLensys Technologies PVT LTD
 8C:1F:64:BA:80:00/36	AvMap srlu
 8C:1F:64:BA:A0:00/36	Mine Vision Systems
 8C:1F:64:BA:B0:00/36	Ycn
@@ -39229,6 +39233,7 @@
 8C:1F:64:BC:90:00/36	Gl Tech Co.,Ltd
 8C:1F:64:BC:B0:00/36	A&T Corporation
 8C:1F:64:BC:C0:00/36	Sound Health Systems
+8C:1F:64:BC:D0:00/36	A.L.S.E.
 8C:1F:64:BC:E0:00/36	BESO sp. z o.o.
 8C:1F:64:BD:20:00/36	attocube systems AG
 8C:1F:64:BD:30:00/36	IO Master Technology
@@ -43862,6 +43867,8 @@ B0:45:45		YACOUB Automation GmbH
 B0:46:92		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 B0:46:FC		MitraStar Technology Corp.
 B0:47:5E		IEEE Registration Authority
+B0:47:5E:50:00:00/28	Omnitech Security
+B0:47:5E:80:00:00/28	Shri Mohan Ji International
 B0:47:5E:90:00:00/28	MIVO Technology AB
 B0:47:BF		Samsung Electronics Co.,Ltd
 B0:47:E9		Intel Corporate
