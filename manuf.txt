@@ -29287,6 +29287,7 @@
 64:A2:F9		OnePlus Technology (Shenzhen) Co., Ltd
 64:A3:41		Wonderlan (Beijing) Technology Co., Ltd.
 64:A3:CB		Apple, Inc.
+64:A3:CC		LeoLabs
 64:A4:44		Loongson Technology Corporation Limited
 64:A5:C3		Apple, Inc.
 64:A6:51		Huawei Technologies Co.,Ltd
@@ -43867,9 +43868,11 @@ B0:45:45		YACOUB Automation GmbH
 B0:46:92		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 B0:46:FC		MitraStar Technology Corp.
 B0:47:5E		IEEE Registration Authority
+B0:47:5E:00:00:00/28	Shenzhen C & D Electronics Co., Ltd.
 B0:47:5E:50:00:00/28	Omnitech Security
 B0:47:5E:80:00:00/28	Shri Mohan Ji International
 B0:47:5E:90:00:00/28	MIVO Technology AB
+B0:47:5E:B0:00:00/28	Bright Oceans Inter-Telecom Corporation
 B0:47:BF		Samsung Electronics Co.,Ltd
 B0:47:E9		Intel Corporate
 B0:48:1A		Apple, Inc.
@@ -44010,6 +44013,7 @@ B0:A8:6E		Juniper Networks
 B0:AA:36		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 B0:AA:77		Cisco Systems, Inc
 B0:AA:D2		Sichuan tianyi kanghe communications co., LTD
+B0:AC:82		China Dragon Technology Limited
 B0:AC:D2		zte corporation
 B0:AC:FA		Fujitsu Limited
 B0:AD:AA		Avaya Inc
@@ -44100,6 +44104,7 @@ B0:CF:0E		Mellanox Technologies, Inc.
 B0:CF:4D		MI-Zone Technology Ireland
 B0:CF:CB		Amazon Technologies Inc.
 B0:D0:9C		Samsung Electronics Co.,Ltd
+B0:D1:D6		Nokia Shanghai Bell Co., Ltd.
 B0:D2:78		Texas Instruments
 B0:D2:F5		Vello Systems, Inc.
 B0:D5:68		Shenzhen Cultraview Digital Technology Co., Ltd
