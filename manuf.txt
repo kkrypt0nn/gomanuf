@@ -23900,6 +23900,7 @@
 38:EE:9D		Anedo Ltd.
 38:EF:E3		Ingenico Terminals Sas
 38:F0:98		Vapor Stone Rail Systems
+38:F0:BB		CompuSoft A/S
 38:F0:C8		Logitech
 38:F1:35		SensorTec-Canada
 38:F1:8F		Technicolor (China) Technology Co., Ltd.
@@ -24341,6 +24342,7 @@
 3C:C2:43		Nokia Corporation
 3C:C2:E1		Xinhua Control Engineering Co.,Ltd
 3C:C5:DD		Hui Zhou Gaoshengda Technology Co.,LTD
+3C:C6:83		Sichuan AI-Link Technology Co., Ltd.
 3C:C7:86		Dongguan Huarong Communication Technologies Co.,Ltd.
 3C:C9:9E		Huiyang Technology Co., Ltd
 3C:CA:61		Tecno Mobile Limited
@@ -27292,6 +27294,7 @@
 54:09:55		zte corporation
 54:09:8D		deister electronic GmbH
 54:0A:77		Fiberhome Telecommunication Technologies Co.,LTD
+54:0A:8A		Jlztlink Industry(ShenZhen)Co.,Ltd.
 54:0D:F9		Huawei Device Co., Ltd.
 54:0E:2D		vivo Mobile Communication Co., Ltd.
 54:0E:58		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -27757,6 +27760,7 @@
 58:3F:54		LG Electronics (Mobile Communications)
 58:40:4E		Apple, Inc.
 58:41:20		Tp-Link Technologies Co.,Ltd.
+58:41:46		Guangzhou Shiyuan Electronic Technology Company Limited
 58:42:E4		Baxter International Inc
 58:43:AB		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 58:44:98		Xiaomi Communications Co Ltd
@@ -28629,6 +28633,7 @@
 60:19:29		Voltronic Power Technology(Shenzhen) Corp.
 60:19:70		Huizhou Qiaoxing Electronics Technology Co., Ltd.
 60:19:71		ARRIS Group, Inc.
+60:1A:4F		Beijing China Electronics Intelligent Acoustics Technology Co.,Ltd
 60:1A:C7		Nintendo Co.,Ltd
 60:1B:52		Vodafone Italia S.p.A.
 60:1D:0F		Midnite Solar
@@ -35400,6 +35405,7 @@
 78:1D:4A		zte corporation
 78:1D:BA		Huawei Technologies Co.,Ltd
 78:1D:FD		Jabil Inc
+78:1E:B8		Shenzhen iComm Semiconductor CO.,LTD
 78:1F:11		RAB Lighting
 78:1F:7C		Nokia
 78:1F:DB		Samsung Electronics Co.,Ltd
@@ -38774,6 +38780,7 @@
 8C:1F:64:7E:30:00/36	Une Srl
 8C:1F:64:7E:70:00/36	robert juliat
 8C:1F:64:7E:C0:00/36	Methods2Business B.V.
+8C:1F:64:7E:D0:00/36	Eding CNC bv
 8C:1F:64:7E:E0:00/36	Orange Precision Measurement LLC
 8C:1F:64:7E:F0:00/36	SAXOGY POWER ELECTRONICS GmbH
 8C:1F:64:7F:10:00/36	AEM Singapore Pte Ltd
@@ -39468,6 +39475,7 @@
 8C:1F:64:DB:F0:00/36	Rugged Controls
 8C:1F:64:DC:00:00/36	Pigs Can Fly Labs LLC
 8C:1F:64:DC:20:00/36	Procon Electronics Pty Ltd
+8C:1F:64:DC:30:00/36	Packet Digital, LLC
 8C:1F:64:DC:60:00/36	R&K
 8C:1F:64:DC:70:00/36	Wide Swath Research, LLC
 8C:1F:64:DC:80:00/36	Dwdm.Ru Llc
@@ -43869,7 +43877,9 @@ B0:46:92		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 B0:46:FC		MitraStar Technology Corp.
 B0:47:5E		IEEE Registration Authority
 B0:47:5E:00:00:00/28	Shenzhen C & D Electronics Co., Ltd.
+B0:47:5E:40:00:00/28	Annapurna labs
 B0:47:5E:50:00:00/28	Omnitech Security
+B0:47:5E:60:00:00/28	DRS Sustainment Systems, Inc.
 B0:47:5E:80:00:00/28	Shri Mohan Ji International
 B0:47:5E:90:00:00/28	MIVO Technology AB
 B0:47:5E:B0:00:00/28	Bright Oceans Inter-Telecom Corporation
