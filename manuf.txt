@@ -16438,6 +16438,7 @@
 00:BD:82		Shenzhen YOUHUA Technology Co., Ltd
 00:BE:3B		Huawei Technologies Co.,Ltd
 00:BE:43		Dell Inc.
+00:BE:44		Silicon Laboratories
 00:BE:75		Cisco Systems, Inc
 00:BE:9E		Fiberhome Telecommunication Technologies Co.,LTD
 00:BE:D5		New H3C Technologies Co., Ltd
@@ -19027,6 +19028,7 @@
 10:55:E4		Shenzhen Skyworth Digital  Technology  CO., Ltd
 10:56:11		ARRIS Group, Inc.
 10:56:CA		Peplink International Ltd.
+10:57:25		Cisco Systems, Inc
 10:58:87		Fiberhome Telecommunication Technologies Co.,LTD
 10:59:17		Tonal
 10:59:32		Roku, Inc
@@ -19134,6 +19136,7 @@
 10:95:4B		Megabyte Ltd.
 10:96:1A		Chipsea Technologies (Shenzhen) Corp.
 10:96:93		Amazon Technologies Inc.
+10:96:C6		Cisco Systems, Inc
 10:97:BD		Espressif Inc.
 10:98:19		Dell Inc.
 10:98:26		Nokia
@@ -24312,6 +24315,7 @@
 3C:A9:16		Huawei Device Co., Ltd.
 3C:A9:F4		Intel Corporate
 3C:AA:3F		iKey, Ltd.
+3C:AB:72		Nanjing Qinheng Microelectronics Co., Ltd.
 3C:AB:8E		Apple, Inc.
 3C:AE:69		ESA Elektroschaltanlagen Grimma GmbH
 3C:AF:B7		Xiaomi Communications Co Ltd
@@ -25377,6 +25381,7 @@
 40:F4:07		Nintendo Co., Ltd.
 40:F4:13		Rubezh
 40:F4:20		Sichuan Tianyi Comheart Telecom Co.,LTD
+40:F4:9F		Cisco Systems, Inc
 40:F4:C9		FN-LINK TECHNOLOGY Ltd.
 40:F4:EC		Cisco Systems, Inc
 40:F4:FD		Union Man Technology Co.,Ltd
@@ -26776,6 +26781,7 @@
 50:01:D9		Huawei Technologies Co.,Ltd
 50:02:38		Nokia Shanghai Bell Co., Ltd.
 50:02:91		Espressif Inc.
+50:03:CF		Canon Inc.
 50:04:01		TelHi Corporation
 50:04:B8		Huawei Technologies Co.,Ltd
 50:05:3D		CyWee Group Ltd
@@ -26857,6 +26863,7 @@
 50:2D:F4		Phytec Messtechnik GmbH
 50:2D:FB		IGShare Co., Ltd.
 50:2E:5C		HTC Corporation
+50:2E:66		Cloud Network Technology Singapore Pte. Ltd.
 50:2E:CE		Asahi Electronics Co.,Ltd
 50:2F:9B		Intel Corporate
 50:2F:A8		Cisco Systems, Inc
@@ -37321,6 +37328,7 @@
 88:20:12		LMI Technologies
 88:20:67		Fiberhome Telecommunication Technologies Co.,LTD
 88:21:E3		Nebusens, S.L.
+88:22:22		VusionGroup
 88:22:B2		Chipsea Technologies (Shenzhen) Corp.
 88:23:1F		Fibocom Wireless Inc.
 88:23:64		Watchnet DVR Inc
@@ -37908,6 +37916,7 @@
 8C:1F:64:08:D0:00/36	Neetra Srl Sb
 8C:1F:64:08:E0:00/36	qiio AG
 8C:1F:64:08:F0:00/36	AixControl GmbH
+8C:1F:64:09:00:00/36	kousyuhaneturen
 8C:1F:64:09:20:00/36	Gogo BA
 8C:1F:64:09:30:00/36	MAG Audio LLC
 8C:1F:64:09:40:00/36	El.En. Spa
@@ -39260,6 +39269,7 @@
 8C:1F:64:BD:50:00/36	Pro-Custom Group
 8C:1F:64:BD:60:00/36	NOVA Products GmbH
 8C:1F:64:BD:70:00/36	Union Electronic.
+8C:1F:64:BD:90:00/36	Watts
 8C:1F:64:BD:B0:00/36	Cardinal Scales Manufacturing Co
 8C:1F:64:BE:10:00/36	Geolux
 8C:1F:64:BE:30:00/36	Reo Ag
@@ -39673,6 +39683,7 @@
 8C:1F:64:F6:00:00/36	Portrait Displays, Inc.
 8C:1F:64:F6:30:00/36	Quantum Media Systems
 8C:1F:64:F6:50:00/36	Talleres de Escoriaza SA
+8C:1F:64:F6:70:00/36	Distron S.L.
 8C:1F:64:F6:80:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:F6:C0:00/36	Sonatronic
 8C:1F:64:F6:D0:00/36	Ophir Manufacturing Solutions Pte Ltd
@@ -39690,6 +39701,7 @@
 8C:1F:64:F8:40:00/36	KST technology
 8C:1F:64:F8:60:00/36	INFOSTECH Co., Ltd.
 8C:1F:64:F8:70:00/36	Fly Electronic (Shang Hai) Technology Co.,Ltd
+8C:1F:64:F8:80:00/36	LAMTEC Mess- und Regeltechnik für Feuerungen GmbH & Co. KG
 8C:1F:64:F9:00:00/36	Enfabrica
 8C:1F:64:F9:10:00/36	Consonance
 8C:1F:64:F9:20:00/36	Vision Systems Safety Tech
@@ -39982,6 +39994,7 @@
 8C:89:FA		Zhejiang Hechuan Technology Co., Ltd.
 8C:8A:6E		Estun Automation Technoloy Co., Ltd
 8C:8A:BB		Beijing Orient View Technology Co., Ltd.
+8C:8B:48		Silicon Laboratories
 8C:8B:83		Texas Instruments
 8C:8C:AA		LCFC(Hefei) Electronics Technology co., ltd
 8C:8D:28		Intel Corporate
@@ -41885,6 +41898,7 @@
 9C:A6:15		Tp-Link Technologies Co.,Ltd.
 9C:A6:9D		Whaley Technology Co.Ltd
 9C:A6:D8		Fiberhome Telecommunication Technologies Co.,LTD
+9C:A9:B8		Cisco Systems, Inc
 9C:A9:C5		Apple, Inc.
 9C:A9:E4		zte corporation
 9C:AA:1B		Microsoft Corporation
@@ -44254,6 +44268,7 @@ B4:0B:44		Smartisan Technology Co., Ltd.
 B4:0B:78		Brusa Elektronik AG
 B4:0B:7A		Brusa Elektronik AG
 B4:0C:25		Palo Alto Networks
+B4:0E:06		Third Reality, Inc
 B4:0E:96		Heran
 B4:0E:CF		Bouffalo Lab (Nanjing) Co., Ltd.
 B4:0E:DC		LG-Ericsson Co.,Ltd.
