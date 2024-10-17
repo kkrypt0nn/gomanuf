@@ -209,12 +209,12 @@
 00:00:C2		Information Presentation Tech.
 00:00:C3		Harris Corporation
 00:00:C4		Waters Div. Of Millipore
-00:00:C5		ARRIS Group, Inc.
+00:00:C5		Commscope
 00:00:C6		Eon Systems
 00:00:C7		Arix Corporation
 00:00:C8		Altos Computer Systems
 00:00:C9		Emulex Corporation
-00:00:CA		ARRIS Group, Inc.
+00:00:CA		Commscope
 00:00:CB		Compu-Shack Electronic Gmbh
 00:00:CC		Densan Co., Ltd.
 00:00:CD		Allied Telesis Labs Ltd
@@ -1004,7 +1004,7 @@
 00:03:DD		Comark Interactive Solutions
 00:03:DE		OTC Wireless
 00:03:DF		Desana Systems
-00:03:E0		ARRIS Group, Inc.
+00:03:E0		Commscope
 00:03:E1		Winmate Communication, Inc.
 00:03:E2		Comspace Corporation
 00:03:E3		Cisco Systems, Inc
@@ -1225,7 +1225,7 @@
 00:04:BA		KDD Media Will Corporation
 00:04:BB		Bardac Corporation
 00:04:BC		Giantec, Inc.
-00:04:BD		ARRIS Group, Inc.
+00:04:BD		Commscope
 00:04:BE		OptXCon, Inc.
 00:04:BF		VersaLogic Corp.
 00:04:C0		Cisco Systems, Inc
@@ -2074,7 +2074,7 @@
 00:08:0B		Birka BPA Informationssystem AB
 00:08:0C		VDA Group S.p.a.
 00:08:0D		Toshiba
-00:08:0E		ARRIS Group, Inc.
+00:08:0E		Commscope
 00:08:0F		Proximion Fiber Optics AB
 00:08:10		Key Technology, Inc.
 00:08:11		VOIX Corporation
@@ -2806,7 +2806,7 @@
 00:0B:03		Taekwang Industrial Co., Ltd
 00:0B:04		Volktek Corporation
 00:0B:05		Pacific Broadband Networks
-00:0B:06		ARRIS Group, Inc.
+00:0B:06		Commscope
 00:0B:07		Voxpath Networks
 00:0B:08		Pillar Data Systems
 00:0B:09		Ifoundry Systems Singapore
@@ -3285,7 +3285,7 @@
 00:0C:E2		Rolls-Royce
 00:0C:E3		Option International N.V.
 00:0C:E4		NeuroCom International, Inc.
-00:0C:E5		ARRIS Group, Inc.
+00:0C:E5		Commscope
 00:0C:E6		Fortinet, Inc.
 00:0C:E7		MediaTek Inc.
 00:0C:E8		GuangZhou AnJuBao Co., Ltd
@@ -3660,7 +3660,7 @@
 00:0E:59		Sagemcom Broadband SAS
 00:0E:5A		TELEFIELD inc.
 00:0E:5B		ParkerVision - Direct2Data
-00:0E:5C		ARRIS Group, Inc.
+00:0E:5C		Commscope
 00:0E:5D		Triple Play Technologies A/S
 00:0E:5E		Raisecom Technology CO., LTD
 00:0E:5F		activ-net GmbH & Co. KG
@@ -3983,7 +3983,7 @@
 00:0F:9C		Panduit Corp
 00:0F:9D		DisplayLink (UK) Ltd
 00:0F:9E		Murrelektronik GmbH
-00:0F:9F		ARRIS Group, Inc.
+00:0F:9F		Commscope
 00:0F:A0		Canon Korea Inc.
 00:0F:A1		Gigabit Systems Inc.
 00:0F:A2		2xWireless
@@ -4028,7 +4028,7 @@
 00:0F:C9		Allnet GmbH
 00:0F:CA		A-Jin Techline Co, Ltd
 00:0F:CB		3Com Ltd
-00:0F:CC		ARRIS Group, Inc.
+00:0F:CC		Commscope
 00:0F:CD		Nortel Networks
 00:0F:CE		Kikusui Electronics Corp.
 00:0F:CF		DataWind Research
@@ -4362,7 +4362,7 @@
 00:11:17		Cesnet
 00:11:18		BLX IC Design Corp., Ltd.
 00:11:19		Solteras, Inc.
-00:11:1A		ARRIS Group, Inc.
+00:11:1A		Commscope
 00:11:1B		Targa Systems Div L-3 Communications
 00:11:1C		Pleora Technologies Inc.
 00:11:1D		Hectrix Limited
@@ -4464,7 +4464,7 @@
 00:11:7D		ZMD America, Inc.
 00:11:7E		Midmark Corp
 00:11:7F		Neotune Information Technology Corporation,.LTD
-00:11:80		ARRIS Group, Inc.
+00:11:80		Commscope
 00:11:81		InterEnergy Co.Ltd,
 00:11:82		IMI Norgren Ltd
 00:11:83		Datalogic ADC, Inc.
@@ -4510,7 +4510,7 @@
 00:11:AB		Trustable Technology Co.,Ltd.
 00:11:AC		Simtec Electronics
 00:11:AD		Shanghai Ruijie Technology
-00:11:AE		ARRIS Group, Inc.
+00:11:AE		Commscope
 00:11:AF		Medialink-i,Inc
 00:11:B0		Fortelink Inc.
 00:11:B1		BlueExpert Technology Corp.
@@ -4629,7 +4629,7 @@
 00:12:22		Skardin (UK) Ltd
 00:12:23		Pixim
 00:12:24		NexQL Corporation
-00:12:25		ARRIS Group, Inc.
+00:12:25		Commscope
 00:12:26		Japan Direx Corporation
 00:12:27		Franklin Electric Co., Inc.
 00:12:28		Data Ltd.
@@ -4730,7 +4730,7 @@
 00:12:87		Digital Everywhere Unterhaltungselektronik GmbH
 00:12:88		2Wire Inc
 00:12:89		Advance Sterilization Products
-00:12:8A		ARRIS Group, Inc.
+00:12:8A		Commscope
 00:12:8B		Sensory Networks Inc
 00:12:8C		Woodward Governor
 00:12:8D		STB Datenservice GmbH
@@ -4793,7 +4793,7 @@
 00:12:C6		TGC America, Inc
 00:12:C7		SECURAY Technologies Ltd.Co.
 00:12:C8		Perfect tech
-00:12:C9		ARRIS Group, Inc.
+00:12:C9		Commscope
 00:12:CA		Mechatronic Brick Aps
 00:12:CB		CSS Inc.
 00:12:CC		Bitatek CO., LTD
@@ -4865,7 +4865,7 @@
 00:13:0E		Focusrite Audio Engineering Limited
 00:13:0F		EGEMEN Bilgisayar Muh San ve Tic LTD STI
 00:13:10		Cisco-Linksys, LLC
-00:13:11		ARRIS Group, Inc.
+00:13:11		Commscope
 00:13:12		Amedia Networks Inc.
 00:13:13		GuangZhou Post & Telecom Equipment ltd
 00:13:14		Asiamajor Inc.
@@ -4961,7 +4961,7 @@
 00:13:6E		Techmetro Corp.
 00:13:6F		PacketMotion, Inc.
 00:13:70		Nokia Danmark A/S
-00:13:71		ARRIS Group, Inc.
+00:13:71		Commscope
 00:13:72		Dell Inc.
 00:13:73		BLwave Electronics Co., Ltd
 00:13:74		Atheros Communications, Inc.
@@ -5108,7 +5108,7 @@
 00:14:01		Rivertree Networks Corp.
 00:14:02		kk-electronic a/s
 00:14:03		Renasis, LLC
-00:14:04		ARRIS Group, Inc.
+00:14:04		Commscope
 00:14:05		OpenIB, Inc.
 00:14:06		Go Networks
 00:14:07		Sperian Protection Instrumentation
@@ -5258,7 +5258,7 @@
 00:14:97		ZHIYUAN Eletronics co.,ltd.
 00:14:98		Viking Design Technology
 00:14:99		Helicomm Inc
-00:14:9A		ARRIS Group, Inc.
+00:14:9A		Commscope
 00:14:9B		Nokota Communications, LLC
 00:14:9C		HF Company
 00:14:9D		Sound ID Inc.
@@ -5336,7 +5336,7 @@
 00:14:E5		Alticast
 00:14:E6		AIM Infrarotmodule GmbH
 00:14:E7		Stolinx,. Inc
-00:14:E8		ARRIS Group, Inc.
+00:14:E8		Commscope
 00:14:E9		Nortech International
 00:14:EA		S Digm Inc. (Safe Paradigm Inc.)
 00:14:EB		AwarePoint Corporation
@@ -5407,7 +5407,7 @@
 00:15:2C		Cisco Systems, Inc
 00:15:2D		TenX Networks, LLC
 00:15:2E		PacketHop, Inc.
-00:15:2F		ARRIS Group, Inc.
+00:15:2F		Commscope
 00:15:30		Dell EMC
 00:15:31		Kocom
 00:15:32		Consumer Technologies Group, LLC
@@ -5510,11 +5510,11 @@
 00:15:93		U4EA Technologies Inc.
 00:15:94		Bixolon Co.,Ltd
 00:15:95		Quester Tangent Corporation
-00:15:96		ARRIS Group, Inc.
+00:15:96		Commscope
 00:15:97		Aeta Audio Systems
 00:15:98		Kolektor group
 00:15:99		Samsung Electronics Co.,Ltd
-00:15:9A		ARRIS Group, Inc.
+00:15:9A		Commscope
 00:15:9B		Nortel Networks
 00:15:9C		B-KYUNG SYSTEM Co.,Ltd.
 00:15:9D		Tripp Lite
@@ -5522,13 +5522,13 @@
 00:15:9F		Terascala, Inc.
 00:15:A0		Nokia Danmark A/S
 00:15:A1		Eca-Sinters
-00:15:A2		ARRIS Group, Inc.
-00:15:A3		ARRIS Group, Inc.
-00:15:A4		ARRIS Group, Inc.
+00:15:A2		Commscope
+00:15:A3		Commscope
+00:15:A4		Commscope
 00:15:A5		DCI Co., Ltd.
 00:15:A6		Digital Electronics Products Ltd.
 00:15:A7		Robatech AG
-00:15:A8		ARRIS Group, Inc.
+00:15:A8		Commscope
 00:15:A9		Kwang Woo I&C Co.,Ltd
 00:15:AA		Rextechnik International Co.,
 00:15:AB		Pro Co Sound Inc
@@ -5566,10 +5566,10 @@
 00:15:CB		Surf Communication Solutions Ltd.
 00:15:CC		Uquest, Ltd.
 00:15:CD		Exartech International Corp.
-00:15:CE		ARRIS Group, Inc.
-00:15:CF		ARRIS Group, Inc.
-00:15:D0		ARRIS Group, Inc.
-00:15:D1		ARRIS Group, Inc.
+00:15:CE		Commscope
+00:15:CF		Commscope
+00:15:D0		Commscope
+00:15:D1		Commscope
 00:15:D2		Xantech Corporation
 00:15:D3		Pantech&Curitel Communications, Inc.
 00:15:D4		Emitor AB
@@ -5654,7 +5654,7 @@
 00:16:23		Interval Media
 00:16:24		Teneros, Inc.
 00:16:25		Impinj, Inc.
-00:16:26		ARRIS Group, Inc.
+00:16:26		Commscope
 00:16:27		embedded-logic DESIGN AND MORE GmbH
 00:16:28		Magicard Ltd
 00:16:29		Nivus GmbH
@@ -5733,7 +5733,7 @@
 00:16:72		Zenway enterprise ltd
 00:16:73		Bury GmbH & Co. KG
 00:16:74		EuroCB (Phils.), Inc.
-00:16:75		ARRIS Group, Inc.
+00:16:75		Commscope
 00:16:76		Intel Corporate
 00:16:77		Bihl + Wiedemann GmbH
 00:16:78		Shenzhen Baoan Gaoke Electronics Co., Ltd
@@ -5797,7 +5797,7 @@
 00:16:B2		DriveCam Inc
 00:16:B3		Photonicbridges (China) Co., Ltd.
 00:16:B4		Private
-00:16:B5		ARRIS Group, Inc.
+00:16:B5		Commscope
 00:16:B6		Cisco-Linksys, LLC
 00:16:B7		Seoul Commtech
 00:16:B8		Sony Corporation
@@ -5872,7 +5872,7 @@
 00:16:FD		Jaty Electronics
 00:16:FE		Alpsalpine Co,.Ltd
 00:16:FF		Wamin Optocomm Mfg Corp
-00:17:00		ARRIS Group, Inc.
+00:17:00		Commscope
 00:17:01		KDE, Inc.
 00:17:02		Osung Midicom Co., Ltd
 00:17:03		MOSDAN Internation Co.,Ltd
@@ -6004,7 +6004,7 @@
 00:17:81		Greystone Data System, Inc.
 00:17:82		LoBenn Inc.
 00:17:83		Texas Instruments
-00:17:84		ARRIS Group, Inc.
+00:17:84		Commscope
 00:17:85		Sparr Electronics Ltd
 00:17:86		wisembed
 00:17:87		Brother, Brother & Sons ApS
@@ -6098,7 +6098,7 @@
 00:17:DF		Cisco Systems, Inc
 00:17:E0		Cisco Systems, Inc
 00:17:E1		DACOS Technologies Co., Ltd.
-00:17:E2		ARRIS Group, Inc.
+00:17:E2		Commscope
 00:17:E3		Texas Instruments
 00:17:E4		Texas Instruments
 00:17:E5		Texas Instruments
@@ -6110,7 +6110,7 @@
 00:17:EB		Texas Instruments
 00:17:EC		Texas Instruments
 00:17:ED		WooJooIT Ltd.
-00:17:EE		ARRIS Group, Inc.
+00:17:EE		Commscope
 00:17:EF		IBM Corp
 00:17:F0		SZCOM Broadband Network Technology Co.,Ltd
 00:17:F1		Renu Electronics Pvt Ltd
@@ -6292,7 +6292,7 @@
 00:18:A1		Tiqit Computers, Inc.
 00:18:A2		XIP Technology AB
 00:18:A3		Zippy Technology Corp.
-00:18:A4		ARRIS Group, Inc.
+00:18:A4		Commscope
 00:18:A5		ADigit Technologies Corp.
 00:18:A6		Persistent Systems, LLC
 00:18:A7		Yoggie Security Systems LTD.
@@ -6320,7 +6320,7 @@
 00:18:BD		Shenzhen Dvbworld Technology Co., Ltd.
 00:18:BE		ANSA Corporation
 00:18:BF		Essence Technology Solution, Inc.
-00:18:C0		ARRIS Group, Inc.
+00:18:C0		Commscope
 00:18:C1		Almitec Informática e Comércio
 00:18:C2		Firetide, Inc
 00:18:C3		CS Corporation
@@ -6428,7 +6428,7 @@
 00:19:29		2M2B Montadora de Maquinas Bahia Brasil LTDA
 00:19:2A		Antiope Associates
 00:19:2B		Aclara RF Systems Inc.
-00:19:2C		ARRIS Group, Inc.
+00:19:2C		Commscope
 00:19:2D		Nokia Corporation
 00:19:2E		Spectral Instruments, Inc.
 00:19:2F		Cisco Systems, Inc
@@ -6478,7 +6478,7 @@
 00:19:5B		D-Link Corporation
 00:19:5C		Innotech Corporation
 00:19:5D		ShenZhen XinHuaTong Opto Electronics Co.,Ltd
-00:19:5E		ARRIS Group, Inc.
+00:19:5E		Commscope
 00:19:5F		Valemount Networks Corporation
 00:19:60		DoCoMo Systems, Inc.
 00:19:61		Blaupunkt  Embedded Systems GmbH
@@ -6550,7 +6550,7 @@
 00:19:A3		asteel electronique atlantique
 00:19:A4		Austar Technology (hang zhou) Co.,Ltd
 00:19:A5		RadarFind Corporation
-00:19:A6		ARRIS Group, Inc.
+00:19:A6		Commscope
 00:19:A7		Itu-T
 00:19:A8		WiQuest Communications
 00:19:A9		Cisco Systems, Inc
@@ -6576,7 +6576,7 @@
 00:19:BD		New Media Life
 00:19:BE		Altai Technologies Limited
 00:19:BF		Citiway technology Co.,ltd
-00:19:C0		ARRIS Group, Inc.
+00:19:C0		Commscope
 00:19:C1		Alpsalpine Co,.Ltd
 00:19:C2		Equustek Solutions, Inc.
 00:19:C3		Qualitrol
@@ -6667,7 +6667,7 @@
 00:1A:18		Advanced Simulation Technology inc.
 00:1A:19		Computer Engineering Limited
 00:1A:1A		Gentex Corporation/Electro-Acoustic Products
-00:1A:1B		ARRIS Group, Inc.
+00:1A:1B		Commscope
 00:1A:1C		GT&T Engineering Pte Ltd
 00:1A:1D		PChome Online Inc.
 00:1A:1E		Hewlett Packard Enterprise
@@ -6742,7 +6742,7 @@
 00:1A:63		Elster Solutions, LLC,
 00:1A:64		IBM Corp
 00:1A:65		Seluxit
-00:1A:66		ARRIS Group, Inc.
+00:1A:66		Commscope
 00:1A:67		Infinite QL Sdn Bhd
 00:1A:68		Weltec Enterprise Co., Ltd.
 00:1A:69		Wuhan Yangtze Optical Technology CO.,Ltd.
@@ -6759,7 +6759,7 @@
 00:1A:74		Procare International Co
 00:1A:75		Sony Corporation
 00:1A:76		SDT information Technology Co.,LTD.
-00:1A:77		ARRIS Group, Inc.
+00:1A:77		Commscope
 00:1A:78		ubtos
 00:1A:79		Telecomunication Technologies Ltd.
 00:1A:7A		Lismore Instruments Limited
@@ -6813,7 +6813,7 @@
 00:1A:AA		Analogic Corp.
 00:1A:AB		eWings s.r.l.
 00:1A:AC		Corelatus AB
-00:1A:AD		ARRIS Group, Inc.
+00:1A:AD		Commscope
 00:1A:AE		Savant Systems LLC
 00:1A:AF		Blusens Technology
 00:1A:B0		Signal Networks Pvt. Ltd.,
@@ -6859,10 +6859,10 @@
 00:1A:D8		AlsterAero GmbH
 00:1A:D9		International Broadband Electric Communications, Inc.
 00:1A:DA		Biz-2-Me Inc.
-00:1A:DB		ARRIS Group, Inc.
+00:1A:DB		Commscope
 00:1A:DC		Nokia Danmark A/S
 00:1A:DD		PePWave Ltd
-00:1A:DE		ARRIS Group, Inc.
+00:1A:DE		Commscope
 00:1A:DF		Interactivetv Pty Limited
 00:1A:E0		Mythology Tech Express Inc.
 00:1A:E1		Edge Access Inc
@@ -6978,7 +6978,7 @@
 00:1B:4F		Avaya Inc
 00:1B:50		Nizhny Novgorod Factory named after M.Frunze, FSUE (NZiF)
 00:1B:51		Vector Technology Corp.
-00:1B:52		ARRIS Group, Inc.
+00:1B:52		Commscope
 00:1B:53		Cisco Systems, Inc
 00:1B:54		Cisco Systems, Inc
 00:1B:55		Hurco Automation Ltd.
@@ -7318,7 +7318,7 @@
 00:1B:DA		UTStarcom Inc
 00:1B:DB		Valeo VECS
 00:1B:DC		Vencer Co., Ltd.
-00:1B:DD		ARRIS Group, Inc.
+00:1B:DD		Commscope
 00:1B:DE		Renkus-Heinz, Inc.
 00:1B:DF		Iskra Sistemi d.d.
 00:1B:E0		TELENOT ELECTRONIC GmbH
@@ -7370,8 +7370,8 @@
 00:1C:0E		Cisco Systems, Inc
 00:1C:0F		Cisco Systems, Inc
 00:1C:10		Cisco-Linksys, LLC
-00:1C:11		ARRIS Group, Inc.
-00:1C:12		ARRIS Group, Inc.
+00:1C:11		Commscope
+00:1C:12		Commscope
 00:1C:13		Optsys Technology Co., Ltd.
 00:1C:14		VMware, Inc.
 00:1C:15		iPhotonix LLC
@@ -7546,9 +7546,9 @@
 00:1C:BE		Nintendo Co., Ltd.
 00:1C:BF		Intel Corporate
 00:1C:C0		Intel Corporate
-00:1C:C1		ARRIS Group, Inc.
+00:1C:C1		Commscope
 00:1C:C2		Part II Research, Inc.
-00:1C:C3		ARRIS Group, Inc.
+00:1C:C3		Commscope
 00:1C:C4		Hewlett Packard
 00:1C:C5		3Com Ltd
 00:1C:C6		ProStor Systems
@@ -7604,7 +7604,7 @@
 00:1C:F8		Parade Technologies, Ltd.
 00:1C:F9		Cisco Systems, Inc
 00:1C:FA		Alarm.com
-00:1C:FB		ARRIS Group, Inc.
+00:1C:FB		Commscope
 00:1C:FC		Sumitomo Electric Industries, Ltd
 00:1C:FD		Universal Electronics, Inc.
 00:1C:FE		Quartics Inc
@@ -7716,7 +7716,7 @@
 00:1D:68		Thomson Telecom Belgium
 00:1D:69		Knorr-Bremse IT-Services GmbH
 00:1D:6A		Alpha Networks Inc.
-00:1D:6B		ARRIS Group, Inc.
+00:1D:6B		Commscope
 00:1D:6C		ClariPhy Communications, Inc.
 00:1D:6D		Confidant International LLC
 00:1D:6E		Nokia Danmark A/S
@@ -7799,7 +7799,7 @@
 00:1D:BB		Dynamic System Electronics Corp.
 00:1D:BC		Nintendo Co., Ltd.
 00:1D:BD		Versamed Inc.
-00:1D:BE		ARRIS Group, Inc.
+00:1D:BE		Commscope
 00:1D:BF		Radiient Technologies, Inc.
 00:1D:C0		Enphase Energy
 00:1D:C1		Audinate Pty L
@@ -7814,16 +7814,16 @@
 00:1D:CA		PAV Electronics Limited
 00:1D:CB		Exéns Development Oy
 00:1D:CC		Ayon Cyber Security, Inc
-00:1D:CD		ARRIS Group, Inc.
-00:1D:CE		ARRIS Group, Inc.
-00:1D:CF		ARRIS Group, Inc.
-00:1D:D0		ARRIS Group, Inc.
-00:1D:D1		ARRIS Group, Inc.
-00:1D:D2		ARRIS Group, Inc.
-00:1D:D3		ARRIS Group, Inc.
-00:1D:D4		ARRIS Group, Inc.
-00:1D:D5		ARRIS Group, Inc.
-00:1D:D6		ARRIS Group, Inc.
+00:1D:CD		Commscope
+00:1D:CE		Commscope
+00:1D:CF		Commscope
+00:1D:D0		Commscope
+00:1D:D1		Commscope
+00:1D:D2		Commscope
+00:1D:D3		Commscope
+00:1D:D4		Commscope
+00:1D:D5		Commscope
+00:1D:D6		Commscope
 00:1D:D7		Algolith
 00:1D:D8		Microsoft Corporation
 00:1D:D9		Hon Hai Precision Ind. Co.,Ltd.
@@ -7935,7 +7935,7 @@
 00:1E:43		Aisin Corporation
 00:1E:44		Santec
 00:1E:45		Sony Corporation
-00:1E:46		ARRIS Group, Inc.
+00:1E:46		Commscope
 00:1E:47		PT. Hariff Daya Tunggal Engineering
 00:1E:48		Wi-Links
 00:1E:49		Cisco Systems, Inc
@@ -7955,7 +7955,7 @@
 00:1E:57		ALCOMA, spol. s r.o.
 00:1E:58		D-Link Corporation
 00:1E:59		Silicon Turnkey Express, LLC
-00:1E:5A		ARRIS Group, Inc.
+00:1E:5A		Commscope
 00:1E:5B		Unitron Company, Inc.
 00:1E:5C		RB GeneralEkonomik
 00:1E:5D		Holosys d.o.o.
@@ -8006,7 +8006,7 @@
 00:1E:8A		eCopy, Inc
 00:1E:8B		Infra Access Korea Co., Ltd.
 00:1E:8C		ASUSTek COMPUTER INC.
-00:1E:8D		ARRIS Group, Inc.
+00:1E:8D		Commscope
 00:1E:8E		Hunkeler AG
 00:1E:8F		Canon Inc.
 00:1E:90		Elitegroup Computer Systems Co.,Ltd.
@@ -8247,7 +8247,7 @@
 00:1F:7B		TechNexion Ltd.
 00:1F:7C		Witelcom AS
 00:1F:7D		Embedded Wireless GmbH
-00:1F:7E		ARRIS Group, Inc.
+00:1F:7E		Commscope
 00:1F:7F		Phabrix Limited
 00:1F:80		Lucas Holding bv
 00:1F:81		Accel Semiconductor Corp
@@ -8317,7 +8317,7 @@
 00:1F:C1		Hanlong Technology Co.,LTD
 00:1F:C2		Jow Tong Technology Co Ltd
 00:1F:C3		SmartSynch, Inc
-00:1F:C4		ARRIS Group, Inc.
+00:1F:C4		Commscope
 00:1F:C5		Nintendo Co., Ltd.
 00:1F:C6		ASUSTek COMPUTER INC.
 00:1F:C7		Casio Hitachi Mobile Communications Co., Ltd.
@@ -8441,7 +8441,7 @@
 00:20:3D		Honeywell Environmental & Combustion Controls
 00:20:3E		LogiCan Technologies, Inc.
 00:20:3F		Juki Corporation
-00:20:40		ARRIS Group, Inc.
+00:20:40		Commscope
 00:20:41		Data Net
 00:20:42		Datametrics Corp.
 00:20:43		Neuron Company Limited
@@ -8663,7 +8663,7 @@
 00:21:1B		Cisco Systems, Inc
 00:21:1C		Cisco Systems, Inc
 00:21:1D		Dataline AB
-00:21:1E		ARRIS Group, Inc.
+00:21:1E		Commscope
 00:21:1F		Shinsung Deltatech Co.,Ltd.
 00:21:20		Sequel Technologies
 00:21:21		VRmagic GmbH
@@ -8687,7 +8687,7 @@
 00:21:33		Building B, Inc
 00:21:34		Brandywine Communications
 00:21:35		Alcatel-Lucent
-00:21:36		ARRIS Group, Inc.
+00:21:36		Commscope
 00:21:37		Bay Controls, LLC
 00:21:38		Cepheid
 00:21:39		Escherlogic Inc.
@@ -8700,7 +8700,7 @@
 00:21:40		EN Technologies Inc.
 00:21:41		Radlive
 00:21:42		Advanced Control Systems doo
-00:21:43		ARRIS Group, Inc.
+00:21:43		Commscope
 00:21:44		SS Telecoms
 00:21:45		Semptian Technologies Ltd.
 00:21:46		Sanmina-SCI
@@ -8761,7 +8761,7 @@
 00:21:7D		Pyxis S.R.L.
 00:21:7E		Telit Communication s.p.a
 00:21:7F		Intraco Technology Pte Ltd
-00:21:80		ARRIS Group, Inc.
+00:21:80		Commscope
 00:21:81		Si2 Microsystems Limited
 00:21:82		SandLinks Systems, Ltd.
 00:21:83		ANDRITZ HYDRO GmbH
@@ -8905,7 +8905,7 @@
 00:22:0D		Cisco Systems, Inc
 00:22:0E		Indigo Security Co., Ltd.
 00:22:0F		MoCA (Multimedia over Coax Alliance)
-00:22:10		ARRIS Group, Inc.
+00:22:10		Commscope
 00:22:11		Rohati Systems
 00:22:12		CAI Networks, Inc.
 00:22:13		Pci Corporation
@@ -9069,7 +9069,7 @@
 00:22:B1		Elbit Systems Ltd.
 00:22:B2		4RF Communications Ltd
 00:22:B3		Sei S.p.A.
-00:22:B4		ARRIS Group, Inc.
+00:22:B4		Commscope
 00:22:B5		Novita
 00:22:B6		Superflow Technologies Group
 00:22:B7		GSS Grundig SAT-Systems GmbH
@@ -9156,7 +9156,7 @@
 00:23:08		Arcadyan Technology Corporation
 00:23:09		Janam Technologies LLC
 00:23:0A		ARBURG GmbH & Co KG
-00:23:0B		ARRIS Group, Inc.
+00:23:0B		Commscope
 00:23:0C		Clover Electronics Co.,Ltd.
 00:23:0D		Nortel Networks
 00:23:0E		Gorba AG
@@ -9261,8 +9261,8 @@
 00:23:71		SOAM Systel
 00:23:72		More Star Industrial Group Limited
 00:23:73		GridIron Systems, Inc.
-00:23:74		ARRIS Group, Inc.
-00:23:75		ARRIS Group, Inc.
+00:23:74		Commscope
+00:23:75		Commscope
 00:23:76		HTC Corporation
 00:23:77		Isotek Electronics Ltd
 00:23:78		GN Netcom A/S
@@ -9294,7 +9294,7 @@
 00:23:92		Proteus Industries Inc.
 00:23:93		Ajinextek
 00:23:94		Samjeon
-00:23:95		ARRIS Group, Inc.
+00:23:95		Commscope
 00:23:96		Andes Technology Corporation
 00:23:97		Westell Technologies Inc.
 00:23:98		Vutlan sro
@@ -9307,8 +9307,8 @@
 00:23:9F		Institut für Prüftechnik
 00:23:A0		Hana CNS Co., LTD.
 00:23:A1		Trend Electronics Ltd
-00:23:A2		ARRIS Group, Inc.
-00:23:A3		ARRIS Group, Inc.
+00:23:A2		Commscope
+00:23:A3		Commscope
 00:23:A4		New Concepts Development Corp.
 00:23:A5		SageTV, LLC
 00:23:A6		E-Mon
@@ -9320,7 +9320,7 @@
 00:23:AC		Cisco Systems, Inc
 00:23:AD		Xmark Corporation
 00:23:AE		Dell Inc.
-00:23:AF		ARRIS Group, Inc.
+00:23:AF		Commscope
 00:23:B0		COMXION Technology Inc.
 00:23:B1		Longcheer Technology (Singapore) Pte Ltd
 00:23:B2		Intelligent Mechatronic Systems Inc
@@ -9382,8 +9382,8 @@
 00:23:EA		Cisco Systems, Inc
 00:23:EB		Cisco Systems, Inc
 00:23:EC		Algorithmix GmbH
-00:23:ED		ARRIS Group, Inc.
-00:23:EE		ARRIS Group, Inc.
+00:23:ED		Commscope
+00:23:EE		Commscope
 00:23:EF		Zuend Systemtechnik AG
 00:23:F0		Shanghai Jinghan Weighing Apparatus Co. Ltd.
 00:23:F1		Sony Corporation
@@ -9545,9 +9545,9 @@
 00:24:90		Samsung Electronics Co.,Ltd
 00:24:91		Samsung Electronics Co.,Ltd
 00:24:92		Motorola, Broadband Solutions Group
-00:24:93		ARRIS Group, Inc.
+00:24:93		Commscope
 00:24:94		Shenzhen Baoxin Tech CO., Ltd.
-00:24:95		ARRIS Group, Inc.
+00:24:95		Commscope
 00:24:96		Ginzinger electronic systems
 00:24:97		Cisco Systems, Inc
 00:24:98		Cisco Systems, Inc
@@ -9558,8 +9558,8 @@
 00:24:9D		NES Technology Inc.
 00:24:9E		ADC-Elektronik GmbH
 00:24:9F		RIM Testing Services
-00:24:A0		ARRIS Group, Inc.
-00:24:A1		ARRIS Group, Inc.
+00:24:A0		Commscope
+00:24:A1		Commscope
 00:24:A2		Hong Kong Middleware Technology Limited
 00:24:A3		Sonim Technologies Inc
 00:24:A4		Siklu Communication
@@ -9591,7 +9591,7 @@
 00:24:BE		Sony Corporation
 00:24:BF		Carrier Culoz SA
 00:24:C0		Nti Comodo Inc
-00:24:C1		ARRIS Group, Inc.
+00:24:C1		Commscope
 00:24:C2		Asumo Co.,Ltd.
 00:24:C3		Cisco Systems, Inc
 00:24:C4		Cisco Systems, Inc
@@ -9893,8 +9893,8 @@
 00:25:EE		Avtex Ltd
 00:25:EF		I-TEC Co., Ltd.
 00:25:F0		Suga Electronics Limited
-00:25:F1		ARRIS Group, Inc.
-00:25:F2		ARRIS Group, Inc.
+00:25:F1		Commscope
+00:25:F2		Commscope
 00:25:F3		Nordwestdeutsche Zählerrevision
 00:25:F4		KoCo Connector AG
 00:25:F5		DVS Korea, Co., Ltd
@@ -9961,7 +9961,7 @@
 00:26:33		MIR - Medical International Research
 00:26:34		Infineta Systems, Inc
 00:26:35		Bluetechnix GmbH
-00:26:36		ARRIS Group, Inc.
+00:26:36		Commscope
 00:26:37		Samsung Electro Mechanics Co., Ltd.
 00:26:38		Xia Men Joyatech Co., Ltd.
 00:26:39		T.M. Electronics, Inc.
@@ -9972,8 +9972,8 @@
 00:26:3E		Trapeze Networks
 00:26:3F		LIOS Technology GmbH
 00:26:40		Baustem Broadband Technologies, Ltd.
-00:26:41		ARRIS Group, Inc.
-00:26:42		ARRIS Group, Inc.
+00:26:41		Commscope
+00:26:42		Commscope
 00:26:43		Alpsalpine Co,.Ltd
 00:26:44		Thomson Telecom Belgium
 00:26:45		Circontrol S.A.
@@ -10091,7 +10091,7 @@
 00:26:B7		Kingston Technology Company, Inc.
 00:26:B8		Actiontec Electronics, Inc
 00:26:B9		Dell Inc.
-00:26:BA		ARRIS Group, Inc.
+00:26:BA		Commscope
 00:26:BB		Apple, Inc.
 00:26:BC		General Jack Technology Ltd.
 00:26:BD		JTEC Card & Communication Co., Ltd
@@ -10122,7 +10122,7 @@
 00:26:D6		Ningbo Andy Optoelectronic Co., Ltd.
 00:26:D7		KM Electornic Technology Co., Ltd.
 00:26:D8		Magic Point Inc.
-00:26:D9		ARRIS Group, Inc.
+00:26:D9		Commscope
 00:26:DA		Universal Media Corporation /Slovakia/ s.r.o.
 00:26:DB		Ionics EMS Inc.
 00:26:DC		Optical Systems Design
@@ -10486,7 +10486,7 @@
 00:35:32		Electro-Metrics Corporation
 00:35:60		Rosen Aviation
 00:35:FF		Texas Instruments
-00:36:76		ARRIS Group, Inc.
+00:36:76		Commscope
 00:36:BE		Northwest Towers
 00:36:D7		Keltron IOT Corp.
 00:36:F8		Conti Temic microelectronic GmbH
@@ -10925,7 +10925,7 @@
 00:50:91		Netaccess, Inc.
 00:50:92		Rigaku Corporation Osaka Plant
 00:50:93		Boeing
-00:50:94		ARRIS Group, Inc.
+00:50:94		Commscope
 00:50:95		Peracom Networks
 00:50:96		Salix Technologies, Inc.
 00:50:97		MMC-EMBEDDED COMPUTERTECHNIK GmbH
@@ -15090,7 +15090,7 @@
 00:50:DF		AirFiber, Inc.
 00:50:E1		Ns Tech Electronics Sdn Bhd
 00:50:E2		Cisco Systems, Inc
-00:50:E3		ARRIS Group, Inc.
+00:50:E3		Commscope
 00:50:E4		Apple, Inc.
 00:50:E6		Hakusan Corporation
 00:50:E7		Paradise Innovations (Asia)
@@ -15950,7 +15950,7 @@
 00:90:99		Allied Telesis, K.K.
 00:90:9A		One World Systems, Inc.
 00:90:9B		Markem-Imaje
-00:90:9C		ARRIS Group, Inc.
+00:90:9C		Commscope
 00:90:9D		NovaTech Process Solutions, LLC
 00:90:9E		Critical IO, LLC
 00:90:9F		Digi-Data Corporation
@@ -16358,7 +16358,7 @@
 00:AA:70		LG Electronics (Mobile Communications)
 00:AA:FD		Texas Instruments
 00:AB:48		eero inc.
-00:AC:E0		ARRIS Group, Inc.
+00:AC:E0		Commscope
 00:AD:24		D-Link International
 00:AD:63		Dedicated Micros Malta LTD
 00:AD:D5		Huawei Device Co., Ltd.
@@ -16787,7 +16787,7 @@
 00:D0:34		Ormec Systems Corp.
 00:D0:35		Behavior Tech. Computer Corp.
 00:D0:36		Technology Atlanta Corp.
-00:D0:37		ARRIS Group, Inc.
+00:D0:37		Commscope
 00:D0:38		Fivemere, Ltd.
 00:D0:39		Utilicom, Inc.
 00:D0:3A		Zoneworx, Inc.
@@ -16868,7 +16868,7 @@
 00:D0:85		Otis Elevator Company
 00:D0:86		Foveon, Inc.
 00:D0:87		Microfirst Inc.
-00:D0:88		ARRIS Group, Inc.
+00:D0:88		Commscope
 00:D0:89		Dynacolor, Inc.
 00:D0:8A		Photron Usa
 00:D0:8B		ADVA Optical Networking Ltd.
@@ -17140,7 +17140,7 @@
 00:E0:6C		Ultra Electronics Command & Control Systems
 00:E0:6D		Compuware Corporation
 00:E0:6E		FAR SYSTEMS S.p.A.
-00:E0:6F		ARRIS Group, Inc.
+00:E0:6F		Commscope
 00:E0:70		Dh Technology
 00:E0:71		Epis Microcomputer
 00:E0:72		Lynk
@@ -17477,7 +17477,7 @@
 04:4B:FF		GuangZhou Hedy Digital Technology Co., Ltd
 04:4C:EF		Fujian Sanao Technology Co.,Ltd
 04:4E:06		Ericsson AB
-04:4E:5A		ARRIS Group, Inc.
+04:4E:5A		Commscope
 04:4E:AF		LG Innotek
 04:4F:17		HUMAX Co., Ltd.
 04:4F:4C		Huawei Technologies Co.,Ltd
@@ -18055,7 +18055,7 @@
 08:3A:F2		Espressif Inc.
 08:3B:E9		New H3C Technologies Co., Ltd
 08:3D:88		Samsung Electronics Co.,Ltd
-08:3E:0C		ARRIS Group, Inc.
+08:3E:0C		Commscope
 08:3E:5D		Sagemcom Broadband SAS
 08:3E:8E		Hon Hai Precision Ind. Co.,Ltd.
 08:3F:3E		WSH GmbH
@@ -18234,6 +18234,7 @@
 08:B6:1F		Espressif Inc.
 08:B7:38		Lite-On Technogy Corp.
 08:B7:EC		Wireless Seismic
+08:B8:D0		Chipsea Technologies (Shenzhen) Corp.
 08:B9:5F		Silicon Laboratories
 08:BA:22		Swaive Corporation
 08:BA:5F		Qingdao Hisense Electronics Co.,Ltd.
@@ -18441,6 +18442,7 @@
 0C:2A:86		Fiberhome Telecommunication Technologies Co.,LTD
 0C:2A:E7		Beijing General Research Institute of Mining and Metallurgy
 0C:2C:54		Huawei Technologies Co.,Ltd
+0C:2C:7C		Shenzhen Skyworth Digital  Technology  CO., Ltd
 0C:2D:89		QiiQ Communications Inc.
 0C:2E:57		Huawei Technologies Co.,Ltd
 0C:2F:B0		Samsung Electronics Co.,Ltd
@@ -18570,7 +18572,7 @@
 0C:7C:28		Nokia Solutions and Networks GmbH & Co. KG
 0C:7D:7C		Kexiang Information Technology Co, Ltd.
 0C:7E:24		Garmin International
-0C:7F:B2		ARRIS Group, Inc.
+0C:7F:B2		Commscope
 0C:7F:ED		IEEE Registration Authority
 0C:7F:ED:00:00:00/28	Guangdong Tianshu New Energy Technology Co., Ltd
 0C:7F:ED:10:00:00/28	Toast, Inc.
@@ -18689,7 +18691,7 @@
 0C:B5:27		Huawei Technologies Co.,Ltd
 0C:B5:DE		Alcatel Lucent
 0C:B6:D2		D-Link International
-0C:B7:71		ARRIS Group, Inc.
+0C:B7:71		Commscope
 0C:B7:87		Huawei Technologies Co.,Ltd
 0C:B7:89		Honor Device Co., Ltd.
 0C:B8:15		Espressif Inc.
@@ -18785,7 +18787,7 @@
 0C:E9:36		ELIMOS srl
 0C:E9:9A		Atls Altec
 0C:EA:14		Ubiquiti Inc
-0C:EA:C9		ARRIS Group, Inc.
+0C:EA:C9		Commscope
 0C:EC:80		Texas Instruments
 0C:EC:84		Shenzhen TINNO Mobile Technology Corp.
 0C:EC:8D		Motorola Mobility LLC, a Lenovo Company
@@ -18820,7 +18822,7 @@
 0C:F4:75		Zliide Technologies ApS
 0C:F4:D5		Ruckus Wireless
 0C:F5:A4		Cisco Systems, Inc
-0C:F8:93		ARRIS Group, Inc.
+0C:F8:93		Commscope
 0C:F9:C0		Sky Uk Limited
 0C:FA:22		Flipper Devices Inc
 0C:FC:18		Huawei Technologies Co.,Ltd
@@ -18845,6 +18847,7 @@
 0C:FE:5D:E0:00:00/28	Newgreen Tech Co., Ltd.
 10:00:00		Private
 10:00:20		Apple, Inc.
+10:00:3B		Espressif Inc.
 10:00:5A		IBM Corp
 10:00:E8		National Semiconductor
 10:00:FD		LaonPeople
@@ -18853,7 +18856,7 @@
 10:02:B5		Intel Corporate
 10:04:C1		JD Cloud Computing Co., Ltd.
 10:05:01		Pegatron Corporation
-10:05:B1		ARRIS Group, Inc.
+10:05:B1		Commscope
 10:05:CA		Cisco Systems, Inc
 10:05:E1		Nokia
 10:06:1C		Espressif Inc.
@@ -18968,6 +18971,7 @@
 10:34:1B		Spacelink
 10:35:97		Qorvo Utrecht B.V.
 10:36:4A		Boston Dynamics
+10:36:AA		Vantiva - Connected Home
 10:37:11		Norbit Its
 10:38:1F		Sichuan AI-Link Technology Co., Ltd.
 10:39:17		Samsung Electronics Co.,Ltd
@@ -19026,7 +19030,7 @@
 10:54:D2:D0:00:00/28	Sun wealth technology corporation limited
 10:54:D2:E0:00:00/28	Cosmo Aiot Technology Co Ltd
 10:55:E4		Shenzhen Skyworth Digital  Technology  CO., Ltd
-10:56:11		ARRIS Group, Inc.
+10:56:11		Commscope
 10:56:CA		Peplink International Ltd.
 10:57:25		Cisco Systems, Inc
 10:58:87		Fiberhome Telecommunication Technologies Co.,LTD
@@ -19111,7 +19115,7 @@
 10:82:D7		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 10:83:B4		Sidora Srl
 10:83:D2		Microseven Systems, LLC
-10:86:8C		ARRIS Group, Inc.
+10:86:8C		Commscope
 10:86:F4		Huawei Device Co., Ltd.
 10:88:0F		Daruma Telecomunicações e Informática S.A.
 10:88:CE		Fiberhome Telecommunication Technologies Co.,LTD
@@ -19129,7 +19133,7 @@
 10:91:A8		Espressif Inc.
 10:91:D1		Intel Corporate
 10:92:66		Samsung Electronics Co.,Ltd
-10:93:97		ARRIS Group, Inc.
+10:93:97		Commscope
 10:93:E9		Apple, Inc.
 10:94:97		Logitech Hong Kong
 10:94:BB		Apple, Inc.
@@ -19264,7 +19268,7 @@
 10:DE:E4		automationNEXT GmbH
 10:DF:8B		Shenzhen CareDear Communication Technology Co.,Ltd
 10:DF:FC		Siemens AG
-10:E1:77		ARRIS Group, Inc.
+10:E1:77		Commscope
 10:E1:8E		Universal Global Scientific Industrial., Ltd
 10:E2:C9		Apple, Inc.
 10:E2:D5		Qi Hardware Inc.
@@ -19486,7 +19490,7 @@
 14:5A:83		Logi-D inc
 14:5A:FC		Liteon Technology Corporation
 14:5B:B9		ConMet
-14:5B:D1		ARRIS Group, Inc.
+14:5B:D1		Commscope
 14:5B:E1		nyantec GmbH
 14:5E:45		Bamboo Systems Group
 14:5E:69		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -19589,7 +19593,7 @@
 14:AB:56		Wuxi Funide Digital Co.,Ltd
 14:AB:C5		Intel Corporate
 14:AB:EC		Hewlett Packard Enterprise
-14:AB:F0		ARRIS Group, Inc.
+14:AB:F0		Commscope
 14:AC:60		Cloud Network Technology Singapore Pte. Ltd.
 14:AD:CA		China Mobile Iot Limited company
 14:AE:68		KLG Smartec
@@ -19625,7 +19629,7 @@
 14:BB:6E		Samsung Electronics Co.,Ltd
 14:BD:61		Apple, Inc.
 14:BE:FC		Nanjing Jiahao Technology Co., Ltd.
-14:C0:3E		ARRIS Group, Inc.
+14:C0:3E		Commscope
 14:C0:50		Guangdong Genius Technology Co., Ltd.
 14:C0:89		Dune Hd Ltd
 14:C0:A1		UCloud Technology Co., Ltd.
@@ -19650,13 +19654,13 @@
 14:CC:B3		Ao "Gk Nateks"
 14:CF:8D		Ohsung
 14:CF:92		Tp-Link Technologies Co.,Ltd.
-14:CF:E2		ARRIS Group, Inc.
+14:CF:E2		Commscope
 14:D0:0D		Apple, Inc.
 14:D1:1F		Huawei Technologies Co.,Ltd
 14:D1:69		Huawei Technologies Co.,Ltd
 14:D1:9E		Apple, Inc.
 14:D4:24		AzureWave Technology Inc.
-14:D4:FE		ARRIS Group, Inc.
+14:D4:FE		Commscope
 14:D6:4D		D-Link International
 14:D7:6E		CONCH ELECTRONIC Co.,Ltd
 14:D8:64		Tp-Link Technologies Co.,Ltd.
@@ -19743,7 +19747,7 @@
 18:20:32		Apple, Inc.
 18:20:4C		Kummler+Matter AG
 18:20:A6		Sage Co., Ltd.
-18:20:D5		ARRIS Group, Inc.
+18:20:D5		Commscope
 18:21:95		Samsung Electronics Co.,Ltd
 18:22:7E		Samsung Electronics Co.,Ltd
 18:26:49		Intel Corporate
@@ -19770,7 +19774,7 @@
 18:33:9D		Cisco Systems, Inc
 18:34:51		Apple, Inc.
 18:34:AF		Kaon Group Co., Ltd.
-18:35:D1		ARRIS Group, Inc.
+18:35:D1		Commscope
 18:36:72		Shaoxing ShunChuang Technology CO.,LTD
 18:36:FC		Elecsys International Corporation
 18:38:25		Wuhan Lingjiu High-tech Co.,Ltd.
@@ -19979,7 +19983,7 @@
 18:9B:A5:C0:00:00/28	Christ Electronic System GmbH
 18:9B:A5:D0:00:00/28	legendsky tech
 18:9B:A5:E0:00:00/28	Taiwan Name Plate Co.,LTD
-18:9C:27		ARRIS Group, Inc.
+18:9C:27		Commscope
 18:9C:2C		Dongguan Huayin Electronic Technology Co., Ltd.
 18:9C:5D		Cisco Systems, Inc
 18:9E:2C		Huawei Device Co., Ltd.
@@ -20035,7 +20039,7 @@
 18:B6:CC		We Corporation Inc.
 18:B6:F7		New Pos Technology Limited
 18:B7:9E		Invoxia
-18:B8:1F		ARRIS Group, Inc.
+18:B8:1F		Commscope
 18:B9:05		Hong Kong Bouffalo Lab Limited
 18:B9:6E		Dongguan Liesheng Electronic Co., Ltd.
 18:BB:1C		Huawei Device Co., Ltd.
@@ -20208,7 +20212,7 @@
 1C:13:38		Kimball Electronics Group, LLC
 1C:13:86		Huawei Device Co., Ltd.
 1C:13:FA		Huawei Device Co., Ltd.
-1C:14:48		ARRIS Group, Inc.
+1C:14:48		Commscope
 1C:14:B3		Airwire Technologies
 1C:15:1F		Huawei Technologies Co.,Ltd
 1C:17:D3		Cisco Systems, Inc
@@ -20218,7 +20222,7 @@
 1C:1A:C0		Apple, Inc.
 1C:1A:DF		Microsoft Corporation
 1C:1B:0D		Giga-Byte Technology Co.,Ltd.
-1C:1B:68		ARRIS Group, Inc.
+1C:1B:68		Commscope
 1C:1B:B5		Intel Corporate
 1C:1C:FD		Dalian Hi-Think Computer Technology, Corp
 1C:1D:67		Huawei Technologies Co.,Ltd
@@ -20510,7 +20514,7 @@
 1C:91:79		Integrated System Technologies Ltd
 1C:91:80		Apple, Inc.
 1C:91:9D		Dongguan Liesheng Electronic Co., Ltd.
-1C:93:7C		ARRIS Group, Inc.
+1C:93:7C		Commscope
 1C:93:C4		Amazon Technologies Inc.
 1C:94:92		RUAG Schweiz AG
 1C:95:5D		I-Lax Electronics Inc.
@@ -20842,7 +20846,7 @@
 20:3B:69		vivo Mobile Communication Co., Ltd.
 20:3C:AE		Apple, Inc.
 20:3C:C0		Beijing Tosee Technology Co., Ltd.
-20:3D:66		ARRIS Group, Inc.
+20:3D:66		Commscope
 20:3D:B2		Huawei Technologies Co.,Ltd
 20:3D:BD		LG Innotek
 20:40:05		feno GmbH
@@ -20918,7 +20922,7 @@
 20:6F:EC		Braemac CA LLC
 20:71:9E		SF Technology Co.,Ltd
 20:72:A9		Beijing Xiaomi Electronics Co.,Ltd
-20:73:55		ARRIS Group, Inc.
+20:73:55		Commscope
 20:74:54		vivo Mobile Communication Co., Ltd.
 20:74:CF		Shenzhen Voxtech Co.,Ltd
 20:76:00		Actiontec Electronics, Inc
@@ -21091,7 +21095,7 @@
 20:E4:07		Spark srl
 20:E4:6F		vivo Mobile Communication Co., Ltd.
 20:E5:2A		Netgear
-20:E5:64		ARRIS Group, Inc.
+20:E5:64		Commscope
 20:E6:DF		eero inc.
 20:E7:91		Siemens Healthcare Diagnostics, Inc
 20:E7:B6		Universal Electronics, Inc.
@@ -21106,9 +21110,9 @@
 20:F0:02		MTData Developments Pty. Ltd.
 20:F0:94		Google, Inc.
 20:F1:7C		Huawei Technologies Co.,Ltd
-20:F1:9E		ARRIS Group, Inc.
+20:F1:9E		Commscope
 20:F3:07		zte corporation
-20:F3:75		ARRIS Group, Inc.
+20:F3:75		Commscope
 20:F3:A3		Huawei Technologies Co.,Ltd
 20:F4:1B		Shenzhen Bilian electronic CO.,LTD
 20:F4:4F		Nokia
@@ -21144,7 +21148,7 @@
 24:09:95		Huawei Technologies Co.,Ltd
 24:0A:11		TCT mobile ltd
 24:0A:3F		Samsung Electronics Co.,Ltd
-24:0A:63		ARRIS Group, Inc.
+24:0A:63		Commscope
 24:0A:64		AzureWave Technology Inc.
 24:0A:C4		Espressif Inc.
 24:0B:0A		Palo Alto Networks
@@ -21395,7 +21399,7 @@
 24:94:42		Open Road Solutions , Inc.
 24:94:93		FibRSol Global Network Limited
 24:94:94		Hong Kong Bouffalo Lab Limited
-24:94:CB		ARRIS Group, Inc.
+24:94:CB		Commscope
 24:95:04		Sfr
 24:95:2F		Google, Inc.
 24:96:D5		NEXCON Technology Co.,ltd.
@@ -21409,7 +21413,7 @@
 24:9F:89		Texas Instruments
 24:A0:74		Apple, Inc.
 24:A1:60		Espressif Inc.
-24:A1:86		ARRIS Group, Inc.
+24:A1:86		Commscope
 24:A2:E1		Apple, Inc.
 24:A3:F0		IEEE Registration Authority
 24:A3:F0:00:00:00/28	Shanghai AYAN Industry System Co.L,td
@@ -21782,7 +21786,7 @@
 28:77:B1		Tri plus grupa d.o.o.
 28:77:F1		Apple, Inc.
 28:79:94		Realplay Digital Technology(Shenzhen) Co.,Ltd
-28:7A:EE		ARRIS Group, Inc.
+28:7A:EE		Commscope
 28:7B:09		zte corporation
 28:7C:DB		Hefei  Toycloud Technology Co.,ltd
 28:7E:80		Hui Zhou Gaoshengda Technology Co.,LTD
@@ -21904,7 +21908,7 @@
 28:C7:18		Altierre
 28:C7:CE		Cisco Systems, Inc
 28:C8:25		DellKing Industrial Co., Ltd
-28:C8:7A		ARRIS Group, Inc.
+28:C8:7A		Commscope
 28:C8:7C		zte corporation
 28:C9:14		Taimag Corporation
 28:CA:09		ThyssenKrupp Elevators (Shanghai) Co.,Ltd
@@ -22001,7 +22005,7 @@
 28:F5:37:C0:00:00/28	Matricx Singapore Pte Ltd
 28:F5:37:D0:00:00/28	Skyrockettoys LLC
 28:F5:37:E0:00:00/28	Performance Motion Devices
-28:F5:D1		ARRIS Group, Inc.
+28:F5:D1		Commscope
 28:F6:06		Syes srl
 28:F7:D6		Fiberhome Telecommunication Technologies Co.,LTD
 28:F8:C6		IEEE Registration Authority
@@ -22062,7 +22066,7 @@
 2C:00:2A		Shenzhen TINNO Mobile Technology Corp.
 2C:00:2C		Unowhy
 2C:00:33		EControls, LLC
-2C:00:AB		ARRIS Group, Inc.
+2C:00:AB		Commscope
 2C:00:F7		Xos
 2C:01:0B		NASCENT Technology, LLC - RemKon
 2C:01:B5		Cisco Systems, Inc
@@ -22116,7 +22120,7 @@
 2C:1A:31		Electronics Company Limited
 2C:1B:C8		Hunan Topview Network System CO.,LTD
 2C:1C:F6		Alien Green LLC
-2C:1D:B8		ARRIS Group, Inc.
+2C:1D:B8		Commscope
 2C:1E:4F		Chengdu Qianli Network Technology Co., Ltd.
 2C:1E:EA		Aerodev
 2C:1F:23		Apple, Inc.
@@ -22257,7 +22261,7 @@
 2C:57:31		Wingtech Group (HongKong）Limited
 2C:57:41		Cisco Systems, Inc
 2C:57:CE		Apple, Inc.
-2C:58:4F		ARRIS Group, Inc.
+2C:58:4F		Commscope
 2C:58:B9		HP Inc.
 2C:58:E8		Huawei Technologies Co.,Ltd
 2C:59:8A		LG Electronics (Mobile Communications)
@@ -22348,7 +22352,7 @@
 2C:7B:A0		Intel Corporate
 2C:7C:E4		Wuhan Tianyu Information Industry Co., Ltd.
 2C:7C:F2		Apple, Inc.
-2C:7E:81		ARRIS Group, Inc.
+2C:7E:81		Commscope
 2C:7E:CF		Onzo Ltd
 2C:80:65		HARTING Inc. of North America
 2C:81:58		Hon Hai Precision Ind. Co.,Ltd.
@@ -22366,7 +22370,7 @@
 2C:93:FB		Sercomm France Sarl
 2C:94:52		Huawei Technologies Co.,Ltd
 2C:94:64		Cincoze Co., Ltd.
-2C:95:69		ARRIS Group, Inc.
+2C:95:69		Commscope
 2C:95:7F		zte corporation
 2C:96:62		Invenit BV
 2C:96:82		MitraStar Technology Corp.
@@ -22374,14 +22378,14 @@
 2C:97:B1		Huawei Technologies Co.,Ltd
 2C:97:ED		Sony Imaging Products & Solutions Inc.
 2C:98:11		Cloud Network Technology Singapore Pte. Ltd.
-2C:99:24		ARRIS Group, Inc.
+2C:99:24		Commscope
 2C:99:75		Samsung Electronics Co.,Ltd
 2C:9A:A4		Eolo SpA
 2C:9C:58		Cloud Network Technology Singapore Pte. Ltd.
 2C:9D:1E		Huawei Technologies Co.,Ltd
 2C:9D:65		vivo Mobile Communication Co., Ltd.
 2C:9E:00		Sony Interactive Entertainment Inc.
-2C:9E:5F		ARRIS Group, Inc.
+2C:9E:5F		Commscope
 2C:9E:E0		Cavli Inc.
 2C:9E:EC		Jabil Circuit Penang
 2C:9E:FC		Canon Inc.
@@ -22389,7 +22393,7 @@
 2C:A0:2F		Veroguard Systems Pty Ltd
 2C:A0:42		Huawei Device Co., Ltd.
 2C:A1:57		acromate, Inc.
-2C:A1:7D		ARRIS Group, Inc.
+2C:A1:7D		Commscope
 2C:A2:B4		Fortify Technologies, LLC
 2C:A3:0E		Power Dragon Development Limited
 2C:A3:27		Oraimo Technology Limited
@@ -22774,7 +22778,7 @@
 30:5D:A6		ADVALY SYSTEM Inc.
 30:5F:77		New H3C Technologies Co., Ltd
 30:60:0A		Cig Shanghai Co Ltd
-30:60:23		ARRIS Group, Inc.
+30:60:23		Commscope
 30:61:12		PAV GmbH
 30:61:18		Paradom Inc.
 30:63:6B		Apple, Inc.
@@ -23062,7 +23066,7 @@
 34:1B:2D		Cisco Systems, Inc
 34:1C:F0		Xiaomi Communications Co Ltd
 34:1E:6B		Huawei Technologies Co.,Ltd
-34:1F:E4		ARRIS Group, Inc.
+34:1F:E4		Commscope
 34:20:03		Shenzhen Feitengyun Technology Co.,LTD
 34:20:E3		Ruckus Wireless
 34:21:09		Jensen Scandinavia AS
@@ -23225,7 +23229,7 @@
 34:78:77		O-Net Communications (Shenzhen) Limited
 34:78:D7		Gionee Communication Equipment Co.,Ltd.
 34:79:16		Huawei Technologies Co.,Ltd
-34:7A:60		ARRIS Group, Inc.
+34:7A:60		Commscope
 34:7C:25		Apple, Inc.
 34:7D:E4		Shenzhen Bilian Electronic Co.，Ltd
 34:7D:F6		Intel Corporate
@@ -23632,7 +23636,7 @@
 38:4B:5B		Ztron Technology Limited
 38:4B:76		AIRTAME ApS
 38:4C:4F		Huawei Technologies Co.,Ltd
-38:4C:90		ARRIS Group, Inc.
+38:4C:90		Commscope
 38:4F:49		Juniper Networks
 38:4F:F0		AzureWave Technology Inc.
 38:52:1A		Nokia
@@ -23672,13 +23676,13 @@
 38:68:DD		Inventec Corporation
 38:6A:77		Samsung Electronics Co.,Ltd
 38:6B:1C		Shenzhen Mercury Communication Technologies Co.,Ltd.
-38:6B:BB		ARRIS Group, Inc.
+38:6B:BB		Commscope
 38:6C:9B		Ivy Biomedical
 38:6E:21		Wasion Group Ltd.
 38:6E:88		zte corporation
 38:6E:A2		vivo Mobile Communication Co., Ltd.
 38:6F:6B		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
-38:70:0C		ARRIS Group, Inc.
+38:70:0C		Commscope
 38:71:DE		Apple, Inc.
 38:72:C0		Comtrend Corporation
 38:73:EA		IEEE Registration Authority
@@ -23994,7 +23998,7 @@
 3C:01:EF		Sony Corporation
 3C:02:68		Infinera, Inc.
 3C:02:B1		Creation Technologies LP
-3C:04:61		ARRIS Group, Inc.
+3C:04:61		Commscope
 3C:04:BF		PRAVIS SYSTEMS Co.Ltd.,
 3C:05:18		Samsung Electronics Co.,Ltd
 3C:05:8E		Huawei Technologies Co.,Ltd
@@ -24095,7 +24099,7 @@
 3C:35:76		Itel Mobile Limited
 3C:36:3D		Nokia Corporation
 3C:36:6A		Huawei Technologies Co.,Ltd
-3C:36:E4		ARRIS Group, Inc.
+3C:36:E4		Commscope
 3C:37:12		AVM Audiovisuelles Marketing und Computersysteme GmbH
 3C:37:86		Netgear
 3C:38:24		Xiaomi Communications Co Ltd
@@ -24142,7 +24146,7 @@
 3C:42:7E:C0:00:00/28	Privacy Labs
 3C:42:7E:D0:00:00/28	Robox Smart Motion (Wuhu) Co.,Ltd
 3C:42:7E:E0:00:00/28	Xiaoniu network technology (Shanghai) Co., Ltd.
-3C:43:8E		ARRIS Group, Inc.
+3C:43:8E		Commscope
 3C:45:0B		Sentry Equipment Corp.
 3C:45:7A		Sky Uk Limited
 3C:46:45		Shanghai Infinity Wireless Technologies Co.,Ltd.
@@ -24226,13 +24230,13 @@
 3C:70:59		MakerBot Industries
 3C:71:BF		Espressif Inc.
 3C:74:37		Rim
-3C:75:4A		ARRIS Group, Inc.
+3C:75:4A		Commscope
 3C:76:25		zte corporation
 3C:77:E6		Hon Hai Precision Ind. Co.,Ltd.
 3C:78:43		Huawei Technologies Co.,Ltd
 3C:78:73		Airsonics
 3C:79:2B		Dongguan Auklink TechnologyCo.,Ltd
-3C:7A:8A		ARRIS Group, Inc.
+3C:7A:8A		Commscope
 3C:7A:AA		China Dragon Technology Limited
 3C:7A:C4		Chemtronics
 3C:7A:F0		Itel Mobile Limited
@@ -24398,7 +24402,7 @@
 3C:DD:57		Apple, Inc.
 3C:DD:89		Somo Holdings & Tech. Co.,Ltd.
 3C:DF:1E		Cisco Systems, Inc
-3C:DF:A9		ARRIS Group, Inc.
+3C:DF:A9		Commscope
 3C:DF:BD		Huawei Technologies Co.,Ltd
 3C:E0:02		Texas Instruments
 3C:E0:38		Omnifi Inc.
@@ -24473,7 +24477,7 @@
 40:06:A0		Texas Instruments
 40:06:D5		Cisco Systems, Inc
 40:07:C0		Railtec Systems GmbH
-40:0D:10		ARRIS Group, Inc.
+40:0D:10		Commscope
 40:0E:67		Tremol Ltd.
 40:0E:85		Samsung Electro-Mechanics(Thailand)
 40:0E:F3		zte corporation
@@ -24524,7 +24528,7 @@
 40:27:0B		Mobileeco Co., Ltd
 40:28:14		RFI Engineering
 40:2A:8F		Shanghai High-Flying Electronics  Technology Co., Ltd
-40:2B:50		ARRIS Group, Inc.
+40:2B:50		Commscope
 40:2B:69		Kumho Electric Inc.
 40:2B:A1		Sony Corporation
 40:2C:76		IEEE Registration Authority
@@ -24550,6 +24554,7 @@
 40:30:04		Apple, Inc.
 40:30:59		Silicon Laboratories
 40:30:67		Conlog (Pty) Ltd
+40:31:1B		Genbyte Technology Inc.
 40:31:3C		XIAOMI Electronics,CO.,LTD
 40:32:9D		Union Image Co.,Ltd
 40:33:06		Taicang T&W Electronics
@@ -24598,7 +24603,7 @@
 40:4A:03		Zyxel Communications Corporation
 40:4A:18		Addrek Smart Solutions
 40:4A:D4		Widex A/S
-40:4C:77		ARRIS Group, Inc.
+40:4C:77		Commscope
 40:4C:CA		Espressif Inc.
 40:4D:7F		Apple, Inc.
 40:4D:8E		Huawei Technologies Co.,Ltd
@@ -24646,7 +24651,7 @@
 40:6C:8F		Apple, Inc.
 40:6F:27		Huawei Technologies Co.,Ltd
 40:6F:2A		BlackBerry RTS
-40:70:09		ARRIS Group, Inc.
+40:70:09		Commscope
 40:70:4A		Power Idea Technology Limited
 40:70:74		Life Technology (China) Co., Ltd
 40:70:F5		Apple, Inc.
@@ -24771,7 +24776,7 @@
 40:B6:B1		SUNGSAM CO,.Ltd
 40:B6:E7		Huawei Device Co., Ltd.
 40:B7:0E		Huawei Device Co., Ltd.
-40:B7:F3		ARRIS Group, Inc.
+40:B7:F3		Commscope
 40:B7:FC		Phyplus Microelectronics Limited
 40:B8:2D		Ruckus Wireless
 40:B8:37		Sony Corporation
@@ -25393,7 +25398,7 @@
 40:F9:D5		Tecore Networks
 40:FA:7F		Preh Car Connect GmbH
 40:FA:FE		Motorola Mobility LLC, a Lenovo Company
-40:FC:89		ARRIS Group, Inc.
+40:FC:89		Commscope
 40:FD:F3		AMPAK Technology,Inc.
 40:FE:0D		Maxio
 40:FE:95		New H3C Technologies Co., Ltd
@@ -25482,7 +25487,7 @@
 44:32:C8		Vantiva USA LLC
 44:33:4C		Shenzhen Bilian electronic CO.,LTD
 44:34:8F		Mxt Industrial Ltda
-44:34:A7		ARRIS Group, Inc.
+44:34:A7		Commscope
 44:35:6F		Neterix Ltd
 44:35:83		Apple, Inc.
 44:35:D3		GD Midea Air-Conditioning Equipment Co.,Ltd.
@@ -25565,7 +25570,7 @@
 44:68:0C		Wacom Co.,Ltd.
 44:68:AB		Juin Company, Limited
 44:6A:2E		Huawei Technologies Co.,Ltd
-44:6A:B7		ARRIS Group, Inc.
+44:6A:B7		Commscope
 44:6B:1F		Texas Instruments
 44:6C:24		Reallin Electronic Co.,Ltd
 44:6D:05		NoTraffic
@@ -25682,7 +25687,7 @@
 44:AA:27		udworks Co., Ltd.
 44:AA:50		Juniper Networks
 44:AA:E8		Nanotec Electronic GmbH & Co. KG
-44:AA:F5		ARRIS Group, Inc.
+44:AA:F5		Commscope
 44:AD:19		Xingfei （H.K）Limited
 44:AD:B1		Sagemcom Broadband SAS
 44:AD:D9		Cisco Systems, Inc
@@ -25774,7 +25779,7 @@
 44:DC:CB		Semindia Systems Pvt Ltd
 44:DF:65		Beijing Xiaomi Mobile Software Co., Ltd
 44:E0:8E		Cisco SPVTG
-44:E1:37		ARRIS Group, Inc.
+44:E1:37		Commscope
 44:E2:F1		NewRadio Technologies Co. , Ltd.
 44:E2:F8		Silicon Laboratories
 44:E4:9A		Omnitronics Pty Ltd
@@ -25938,7 +25943,7 @@
 48:4C:29		Huawei Technologies Co.,Ltd
 48:4C:86		Huawei Device Co., Ltd.
 48:4D:7E		Dell Inc.
-48:4E:FC		ARRIS Group, Inc.
+48:4E:FC		Commscope
 48:50:73		Microsoft Corporation
 48:51:69		Samsung Electronics Co.,Ltd
 48:51:B7		Intel Corporate
@@ -26081,6 +26086,7 @@
 48:91:F6		Shenzhen Reach software technology CO.,LTD
 48:93:DC		Uniway Infocom Pvt Ltd
 48:95:07		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
+48:96:D9		zte corporation
 48:98:CA		Sichuan AI-Link Technology Co., Ltd.
 48:9A:42		Technomate Ltd
 48:9A:5B		Shenzhen iComm Semiconductor CO.,LTD
@@ -26164,7 +26170,7 @@
 48:D1:8E		Metis Communication Co.,Ltd
 48:D2:24		Liteon Technology Corporation
 48:D2:4F		Sagemcom Broadband SAS
-48:D3:43		ARRIS Group, Inc.
+48:D3:43		Commscope
 48:D3:5D		Private
 48:D4:75		Lampuga GmbH
 48:D5:39		Huawei Technologies Co.,Ltd
@@ -26322,7 +26328,7 @@
 4C:11:59		Vision Information & Communications
 4C:11:AE		Espressif Inc.
 4C:11:BF		Zhejiang Dahua Technology Co., Ltd.
-4C:12:65		ARRIS Group, Inc.
+4C:12:65		Commscope
 4C:12:E8		Vietnam Post And Telecommunication Industry Technology Join Stock Company
 4C:13:65		Emplus Technologies
 4C:14:80		Noregon Systems, Inc
@@ -26372,7 +26378,7 @@
 4C:34:88		Intel Corporate
 4C:36:4E		Panasonic Connect Co., Ltd.
 4C:38:D5		Mitac Computing Technology Corporation
-4C:38:D8		ARRIS Group, Inc.
+4C:38:D8		Commscope
 4C:39:09		HPL Electric & Power Private Limited
 4C:39:10		Newtek Electronics co., Ltd.
 4C:39:46		Samsung Electronics Co.,Ltd
@@ -27014,7 +27020,7 @@
 50:70:E5		He Shan World Fair Electronics Technology Limited
 50:72:24		Texas Instruments
 50:72:4D		BEG Brueck Electronic GmbH
-50:75:F1		ARRIS Group, Inc.
+50:75:F1		Commscope
 50:76:91		Tekpea, Inc.
 50:76:A6		Ecil Informatica Ind. Com. Ltda
 50:76:AF		Intel Corporate
@@ -27057,7 +27063,7 @@
 50:91:E3		TP-Link Corporation Limited
 50:92:B9		Samsung Electronics Co.,Ltd
 50:93:4F		Gradual Tecnologia Ltda.
-50:95:51		ARRIS Group, Inc.
+50:95:51		Commscope
 50:97:07		Xiamen Paperang Technology Co.,Ltd.
 50:97:44		Integrated Device Technology (Malaysia) Sdn. Bhd.
 50:97:72		Westinghouse Digital
@@ -27113,7 +27119,7 @@
 50:A4:D0:C0:00:00/28	Beijing YangLian Networks Technology co., LTD
 50:A4:D0:D0:00:00/28	Axel Technology
 50:A4:D0:E0:00:00/28	Sagetech Corporation
-50:A5:DC		ARRIS Group, Inc.
+50:A5:DC		Commscope
 50:A6:7F		Apple, Inc.
 50:A6:D8		Apple, Inc.
 50:A6:E3		David Clark Company
@@ -27356,6 +27362,7 @@
 54:2A:1B		Sonos, Inc.
 54:2A:9C		LSY Defense, LLC.
 54:2A:A2		Alpha Networks Inc.
+54:2B:1C		Amazon Technologies Inc.
 54:2B:57		Night Owl SP
 54:2B:8D		Apple, Inc.
 54:2B:DE		New H3C Technologies Co., Ltd
@@ -27433,7 +27440,7 @@
 54:64:D9		Sagemcom Broadband SAS
 54:64:DE		u-blox AG
 54:65:03		Quectel Wireless Solutions Co.,Ltd.
-54:65:DE		ARRIS Group, Inc.
+54:65:DE		Commscope
 54:66:6C		Shenzhen YOUHUA Technology Co., Ltd
 54:66:F9		ConMet
 54:67:06		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -27639,7 +27646,7 @@
 54:E1:AD		LCFC(Hefei) Electronics Technology co., ltd
 54:E1:B6		Renesas Electronics (Penang) Sdn. Bhd.
 54:E2:C8		Dongguan Aoyuan Electronics Technology Co., Ltd
-54:E2:E0		ARRIS Group, Inc.
+54:E2:E0		Commscope
 54:E3:B0		JVL Industri Elektronik
 54:E3:F6		Alcatel-Lucent
 54:E4:3A		Apple, Inc.
@@ -27710,7 +27717,7 @@
 58:16:26		Avaya Inc
 58:16:D7		Alpsalpine Co,.Ltd
 58:17:0C		Sony Corporation
-58:19:F8		ARRIS Group, Inc.
+58:19:F8		Commscope
 58:1C:BD		Affinegy
 58:1C:F8		Intel Corporate
 58:1D:91		Advanced Mobile Telecom co.,ltd.
@@ -27832,7 +27839,7 @@
 58:55:CA		Apple, Inc.
 58:56:9F		Cisco Systems, Inc
 58:56:C2		Huawei Technologies Co.,Ltd
-58:56:E8		ARRIS Group, Inc.
+58:56:E8		Commscope
 58:57:0D		Danfoss Solar Inverters
 58:58:CD		Extreme Networks Headquarters
 58:59:24		Nanjing Simon Info Tech Co.,Ltd.
@@ -27840,7 +27847,7 @@
 58:5B:69		Tvt Co., Ltd
 58:5F:F6		zte corporation
 58:60:5F		Huawei Technologies Co.,Ltd
-58:60:D8		ARRIS Group, Inc.
+58:60:D8		Commscope
 58:61:63		Quantum Networks (SG) Pte. Ltd.
 58:63:56		Fn-Link Technology Limited
 58:63:9A		Tpl Systemes
@@ -28246,7 +28253,7 @@
 5C:55:78		iryx corp
 5C:56:A4		Wanan Hongsheng Electronic Co.Ltd
 5C:56:ED		3pleplay Electronics Private Limited
-5C:57:1A		ARRIS Group, Inc.
+5C:57:1A		Commscope
 5C:57:9E		Chiun Mai Communication System, Inc
 5C:57:C8		Nokia Corporation
 5C:58:19		Jingsheng Technology Co., Ltd.
@@ -28390,7 +28397,7 @@
 5C:8D:4E		Apple, Inc.
 5C:8E:8B		Shenzhen Linghai Electronics Co.,Ltd
 5C:8F:40		Tecno Mobile Limited
-5C:8F:E0		ARRIS Group, Inc.
+5C:8F:E0		Commscope
 5C:90:12		Owl Cyber Defense Solutions, LLC
 5C:91:57		Huawei Technologies Co.,Ltd
 5C:91:75		Apple, Inc.
@@ -28430,7 +28437,7 @@
 5C:AD:CF		Apple, Inc.
 5C:AF:06		LG Electronics (Mobile Communications)
 5C:B0:0A		Huawei Technologies Co.,Ltd
-5C:B0:66		ARRIS Group, Inc.
+5C:B0:66		Commscope
 5C:B1:2E		Cisco Systems, Inc
 5C:B1:3E		Sagemcom Broadband SAS
 5C:B1:5F		Oceanblue Cloud Technology Limited
@@ -28508,7 +28515,7 @@
 5C:E2:86		Nortel Networks
 5C:E2:8C		Zyxel Communications Corporation
 5C:E2:F4		AcSiP Technology Corp.
-5C:E3:0E		ARRIS Group, Inc.
+5C:E3:0E		Commscope
 5C:E3:B6		Fiberhome Telecommunication Technologies Co.,LTD
 5C:E4:2A		Intel Corporate
 5C:E5:0C		Beijing Xiaomi Mobile Software Co., Ltd
@@ -28645,7 +28652,7 @@
 60:19:0C		Rramac
 60:19:29		Voltronic Power Technology(Shenzhen) Corp.
 60:19:70		Huizhou Qiaoxing Electronics Technology Co., Ltd.
-60:19:71		ARRIS Group, Inc.
+60:19:71		Commscope
 60:1A:4F		Beijing China Electronics Intelligent Acoustics Technology Co.,Ltd
 60:1A:C7		Nintendo Co.,Ltd
 60:1B:52		Vodafone Italia S.p.A.
@@ -28807,7 +28814,7 @@
 60:8C:2B		Hanson Technology
 60:8C:4A		Apple, Inc.
 60:8C:DF		Beamtrail-Sole Proprietorship
-60:8C:E6		ARRIS Group, Inc.
+60:8C:E6		Commscope
 60:8D:17		Sentrus Government Systems Division, Inc
 60:8D:26		Arcadyan Corporation
 60:8E:08		Samsung Electronics Co.,Ltd
@@ -28816,7 +28823,7 @@
 60:90:84		DSSD Inc
 60:91:F3		vivo Mobile Communication Co., Ltd.
 60:92:17		Apple, Inc.
-60:92:F5		ARRIS Group, Inc.
+60:92:F5		Commscope
 60:93:16		Apple, Inc.
 60:95:32		Zebra Technologies Inc.
 60:95:BD		Apple, Inc.
@@ -28938,7 +28945,7 @@
 60:D0:A9		Samsung Electronics Co.,Ltd
 60:D1:AA		Vishal Telecommunications Pvt Ltd
 60:D2:1C		Sunnovo International Limited
-60:D2:48		ARRIS Group, Inc.
+60:D2:48		Commscope
 60:D2:62		Tzukuri Pty Ltd
 60:D2:B9		Realand Bio Co., Ltd.
 60:D2:DD		Shenzhen Baitong Putian Technology Co.,Ltd.
@@ -29035,7 +29042,7 @@
 64:00:9C		Insulet Corporation
 64:00:F1		Cisco Systems, Inc
 64:01:FB		Landis+Gyr GmbH
-64:02:CB		ARRIS Group, Inc.
+64:02:CB		Commscope
 64:03:7F		Samsung Electronics Co.,Ltd
 64:05:52		China Post Communication Equipment Co.,
 64:05:BE		New Light Led
@@ -29061,7 +29068,7 @@
 64:11:A4		Motorola Mobility LLC, a Lenovo Company
 64:12:25		Cisco Systems, Inc
 64:12:36		Vantiva USA LLC
-64:12:69		ARRIS Group, Inc.
+64:12:69		Commscope
 64:13:31		Bosch Car Multimedia (Wuhu) Co. Ltd.
 64:13:5A		Itectra A/S
 64:13:6C		zte corporation
@@ -29177,7 +29184,7 @@
 64:54:22		Equinox Payments
 64:55:63		Q-Free America, Inc.
 64:55:7F		NSFOCUS Information Technology Co., Ltd.
-64:55:B1		ARRIS Group, Inc.
+64:55:B1		Commscope
 64:56:01		Tp-Link Technologies Co.,Ltd.
 64:57:25		Hui Zhou Gaoshengda Technology Co.,LTD
 64:57:E5		Beijing Royaltech Co.,Ltd
@@ -29421,7 +29428,7 @@
 64:EA:C5		SiboTech Automation Co., Ltd.
 64:EB:8C		Seiko Epson Corporation
 64:EC:65		vivo Mobile Communication Co., Ltd.
-64:ED:57		ARRIS Group, Inc.
+64:ED:57		Commscope
 64:ED:62		WOORI SYSTEMS Co., Ltd
 64:EE:B7		Netis Technology Co., Ltd.
 64:F0:AD		Zhejiang Tmall Technology Co., Ltd.
@@ -29518,7 +29525,7 @@
 68:2F:67		Apple, Inc.
 68:31:FE		Teladin Co.,Ltd.
 68:33:2C		Kenstel Networks Limited
-68:33:EE		ARRIS Group, Inc.
+68:33:EE		Commscope
 68:34:21		Intel Corporate
 68:34:89		LEA Professional
 68:35:63		Shenzhen Liown Electronics Co.,Ltd.
@@ -30060,7 +30067,7 @@
 6C:62:6D		Micro-Star INT'L CO., LTD
 6C:62:86		Nokia
 6C:62:FE		Juniper Networks
-6C:63:9C		ARRIS Group, Inc.
+6C:63:9C		Commscope
 6C:64:1A		Penguin Computing
 6C:65:67		BELIMO Automation AG
 6C:67:EF		Huawei Technologies Co.,Ltd
@@ -30151,7 +30158,7 @@
 6C:A3:67		Avlinkpro
 6C:A4:01		essensys plc
 6C:A4:D1		Fiberhome Telecommunication Technologies Co.,LTD
-6C:A6:04		ARRIS Group, Inc.
+6C:A6:04		Commscope
 6C:A6:82		EDAM information & communications
 6C:A7:5F		zte corporation
 6C:A7:80		Nokia Corporation
@@ -30200,7 +30207,7 @@
 6C:BE:E9		Alcatel-Lucent IPD
 6C:BF:B5		Noon Technology Co., Ltd
 6C:C1:47		Xiamen Hanin Electronic Technology Co., Ltd
-6C:C1:D2		ARRIS Group, Inc.
+6C:C1:D2		Commscope
 6C:C2:17		Hewlett Packard
 6C:C2:42		Shenzhen Skyworth Digital  Technology  CO., Ltd
 6C:C2:6B		Apple, Inc.
@@ -30211,7 +30218,7 @@
 6C:C4:D5		HMD Global Oy
 6C:C6:3B		Taicang T&W Electronics
 6C:C7:EC		Samsung Electro-Mechanics(Thailand)
-6C:CA:08		ARRIS Group, Inc.
+6C:CA:08		Commscope
 6C:CD:D6		Netgear
 6C:CE:44		1More
 6C:CF:39		Guangdong Starfive Technology Co., Ltd.
@@ -30438,7 +30445,7 @@
 70:4E:6B		Huawei Technologies Co.,Ltd
 70:4F:08		Shenzhen Huisheng Information Technology Co., Ltd.
 70:4F:57		Tp-Link Technologies Co.,Ltd.
-70:4F:B8		ARRIS Group, Inc.
+70:4F:B8		Commscope
 70:50:AF		Sky Uk Limited
 70:50:E7		IEEE Registration Authority
 70:50:E7:00:00:00/28	Shenzhen C & D Electronics Co., Ltd.
@@ -30459,7 +30466,7 @@
 70:52:C5		Avaya Inc
 70:52:D8		Itel Mobile Limited
 70:53:3F		Alfa Instrumentos Eletronicos Ltda.
-70:54:25		ARRIS Group, Inc.
+70:54:25		Commscope
 70:54:64		Silicon Laboratories
 70:54:B4		Vestel Elektronik San ve Tic. A.S.
 70:54:D2		Pegatron Corporation
@@ -30553,7 +30560,7 @@
 70:73:62		Huawei Technologies Co.,Ltd
 70:73:CB		Apple, Inc.
 70:74:14		Murata Manufacturing Co., Ltd.
-70:76:30		ARRIS Group, Inc.
+70:76:30		Commscope
 70:76:DD		OxyGuard Internation A/S
 70:76:F0		LevelOne Communications (India) Private Limited
 70:76:FF		Kerlink
@@ -30569,7 +30576,7 @@
 70:7D:95		Shenzhen City LinwlanTechnology Co. Ltd.
 70:7D:AF		Plucent AB
 70:7D:B9		Cisco Systems, Inc
-70:7E:43		ARRIS Group, Inc.
+70:7E:43		Commscope
 70:7E:DE		Nastec Ltd.
 70:7F:F2		Telechips, Inc.
 70:81:05		Cisco Systems, Inc
@@ -30580,7 +30587,7 @@
 70:85:40		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 70:85:C2		ASRock Incorporation
 70:85:C4		Ruijie Networks Co.,LTD
-70:85:C6		ARRIS Group, Inc.
+70:85:C6		Commscope
 70:86:C1		Texas Instruments
 70:86:CE		GD Midea Air-Conditioning Equipment Co.,Ltd.
 70:87:9E		Beken Corporation
@@ -30653,7 +30660,7 @@
 70:B0:35		Shenzhen Zowee Technology Co., Ltd
 70:B0:8C		Shenou Communication Equipment Co.,Ltd
 70:B1:3D		Samsung Electronics Co.,Ltd
-70:B1:4E		ARRIS Group, Inc.
+70:B1:4E		Commscope
 70:B2:65		Hiltron s.r.l.
 70:B3:06		Apple, Inc.
 70:B3:17		Cisco Systems, Inc
@@ -34812,7 +34819,7 @@
 70:DE:E2		Apple, Inc.
 70:DE:F9		Fai Wah International (Hong Kong) Limited
 70:DF:2F		Cisco Systems, Inc
-70:DF:F7		ARRIS Group, Inc.
+70:DF:F7		Commscope
 70:E0:27		Hongyu Communication Technology Limited
 70:E1:39		3view Ltd
 70:E1:FD		Flextronics
@@ -35039,7 +35046,7 @@
 74:54:27		Shenzhen Fast Technologies Co.,Ltd
 74:54:6B		hangzhou zhiyi communication co., ltd
 74:54:7D		Cisco SPVTG
-74:56:12		ARRIS Group, Inc.
+74:56:12		Commscope
 74:56:3C		Giga-Byte Technology Co.,Ltd.
 74:57:98		TRUMPF Laser GmbH + Co. KG
 74:58:89		Multilaser Industrial S.A.
@@ -35141,7 +35148,7 @@
 74:88:8B		ADB Broadband Italia
 74:88:A8		Bouffalo Lab (Nanjing) Co., Ltd.
 74:88:BB		Cisco Systems, Inc
-74:8A:0D		ARRIS Group, Inc.
+74:8A:0D		Commscope
 74:8A:28		HMD Global Oy
 74:8A:69		Korea Image Technology Co., Ltd
 74:8B:29		Micobiomed
@@ -35311,12 +35318,12 @@
 74:E6:B8		LG Electronics
 74:E6:E2		Dell Inc.
 74:E7:98		Juniper Networks
-74:E7:C6		ARRIS Group, Inc.
+74:E7:C6		Commscope
 74:E9:BF		Huawei Technologies Co.,Ltd
 74:EA:3A		Tp-Link Technologies Co.,Ltd.
 74:EA:C8		New H3C Technologies Co., Ltd
 74:EA:CB		New H3C Technologies Co., Ltd
-74:EA:E8		ARRIS Group, Inc.
+74:EA:E8		Commscope
 74:EB:80		Samsung Electronics Co.,Ltd
 74:EC:42		Fiberhome Telecommunication Technologies Co.,LTD
 74:EC:B2		Amazon Technologies Inc.
@@ -35329,7 +35336,7 @@
 74:F1:02		Beijing HCHCOM Technology Co., Ltd
 74:F2:FA		Xiaomi Communications Co Ltd
 74:F4:13		Maxwell Forest
-74:F6:12		ARRIS Group, Inc.
+74:F6:12		Commscope
 74:F6:1C		HTC Corporation
 74:F6:61		Schneider Electric Fire & Security Oy
 74:F7:26		Neuron Robotics
@@ -35434,7 +35441,7 @@
 78:22:3D		Affirmed Networks
 78:22:88		Shenzhen Bilian Electronic Co.，Ltd
 78:23:27		Samsung Electronics Co.,Ltd
-78:23:AE		ARRIS Group, Inc.
+78:23:AE		Commscope
 78:24:59		Alcatel-Lucent Enterprise
 78:24:AF		ASUSTek COMPUTER INC.
 78:25:44		Omnima Limited
@@ -35584,7 +35591,7 @@
 78:68:29		eero inc.
 78:68:F7		YSTen Technology Co.,Ltd
 78:69:D4		Shenyang Vibrotech Instruments Inc.
-78:6A:1F		ARRIS Group, Inc.
+78:6A:1F		Commscope
 78:6A:89		Huawei Technologies Co.,Ltd
 78:6C:1C		Apple, Inc.
 78:6C:84		Amazon Technologies Inc.
@@ -35593,7 +35600,7 @@
 78:6D:EB		GE Lighting
 78:70:52		Welotec GmbH
 78:71:04		Sichuan Tianyi Comheart Telecom Co.,LTD
-78:71:9C		ARRIS Group, Inc.
+78:71:9C		Commscope
 78:72:5D		Cisco Systems, Inc
 78:72:64		IEEE Registration Authority
 78:72:64:00:00:00/28	SmartMore Co.,ltd.
@@ -35651,11 +35658,12 @@
 78:91:E9		Raisecom Technology CO., LTD
 78:92:3E		Nokia Corporation
 78:92:9C		Intel Corporate
+78:93:C3		Hui Zhou Gaoshengda Technology Co.,LTD
 78:94:B4		Sercomm Corporation.
 78:94:E8		Radio Bridge
 78:95:EB		Itel Mobile Limited
 78:96:82		zte corporation
-78:96:84		ARRIS Group, Inc.
+78:96:84		Commscope
 78:96:A3		Extreme Networks Headquarters
 78:97:C3		Dingxin Information Technology Co.,Ltd
 78:98:E8		D-Link International
@@ -35976,7 +35984,7 @@
 7C:25:86		Juniper Networks
 7C:25:87		chaowifi.com
 7C:25:DA		Fn-Link Technology Limited
-7C:26:34		ARRIS Group, Inc.
+7C:26:34		Commscope
 7C:26:64		Sagemcom Broadband SAS
 7C:27:3C		Shenzhen Yunlink Technology Co., Ltd
 7C:27:BC		Hui Zhou Gaoshengda Technology Co.,LTD
@@ -36282,7 +36290,7 @@
 7C:BF:77		Speedtech Corp.
 7C:BF:88		Mobilicom LTD
 7C:BF:AE		Renesas Electronics (Penang) Sdn. Bhd.
-7C:BF:B1		ARRIS Group, Inc.
+7C:BF:B1		Commscope
 7C:C0:25		Palo Alto Networks
 7C:C0:6F		Apple, Inc.
 7C:C0:AA		Microsoft Corporation
@@ -36665,7 +36673,7 @@
 80:95:62		Extreme Networks Headquarters
 80:96:21		Lenovo
 80:96:98		Apple, Inc.
-80:96:B1		ARRIS Group, Inc.
+80:96:B1		Commscope
 80:96:CA		Hon Hai Precision Ind. Co.,Ltd.
 80:97:1B		Altenergy Power System,Inc.
 80:97:33		Shenzhen Elebao Technology Co., Ltd
@@ -36799,7 +36807,7 @@
 80:E4:DA:D0:00:00/28	Dalian Roiland Technology Co.,Ltd
 80:E4:DA:E0:00:00/28	Akenori PTE LTD
 80:E4:DA:F0:00:00/28	Private
-80:E5:40		ARRIS Group, Inc.
+80:E5:40		Commscope
 80:E6:50		Apple, Inc.
 80:E8:2C		Hewlett Packard
 80:E8:6F		Cisco Systems, Inc
@@ -36818,7 +36826,7 @@
 80:F1:F1		Tech4home, Lda
 80:F2:5E		Kyynel
 80:F3:EF		Meta Platforms Technologies, LLC
-80:F5:03		ARRIS Group, Inc.
+80:F5:03		Commscope
 80:F5:93		IRCO Sistemas de Telecomunicación S.A.
 80:F5:AE		Hangzhou Hikvision Digital Technology Co.,Ltd.
 80:F5:B5		Texas Instruments
@@ -36986,7 +36994,7 @@
 84:5D:D7		Shenzhen Netcom Electronics Co.,Ltd
 84:5F:04		Samsung Electronics Co.,Ltd
 84:60:82		Hyperloop Technologies, Inc dba Virgin Hyperloop
-84:61:A0		ARRIS Group, Inc.
+84:61:A0		Commscope
 84:62:23		Shenzhen Coship Electronics Co., Ltd.
 84:62:A6		EuroCB (Phils), Inc.
 84:63:D6		Microsoft Corporation
@@ -37098,7 +37106,7 @@
 84:94:37		Apple, Inc.
 84:94:8C		Hitron Technologies. Inc
 84:96:81		Cathay Communication Co.,Ltd
-84:96:D8		ARRIS Group, Inc.
+84:96:D8		Commscope
 84:97:B8		Memjet Inc.
 84:98:66		Samsung Electronics Co.,Ltd
 84:9A:40		Hangzhou Hikvision Digital Technology Co.,Ltd.
@@ -37173,7 +37181,7 @@
 84:BA:3B		Canon Inc.
 84:BA:59		Wistron InfoComm(Chongqing)Co.,Ltd.
 84:BB:26		Texas Instruments
-84:BB:69		ARRIS Group, Inc.
+84:BB:69		Commscope
 84:BE:52		Huawei Technologies Co.,Ltd
 84:BE:8B		Chengdu Geeker Technology Co., Ltd.
 84:C0:EF		Samsung Electronics Co.,Ltd
@@ -37223,7 +37231,7 @@
 84:DE:3D		Crystal Vision Ltd
 84:DF:0C		Net2Grid Bv
 84:DF:19		Chuango Security Technology Corporation
-84:E0:58		ARRIS Group, Inc.
+84:E0:58		Commscope
 84:E0:F4		IEEE Registration Authority
 84:E0:F4:00:00:00/28	ShenZhen Panrich Technology Limited
 84:E0:F4:10:00:00/28	MedicusTek Inc.
@@ -37494,7 +37502,7 @@
 88:70:33		Hangzhou Silan Microelectronic Inc
 88:70:8C		Lenovo Mobile Communication Technology Ltd.
 88:70:EF		SC Professional Trading Co., Ltd.
-88:71:B1		ARRIS Group, Inc.
+88:71:B1		Commscope
 88:71:E5		Amazon Technologies Inc.
 88:73:84		Toshiba
 88:73:98		K2E Tekpoint
@@ -37542,7 +37550,7 @@
 88:94:8F		Xi'an Zhisensor Technologies Co.,Ltd
 88:94:F9		Gemicom Technology, Inc.
 88:95:B9		Unified Packet Systems Crop
-88:96:4E		ARRIS Group, Inc.
+88:96:4E		Commscope
 88:96:55		Zitte corporation
 88:96:76		TTC MARCONI s.r.o.
 88:96:B6		Global Fire Equipment S.A.
@@ -37718,7 +37726,7 @@
 88:E9:A4		Hewlett Packard Enterprise
 88:E9:FE		Apple, Inc.
 88:ED:1C		Cudo Communication Co., Ltd.
-88:EF:16		ARRIS Group, Inc.
+88:EF:16		Commscope
 88:F0:0F		Miraeil
 88:F0:31		Cisco Systems, Inc
 88:F0:77		Cisco Systems, Inc
@@ -37764,7 +37772,7 @@
 8C:08:79		Texas Instruments
 8C:08:8B		Remote Solution
 8C:08:AA		Apple, Inc.
-8C:09:F4		ARRIS Group, Inc.
+8C:09:F4		Commscope
 8C:0C:87		Nokia
 8C:0C:90		Ruckus Wireless
 8C:0C:A3		Amper
@@ -38036,6 +38044,7 @@
 8C:1F:64:18:60:00/36	Breas Medical AB
 8C:1F:64:18:70:00/36	Sicon srl
 8C:1F:64:18:B0:00/36	M-Pulse GmbH & Co.KG
+8C:1F:64:18:E0:00/36	J1-LED Intelligent Transport Systems Pty Ltd
 8C:1F:64:19:30:00/36	Sicon srl
 8C:1F:64:19:40:00/36	Tiflex
 8C:1F:64:19:50:00/36	VERIDAS Digital Authentication Solutions S.L
@@ -38535,6 +38544,7 @@
 8C:1F:64:5B:E0:00/36	Benchmark Electronics BV
 8C:1F:64:5C:30:00/36	R3Vox Ltd
 8C:1F:64:5C:40:00/36	Cooltera Limited
+8C:1F:64:5C:50:00/36	Active Research Limited
 8C:1F:64:5C:60:00/36	Systems With Intelligence Inc.
 8C:1F:64:5C:90:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:5C:B0:00/36	dinosys
@@ -39445,6 +39455,7 @@
 8C:1F:64:D4:90:00/36	Future Life Technology
 8C:1F:64:D4:A0:00/36	Caproc Oy
 8C:1F:64:D4:D0:00/36	Liburdi Dimetrics Corp.
+8C:1F:64:D4:E0:00/36	Magnatek ApS
 8C:1F:64:D4:F0:00/36	Henan Creatbot Technology Limited
 8C:1F:64:D5:10:00/36	ZIGEN Lighting Solution co., ltd.
 8C:1F:64:D5:20:00/36	Critical Software SA
@@ -39891,11 +39902,11 @@
 8C:59:8B		C Technologies AB
 8C:59:C3		ADB Italia
 8C:59:DC		ASR Microelectronics (Shanghai) Co., Ltd.
-8C:5A:25		ARRIS Group, Inc.
+8C:5A:25		Commscope
 8C:5A:C1		Huawei Device Co., Ltd.
 8C:5A:F0		Exeltech Solar Products
 8C:5A:F8		Beijing Xiaomi Electronics Co., Ltd.
-8C:5B:F0		ARRIS Group, Inc.
+8C:5B:F0		Commscope
 8C:5C:20		Vantiva USA LLC
 8C:5C:A1		d-broad,INC
 8C:5D:60		UCI Corporation Co.,Ltd.
@@ -39925,7 +39936,7 @@
 8C:60:E7		Mpgio Co.,Ltd
 8C:61:02		Beijing Baofengmojing Technologies Co., Ltd
 8C:61:20		EM Microelectronic
-8C:61:A3		ARRIS Group, Inc.
+8C:61:A3		Commscope
 8C:64:0B		Beyond Devices d.o.o.
 8C:64:22		Sony Corporation
 8C:64:A2		OnePlus Technology (Shenzhen) Co., Ltd
@@ -39948,7 +39959,7 @@
 8C:71:F8		Samsung Electronics Co.,Ltd
 8C:73:6E		Fujitsu Limited
 8C:73:A0		Fiberhome Telecommunication Technologies Co.,LTD
-8C:76:3F		ARRIS Group, Inc.
+8C:76:3F		Commscope
 8C:76:C1		Goden Tech Limited
 8C:77:12		Samsung Electronics Co.,Ltd
 8C:77:16		Longcheer Telecommunication Limited
@@ -39966,7 +39977,7 @@
 8C:7C:B5		Hon Hai Precision Ind. Co.,Ltd.
 8C:7C:FF		Brocade Communications Systems LLC
 8C:7E:B3		Lytro, Inc.
-8C:7F:3B		ARRIS Group, Inc.
+8C:7F:3B		Commscope
 8C:81:26		Arcom
 8C:81:72		Sichuan Tianyi Comheart Telecom Co.,LTD
 8C:82:A8		Insigma Technology Co.,Ltd
@@ -40212,7 +40223,7 @@
 90:0C:B4		Alinket Electronic Technology Co., Ltd
 90:0C:C8		Google, Inc.
 90:0D:66		Digimore Electronics Co., Ltd
-90:0D:CB		ARRIS Group, Inc.
+90:0D:CB		Commscope
 90:0E:83		Monico Monitoring, Inc.
 90:0E:9E		Shenzhen SuperElectron Technology Co.,Ltd.
 90:0E:B3		Shenzhen Amediatech Technology Co., Ltd.
@@ -40248,7 +40259,7 @@
 90:18:AE		Shanghai Meridian Technologies, Co. Ltd.
 90:19:00		Scs Sa
 90:1A:4F		EM Microelectronic
-90:1A:CA		ARRIS Group, Inc.
+90:1A:CA		Commscope
 90:1B:0E		Fujitsu Technology Solutions GmbH
 90:1D:27		zte corporation
 90:1E:DD		Great Computer Corporation
@@ -40302,7 +40313,7 @@
 90:3D:6B		Zicon Technology Corp.
 90:3D:BD		Secure Meters Limited
 90:3E:7F		Fiberhome Telecommunication Technologies Co.,LTD
-90:3E:AB		ARRIS Group, Inc.
+90:3E:AB		Commscope
 90:3F:EA		Huawei Technologies Co.,Ltd
 90:43:E2		Cornami, Inc
 90:45:06		Tokyo Boeki Medisys Inc.
@@ -40445,7 +40456,7 @@
 90:90:60		Rsi Video Technologies
 90:91:64		ChongQing Lavid Technology Co., Ltd.
 90:92:B4		Diehl BGT Defence GmbH & Co. KG
-90:93:5A		ARRIS Group, Inc.
+90:93:5A		Commscope
 90:94:0A		Analog Devices, Inc
 90:94:97		Huawei Technologies Co.,Ltd
 90:94:E4		D-Link International
@@ -40460,7 +40471,7 @@
 90:9A:77		Texas Instruments
 90:9B:6F		Apple, Inc.
 90:9C:4A		Apple, Inc.
-90:9D:7D		ARRIS Group, Inc.
+90:9D:7D		Commscope
 90:9D:AC		Infinix mobility limited
 90:9D:E0		Newland Design + Assoc. Inc.
 90:9E:24		ekey biometric systems gmbh
@@ -40511,7 +40522,7 @@
 90:AF:D1		netKTI Co., Ltd
 90:B0:ED		Apple, Inc.
 90:B1:1C		Dell Inc.
-90:B1:34		ARRIS Group, Inc.
+90:B1:34		Commscope
 90:B1:44		Samsung Electronics Co.,Ltd
 90:B1:E0		Beijing Nebula Link Technology Co., Ltd
 90:B2:1F		Apple, Inc.
@@ -40551,7 +40562,7 @@
 90:C6:82:E0:00:00/28	Shanghai HuRong Communication Technology Development Co., Ltd.
 90:C6:82:F0:00:00/28	Private
 90:C7:10		zte corporation
-90:C7:92		ARRIS Group, Inc.
+90:C7:92		Commscope
 90:C7:D8		zte corporation
 90:C9:9B		Tesorion Nederland B.V.
 90:CA:FA		Google, Inc.
@@ -40819,7 +40830,7 @@
 94:60:D5		Hewlett Packard Enterprise
 94:61:1E		Wata Electronics Co.,Ltd.
 94:61:24		Pason Systems
-94:62:69		ARRIS Group, Inc.
+94:62:69		Commscope
 94:63:72		vivo Mobile Communication Co., Ltd.
 94:63:D1		Samsung Electronics Co.,Ltd
 94:64:24		Hewlett Packard Enterprise
@@ -40853,7 +40864,7 @@
 94:85:7A		Evantage Industries Corp
 94:86:CD		Seoul Electronics&Telecom
 94:86:D4		Surveillance Pro Corporation
-94:87:7C		ARRIS Group, Inc.
+94:87:7C		Commscope
 94:87:E0		Xiaomi Communications Co Ltd
 94:88:15		Infinique Worldwide Inc
 94:88:54		Texas Instruments
@@ -40867,7 +40878,7 @@
 94:8D:EF		Oetiker Schweiz AG
 94:8E:89		Industrias Unidas Sa De Cv
 94:8E:D3		Arista Networks
-94:8F:CF		ARRIS Group, Inc.
+94:8F:CF		Commscope
 94:8F:EE		Verizon Telematics
 94:90:10		Huawei Technologies Co.,Ltd
 94:90:34		Shenzhen Chuangwei-Rgb Electronics Co.,Ltd
@@ -40906,6 +40917,7 @@
 94:A7:48		New H3C Technologies Co., Ltd
 94:A7:B7		zte corporation
 94:A7:BC		BodyMedia, Inc.
+94:A9:90		Espressif Inc.
 94:A9:A8		Texas Instruments
 94:AA:0A		Fiberhome Telecommunication Technologies Co.,LTD
 94:AA:B8		Joview(Beijing) Technology Co. Ltd.
@@ -40994,7 +41006,7 @@
 94:CC:04:C0:00:00/28	Shanxi Baixin Information Technology Co., Ltd.
 94:CC:04:D0:00:00/28	Hanzhuo Information Technology(Shanghai) Ltd.
 94:CC:04:E0:00:00/28	SynchronicIT BV
-94:CC:B9		ARRIS Group, Inc.
+94:CC:B9		Commscope
 94:CD:AC		Creowave Oy
 94:CE:0F		Huawei Device Co., Ltd.
 94:CE:2C		Sony Corporation
@@ -41050,7 +41062,7 @@
 94:E7:11		Xirka Dama Persada PT
 94:E7:EA		Huawei Technologies Co.,Ltd
 94:E8:48		Fylde Micro Ltd
-94:E8:C5		ARRIS Group, Inc.
+94:E8:C5		Commscope
 94:E9:6A		Apple, Inc.
 94:E9:79		Liteon Technology Corporation
 94:E9:8C		Nokia
@@ -41267,7 +41279,7 @@
 98:4A:47		CHG Hospital Beds
 98:4A:6B		Ruijie Networks Co.,LTD
 98:4B:06		Huawei Technologies Co.,Ltd
-98:4B:4A		ARRIS Group, Inc.
+98:4B:4A		Commscope
 98:4B:E1		Hewlett Packard
 98:4C:04		Zhangzhou Keneng Electrical Equipment Co Ltd
 98:4C:D3		Mantis Deposition
@@ -41303,7 +41315,7 @@
 98:66:EA		Industrial Control Communications, Inc.
 98:67:2E		Skullcandy
 98:69:8A		Apple, Inc.
-98:6B:3D		ARRIS Group, Inc.
+98:6B:3D		Commscope
 98:6C:5C		Jiangxi Gosun Guard Security Co.,Ltd
 98:6C:F5		zte corporation
 98:6D:35		IEEE Registration Authority
@@ -41560,8 +41572,8 @@
 98:F5:37		zte corporation
 98:F5:A9		Ohsung
 98:F6:21		Xiaomi Communications Co Ltd
-98:F7:81		ARRIS Group, Inc.
-98:F7:D7		ARRIS Group, Inc.
+98:F7:81		Commscope
+98:F7:D7		Commscope
 98:F8:C1		IDT Technology Limited
 98:F8:DB		Marini Impianti Industriali s.r.l.
 98:F9:C7		IEEE Registration Authority
@@ -41687,7 +41699,7 @@
 9C:31:C3		Sky Uk Limited
 9C:32:A9		Sichuan Tianyi Comheart Telecom Co.,LTD
 9C:32:CE		Canon Inc.
-9C:34:26		ARRIS Group, Inc.
+9C:34:26		Commscope
 9C:35:83		Nipro Diagnostics, Inc
 9C:35:EB		Apple, Inc.
 9C:36:F8		Hyundai Kefico
@@ -41937,7 +41949,7 @@
 9C:C8:93		Juniper Networks
 9C:C8:AE		Becton, Dickinson  and Company
 9C:C8:E9		Amazon Technologies Inc.
-9C:C8:FC		ARRIS Group, Inc.
+9C:C8:FC		Commscope
 9C:C9:50		Baumer Holding
 9C:C9:EB		Netgear
 9C:CA:D9		Nokia Corporation
@@ -42236,7 +42248,7 @@ A0:52:AB		Avm Electronics Pte Ltd
 A0:53:94		Shenzhen zediel co., Ltd.
 A0:55:1F		Sagemcom Broadband SAS
 A0:55:4F		Cisco Systems, Inc
-A0:55:DE		ARRIS Group, Inc.
+A0:55:DE		Commscope
 A0:56:B2		Harman/Becker Automotive Systems GmbH
 A0:56:F3		Apple, Inc.
 A0:57:E3		Huawei Technologies Co.,Ltd
@@ -42260,7 +42272,7 @@ A0:67:20		China Dragon Technology Limited
 A0:67:BE		Sicon srl
 A0:67:D6		Nokia
 A0:68:1C		GD Midea Air-Conditioning Equipment Co.,Ltd.
-A0:68:7E		ARRIS Group, Inc.
+A0:68:7E		Commscope
 A0:69:74		Honor Device Co., Ltd.
 A0:69:86		Wellav Technologies Ltd
 A0:69:D9		New H3C Technologies Co., Ltd
@@ -42409,7 +42421,7 @@ A0:C2:0D		Huawei Device Co., Ltd.
 A0:C2:DE		Costar Video Systems
 A0:C3:DE		Triton Electronic Systems Ltd.
 A0:C4:A5		Sygn House Inc.
-A0:C5:62		ARRIS Group, Inc.
+A0:C5:62		Commscope
 A0:C5:89		Intel Corporate
 A0:C5:F2		IEEE Registration Authority
 A0:C5:F2:00:00:00/28	Quantlab Financial, LLC
@@ -42476,7 +42488,7 @@ A0:E5:E9		enimai Inc
 A0:E6:17		Matis
 A0:E6:F8		Texas Instruments
 A0:E7:0B		Intel Corporate
-A0:E7:AE		ARRIS Group, Inc.
+A0:E7:AE		Commscope
 A0:E9:DB		Ningbo FreeWings Technologies Co.,Ltd
 A0:EB:76		AirCUVE Inc.
 A0:EC:80		zte corporation
@@ -42513,11 +42525,12 @@ A0:FF:70		Vantiva USA LLC
 A4:00:4E		Cisco Systems, Inc
 A4:00:E2		Huawei Technologies Co.,Ltd
 A4:01:30		ABIsystems Co., LTD
+A4:02:B7		Amazon Technologies Inc.
 A4:02:B9		Intel Corporate
 A4:04:50		nFore Technology Inc.
 A4:05:6E		Tiinlab Corporation
 A4:05:9E		STA Infinity LLP
-A4:05:D6		ARRIS Group, Inc.
+A4:05:D6		Commscope
 A4:06:E9		Texas Instruments
 A4:07:B6		Samsung Electronics Co.,Ltd
 A4:08:01		Amazon Technologies Inc.
@@ -42558,7 +42571,7 @@ A4:12:42		NEC Platforms, Ltd.
 A4:13:4E		Luxul
 A4:14:37		Hangzhou Hikvision Digital Technology Co.,Ltd.
 A4:15:66		Weifang Goertek Electronics Co.,Ltd
-A4:15:88		ARRIS Group, Inc.
+A4:15:88		Commscope
 A4:16:C0		Apple, Inc.
 A4:16:E7		Huawei Technologies Co.,Ltd
 A4:17:31		Hon Hai Precision Ind. Co.,Ltd.
@@ -42641,7 +42654,7 @@ A4:40:27		zte corporation
 A4:40:3D		Shenzhen Baseus Technology Co., Ltd.
 A4:42:3B		Intel Corporate
 A4:43:80		Huawei Device Co., Ltd.
-A4:43:8C		ARRIS Group, Inc.
+A4:43:8C		Commscope
 A4:44:D1		Wingtech Group (HongKong）Limited
 A4:45:19		Xiaomi Communications Co Ltd
 A4:45:CD		IoT Diagnostics
@@ -42747,6 +42760,7 @@ A4:6D:33		Phyplus Technology (Shanghai) Co., Ltd
 A4:6D:A4		Huawei Technologies Co.,Ltd
 A4:6D:D4		Silicon Laboratories
 A4:6E:79		DFT System Co.Ltd
+A4:6E:A7		Dx Antenna Co.,Ltd.
 A4:70:D6		Motorola Mobility LLC, a Lenovo Company
 A4:71:74		Huawei Technologies Co.,Ltd
 A4:73:AB		Extreme Networks Headquarters
@@ -42759,7 +42773,7 @@ A4:78:06		Cisco Systems, Inc
 A4:78:86		Avaya Inc
 A4:79:52		Huawei Device Co., Ltd.
 A4:79:E4		KLINFO Corp
-A4:7A:A4		ARRIS Group, Inc.
+A4:7A:A4		Commscope
 A4:7A:CF		Vibicom Communications Inc.
 A4:7B:1A		Huawei Device Co., Ltd.
 A4:7B:2C		Nokia
@@ -42801,7 +42815,7 @@ A4:97:5C		VTech Telecommunications Ltd.
 A4:97:8A		Lear
 A4:97:B1		Chongqing Fugui Electronics Co.,Ltd.
 A4:97:BB		Hitachi Industrial Equipment Systems Co.,Ltd
-A4:98:13		ARRIS Group, Inc.
+A4:98:13		Commscope
 A4:99:47		Huawei Technologies Co.,Ltd
 A4:99:81		FuJian Elite Power Tech CO.,LTD.
 A4:9A:58		Samsung Electronics Co.,Ltd
@@ -42966,7 +42980,7 @@ A4:ED:43:B0:00:00/28	Paragon Business Solutions Ltd.
 A4:ED:43:C0:00:00/28	leakSMART
 A4:ED:43:D0:00:00/28	Brand New Brand Nordic AB
 A4:ED:43:E0:00:00/28	Toec Technology Co.，Ltd.
-A4:ED:4E		ARRIS Group, Inc.
+A4:ED:4E		Commscope
 A4:EE:57		Seiko Epson Corporation
 A4:EF:15		AltoBeam (China) Inc.
 A4:EF:52		Telewave Co., Ltd.
@@ -43006,7 +43020,7 @@ A8:0C:0D		Cisco Systems, Inc
 A8:0C:63		Huawei Technologies Co.,Ltd
 A8:0C:CA		Shenzhen Sundray Technologies Company Limited
 A8:10:87		Texas Instruments
-A8:11:FC		ARRIS Group, Inc.
+A8:11:FC		Commscope
 A8:13:06		vivo Mobile Communication Co., Ltd.
 A8:13:74		Panasonic Corporation AVC Networks Company
 A8:15:4D		Tp-Link Technologies Co.,Ltd.
@@ -43169,7 +43183,7 @@ A8:6D:AA		Intel Corporate
 A8:6E:4E		Huawei Device Co., Ltd.
 A8:6E:84		Tp-Link Corporation Pte. Ltd.
 A8:6F:36		vivo Mobile Communication Co., Ltd.
-A8:70:5D		ARRIS Group, Inc.
+A8:70:5D		Commscope
 A8:70:A5		UniComm Inc.
 A8:71:16		Earda Technologies co Ltd
 A8:72:7E		WISDRI (wuhan) Automation Company Limited
@@ -43223,7 +43237,7 @@ A8:95:B0		Aker Subsea Ltd
 A8:96:09		FN-LINK TECHNOLOGY Ltd.
 A8:96:75		Motorola Mobility LLC, a Lenovo Company
 A8:96:8A		Apple, Inc.
-A8:97:CD		ARRIS Group, Inc.
+A8:97:CD		Commscope
 A8:97:DC		Ibm
 A8:98:92		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 A8:98:C6		Shinbo Co., Ltd.
@@ -43240,7 +43254,7 @@ A8:9C:ED		Xiaomi Communications Co Ltd
 A8:9D:21		Cisco Systems, Inc
 A8:9D:D2		Shanghai DareGlobal Technologies Co.,Ltd
 A8:9F:BA		Samsung Electronics Co.,Ltd
-A8:9F:EC		ARRIS Group, Inc.
+A8:9F:EC		Commscope
 A8:A0:89		Tactical Communications
 A8:A0:97		ScioTeq bvba
 A8:A1:59		ASRock Incorporation
@@ -43342,7 +43356,7 @@ A8:F2:66		Huawei Device Co., Ltd.
 A8:F2:74		Samsung Electronics Co.,Ltd
 A8:F4:70		Fujian Newland Communication Science Technologies Co.,Ltd.
 A8:F5:AC		Huawei Technologies Co.,Ltd
-A8:F5:DD		ARRIS Group, Inc.
+A8:F5:DD		Commscope
 A8:F5:E1		Shenzhen Shokz Co., Ltd.
 A8:F7:66		ITE Tech Inc
 A8:F7:D9		Mist Systems, Inc.
@@ -43688,7 +43702,7 @@ AC:AE:19		Roku, Inc
 AC:AF:B9		Samsung Electronics Co.,Ltd
 AC:B1:81		Belden Mooresville
 AC:B1:EE		Shenzhen Fenda Technology Co., Ltd
-AC:B3:13		ARRIS Group, Inc.
+AC:B3:13		Commscope
 AC:B3:B5		Huawei Technologies Co.,Ltd
 AC:B4:80		Dell Inc.
 AC:B5:66		Renesas Electronics (Penang) Sdn. Bhd.
@@ -43751,7 +43765,7 @@ AC:D8:29		Bouffalo Lab (Nanjing) Co., Ltd.
 AC:D8:A7		BELLDESIGN Inc.
 AC:D9:D6		tci GmbH
 AC:DB:22		Marquardt Schaltsysteme SCS
-AC:DB:48		ARRIS Group, Inc.
+AC:DB:48		Commscope
 AC:DB:DA		Shenzhen Geniatech Inc, Ltd
 AC:DC:CA		Huawei Technologies Co.,Ltd
 AC:DC:E5		Procter & Gamble Company
@@ -43779,7 +43793,7 @@ AC:E9:AA		Hay Systems Ltd
 AC:EA:6A		Genix Infocomm Co., Ltd.
 AC:EA:EA		Huawei Technologies Co.,Ltd
 AC:EB:51		Universal Electronics, Inc.
-AC:EC:80		ARRIS Group, Inc.
+AC:EC:80		Commscope
 AC:EC:85		eero inc.
 AC:ED:32		Extreme Networks Headquarters
 AC:ED:5C		Intel Corporate
@@ -43798,7 +43812,7 @@ AC:F5:E6		Cisco Systems, Inc
 AC:F6:F7		LG Electronics (Mobile Communications)
 AC:F7:F3		Xiaomi Communications Co Ltd
 AC:F8:5C		Chengdu Higon Integrated Circuit Design Co,. Ltd.
-AC:F8:CC		ARRIS Group, Inc.
+AC:F8:CC		Commscope
 AC:F9:70		Huawei Technologies Co.,Ltd
 AC:F9:7E		Elesys Inc.
 AC:FA:A5		digitron
@@ -43917,8 +43931,10 @@ B0:47:5E:30:00:00/28	Qsic Pty Ltd
 B0:47:5E:40:00:00/28	Annapurna labs
 B0:47:5E:50:00:00/28	Omnitech Security
 B0:47:5E:60:00:00/28	DRS Sustainment Systems, Inc.
+B0:47:5E:70:00:00/28	MK Vision Joint Stock Company
 B0:47:5E:80:00:00/28	Shri Mohan Ji International
 B0:47:5E:90:00:00/28	MIVO Technology AB
+B0:47:5E:A0:00:00/28	Shenzhen Jointelli Technologies Co.,Ltd
 B0:47:5E:B0:00:00/28	Bright Oceans Inter-Telecom Corporation
 B0:47:5E:D0:00:00/28	Netitest
 B0:47:BF		Samsung Electronics Co.,Ltd
@@ -43954,7 +43970,7 @@ B0:5B:99		Sagemcom Broadband SAS
 B0:5C:16		Fiberhome Telecommunication Technologies Co.,LTD
 B0:5C:DA		HP Inc.
 B0:5C:E5		Nokia Corporation
-B0:5D:D4		ARRIS Group, Inc.
+B0:5D:D4		Commscope
 B0:60:88		Intel Corporate
 B0:61:C7		Ericsson-LG Enterprise
 B0:65:3A		Murata Manufacturing Co., Ltd.
@@ -43981,7 +43997,7 @@ B0:75:0C		QA Cafe
 B0:75:4D		Nokia
 B0:75:D5		zte corporation
 B0:76:1B		Huawei Technologies Co.,Ltd
-B0:77:AC		ARRIS Group, Inc.
+B0:77:AC		Commscope
 B0:78:39		GD Midea Air-Conditioning Equipment Co.,Ltd.
 B0:78:70		Wi-NEXT, Inc.
 B0:78:F0		Beijing HuaqinWorld Technology Co.,Ltd.
@@ -44001,7 +44017,7 @@ B0:80:8C		Laser Light Engines
 B0:81:01		Honor Device Co., Ltd.
 B0:81:84		Espressif Inc.
 B0:81:D8		I-sys Corp
-B0:83:D6		ARRIS Group, Inc.
+B0:83:D6		Commscope
 B0:83:FE		Dell Inc.
 B0:86:9E		Chloride S.r.L
 B0:88:07		Strata Worldwide
@@ -44025,7 +44041,7 @@ B0:91:34		Taleo
 B0:91:37		ISis ImageStream Internet Solutions, Inc
 B0:92:00		Apple, Inc.
 B0:92:4A		Sagemcom Broadband SAS
-B0:93:5B		ARRIS Group, Inc.
+B0:93:5B		Commscope
 B0:95:75		Tp-Link Technologies Co.,Ltd.
 B0:95:8E		Tp-Link Technologies Co.,Ltd.
 B0:96:6C		Lanbowan Technology Ltd.
@@ -44163,7 +44179,7 @@ B0:D7:C5		Logipix Ltd
 B0:D7:CC		Tridonic GmbH & Co KG
 B0:D8:88		Panasonic Automotive Systems Co.,Ltd
 B0:DA:00		Cera Electronique
-B0:DA:F9		ARRIS Group, Inc.
+B0:DA:F9		Commscope
 B0:DC:EF		Intel Corporate
 B0:DD:74		Heimgard Technologies AS
 B0:DE:28		Apple, Inc.
@@ -44473,6 +44489,7 @@ B4:86:18		GX India Pvt Ltd
 B4:86:55		Huawei Technologies Co.,Ltd
 B4:89:01		Huawei Technologies Co.,Ltd
 B4:89:10		Coster T.E. S.P.A.
+B4:89:70		IGEN Tech Co., Ltd.
 B4:8A:0A		Espressif Inc.
 B4:8A:5F		Juniper Networks
 B4:8B:19		Apple, Inc.
@@ -44644,7 +44661,7 @@ B4:F0:AB		Apple, Inc.
 B4:F1:8C		Huawei Device Co., Ltd.
 B4:F1:DA		LG Electronics (Mobile Communications)
 B4:F2:67		Compal Broadband Networks, Inc.
-B4:F2:E8		ARRIS Group, Inc.
+B4:F2:E8		Commscope
 B4:F3:23		Petatel Inc.
 B4:F5:8E		Huawei Technologies Co.,Ltd
 B4:F6:1C		Apple, Inc.
@@ -44681,7 +44698,7 @@ B8:14:13		Keen High Holding(HK) Ltd.
 B8:14:4D		Apple, Inc.
 B8:14:5C		Huawei Device Co., Ltd.
 B8:14:DB		Ohsung
-B8:16:19		ARRIS Group, Inc.
+B8:16:19		Commscope
 B8:16:5F		LG Innotek
 B8:16:DB		Chant Sincere Co.,Ltd
 B8:17:C2		Apple, Inc.
@@ -45129,7 +45146,7 @@ BC:2C:55		Bear Flag Design, Inc.
 BC:2C:E6		Cisco Systems, Inc
 BC:2D:98		ThinGlobal LLC
 BC:2D:EF		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
-BC:2E:48		ARRIS Group, Inc.
+BC:2E:48		Commscope
 BC:2E:F6		Huawei Device Co., Ltd.
 BC:2F:3D		vivo Mobile Communication Co., Ltd.
 BC:30:5B		Dell Inc.
@@ -45225,7 +45242,7 @@ BC:54:F9		Drogoo Technology Co., Ltd.
 BC:54:FC		Shenzhen Mercury Communication Technologies Co.,Ltd.
 BC:57:29		Shenzhen KKM Co., Ltd
 BC:5A:56		Cisco Systems, Inc
-BC:5B:D5		ARRIS Group, Inc.
+BC:5B:D5		Commscope
 BC:5C:17		Qingdao Intelligent&Precise Electronics Co.,Ltd.
 BC:5C:4C		Elecom Co.,Ltd.
 BC:5D:A3		Sichuan Tianyi Comheart Telecom Co.,LTD
@@ -45242,7 +45259,7 @@ BC:62:9C		zte corporation
 BC:62:9F		Telenet Systems P. Ltd.
 BC:62:CE		Netis Technology Co., Ltd.
 BC:62:D2		Genexis International B.V.
-BC:64:4B		ARRIS Group, Inc.
+BC:64:4B		Commscope
 BC:64:D9		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 BC:66:41		IEEE Registration Authority
 BC:66:41:00:00:00/28	InSync Technology Ltd
@@ -45415,7 +45432,7 @@ BC:C6:DB		Nokia Corporation
 BC:C7:46		Hon Hai Precision IND.CO.,LTD
 BC:C7:DA		Earda Technologies co Ltd
 BC:C8:10		Cisco SPVTG
-BC:CA:B5		ARRIS Group, Inc.
+BC:CA:B5		Commscope
 BC:CD:45		Voismart
 BC:CD:7F		Huawei Device Co., Ltd.
 BC:CE:25		Nintendo Co.,Ltd
@@ -45490,7 +45507,7 @@ BC:FF:AC		Topcon Corporation
 BC:FF:EB		Motorola Mobility LLC, a Lenovo Company
 C0:02:8D		WINSTAR Display CO.,Ltd
 C0:03:80		Juniper Networks
-C0:05:C2		ARRIS Group, Inc.
+C0:05:C2		Commscope
 C0:06:0C		Huawei Technologies Co.,Ltd
 C0:06:C3		TP-Link Corporation Limited
 C0:07:4A		Brita GmbH
@@ -45710,6 +45727,7 @@ C0:84:7A		Apple, Inc.
 C0:84:7D		AMPAK Technology, Inc.
 C0:84:88		Finis Inc
 C0:84:E0		Huawei Technologies Co.,Ltd
+C0:84:FF		GD Midea Air-Conditioning Equipment Co.,Ltd.
 C0:85:4C		Ragentek Technology Group
 C0:86:B3		Shenzhen Voxtech Co., Ltd.
 C0:87:06		Shenzhen Qianfenyi Intelligent Technology Co.,LTD
@@ -45717,7 +45735,7 @@ C0:87:EB		Samsung Electronics Co.,Ltd
 C0:88:5B		SnD Tech Co., Ltd.
 C0:88:6D		Securosys SA
 C0:89:97		Samsung Electronics Co.,Ltd
-C0:89:AB		ARRIS Group, Inc.
+C0:89:AB		Commscope
 C0:8A:60		AltoBeam Inc.
 C0:8A:CD		Guangzhou Shiyuan Electronic Technology Company Limited
 C0:8A:DE		Ruckus Wireless
@@ -45733,7 +45751,7 @@ C0:91:32		Patriot Memory
 C0:91:34		ProCurve Networking by HP
 C0:91:B9		Amazon Technologies Inc.
 C0:92:96		zte corporation
-C0:94:35		ARRIS Group, Inc.
+C0:94:35		Commscope
 C0:94:AD		zte corporation
 C0:95:6D		Apple, Inc.
 C0:95:73		AIxLink
@@ -45770,7 +45788,7 @@ C0:9F:05		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 C0:9F:42		Apple, Inc.
 C0:9F:51		Sernet (Suzhou) Technologies Corporation
 C0:9F:E1		zte corporation
-C0:A0:0D		ARRIS Group, Inc.
+C0:A0:0D		Commscope
 C0:A0:BB		D-Link International
 C0:A0:C7		Fairfield Industries
 C0:A0:DE		Multi Touch Oy
@@ -45822,7 +45840,7 @@ C0:C1:C0		Cisco-Linksys, LLC
 C0:C3:B6		Automatic Systems
 C0:C4:F9		Qisda Corporation
 C0:C5:20		Ruckus Wireless
-C0:C5:22		ARRIS Group, Inc.
+C0:C5:22		Commscope
 C0:C5:69		Shanghai Lynuc Cnc Technology Co.,Ltd
 C0:C6:87		Cisco SPVTG
 C0:C7:0A		Ruckus Wireless
@@ -46577,7 +46595,7 @@ C8:3E:99		Texas Instruments
 C8:3E:9E		Huawei Device Co., Ltd.
 C8:3E:A7		KUNBUS GmbH
 C8:3F:26		Microsoft Corporation
-C8:3F:B4		ARRIS Group, Inc.
+C8:3F:B4		Commscope
 C8:40:29		Fiberhome Telecommunication Technologies Co.,LTD
 C8:40:52		PAX Computer Technology(Shenzhen) Ltd.
 C8:41:8A		Samsung Electronics.,LTD
@@ -46601,7 +46619,7 @@ C8:50:E9		Raisecom Technology CO., LTD
 C8:51:42		Samsung Electronics Co.,Ltd
 C8:51:95		Huawei Technologies Co.,Ltd
 C8:51:FB		Extreme Networks Headquarters
-C8:52:61		ARRIS Group, Inc.
+C8:52:61		Commscope
 C8:53:E1		Beijing Bytedance Network Technology Co., Ltd
 C8:54:4B		Zyxel Communications Corporation
 C8:54:A4		Infinix mobility limited
@@ -46653,7 +46671,7 @@ C8:63:14:C0:00:00/28	Freeus LLC
 C8:63:14:D0:00:00/28	Telematix AG
 C8:63:14:E0:00:00/28	Taylor Dynamometer
 C8:63:F1		Sony Interactive Entertainment Inc.
-C8:63:FC		ARRIS Group, Inc.
+C8:63:FC		Commscope
 C8:64:C7		zte corporation
 C8:66:2C		Beijing Haitai Fangyuan High Technology Co,.Ltd.
 C8:66:5D		Extreme Networks Headquarters
@@ -46802,7 +46820,7 @@ C8:A7:76		Huawei Technologies Co.,Ltd
 C8:A8:23		Samsung Electronics Co.,Ltd
 C8:A9:13		Lontium Semiconductor Corporation
 C8:A9:FC		Goyoo Networks Inc.
-C8:AA:21		ARRIS Group, Inc.
+C8:AA:21		Commscope
 C8:AA:55		Hunan Comtom Electronic Incorporated Co.,Ltd
 C8:AA:CC		Private
 C8:AE:9C		Shanghai TYD Elecronic Technology Co. Ltd
@@ -47096,7 +47114,7 @@ CC:3C:3F		SA.S.S. Datentechnik AG
 CC:3D:82		Intel Corporate
 CC:3D:D1		Huawei Technologies Co.,Ltd
 CC:3E:5F		Hewlett Packard
-CC:3E:79		ARRIS Group, Inc.
+CC:3E:79		Commscope
 CC:3F:1D		HMS Industrial Networks SLU
 CC:3F:36		Apple, Inc.
 CC:3F:8A		Komatsu Ltd.
@@ -47174,7 +47192,7 @@ CC:61:E5		Motorola Mobility LLC, a Lenovo Company
 CC:62:FE		Union Man Technology Co.,Ltd
 CC:64:1A		Shenzhen Bilian Electronic Co.，Ltd
 CC:64:A6		Huawei Technologies Co.,Ltd
-CC:65:AD		ARRIS Group, Inc.
+CC:65:AD		Commscope
 CC:66:0A		Apple, Inc.
 CC:66:18		Adtran Inc
 CC:66:B2		Nokia
@@ -47198,7 +47216,7 @@ CC:72:0F		Viscount Systems Inc.
 CC:72:86		Xi'an Fengyu Information Technology Co., Ltd.
 CC:73:14		Hong Kong Wheatek Technology Limited
 CC:74:98		Filmetrics Inc.
-CC:75:E2		ARRIS Group, Inc.
+CC:75:E2		Commscope
 CC:76:3A		zte corporation
 CC:76:69		Seetech
 CC:77:C9		Fiberhome Telecommunication Technologies Co.,LTD
@@ -47211,7 +47229,7 @@ CC:7A:30		CMAX Wireless Co., Ltd.
 CC:7B:35		zte corporation
 CC:7B:5C		Espressif Inc.
 CC:7B:61		Nikkiso Co., Ltd.
-CC:7D:37		ARRIS Group, Inc.
+CC:7D:37		Commscope
 CC:7D:5B		Telink Semiconductor (Shanghai) Co., Ltd.
 CC:7E:0F		Theben AG
 CC:7E:E7		Panasonic Corporation AVC Networks Company
@@ -47270,7 +47288,7 @@ CC:A2:23		Huawei Technologies Co.,Ltd
 CC:A2:60		Sichuan Tianyi Comheart Telecom Co.,LTD
 CC:A3:74		Guangdong Guanglian Electronic Technology Co.Ltd
 CC:A3:BD		Itel Mobile Limited
-CC:A4:62		ARRIS Group, Inc.
+CC:A4:62		Commscope
 CC:A4:AF		Shenzhen Sowell Technology Co., LTD
 CC:A6:14		Aifa Technology Corp.
 CC:A7:C1		Google, Inc.
@@ -47577,7 +47595,7 @@ D0:37:45		Tp-Link Technologies Co.,Ltd.
 D0:37:61		Texas Instruments
 D0:39:57		Liteon Technology Corporation
 D0:39:72		Texas Instruments
-D0:39:B3		ARRIS Group, Inc.
+D0:39:B3		Commscope
 D0:39:EA		NetApp
 D0:39:FA		Samsung Electronics Co.,Ltd
 D0:3C:1F		Intel Corporate
@@ -47945,7 +47963,7 @@ D0:E1:40		Apple, Inc.
 D0:E3:47		Yoga
 D0:E4:0B		Wearable Inc.
 D0:E4:4A		Murata Manufacturing Co., Ltd.
-D0:E5:4D		ARRIS Group, Inc.
+D0:E5:4D		Commscope
 D0:E5:81		Apple, Inc.
 D0:E7:82		AzureWave Technology Inc.
 D0:E8:28		Radiant Industries Incorporated
@@ -47982,14 +48000,14 @@ D4:01:45		Atw Technology, Inc.
 D4:01:6D		Tp-Link Technologies Co.,Ltd.
 D4:01:C3		Routerboard.com
 D4:02:4A		Delphian Systems LLC
-D4:04:CD		ARRIS Group, Inc.
+D4:04:CD		Commscope
 D4:04:E6		Broadcom Limited
 D4:04:FF		Juniper Networks
-D4:05:98		ARRIS Group, Inc.
+D4:05:98		Commscope
 D4:05:DE		eero inc.
 D4:06:0F		Texas Instruments
 D4:08:68		Beijing Lanxum Computer Technology CO.,LTD.
-D4:0A:A9		ARRIS Group, Inc.
+D4:0A:A9		Commscope
 D4:0B:1A		HTC Corporation
 D4:0B:B9		Solid Semecs bv.
 D4:0E:60		Nanjing phx-gctech Information Technology Co., Ltd
@@ -48061,7 +48079,7 @@ D4:27:87		Shanghai High-Flying Electronics  Technology Co., Ltd
 D4:28:B2		ioBridge, Inc.
 D4:28:D5		TCT mobile ltd
 D4:29:EA		Zimory GmbH
-D4:2C:0F		ARRIS Group, Inc.
+D4:2C:0F		Commscope
 D4:2C:3D		Sky Light Digital Limited
 D4:2C:44		Cisco Systems, Inc
 D4:2C:46		Buffalo.Inc
@@ -48093,7 +48111,7 @@ D4:3D:67		Carma Industries Inc.
 D4:3D:7E		Micro-Star Int'l Co, Ltd
 D4:3D:F3		Zyxel Communications Corporation
 D4:3F:32		eero inc.
-D4:3F:CB		ARRIS Group, Inc.
+D4:3F:CB		Commscope
 D4:40:D0		OCOSMOS Co., LTD
 D4:40:F0		Huawei Technologies Co.,Ltd
 D4:41:3F		Gen IV Technology LLC
@@ -48143,6 +48161,7 @@ D4:5D:DF		Pegatron Corporation
 D4:5E:89		Motorola Mobility LLC, a Lenovo Company
 D4:5E:EC		Beijing Xiaomi Electronics Co., Ltd.
 D4:5F:25		Shenzhen YOUHUA Technology Co., Ltd
+D4:5F:2C		zte corporation
 D4:5F:7A		Huawei Technologies Co.,Ltd
 D4:60:75		Baidu Online Network Technology (Beijing) Co., Ltd
 D4:60:E3		Sercomm Corporation.
@@ -48188,7 +48207,7 @@ D4:6A:6A		Hon Hai Precision Ind. Co.,Ltd.
 D4:6A:91		SnapAV
 D4:6A:A8		Huawei Technologies Co.,Ltd
 D4:6B:A6		Huawei Technologies Co.,Ltd
-D4:6C:6D		ARRIS Group, Inc.
+D4:6C:6D		Commscope
 D4:6C:BF		Goodrich ISR
 D4:6C:DA		CSM GmbH
 D4:6D:50		Cisco Systems, Inc
@@ -48305,7 +48324,7 @@ D4:A6:51		Tuya Smart Inc.
 D4:A9:23		Huawei Technologies Co.,Ltd
 D4:A9:28		GreenWave Reality Inc
 D4:AA:FF		Micro World
-D4:AB:82		ARRIS Group, Inc.
+D4:AB:82		Commscope
 D4:AB:CD		Hui Zhou Gaoshengda Technology Co.,LTD
 D4:AC:4E		BODi rS, LLC
 D4:AD:20		Jinan USR IOT Technology Limited
@@ -48318,7 +48337,7 @@ D4:AE:52		Dell Inc.
 D4:AF:F7		Arista Networks
 D4:B1:10		Huawei Technologies Co.,Ltd
 D4:B1:69		Le Shi Zhi Xin Electronic Technology (Tianjin) Limited
-D4:B2:7A		ARRIS Group, Inc.
+D4:B2:7A		Commscope
 D4:B4:3E		Messcomp Datentechnik GmbH
 D4:B5:CD		Sagemcom Broadband SAS
 D4:B6:80		Shanghai Linkyum Microeletronics Co.,Ltd
@@ -48496,7 +48515,7 @@ D8:23:E0		Speedtech Corp.
 D8:24:77		Universal Electric Corporation
 D8:24:BD		Cisco Systems, Inc
 D8:24:EC		Plenom A/S
-D8:25:22		ARRIS Group, Inc.
+D8:25:22		Commscope
 D8:25:B0		Rockeetech Systems Co.,Ltd.
 D8:25:DF		Came Uk
 D8:26:B9		Guangdong Coagent Electronics S&T Co.,Ltd.
@@ -48969,7 +48988,7 @@ DC:44:27:E0:00:00/28	VerifEye Technologies
 DC:44:27:F0:00:00/28	Private
 DC:44:6D		Allwinner Technology Co., Ltd
 DC:44:B6		Samsung Electronics Co.,Ltd
-DC:45:17		ARRIS Group, Inc.
+DC:45:17		Commscope
 DC:45:46		Intel Corporate
 DC:45:B8		Apple, Inc.
 DC:46:28		Intel Corporate
@@ -49111,7 +49130,7 @@ DC:A3:AC		RBcloudtech
 DC:A4:CA		Apple, Inc.
 DC:A5:F4		Cisco Systems, Inc
 DC:A6:32		Raspberry Pi Trading Ltd
-DC:A6:33		ARRIS Group, Inc.
+DC:A6:33		Commscope
 DC:A6:BD		Beijing Lanbo Technology Co., Ltd.
 DC:A7:06		Chengdu Kt Electronic Hi-Tech Co.,Ltd
 DC:A7:82		Huawei Technologies Co.,Ltd
@@ -49310,7 +49329,7 @@ E0:1F:88		Xiaomi Communications Co Ltd
 E0:1F:ED		Nokia Shanghai Bell Co., Ltd.
 E0:1F:FC		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
 E0:21:FE		Richer Link Technologies CO.,LTD
-E0:22:02		ARRIS Group, Inc.
+E0:22:02		Commscope
 E0:23:D7		Sleep Number
 E0:23:FF		Fortinet, Inc.
 E0:24:7F		Huawei Technologies Co.,Ltd
@@ -49567,10 +49586,10 @@ E0:B6:F5:B0:00:00/28	Moog Crossbow
 E0:B6:F5:C0:00:00/28	funktel GmbH
 E0:B6:F5:D0:00:00/28	Itel Mobile Limited
 E0:B6:F5:E0:00:00/28	Advatek Lighting Pty Ltd
-E0:B7:0A		ARRIS Group, Inc.
+E0:B7:0A		Commscope
 E0:B7:2E		ShenZhen Qualmesh Technology Co.,Ltd.
 E0:B7:63		Bosch Automotive Products (Suzhou) Co., Ltd. Changzhou Branch
-E0:B7:B1		ARRIS Group, Inc.
+E0:B7:B1		Commscope
 E0:B9:4D		Shenzhen Bilian Electronic Co.，Ltd
 E0:B9:8A		Shenzhen Taike industrial automation company,Ltd
 E0:B9:A5		AzureWave Technology Inc.
@@ -49821,7 +49840,7 @@ E4:54:E8		Dell Inc.
 E4:55:A8		Cisco Meraki
 E4:55:EA		Dedicated Computing
 E4:56:14		Suttle Apparatus
-E4:57:40		ARRIS Group, Inc.
+E4:57:40		Commscope
 E4:57:68		vivo Mobile Communication Co., Ltd.
 E4:57:A8		Stuart Manufacturing, Inc.
 E4:58:B8		Samsung Electronics Co.,Ltd
@@ -49844,7 +49863,7 @@ E4:60:59		Pingtek Co., Ltd.
 E4:61:F4		shenzhen worldelite electronics co., LTD
 E4:62:51		Hao Cheng Group Limited
 E4:62:C4		Cisco Systems, Inc
-E4:64:49		ARRIS Group, Inc.
+E4:64:49		Commscope
 E4:65:64		Shenzhen Ktc Technology Co.,Ltd
 E4:65:B8		Espressif Inc.
 E4:66:AB		zte corporation
@@ -49886,7 +49905,7 @@ E4:81:B3		Shenzhen ACT Industrial Co.,Ltd.
 E4:82:10		Huawei Technologies Co.,Ltd
 E4:82:CC		Jumptronic GmbH
 E4:83:26		Huawei Technologies Co.,Ltd
-E4:83:99		ARRIS Group, Inc.
+E4:83:99		Commscope
 E4:84:29		New H3C Technologies Co., Ltd
 E4:84:2B		Hangzhou Softel Optic Co., Ltd
 E4:84:D3		Xiaomi Communications Co Ltd
@@ -49938,7 +49957,7 @@ E4:9A:DC		Apple, Inc.
 E4:9C:67		Apple, Inc.
 E4:9D:73		Edgecore Networks Corporation
 E4:9E:12		Freebox Sas
-E4:9F:1E		ARRIS Group, Inc.
+E4:9F:1E		Commscope
 E4:A1:E6		Alcatel-Lucent Shanghai Bell Co., Ltd
 E4:A3:2F		Shanghai Artimen Technology Co., Ltd.
 E4:A3:87		Control Solutions LLC
@@ -50045,7 +50064,7 @@ E4:F3:E8		Shenzhen SuperElectron Technology Co.,Ltd.
 E4:F3:F5		Shenzhen Mercury Communication Technologies Co.,Ltd.
 E4:F4:C6		Netgear
 E4:F5:8E		Schneider Electric USA
-E4:F7:5B		ARRIS Group, Inc.
+E4:F7:5B		Commscope
 E4:F7:A1		Datafox GmbH
 E4:F8:9C		Intel Corporate
 E4:F8:BE		Tecno Mobile Limited
@@ -50152,7 +50171,7 @@ E8:2E:0C		NETINT Technologies Inc.
 E8:2E:24		Out of the Fog Research LLC
 E8:31:CD		Espressif Inc.
 E8:33:0D		Xaptec GmbH
-E8:33:81		ARRIS Group, Inc.
+E8:33:81		Commscope
 E8:34:3E		Beijing Infosec Technologies Co., LTD.
 E8:36:17		Apple, Inc.
 E8:36:1D		Sense Labs, Inc.
@@ -50165,7 +50184,7 @@ E8:3A:4B		China Mobile Group Device Co.,Ltd.
 E8:3A:97		Toshiba Corporation
 E8:3E:B6		Rim
 E8:3E:FB		Geodesic Ltd.
-E8:3E:FC		ARRIS Group, Inc.
+E8:3E:FC		Commscope
 E8:3F:67		Huawei Device Co., Ltd.
 E8:40:40		Cisco Systems, Inc
 E8:40:F2		Pegatron Corporation
@@ -50246,7 +50265,7 @@ E8:6C:C7:C0:00:00/28	Limited Liability Company M.S.Korp
 E8:6C:C7:D0:00:00/28	z-max mediasolution
 E8:6C:C7:E0:00:00/28	Annapurna labs
 E8:6C:DA		Supercomputers and Neurocomputers Research Center
-E8:6D:52		ARRIS Group, Inc.
+E8:6D:52		Commscope
 E8:6D:54		Digit Mobile Inc
 E8:6D:65		AUDIO MOBIL Elektronik GmbH
 E8:6D:6E		voestalpine Signaling UK Ltd.
@@ -50254,6 +50273,7 @@ E8:6D:CB		Samsung Electronics Co.,Ltd
 E8:6D:E9		Huawei Technologies Co.,Ltd
 E8:6E:3A		Sony Interactive Entertainment Inc.
 E8:6E:44		zte corporation
+E8:6E:AD		Guangzhou Gizwits loT Technology Co.,Ltd
 E8:6F:38		Chongqing Fugui Electronics Co.,Ltd.
 E8:6F:F2		Actiontec Electronics, Inc
 E8:70:72		Hangzhou BroadLink Technology Co.,Ltd
@@ -50290,7 +50310,7 @@ E8:80:D8		GNTEK Electronics Co.,Ltd.
 E8:81:52		Apple, Inc.
 E8:81:75		zte corporation
 E8:81:AB		Beijing Sankuai Online Technology Co.,Ltd
-E8:82:5B		ARRIS Group, Inc.
+E8:82:5B		Commscope
 E8:84:A5		Intel Corporate
 E8:84:C6		Huawei Technologies Co.,Ltd
 E8:85:4B		Apple, Inc.
@@ -50298,7 +50318,7 @@ E8:86:CF		Nokia
 E8:87:A3		Loxley Public Company Limited
 E8:88:43		Xiaomi Communications Co Ltd
 E8:88:6C		Shenzhen SC Technologies Co.,LTD
-E8:89:2C		ARRIS Group, Inc.
+E8:89:2C		Commscope
 E8:8D:28		Apple, Inc.
 E8:8D:A6		Quectel Wireless Solutions Co.,Ltd.
 E8:8D:F5		ZNYX Networks, Inc.
@@ -50474,7 +50494,7 @@ E8:EB:34		Cisco Systems, Inc
 E8:EB:D3		Mellanox Technologies, Inc.
 E8:EB:DD		Guangzhou Qingying Acoustics Technology Co., Ltd
 E8:EC:A3		Dongguan Liesheng Electronic Co.Ltd
-E8:ED:05		ARRIS Group, Inc.
+E8:ED:05		Commscope
 E8:ED:D6		Fortinet, Inc.
 E8:ED:F3		Cisco Systems, Inc
 E8:EE:CC		Fantasia Trading LLC
@@ -50703,7 +50723,7 @@ EC:6C:9F		Chengdu Volans Technology CO.,LTD
 EC:6C:B5		zte corporation
 EC:6E:79		InHand Networks, INC.
 EC:6F:0B		FADU, Inc.
-EC:70:97		ARRIS Group, Inc.
+EC:70:97		Commscope
 EC:71:DB		Reolink Innovation Limited
 EC:72:5B		zte corporation
 EC:73:59		Shenzhen Cloudsky Technologies Co., Ltd.
@@ -50833,7 +50853,7 @@ EC:A7:B1:E0:00:00/28	Artisight, Inc.
 EC:A8:1F		Vantiva USA LLC
 EC:A8:6B		Elitegroup Computer Systems Co.,Ltd.
 EC:A9:07		Apple, Inc.
-EC:A9:40		ARRIS Group, Inc.
+EC:A9:40		Commscope
 EC:A9:71		Hangzhou Hikvision Digital Technology Co.,Ltd.
 EC:A9:FA		Guangdong Genius Technology Co., Ltd.
 EC:AA:25		Samsung Electronics Co.,Ltd
@@ -51246,7 +51266,7 @@ F0:AD:4E		Globalscale Technologies, Inc.
 F0:AE:51		Xi3 Corp
 F0:AE:66		Cosonic Intelligent Technologies Co., Ltd.
 F0:AF:50		Phantom Intelligence
-F0:AF:85		ARRIS Group, Inc.
+F0:AF:85		Commscope
 F0:B0:14		AVM Audiovisuelles Marketing und Computersysteme GmbH
 F0:B0:22		TOHO Electronics INC.
 F0:B0:40		Hunan Fn-Link Technology Limited
@@ -51382,7 +51402,7 @@ F0:F8:F2		Texas Instruments
 F0:F9:F7		IES GmbH & Co. KG
 F0:FA:C7		Huawei Device Co., Ltd.
 F0:FC:65		SynaXG Technologies Pte. Ltd.
-F0:FC:C8		ARRIS Group, Inc.
+F0:FC:C8		Commscope
 F0:FD:A0		Acurix Networks Pty Ltd
 F0:FD:DD		Foxtron Vehicle Technologies Co., Ltd.
 F0:FE:6B		Shanghai High-Flying Electronics Technology Co., Ltd
@@ -51426,7 +51446,7 @@ F4:0E:11:D0:00:00/28	DXG Technology Corp.
 F4:0E:11:E0:00:00/28	Elektronika Naglic d.o.o.
 F4:0E:11:F0:00:00/28	Private
 F4:0E:22		Samsung Electronics Co.,Ltd
-F4:0E:83		ARRIS Group, Inc.
+F4:0E:83		Commscope
 F4:0F:1B		Cisco Systems, Inc
 F4:0F:24		Apple, Inc.
 F4:0F:9B		Wavelink
@@ -51906,7 +51926,7 @@ F8:05:1C		DRS Imaging and Targeting Solutions
 F8:07:5D		Huawei Device Co., Ltd.
 F8:08:4F		Sagemcom Broadband SAS
 F8:09:A4		Henan Thinker Rail Transportation Research Inc.
-F8:0B:BE		ARRIS Group, Inc.
+F8:0B:BE		Commscope
 F8:0B:CB		Cisco Systems, Inc
 F8:0B:D0		Datang Telecom communication terminal (Tianjin) Co., Ltd.
 F8:0C:58		Taicang T&W Electronics
@@ -51978,7 +51998,7 @@ F8:2B:7F		Huawei Device Co., Ltd.
 F8:2B:C8		Jiangsu Switter Co., Ltd
 F8:2C:18		2Wire Inc
 F8:2D:7C		Apple, Inc.
-F8:2D:C0		ARRIS Group, Inc.
+F8:2D:C0		Commscope
 F8:2E:0C		Texas Instruments
 F8:2E:3F		Huawei Technologies Co.,Ltd
 F8:2E:8E		Nanjing Kechen Electric Co., Ltd.
@@ -52069,7 +52089,7 @@ F8:60:F0		Hewlett Packard Enterprise
 F8:62:14		Apple, Inc.
 F8:62:AA		xn systems
 F8:63:3F		Intel Corporate
-F8:63:D9		ARRIS Group, Inc.
+F8:63:D9		Commscope
 F8:64:65		Anova Applied Electronics, Inc.
 F8:64:B8		zte corporation
 F8:66:01		Suzhou Chi-tek information technology Co., Ltd
@@ -52094,6 +52114,7 @@ F8:71:0C		Xiaomi Communications Co Ltd
 F8:71:A6		Apple, Inc.
 F8:71:FE		The Goldman Sachs Group, Inc.
 F8:72:EA		Cisco Systems, Inc
+F8:73:1A		zte corporation
 F8:73:94		Netgear
 F8:73:A2		Avaya Inc
 F8:73:DF		Apple, Inc.
@@ -52102,7 +52123,7 @@ F8:75:A4		LCFC(Hefei) Electronics Technology co., ltd
 F8:76:9B		Neopis Co., Ltd.
 F8:77:B8		Samsung Electronics Co.,Ltd
 F8:79:07		Huawei Device Co., Ltd.
-F8:79:0A		ARRIS Group, Inc.
+F8:79:0A		Commscope
 F8:79:28		zte corporation
 F8:79:99		Guangdong Jiuzhi Technology Co.,Ltd
 F8:7A:39		IEEE Registration Authority
@@ -52125,7 +52146,7 @@ F8:7A:41		Cisco Systems, Inc
 F8:7A:EF		Rosonix Technology, Inc.
 F8:7B:20		Cisco Systems, Inc
 F8:7B:62		FASTWEL INTERNATIONAL CO., LTD. Taiwan Branch
-F8:7B:7A		ARRIS Group, Inc.
+F8:7B:7A		Commscope
 F8:7B:8C		Amped Wireless
 F8:7B:E0		Funtime Pickleball Inc.
 F8:7D:3F		Huawei Device Co., Ltd.
@@ -52157,7 +52178,7 @@ F8:8A:3C:C0:00:00/28	Excetop Technology (Beijing) Co., Ltd.
 F8:8A:3C:D0:00:00/28	THK Co.,LTD.
 F8:8A:3C:E0:00:00/28	Avateq Corp.
 F8:8A:5E		Texas Instruments
-F8:8B:37		ARRIS Group, Inc.
+F8:8B:37		Commscope
 F8:8C:1C		Kaishun Electronic Technology Co., Ltd. Beijing
 F8:8C:21		Tp-Link Technologies Co.,Ltd.
 F8:8D:EF		Tenebraex
@@ -52195,7 +52216,7 @@ F8:9E:28		Cisco Meraki
 F8:9E:94		Intel Corporate
 F8:9F:B8		YAZAKI Energy System Corporation
 F8:A0:3D		Dinstar Technologies Co., Ltd.
-F8:A0:97		ARRIS Group, Inc.
+F8:A0:97		Commscope
 F8:A1:88		LED Roadway Lighting
 F8:A2:6D		Canon Inc.
 F8:A2:B4		RHEWA-WAAGENFABRIK August Freudewald GmbH &Co. KG
@@ -52330,7 +52351,7 @@ F8:E9:4E		Apple, Inc.
 F8:E9:4F		Cisco Systems, Inc
 F8:E9:68		Egker Kft.
 F8:EA:0A		Dipl.-Math. Michael Rauch
-F8:ED:A5		ARRIS Group, Inc.
+F8:ED:A5		Commscope
 F8:ED:AE		Mobiwire Mobiles(Ningbo) Co.,Ltd
 F8:EF:5D		Motorola Mobility LLC, a Lenovo Company
 F8:F0:05		Newport Media Inc.
@@ -52344,7 +52365,7 @@ F8:F2:1E		Intel Corporate
 F8:F2:5A		G-Lab GmbH
 F8:F4:64		Rawe Electonic GmbH
 F8:F5:19		Rulogic Inc.
-F8:F5:32		ARRIS Group, Inc.
+F8:F5:32		Commscope
 F8:F5:8C		Apple, Inc.
 F8:F7:B9		Huawei Technologies Co.,Ltd
 F8:F7:D3		International Communications Corporation
@@ -52501,7 +52522,7 @@ FC:4D:D4		Universal Global Scientific Industrial Co., Ltd.
 FC:4E:A4		Apple, Inc.
 FC:50:0C		Sitehop Ltd
 FC:50:90		SIMEX Sp. z o.o.
-FC:51:A4		ARRIS Group, Inc.
+FC:51:A4		Commscope
 FC:51:B5		Huawei Technologies Co.,Ltd
 FC:52:8D		Vantiva USA LLC
 FC:52:CE		Control iD
@@ -52560,7 +52581,7 @@ FC:6B:F0		Topwell International Holdinds Limited
 FC:6C:31		LXinstruments GmbH
 FC:6D:C0		Bme Corporation
 FC:6D:D1		APRESIA Systems, Ltd.
-FC:6F:B7		ARRIS Group, Inc.
+FC:6F:B7		Commscope
 FC:70:2E		Sichuan AI-Link Technology Co., Ltd.
 FC:71:FA		Trane Technologies
 FC:73:FB		Huawei Technologies Co.,Ltd
@@ -52592,7 +52613,7 @@ FC:8D:13		Fujian Star-Net Communication Co.,Ltd
 FC:8D:3D		Leapfive Tech. Ltd.
 FC:8E:5B		China Mobile Iot Limited company
 FC:8E:6E		StreamCCTV, LLC
-FC:8E:7E		ARRIS Group, Inc.
+FC:8E:7E		Commscope
 FC:8F:7D		Shenzhen Gongjin Electronics Co.,Lt
 FC:8F:90		Samsung Electronics Co.,Ltd
 FC:8F:C4		Intelligent Technology Inc.
@@ -52665,7 +52686,7 @@ FC:AB:90		Huawei Technologies Co.,Ltd
 FC:AB:F5		zte corporation
 FC:AD:0F		Qts Networks
 FC:AE:2B		Titan Products Ltd.
-FC:AE:34		ARRIS Group, Inc.
+FC:AE:34		Commscope
 FC:AF:6A		Qulsar Inc
 FC:AF:AC		Socionext Inc.
 FC:AF:BE		TireCheck GmbH
