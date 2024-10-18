@@ -14281,7 +14281,7 @@
 00:50:C2:CE:E0:00/36	Embed-It Og
 00:50:C2:CE:F0:00/36	Lupatecnologia e Sistemas Ltda
 00:50:C2:CF:00:00/36	Inviso B.V.
-00:50:C2:CF:10:00/36	TelGaAs, Inc.
+00:50:C2:CF:10:00/36	Bascom Hunter
 00:50:C2:CF:20:00/36	Weiss Robotics GmbH & Co. KG
 00:50:C2:CF:30:00/36	Daiken Automacao Ltda
 00:50:C2:CF:40:00/36	Baudisch Electronic GmbH
@@ -15951,7 +15951,7 @@
 00:90:9A		One World Systems, Inc.
 00:90:9B		Markem-Imaje
 00:90:9C		Commscope
-00:90:9D		NovaTech Process Solutions, LLC
+00:90:9D		NovaTech, LLC
 00:90:9E		Critical IO, LLC
 00:90:9F		Digi-Data Corporation
 00:90:A0		8X8 Inc.
@@ -24105,6 +24105,7 @@
 3C:38:24		Xiaomi Communications Co Ltd
 3C:38:88		ConnectQuest, llc
 3C:38:F4		Sony Corporation
+3C:39:A8		Shenzhen Taichi Technology Limited
 3C:39:C3		JW Electronics Co., Ltd.
 3C:39:C8		Apple, Inc.
 3C:39:E7		IEEE Registration Authority
@@ -29531,6 +29532,7 @@
 68:35:63		Shenzhen Liown Electronics Co.,Ltd.
 68:36:B5		DriveScale, Inc.
 68:37:E9		Amazon Technologies Inc.
+68:38:E3		EYESON SOLUTION CO.,Ltd
 68:39:43		ittim
 68:3A:1E		Cisco Meraki
 68:3A:48		SAMJIN Co., Ltd.
@@ -37644,6 +37646,7 @@
 88:BA:7F		Qfiednet Co., Ltd.
 88:BC:AC		Zebra Technologies Inc.
 88:BC:C1		Huawei Technologies Co.,Ltd
+88:BD:09		Netis Technology Co., Ltd.
 88:BD:45		Samsung Electronics Co.,Ltd
 88:BD:78		Flaircomm Microelectronics,Inc.
 88:BF:35		Verifone, Inc.
@@ -37658,6 +37661,7 @@
 88:C3:97		Beijing Xiaomi Mobile Software Co., Ltd
 88:C3:B3		Sovico
 88:C3:E5		Betop Techonologies
+88:C4:8E		Uneeviu Technologies India Private Limited
 88:C6:26		Logitech, Inc
 88:C6:63		Apple, Inc.
 88:C6:E8		Huawei Technologies Co.,Ltd
@@ -43801,6 +43805,8 @@ AC:EE:3B		6harmonics Inc
 AC:EE:64		Shenzhen SuperElectron Technology Co.,Ltd.
 AC:EE:70		Fontem Ventures BV
 AC:EE:9E		Samsung Electronics Co.,Ltd
+AC:EF:92		IEEE Registration Authority
+AC:EF:92:50:00:00/28	PROGNOST Systems GmbH
 AC:F0:B2		Becker Electronics Taiwan Ltd.
 AC:F1:08		LG Innotek
 AC:F1:DF		D-Link International
@@ -43936,7 +43942,9 @@ B0:47:5E:80:00:00/28	Shri Mohan Ji International
 B0:47:5E:90:00:00/28	MIVO Technology AB
 B0:47:5E:A0:00:00/28	Shenzhen Jointelli Technologies Co.,Ltd
 B0:47:5E:B0:00:00/28	Bright Oceans Inter-Telecom Corporation
+B0:47:5E:C0:00:00/28	ikegawa co., Ltd
 B0:47:5E:D0:00:00/28	Netitest
+B0:47:5E:E0:00:00/28	NEO.NET Jakub Koperski
 B0:47:BF		Samsung Electronics Co.,Ltd
 B0:47:E9		Intel Corporate
 B0:48:1A		Apple, Inc.
@@ -48926,6 +48934,7 @@ DC:2D:3C		Huawei Device Co., Ltd.
 DC:2D:CB		Beijing Unis HengYue Technology Co., Ltd.
 DC:2D:DE		Ledworks SRL
 DC:2E:6A		HCT. Co., Ltd.
+DC:2E:97		Quectel Wireless Solutions Co.,Ltd.
 DC:2F:03		Step forward Group Co., Ltd.
 DC:2F:FA		GE Lighting
 DC:30:9C		Heyrex Limited
