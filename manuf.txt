@@ -1356,7 +1356,7 @@
 00:05:3D		Agere Systems
 00:05:3E		KID Systeme GmbH
 00:05:3F		VisionTek, Inc.
-00:05:40		FAST Corporation
+00:05:40		Tokyo Electron Device Limited
 00:05:41		Advanced Systems Co., Ltd.
 00:05:42		Otari, Inc.
 00:05:43		IQ Wireless GmbH
@@ -17443,6 +17443,7 @@
 04:33:85		Nanchang BlackShark Co.,Ltd.
 04:33:89		Huawei Technologies Co.,Ltd
 04:33:C2		Intel Corporate
+04:34:C3		Qingdao Goertek  Horizons Tecnology  Co.,LTD
 04:34:F6		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
 04:36:04		Gyeyoung I&T
 04:36:B8		I&C Technology
@@ -21599,6 +21600,7 @@
 28:11:EC		Huawei Technologies Co.,Ltd
 28:12:93		Honor Device Co., Ltd.
 28:14:71		Lantis co., LTD.
+28:15:A4		Shenzhen Pinsu Zhilian Information Technology Co.,Ltd.
 28:16:2E		2Wire Inc
 28:16:7F		Xiaomi Communications Co Ltd
 28:16:A8		Microsoft Corporation
@@ -38500,6 +38502,7 @@
 8C:1F:64:55:70:00/36	In-lite Design BV
 8C:1F:64:55:80:00/36	Scitel
 8C:1F:64:55:90:00/36	Intozi Tech Pvt Ltd
+8C:1F:64:55:B0:00/36	Sheetal Wireless Technologies Pvt Ltd
 8C:1F:64:55:C0:00/36	Schildknecht AG
 8C:1F:64:55:E0:00/36	Hanateksystem
 8C:1F:64:56:00:00/36	Dexter Laundry Inc.
@@ -38915,6 +38918,7 @@
 8C:1F:64:8C:50:00/36	NextT Microwave Inc
 8C:1F:64:8C:A0:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:8C:B0:00/36	Chromaviso A/S
+8C:1F:64:8C:D0:00/36	Guan Show Technologe Co., Ltd.
 8C:1F:64:8C:F0:00/36	Diffraction Limited
 8C:1F:64:8D:00:00/36	Enerthing GmbH
 8C:1F:64:8D:10:00/36	Orlaco Products B.V.
@@ -39237,6 +39241,7 @@
 8C:1F:64:B7:C0:00/36	Evernet Co,.Ltd Taiwan
 8C:1F:64:B7:D0:00/36	Scheurich GmbH
 8C:1F:64:B8:20:00/36	Seed Core Co., LTD.
+8C:1F:64:B8:30:00/36	ShenZhen Australis Electronic Technology Co.,Ltd.
 8C:1F:64:B8:40:00/36	SPX Flow Technology
 8C:1F:64:B8:50:00/36	Candela Technologies Inc
 8C:1F:64:B8:60:00/36	Elektronik & Modellprodukter Gävle AB
@@ -43806,7 +43811,10 @@ AC:EE:64		Shenzhen SuperElectron Technology Co.,Ltd.
 AC:EE:70		Fontem Ventures BV
 AC:EE:9E		Samsung Electronics Co.,Ltd
 AC:EF:92		IEEE Registration Authority
+AC:EF:92:10:00:00/28	Dongguan Sunhans Technology Co., Ltd.
+AC:EF:92:30:00:00/28	JiZhiKang (Beijing) Technology Co., Ltd
 AC:EF:92:50:00:00/28	PROGNOST Systems GmbH
+AC:EF:92:D0:00:00/28	Robotic Assistance Devices Residential Inc
 AC:F0:B2		Becker Electronics Taiwan Ltd.
 AC:F1:08		LG Innotek
 AC:F1:DF		D-Link International
@@ -44682,6 +44690,7 @@ B4:FB:E3		AltoBeam (China) Inc.
 B4:FB:E4		Ubiquiti Inc
 B4:FB:F9		Huawei Technologies Co.,Ltd
 B4:FC:75		SEMA Electronics(HK) CO.,LTD
+B4:FC:7D		AVM Audiovisuelles Marketing und Computersysteme GmbH
 B4:FE:8C		Centro Sicurezza Italia SpA
 B4:FF:98		Huawei Technologies Co.,Ltd
 B8:00:18		Htel
@@ -52503,6 +52512,7 @@ FC:3F:7C		Huawei Technologies Co.,Ltd
 FC:3F:A6		eero inc.
 FC:3F:AB		Henan Lanxin Technology Co., Ltd
 FC:3F:DB		Hewlett Packard
+FC:3F:FC		Tozed Kangwei Tech Co.,Ltd
 FC:40:09		zte corporation
 FC:41:16		Google, Inc.
 FC:42:03		Samsung Electronics Co.,Ltd
