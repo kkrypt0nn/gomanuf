@@ -11219,7 +11219,7 @@
 00:50:C2:0F:60:00/36	Carl Baasel Lasertechnik GmbH
 00:50:C2:0F:70:00/36	Foss NIRSystems, Inc.
 00:50:C2:0F:80:00/36	Tecnint HTE SRL
-00:50:C2:0F:90:00/36	Raven Industries
+00:50:C2:0F:90:00/36	Raven Industries Inc.
 00:50:C2:0F:A0:00/36	GE Transportation Systems
 00:50:C2:0F:B0:00/36	PIUSYS Co., Ltd.
 00:50:C2:0F:C0:00/36	Kimmon Manufacturing Co., Ltd.
@@ -38319,6 +38319,7 @@
 8C:1F:64:3C:50:00/36	Stratis IOT
 8C:1F:64:3C:60:00/36	Wavestream Corp
 8C:1F:64:3C:80:00/36	BTG Instruments AB
+8C:1F:64:3C:90:00/36	TECHPLUS-LINK Technology Co.,Ltd
 8C:1F:64:3C:D0:00/36	Sejong security system Cor.
 8C:1F:64:3C:E0:00/36	Mahindr & Mahindra
 8C:1F:64:3D:00:00/36	Tripltek
@@ -39658,6 +39659,7 @@
 8C:1F:64:F0:50:00/36	Preston Industries dba PolyScience
 8C:1F:64:F0:80:00/36	Advantor Corporation
 8C:1F:64:F0:90:00/36	Texi AS
+8C:1F:64:F0:B0:00/36	Nagy Márton Jozsef e.v.
 8C:1F:64:F1:00:00/36	Televic Rail GmbH
 8C:1F:64:F1:20:00/36	CAITRON GmbH
 8C:1F:64:F1:30:00/36	ACS Motion Control
@@ -49525,6 +49527,7 @@ E0:7F:88		EVIDENCE Network SIA
 E0:80:6B		Xiaomi Communications Co Ltd
 E0:81:77		GreenBytes, Inc.
 E0:84:F3		High Grade Controls Corporation
+E0:85:4D		LG Innotek
 E0:85:9A		Shenzhen Rf-Link Technology Co.,Ltd.
 E0:86:14		Novatel Wireless Solutions, Inc.
 E0:87:B1		Nata-Info Ltd.
