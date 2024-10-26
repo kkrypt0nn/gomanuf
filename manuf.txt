@@ -10561,7 +10561,7 @@
 00:40:2E		Precision Software, Inc.
 00:40:2F		Xlnt Designs Inc.
 00:40:30		Gk Computer
-00:40:31		Kokusai Electric Co., Ltd
+00:40:31		Hitachi Kokusai Electric, Inc.
 00:40:32		Digital Communications
 00:40:33		Addtron Technology Co., Ltd.
 00:40:34		Bustek Corporation
@@ -18472,6 +18472,8 @@
 0C:45:BA		Huawei Technologies Co.,Ltd
 0C:46:9D		MS Sedco
 0C:47:3D		Hitron Technologies. Inc
+0C:47:A9		IEEE Registration Authority
+0C:47:A9:00:00:00/28	Digital Telemedia Technology Private Limited
 0C:47:C9		Amazon Technologies Inc.
 0C:48:85		LG Electronics (Mobile Communications)
 0C:48:C6		Celestica Inc.
@@ -18783,6 +18785,7 @@
 0C:E5:A3		SharkNinja
 0C:E5:B5		Huawei Technologies Co.,Ltd
 0C:E5:D3		DH electronics GmbH
+0C:E6:7C		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 0C:E7:09		Fox Crypto B.V.
 0C:E7:25		Microsoft Corporation
 0C:E8:2F		Bonfiglioli Vectron GmbH
@@ -19625,6 +19628,7 @@
 14:B3:A1		Juniper Networks
 14:B4:57		Silicon Laboratories
 14:B4:84		Samsung Electronics Co.,Ltd
+14:B5:CD		Liteon Technology Corporation
 14:B7:3D		ARCHEAN Technologies
 14:B7:F8		Vantiva USA LLC
 14:B8:37		Shenzhen YOUHUA Technology Co., Ltd
@@ -20332,7 +20336,7 @@
 1C:55:3A		QianGua Corp.
 1C:56:8E		Zioncom Electronics (Shenzhen) Ltd.
 1C:56:FE		Motorola Mobility LLC, a Lenovo Company
-1C:57:3E		Altice Labs S.A.
+1C:57:3E		Altice Labs
 1C:57:D8		Kraftway Corporation PLC
 1C:57:DC		Apple, Inc.
 1C:59:74		IEEE Registration Authority
@@ -23122,6 +23126,7 @@
 34:31:8F		Apple, Inc.
 34:31:C4		AVM GmbH
 34:32:E6		Panasonic Industrial Devices Europe GmbH
+34:36:07		Pinewave Pte. Ltd.
 34:36:3B		Apple, Inc.
 34:36:54		zte corporation
 34:37:59		zte corporation
@@ -24587,6 +24592,7 @@
 40:42:29		Layer3TV, Inc
 40:42:44		Cisco Systems, Inc
 40:44:FD		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+40:45:A0		vivo Mobile Communication Co., Ltd.
 40:45:C4		Huawei Technologies Co.,Ltd
 40:45:DA		Spreadtrum Communications (Shanghai) Co., Ltd.
 40:47:5E		eero inc.
@@ -28111,7 +28117,7 @@
 58:F9:8E		SECUDOS GmbH
 58:FB:84		Intel Corporate
 58:FB:96		Ruckus Wireless
-58:FC:20		Altice Labs S.A.
+58:FC:20		Altice Labs
 58:FC:73		Arria Live Media, Inc.
 58:FC:C6		Tozo Inc
 58:FC:C8		LenelS2 Carrier
@@ -29744,7 +29750,7 @@
 68:A8:6D		Apple, Inc.
 68:A8:78		GeoWAN Pty Ltd
 68:A8:E1		Wacom Co.,Ltd.
-68:AA:C4		Altice Labs S.A.
+68:AA:C4		Altice Labs
 68:AA:D2		Datecs Ltd.,
 68:AB:09		Nokia
 68:AB:1E		Apple, Inc.
@@ -30013,6 +30019,7 @@
 6C:3E:9C		KE Knestel Elektronik GmbH
 6C:40:08		Apple, Inc.
 6C:40:C6		Nimbus Data, Inc.
+6C:40:E8		vivo Mobile Communication Co., Ltd.
 6C:41:0E		Cisco Systems, Inc
 6C:41:6A		Cisco Systems, Inc
 6C:42:AB		Subscriber Networks, Inc.
@@ -35416,6 +35423,7 @@
 78:11:00		Quantumsolution
 78:11:85		NBS Payment Solutions Inc.
 78:11:DC		XIAOMI Electronics,CO.,LTD
+78:12:3E		Tecno Mobile Limited
 78:12:B8		Orantek Limited
 78:13:05		IEEE Registration Authority
 78:13:05:00:00:00/28	InnoSenT
@@ -38223,6 +38231,7 @@
 8C:1F:64:2F:00:00/36	Switch Science, Inc.
 8C:1F:64:2F:10:00/36	DEUTA Werke GmbH
 8C:1F:64:2F:20:00/36	Enless Wireless
+8C:1F:64:2F:40:00/36	Scame Sistemi srl
 8C:1F:64:2F:50:00/36	Florida R&D Associates LLC
 8C:1F:64:2F:90:00/36	TSS COMPANY s.r.o.
 8C:1F:64:2F:A0:00/36	Rfengine Co., Ltd.
@@ -46769,7 +46778,7 @@ C8:6C:87		Zyxel Communications Corporation
 C8:6C:B6		Optcom Co., Ltd.
 C8:6E:08		Intel Corporate
 C8:6F:1D		Apple, Inc.
-C8:70:23		Altice Labs S.A.
+C8:70:23		Altice Labs
 C8:70:D4		IBO Technology Co,Ltd
 C8:71:1F		Suzhou Tesien Technology Co., Ltd.
 C8:71:25		Johnson Outdoors Marine Electronics d/b/a Minnkota
@@ -52816,6 +52825,7 @@ FC:CD:2F:D0:00:00/28	Shenzhen Smartbyte Technology Co., Ltd.
 FC:CD:2F:E0:00:00/28	Eltek brojila d.o.o.
 FC:CF:43		Huizhou City Huiyang District Meisiqi Industry Development Co,.Ltd
 FC:CF:62		IBM Corp
+FC:D2:02		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 FC:D2:90		Sky Uk Limited
 FC:D2:B6		IEEE Registration Authority
 FC:D2:B6:00:00:00/28	Cg Power And Industrial Solutions Ltd
