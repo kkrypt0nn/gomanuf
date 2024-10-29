@@ -18474,6 +18474,7 @@
 0C:47:3D		Hitron Technologies. Inc
 0C:47:A9		IEEE Registration Authority
 0C:47:A9:00:00:00/28	Digital Telemedia Technology Private Limited
+0C:47:A9:D0:00:00/28	Dig_Link
 0C:47:C9		Amazon Technologies Inc.
 0C:48:85		LG Electronics (Mobile Communications)
 0C:48:C6		Celestica Inc.
@@ -27374,6 +27375,7 @@
 54:25:EA		Huawei Technologies Co.,Ltd
 54:26:96		Apple, Inc.
 54:27:1E		AzureWave Technology Inc.
+54:27:22		Lacroix
 54:27:58		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
 54:27:6C		Jiangsu Houge Technology Corp.
 54:27:8D		NXP (China) Management Ltd.
@@ -35718,6 +35720,7 @@
 78:A2:A0		Nintendo Co., Ltd.
 78:A3:51		Shenzhen Zhibotong Electronics Co.,Ltd
 78:A3:E4		Apple, Inc.
+78:A4:BA		Marquardt India Pvt Ltd
 78:A5:04		Texas Instruments
 78:A5:DD		Shenzhen Smarteye Digital Electronics Co., Ltd
 78:A6:83		Precidata
@@ -38063,6 +38066,7 @@
 8C:1F:64:15:E0:00/36	Dynomotion, Inc
 8C:1F:64:16:40:00/36	Revo - Tec GmbH
 8C:1F:64:16:60:00/36	Hikari Alphax Inc.
+8C:1F:64:16:90:00/36	Creative Telecom Pvt. Ltd.
 8C:1F:64:16:B0:00/36	TKR Spezialwerkzeuge GmbH
 8C:1F:64:16:D0:00/36	Xiamen Rgblink Science & Technology Co., Ltd.
 8C:1F:64:16:E0:00/36	Benchmark Electronics BV
@@ -38173,6 +38177,7 @@
 8C:1F:64:26:80:00/36	Astro Machine Corporation
 8C:1F:64:26:E0:00/36	Koizumi Lighting Technology Corp.
 8C:1F:64:27:00:00/36	Xi‘an Hangguang Satellite and Control Technology Co.,Ltd
+8C:1F:64:27:20:00/36	Comminent Pvt Ltd
 8C:1F:64:27:30:00/36	Distran AG
 8C:1F:64:27:40:00/36	Invixium Access Inc
 8C:1F:64:27:B0:00/36	Oriux
@@ -38189,6 +38194,7 @@
 8C:1F:64:29:40:00/36	nanoTRONIX Computing Inc.
 8C:1F:64:29:60:00/36	Roog zhi tong Technology(Beijing) Co.,Ltd
 8C:1F:64:29:80:00/36	Megger Germany GmbH
+8C:1F:64:29:90:00/36	Integer.pl S.A.
 8C:1F:64:29:B0:00/36	TT electronics integrated manufacturing services (Suzhou) Limited
 8C:1F:64:29:F0:00/36	Nagtech Llc
 8C:1F:64:2A:00:00/36	Connected Development
@@ -38859,6 +38865,7 @@
 8C:1F:64:7F:C0:00/36	Mitsubishi Electric Klimat Transportation Systems S.p.A.
 8C:1F:64:80:00:00/36	Shenzhen SDG Telecom Equipment Co.,Ltd.
 8C:1F:64:80:10:00/36	Zhejiang Laolan Information Technology Co., Ltd
+8C:1F:64:80:20:00/36	Daiichi Electric Industry Co., Ltd
 8C:1F:64:80:30:00/36	MOSCA Elektronik und Antriebstechnik GmbH
 8C:1F:64:80:40:00/36	EA Elektro-Automatik
 8C:1F:64:80:70:00/36	Giordano Controls Spa
@@ -44712,6 +44719,7 @@ B4:E6:2D		Espressif Inc.
 B4:E7:82		Vivalnk
 B4:E7:B3		Edifier International
 B4:E8:42		Hong Kong Bouffalo Lab Limited
+B4:E8:5C		fünfeinhalb Funksysteme GmbH
 B4:E8:C9		XADA Technologies
 B4:E9:A3		port industrial automation GmbH
 B4:E9:B0		Cisco Systems, Inc
@@ -49944,6 +49952,7 @@ E4:60:59		Pingtek Co., Ltd.
 E4:61:F4		shenzhen worldelite electronics co., LTD
 E4:62:51		Hao Cheng Group Limited
 E4:62:C4		Cisco Systems, Inc
+E4:64:47		EM Microelectronic
 E4:64:49		Commscope
 E4:65:64		Shenzhen Ktc Technology Co.,Ltd
 E4:65:B8		Espressif Inc.
@@ -52006,6 +52015,7 @@ F8:03:32		Khomp
 F8:03:77		Apple, Inc.
 F8:04:2E		Samsung Electro-Mechanics(Thailand)
 F8:05:1C		DRS Imaging and Targeting Solutions
+F8:05:84		EM Microelectronic
 F8:07:5D		Huawei Device Co., Ltd.
 F8:08:4F		Sagemcom Broadband SAS
 F8:09:A4		Henan Thinker Rail Transportation Research Inc.
