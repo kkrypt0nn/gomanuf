@@ -17570,6 +17570,7 @@
 04:80:A7		ShenZhen TianGang Micro Technology CO.LTD
 04:81:9B		Sky Uk Limited
 04:81:AE		Clack Corporation
+04:83:08		Espressif Inc.
 04:84:8A		7Inova Technology Limited
 04:86:80		Quectel Wireless Solutions Co.,Ltd.
 04:87:27		Silicon Laboratories
@@ -23138,6 +23139,7 @@
 34:3D:7F		Klipsch Group, Inc.
 34:3D:98		JinQianMao Technology Co.,Ltd.
 34:3D:C4		Buffalo.Inc
+34:3E:25		Ohsung
 34:3E:A4		Ring LLC
 34:40:B5		Ibm
 34:41:5D		Intel Corporate
@@ -24331,6 +24333,7 @@
 3C:A8:2A		Hewlett Packard
 3C:A8:ED		smart light technology
 3C:A9:16		Huawei Device Co., Ltd.
+3C:A9:AB		Nintendo Co.,Ltd
 3C:A9:F4		Intel Corporate
 3C:AA:3F		iKey, Ltd.
 3C:AB:72		Nanjing Qinheng Microelectronics Co., Ltd.
@@ -37008,6 +37011,7 @@
 84:49:15		vArmour Networks, Inc.
 84:4B:B7		Beijing Sankuai Online Technology Co.,Ltd
 84:4B:F5		Hon Hai Precision Ind. Co.,Ltd.
+84:4D:4C		Adtran Inc
 84:4D:BE		Fiberhome Telecommunication Technologies Co.,LTD
 84:4F:03		Ablelink Electronics Ltd
 84:50:75		Huawei Device Co., Ltd.
@@ -38523,6 +38527,7 @@
 8C:1F:64:53:C0:00/36	Filgis Elektronik
 8C:1F:64:53:D0:00/36	Nexcontech
 8C:1F:64:53:F0:00/36	Velvac Incorporated
+8C:1F:64:54:00:00/36	Enclavamientos y Señalización Ferroviaria Enyse S.A.
 8C:1F:64:54:20:00/36	Landis+Gyr Equipamentos de Medição Ltda
 8C:1F:64:54:40:00/36	Tinkerbee Innovations Private Limited
 8C:1F:64:54:80:00/36	Beijing Congyun Technology Co.,Ltd
@@ -38583,6 +38588,7 @@
 8C:1F:64:5B:40:00/36	Axion Lighting
 8C:1F:64:5B:70:00/36	Vortex Sp. z o.o.
 8C:1F:64:5B:90:00/36	ViewSonic Corp
+8C:1F:64:5B:A0:00/36	Connectcom System Co., Ltd
 8C:1F:64:5B:C0:00/36	Heitec Ag
 8C:1F:64:5B:D0:00/36	MPT-Service project
 8C:1F:64:5B:E0:00/36	Benchmark Electronics BV
@@ -39166,6 +39172,7 @@
 8C:1F:64:A8:60:00/36	Global Design Tech(ZS) Co.,Ltd
 8C:1F:64:A8:70:00/36	Morgen Technology
 8C:1F:64:A8:90:00/36	Mitsubishi Electric India Pvt. Ltd.
+8C:1F:64:A8:C0:00/36	Elektronik Art
 8C:1F:64:A9:00:00/36	DSGio Global Pte Ltd
 8C:1F:64:A9:10:00/36	Infinitive Group Limited
 8C:1F:64:A9:20:00/36	Agrology, PBC
@@ -44442,6 +44449,7 @@ B4:39:39		Shenzhen TINNO Mobile Technology Corp.
 B4:39:D6		ProCurve Networking by HP
 B4:3A:28		Samsung Electronics Co.,Ltd
 B4:3A:31		Silicon Laboratories
+B4:3A:45		Espressif Inc.
 B4:3A:E2		Huawei Technologies Co.,Ltd
 B4:3D:08		GX International BV
 B4:3D:6B		NXP Semiconductor (Tianjin) LTD.
@@ -45726,6 +45734,7 @@ C0:4E:8A		Huawei Technologies Co.,Ltd
 C0:50:64		Shennan Circuits Co.,Ltd
 C0:51:5C		zte corporation
 C0:51:7E		Hangzhou Hikvision Digital Technology Co.,Ltd.
+C0:51:F3		Cig Shanghai Co Ltd
 C0:52:34		Huawei Technologies Co.,Ltd
 C0:53:36		Beijing National Railway Research & Design Institute of Signal & Communication Group Co..Ltd.
 C0:55:5C		Impulse Labs
@@ -46705,6 +46714,7 @@ C8:51:42		Samsung Electronics Co.,Ltd
 C8:51:95		Huawei Technologies Co.,Ltd
 C8:51:FB		Extreme Networks Headquarters
 C8:52:61		Commscope
+C8:53:09		LCFC(Hefei) Electronics Technology co., ltd
 C8:53:E1		Beijing Bytedance Network Technology Co., Ltd
 C8:54:4B		Zyxel Communications Corporation
 C8:54:A4		Infinix mobility limited
@@ -49490,6 +49500,7 @@ E0:3C:5B		Shenzhen Jiaxinjie Electron Co.,Ltd
 E0:3E:44		Broadcom
 E0:3E:4A		Cavanagh Group International
 E0:3E:7D		data-complex GmbH
+E0:3E:CB		Qingdao Intelligent&Precise Electronics Co.,Ltd.
 E0:3F:49		ASUSTek COMPUTER INC.
 E0:40:07		Huawei Device Co., Ltd.
 E0:41:02		zte corporation
