@@ -18475,6 +18475,8 @@
 0C:47:3D		Hitron Technologies. Inc
 0C:47:A9		IEEE Registration Authority
 0C:47:A9:00:00:00/28	Digital Telemedia Technology Private Limited
+0C:47:A9:10:00:00/28	Shanghai BST Electric Co.,ltd
+0C:47:A9:70:00:00/28	Annapurna labs
 0C:47:A9:D0:00:00/28	Dig_Link
 0C:47:C9		Amazon Technologies Inc.
 0C:48:85		LG Electronics (Mobile Communications)
@@ -30184,6 +30186,7 @@
 6C:9E:7C		Fiberhome Telecommunication Technologies Co.,LTD
 6C:A0:B4		Sky Uk Limited
 6C:A1:00		Intel Corporate
+6C:A3:1E		Itel Mobile Limited
 6C:A3:67		Avlinkpro
 6C:A4:01		essensys plc
 6C:A4:D1		Fiberhome Telecommunication Technologies Co.,LTD
@@ -42059,6 +42062,7 @@
 9C:E8:2B		vivo Mobile Communication Co., Ltd.
 9C:E8:95		New H3C Technologies Co., Ltd
 9C:E9:1C		zte corporation
+9C:E9:1E		Tejas Networks Ltd
 9C:E9:51		Shenzhen Sang Fei Consumer Communications Ltd., Co.
 9C:EA:97		Honor Device Co., Ltd.
 9C:EB:E8		BizLink (Kunshan) Co.,Ltd
@@ -52467,6 +52471,7 @@ F8:F1:B6		Motorola Mobility LLC, a Lenovo Company
 F8:F1:E6		Samsung Electronics Co.,Ltd
 F8:F2:1E		Intel Corporate
 F8:F2:5A		G-Lab GmbH
+F8:F3:D3		Shenzhen Gotron electronic CO.,LTD
 F8:F4:64		Rawe Electonic GmbH
 F8:F5:19		Rulogic Inc.
 F8:F5:32		Commscope
