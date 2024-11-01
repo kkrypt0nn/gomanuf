@@ -18476,6 +18476,7 @@
 0C:47:A9		IEEE Registration Authority
 0C:47:A9:00:00:00/28	Digital Telemedia Technology Private Limited
 0C:47:A9:10:00:00/28	Shanghai BST Electric Co.,ltd
+0C:47:A9:40:00:00/28	Private
 0C:47:A9:70:00:00/28	Annapurna labs
 0C:47:A9:D0:00:00/28	Dig_Link
 0C:47:C9		Amazon Technologies Inc.
@@ -27508,6 +27509,7 @@
 54:81:2D		PAX Computer Technology(Shenzhen) Ltd.
 54:81:AD		Eagle Research Corporation
 54:83:3A		Zyxel Communications Corporation
+54:84:50		Tiinlab Corporation
 54:84:7B		Digital Devices GmbH
 54:84:DC		zte corporation
 54:86:BC		Cisco Systems, Inc
