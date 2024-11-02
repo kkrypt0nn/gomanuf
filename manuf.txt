@@ -18478,6 +18478,7 @@
 0C:47:A9:10:00:00/28	Shanghai BST Electric Co.,ltd
 0C:47:A9:40:00:00/28	Private
 0C:47:A9:70:00:00/28	Annapurna labs
+0C:47:A9:A0:00:00/28	Lens Technology (Xiangtan) Co.,Ltd
 0C:47:A9:D0:00:00/28	Dig_Link
 0C:47:C9		Amazon Technologies Inc.
 0C:48:85		LG Electronics (Mobile Communications)
@@ -20888,6 +20889,7 @@
 20:50:0F		Fiber Groep B.V.
 20:50:E7		AMPAK Technology,Inc.
 20:53:83		Huawei Technologies Co.,Ltd
+20:53:8D		Hon Hai Precision Industry Co., Ltd.
 20:53:CA		Risk Technology Ltd
 20:54:76		Sony Corporation
 20:54:FA		Huawei Technologies Co.,Ltd
@@ -23584,6 +23586,7 @@
 38:20:A8		ColorTokens, Inc.
 38:21:87		Midea Group Co., Ltd.
 38:21:C7		Hewlett Packard Enterprise
+38:22:28		Telink Micro LLC
 38:22:9D		ADB Broadband Italia
 38:22:D6		Hangzhou H3C Technologies Co., Limited
 38:22:E2		HP Inc.
@@ -38080,6 +38083,7 @@
 8C:1F:64:16:D0:00/36	Xiamen Rgblink Science & Technology Co., Ltd.
 8C:1F:64:16:E0:00/36	Benchmark Electronics BV
 8C:1F:64:17:00:00/36	Fracarro Radioindustrie Srl
+8C:1F:64:17:50:00/36	Wuhan YiValley Opto-electric technology Co.,Ltd
 8C:1F:64:17:70:00/36	Emcom Systems
 8C:1F:64:17:90:00/36	Agrowtek Inc.
 8C:1F:64:17:B0:00/36	Bavaria Digital Technik GmbH
@@ -43163,6 +43167,7 @@ A8:40:0B		Visteon Corporation
 A8:40:25		Oxide Computer Company
 A8:40:41		Dragino Technology Co., Limited
 A8:40:7D		GD Midea Air-Conditioning Equipment Co.,Ltd.
+A8:40:F8		Humax Networks
 A8:41:22		China Mobile (Hangzhou) Information Technology Co.,Ltd.
 A8:41:F4		AzureWave Technology Inc.
 A8:42:A1		TP-Link Corporation Limited
@@ -50840,6 +50845,7 @@ EC:74:27		eero inc.
 EC:74:8C		Sony Interactive Entertainment Inc.
 EC:74:BA		Hirschmann Automation and Control GmbH
 EC:74:D7		Grandstream Networks Inc
+EC:75:0C		TP-Link Systems Inc.
 EC:75:3E		Huawei Technologies Co.,Ltd
 EC:75:ED		Citrix Systems, Inc.
 EC:79:49		Fujitsu Limited
