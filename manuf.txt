@@ -18470,6 +18470,7 @@
 0C:42:A1		Mellanox Technologies, Inc.
 0C:43:14		Silicon Laboratories
 0C:43:F9		Amazon Technologies Inc.
+0C:44:C0		zte corporation
 0C:45:BA		Huawei Technologies Co.,Ltd
 0C:46:9D		MS Sedco
 0C:47:3D		Hitron Technologies. Inc
@@ -18479,6 +18480,7 @@
 0C:47:A9:40:00:00/28	Private
 0C:47:A9:70:00:00/28	Annapurna labs
 0C:47:A9:A0:00:00/28	Lens Technology (Xiangtan) Co.,Ltd
+0C:47:A9:C0:00:00/28	Annapurna labs
 0C:47:A9:D0:00:00/28	Dig_Link
 0C:47:C9		Amazon Technologies Inc.
 0C:48:85		LG Electronics (Mobile Communications)
@@ -19693,6 +19695,7 @@
 14:E6:E4		Tp-Link Technologies Co.,Ltd.
 14:E7:C8		Integrated Device Technology (Malaysia) Sdn. Bhd.
 14:E9:B2		Fiberhome Telecommunication Technologies Co.,LTD
+14:EA:A1		Micronet union Technology (chengdu) co., Ltd
 14:EB:08		Huawei Technologies Co.,Ltd
 14:EB:33		BSMediasoft Co., Ltd.
 14:EB:B6		TP-Link Corporation Limited
@@ -21324,7 +21327,7 @@
 24:5D:FC:90:00:00/28	Torgovyy Dom  Tehnologiy Llc
 24:5D:FC:A0:00:00/28	Tata Sky Limited
 24:5D:FC:B0:00:00/28	Only
-24:5D:FC:C0:00:00/28	Senix Corporation
+24:5D:FC:C0:00:00/28	Senix
 24:5D:FC:D0:00:00/28	Hunan Honestone lntelligence Technology Co.,Ltd
 24:5D:FC:E0:00:00/28	Dodge
 24:5E:48		Apple, Inc.
@@ -22303,6 +22306,7 @@
 2C:64:1F		Vizio, Inc
 2C:64:F6		Wu Qi Technologies,Inc.
 2C:66:AD		NimbleTech Digital Inc.
+2C:66:F5		Shenzhen Electrical Appliances Co.
 2C:67:98		InTalTech Ltd.
 2C:67:AB		Ezelink Telecom
 2C:67:BE		DWnet Technologies(Suzhou) Corporation
@@ -35487,6 +35491,7 @@
 78:25:44		Omnima Limited
 78:25:7A		LEO Innovation Lab
 78:25:AD		Samsung Electronics Co.,Ltd
+78:26:A6		zte corporation
 78:28:CA		Sonos, Inc.
 78:29:AD		Ningbo Qixiang Information Technology Co., Ltd
 78:29:ED		Askey Computer Corp
@@ -38358,6 +38363,7 @@
 8C:1F:64:3B:60:00/36	Tex Computer Srl
 8C:1F:64:3B:70:00/36	Ai-Blox
 8C:1F:64:3B:80:00/36	Hubris Technologies Private Limited
+8C:1F:64:3B:A0:00/36	Mitsubishi Electric India Pvt. Ltd.
 8C:1F:64:3B:B0:00/36	Clausal Computing Oy
 8C:1F:64:3B:D0:00/36	Oriux
 8C:1F:64:3C:00:00/36	Snek
@@ -38794,6 +38800,7 @@
 8C:1F:64:74:90:00/36	Tiama
 8C:1F:64:74:B0:00/36	AR Modular RF
 8C:1F:64:74:E0:00/36	OpenPark Technologies Kft
+8C:1F:64:75:10:00/36	CITSA Technologies Private Limited
 8C:1F:64:75:50:00/36	Flextronics International Kft
 8C:1F:64:75:60:00/36	Star Systems International Limited
 8C:1F:64:75:90:00/36	Systel Inc
@@ -42392,6 +42399,7 @@ A0:88:B4		Intel Corporate
 A0:88:C2		Mellanox Technologies, Inc.
 A0:89:66		Cig Shanghai Co Ltd
 A0:89:E4		Skyworth Digital Technology(Shenzhen) Co.,Ltd
+A0:8A:06		Askey Computer Corp
 A0:8A:87		HuiZhou KaiYue Electronic Co.,Ltd
 A0:8C:15		Gerhard D. Wempe KG
 A0:8C:9B		Xtreme Technologies Corp
@@ -43456,6 +43464,7 @@ AA:14:6B		IronWiFi
 AA:34:D4		CDVI Wireless SpA
 AA:38:C7		Kaloom inc
 AA:54:8B		Tintri
+AA:78:A3		Dongguan Yiertek Co., Ltd
 AA:DC:47		Cachengo, Inc.
 AA:F0:19		TransferJet Consortium Incorporated Association
 AC:00:7A		Apple, Inc.
@@ -45521,6 +45530,7 @@ BC:BB:C9		Kellendonk Elektronik GmbH
 BC:BC:46		SKS Welding Systems GmbH
 BC:BD:84		zte corporation
 BC:BD:9E		Itel Mobile Limited
+BC:BE:FB		ASL Xiamen Technology CO., LTD
 BC:C0:0F		Fiberhome Telecommunication Technologies Co.,LTD
 BC:C1:68		DinBox Sverige AB
 BC:C2:3A		Thomson Video Networks
@@ -48524,6 +48534,7 @@ D4:E2:2F		Roku, Inc
 D4:E2:CB		Vantiva USA LLC
 D4:E3:2C		S. Siedle & Sohne
 D4:E3:3F		Nokia
+D4:E3:C5		zte corporation
 D4:E6:B7		Samsung Electronics Co.,Ltd
 D4:E8:53		Hangzhou Hikvision Digital Technology Co.,Ltd.
 D4:E8:80		Cisco Systems, Inc
