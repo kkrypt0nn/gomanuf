@@ -18480,6 +18480,7 @@
 0C:47:A9:40:00:00/28	Private
 0C:47:A9:70:00:00/28	Annapurna labs
 0C:47:A9:A0:00:00/28	Lens Technology (Xiangtan) Co.,Ltd
+0C:47:A9:B0:00:00/28	Shenzhen Hebang Electronic Co., Ltd
 0C:47:A9:C0:00:00/28	Annapurna labs
 0C:47:A9:D0:00:00/28	Dig_Link
 0C:47:C9		Amazon Technologies Inc.
@@ -20215,6 +20216,7 @@
 1C:06:56		IDY Corporation
 1C:08:C1		LG Innotek
 1C:0B:52		Epicom S.A
+1C:0B:8B		Ubiquiti Inc
 1C:0D:7D		Apple, Inc.
 1C:0E:C2		Apple, Inc.
 1C:0E:D3		Sichuan Tianyi Comheart Telecom Co.,LTD
@@ -22536,6 +22538,7 @@
 2C:DD:95		Taicang T&W Electronics
 2C:DD:A3		Point Grey Research Inc.
 2C:DD:E9		Arista Networks
+2C:DF:E6		Raisecom Technology CO., LTD
 2C:E0:32		TCL King Electrical Appliances(Huizhou)Co.,Ltd
 2C:E2:A8		DeviceDesign
 2C:E2:D9		Huawei Device Co., Ltd.
@@ -27744,6 +27747,7 @@
 58:09:E5		Kivic Inc.
 58:0A:20		Cisco Systems, Inc
 58:0A:D4		Apple, Inc.
+58:0D:0D		Gree Electric Appliances, Inc. Of Zhuhai
 58:10:31		Hon Hai Precision IND.CO.,LTD
 58:10:8C		Intelbras
 58:10:B7		Infinix mobility limited
@@ -28071,6 +28075,7 @@
 58:D3:91		Quectel Wireless Solutions Co.,Ltd.
 58:D5:0A		Murata Manufacturing Co., Ltd.
 58:D5:6E		D-Link International
+58:D6:1F		Ubiquiti Inc
 58:D6:7A		TCPlink
 58:D6:97		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 58:D6:D3		Dairy Cheq Inc
@@ -29733,6 +29738,7 @@
 68:93:61		Integrated Device Technology (Malaysia) Sdn. Bhd.
 68:94:23		Hon Hai Precision Ind. Co.,Ltd.
 68:94:4A		zte corporation
+68:95:75		Zhejiang Bodyguard Electronic Co., Ltd
 68:96:2E		Huawei Technologies Co.,Ltd
 68:96:6A		Ohsung
 68:96:7B		Apple, Inc.
@@ -30108,6 +30114,7 @@
 6C:62:86		Nokia
 6C:62:FE		Juniper Networks
 6C:63:9C		Commscope
+6C:63:F8		Ubiquiti Inc
 6C:64:1A		Penguin Computing
 6C:65:67		BELIMO Automation AG
 6C:67:EF		Huawei Technologies Co.,Ltd
@@ -38808,6 +38815,7 @@
 8C:1F:64:75:F0:00/36	ASTRACOM Co. Ltd
 8C:1F:64:76:00:00/36	Q-Light AS
 8C:1F:64:76:20:00/36	Support Professionals B.V.
+8C:1F:64:76:30:00/36	Anduril Imaging
 8C:1F:64:76:40:00/36	nanoTRONIX Computing Inc.
 8C:1F:64:76:50:00/36	Micro Electroninc Products
 8C:1F:64:76:70:00/36	CAES Systems LLC
@@ -39423,6 +39431,7 @@
 8C:1F:64:C5:90:00/36	Tunstall A/S
 8C:1F:64:C5:D0:00/36	Alfa Proxima d.o.o.
 8C:1F:64:C5:E0:00/36	YUYAMA MFG Co.,Ltd
+8C:1F:64:C6:00:00/36	Intelligent Security Systems (ISS)
 8C:1F:64:C6:10:00/36	Beijing Ceresdate Technology Co.,LTD
 8C:1F:64:C6:20:00/36	GMI Ltd
 8C:1F:64:C6:40:00/36	Ajeco Oy
@@ -39728,6 +39737,7 @@
 8C:1F:64:F1:20:00/36	CAITRON GmbH
 8C:1F:64:F1:30:00/36	ACS Motion Control
 8C:1F:64:F1:40:00/36	Elektrosil GmbH
+8C:1F:64:F1:90:00/36	Hurry-tech
 8C:1F:64:F1:B0:00/36	Nextep Co.,Ltd.
 8C:1F:64:F1:C0:00/36	Rigel Engineering, LLC
 8C:1F:64:F1:D0:00/36	MB connect line GmbH Fernwartungssysteme
@@ -47076,6 +47086,7 @@ C8:F9:F9		Cisco Systems, Inc
 C8:FA:84		Trusonus corp.
 C8:FA:E1		ARQ Digital LLC
 C8:FB:26		Cisco SPVTG
+C8:FB:54		iMin Technology Pte. Ltd.
 C8:FD:19		Texas Instruments
 C8:FE:0F		Shenzhen Bilian Electronic Co.，Ltd
 C8:FE:30		Bejing DAYO Mobile Communication Technology Ltd.
