@@ -18477,8 +18477,10 @@
 0C:47:A9		IEEE Registration Authority
 0C:47:A9:00:00:00/28	Digital Telemedia Technology Private Limited
 0C:47:A9:10:00:00/28	Shanghai BST Electric Co.,ltd
+0C:47:A9:20:00:00/28	Annapurna labs
 0C:47:A9:40:00:00/28	Private
 0C:47:A9:50:00:00/28	Everon Co., Ltd.
+0C:47:A9:60:00:00/28	Shenzhen Hahappylife Innovations Electronics Technology Co.,Ltd
 0C:47:A9:70:00:00/28	Annapurna labs
 0C:47:A9:80:00:00/28	Honest Networks LLC
 0C:47:A9:90:00:00/28	Shanghai Sigen New Energy Technology Co., Ltd
@@ -19909,6 +19911,7 @@
 18:69:D8		Tuya Smart Inc.
 18:69:DA		China Mobile Group Device Co.,Ltd.
 18:6A:81		Sagemcom Broadband SAS
+18:6B:E2		Lylink Limited
 18:6D:99		Adanis Inc.
 18:6F:2D		Shenzhen Sundray Technologies Company Limited
 18:70:3B		Huawei Device Co., Ltd.
@@ -38136,6 +38139,7 @@
 8C:1F:64:1B:70:00/36	Rax-Tech International
 8C:1F:64:1B:90:00/36	D.T.S Illuminazione Srl
 8C:1F:64:1B:B0:00/36	Renwei Electronics Technology (Shenzhen) Co.,LTD.
+8C:1F:64:1B:C0:00/36	Transit Solutions, LLC.
 8C:1F:64:1B:D0:00/36	Dorlet Sau
 8C:1F:64:1B:E0:00/36	Mideum Eng
 8C:1F:64:1B:F0:00/36	Ossia Inc
@@ -43330,6 +43334,7 @@ A8:8C:3E		Microsoft Corporation
 A8:8C:EE		MicroMade Galka i Drozdz sp.j.
 A8:8D:7B		SunDroid Global limited.
 A8:8E:24		Apple, Inc.
+A8:8F:99		Arista Networks
 A8:8F:D9		Apple, Inc.
 A8:90:08		Beijing Yuecheng Technology Co. Ltd.
 A8:90:42		Beijing Wanwei Intelligent Technology Co., Ltd.
@@ -46074,6 +46079,7 @@ C0:F6:C2		Huawei Technologies Co.,Ltd
 C0:F6:EC		Huawei Technologies Co.,Ltd
 C0:F7:9D		Powercode
 C0:F8:27		Rapidmax Technology Corporation
+C0:F8:53		Tuya Smart Inc.
 C0:F8:7F		Cisco Systems, Inc
 C0:F8:DA		Hon Hai Precision Ind. Co.,Ltd.
 C0:F9:45		Toshiba Toko Meter Systems Co., LTD.
@@ -48913,6 +48919,7 @@ D8:C6:91		Hichan Technology Corp.
 D8:C6:F9		Tracklab Inc
 D8:C7:71		Huawei Technologies Co.,Ltd
 D8:C7:C8		Hewlett Packard Enterprise
+D8:C8:0C		Tuya Smart Inc.
 D8:C8:E9		Phicomm (Shanghai) Co., Ltd.
 D8:C9:9D		Ea Display Limited
 D8:CA:06		Titan DataCenters France
