@@ -18669,6 +18669,7 @@
 0C:92:4E		Rice Lake Weighing Systems
 0C:93:01		PT. Prasimax Inovasi Teknologi
 0C:93:8F		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
+0C:93:A5		eero inc.
 0C:93:FB		BNS Solutions
 0C:95:05		The Chamberlain Group, Inc
 0C:95:15		Palltronics, Inc.
@@ -20431,6 +20432,7 @@
 1C:76:F2		Samsung Electronics Co.,Ltd
 1C:77:F6		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 1C:78:39		Shenzhen Tencent Computer System Co., Ltd.
+1C:78:4B		Bouffalo Lab (Nanjing) Co., Ltd.
 1C:78:4E		China Mobile Iot Limited company
 1C:7A:43		vivo Mobile Communication Co., Ltd.
 1C:7A:CF		vivo Mobile Communication Co., Ltd.
@@ -36688,6 +36690,7 @@
 80:76:C2		GD Midea Air-Conditioning Equipment Co.,Ltd.
 80:77:A4		Tecno Mobile Limited
 80:78:71		Askey Computer Corp
+80:79:33		Aigentec Technology(Zhejiang) Co., Ltd.
 80:79:5D		Infinix mobility limited
 80:79:AE		ShanDong Tecsunrise  Co.,Ltd
 80:7A:7F		ABB Genway Xiamen Electrical Equipment CO., LTD
@@ -37485,6 +37488,7 @@
 88:43:E1		Cisco Systems, Inc
 88:44:77		Huawei Technologies Co.,Ltd
 88:44:F6		Nokia Corporation
+88:45:F0		Guangdong Genius Technology Co., Ltd.
 88:46:04		Xiaomi Communications Co Ltd
 88:46:2A		Telechips Inc.
 88:4A:18		Opulinks
@@ -39124,6 +39128,7 @@
 8C:1F:64:9B:20:00/36	Emerson Rosemount Analytical
 8C:1F:64:9B:30:00/36	Böckelt GmbH
 8C:1F:64:9B:60:00/36	GS Elektromedizinsiche Geräte G. Stemple GmbH
+8C:1F:64:9B:80:00/36	Makel Elektrik Malzemeleri A.Ş.
 8C:1F:64:9B:90:00/36	Quercus Technologies, S.L.
 8C:1F:64:9B:A0:00/36	Wintus System
 8C:1F:64:9B:D0:00/36	Atm Solutions
@@ -39706,6 +39711,7 @@
 8C:1F:64:E7:C0:00/36	Ashinne Technology Co., Ltd
 8C:1F:64:E8:00:00/36	Power Electronics Espana, S.L.
 8C:1F:64:E8:60:00/36	ComVetia AG
+8C:1F:64:E8:80:00/36	SiFive Inc
 8C:1F:64:E8:90:00/36	PADL Software Pty Ltd
 8C:1F:64:E8:A0:00/36	Changzhou MITO electronics Technology Co;LTD
 8C:1F:64:E8:B0:00/36	Televic Rail GmbH
@@ -48735,6 +48741,7 @@ D8:47:BB		Huawei Device Co., Ltd.
 D8:48:EE		Hangzhou Xueji Technology Co., Ltd.
 D8:49:0B		Huawei Technologies Co.,Ltd
 D8:49:2F		Canon Inc.
+D8:49:BF		Celestica Inc.
 D8:4A:2B		zte corporation
 D8:4A:87		Oi Electric Co.,Ltd
 D8:4B:2A		Cognitas Technologies, Inc.
@@ -50903,7 +50910,11 @@ EC:74:8C		Sony Interactive Entertainment Inc.
 EC:74:BA		Hirschmann Automation and Control GmbH
 EC:74:CD		IEEE Registration Authority
 EC:74:CD:30:00:00/28	iSolution Technologies Co.,Ltd.
+EC:74:CD:60:00:00/28	Platypus
 EC:74:CD:80:00:00/28	Trans Audio Video Srl
+EC:74:CD:90:00:00/28	Sound Health Systems
+EC:74:CD:A0:00:00/28	Bosch (zhuhai) Security Systems Company, Ltd.
+EC:74:CD:D0:00:00/28	Shenzhen Ting-Shine Technology Co., Ltd.
 EC:74:D7		Grandstream Networks Inc
 EC:75:0C		TP-Link Systems Inc.
 EC:75:3E		Huawei Technologies Co.,Ltd
