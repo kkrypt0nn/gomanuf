@@ -20349,6 +20349,7 @@
 1C:4D:66		Amazon Technologies Inc.
 1C:4D:70		Intel Corporate
 1C:4D:89		Hangzhou Huacheng Network Technology Co.,Ltd
+1C:4E:A2		Shenzhen V-Link Technology CO., LTD.
 1C:50:1E		Sunplus Technology Co., Ltd.
 1C:51:B5		Techaya LTD
 1C:52:16		Dongguan Hele Electronics Co., Ltd
@@ -36609,6 +36610,7 @@
 80:3B:F6		Look Easy International Limited
 80:3C:20		Huawei Technologies Co.,Ltd
 80:3E:48		Shenzhen Gongjin Electronics Co.,Lt
+80:3E:4F		GD Midea Air-Conditioning Equipment Co.,Ltd.
 80:3F:5D		Winstars Technology Ltd
 80:3F:D6		bytes at work AG
 80:41:26		Huawei Technologies Co.,Ltd
@@ -38445,6 +38447,7 @@
 8C:1F:64:41:40:00/36	INSEVIS GmbH
 8C:1F:64:41:70:00/36	Fracarro srl
 8C:1F:64:41:90:00/36	Naval Group
+8C:1F:64:41:B0:00/36	Energy Power Products Limited
 8C:1F:64:41:C0:00/36	KSE GmbH
 8C:1F:64:41:D0:00/36	Aspen Spectra Sdn Bhd
 8C:1F:64:41:E0:00/36	Linxpeed Limited
@@ -42203,6 +42206,7 @@ A0:0A:9A		Huawei Device Co., Ltd.
 A0:0A:BF		Wieson Technologies Co., Ltd.
 A0:0B:BA		Samsung Electro Mechanics Co., Ltd.
 A0:0C:A1		SKTB SKiT
+A0:0C:E2		Shenzhen Shokz Co., Ltd.
 A0:0E:98		Huawei Technologies Co.,Ltd
 A0:0F:37		Cisco Systems, Inc
 A0:10:77		zte corporation
@@ -50917,6 +50921,7 @@ EC:74:8C		Sony Interactive Entertainment Inc.
 EC:74:BA		Hirschmann Automation and Control GmbH
 EC:74:CD		IEEE Registration Authority
 EC:74:CD:30:00:00/28	iSolution Technologies Co.,Ltd.
+EC:74:CD:50:00:00/28	Standard Backhaul Communications
 EC:74:CD:60:00:00/28	Platypus
 EC:74:CD:80:00:00/28	Trans Audio Video Srl
 EC:74:CD:90:00:00/28	Sound Health Systems
