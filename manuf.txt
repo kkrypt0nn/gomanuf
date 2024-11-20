@@ -40585,6 +40585,7 @@
 90:86:9B		zte corporation
 90:88:55		Cisco Systems, Inc
 90:88:A2		Ionics Technology Me Ltda
+90:88:A9		IEEE Registration Authority
 90:88:A9:20:00:00/28	合肥乾盾智能科技有限公司
 90:89:38		Hefei Linkin Technology Co., Ltd.
 90:89:5F		Weifang Goertek Electronics Co.,Ltd
