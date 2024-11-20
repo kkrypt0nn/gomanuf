@@ -20300,6 +20300,7 @@
 1C:2C:E0		Shanghai  Mountain View Silicon
 1C:2E:1B		Suzhou Tremenet Communication Technology Co., Ltd.
 1C:2F:A2		Guangzhou Shiyuan Electronic Technology Company Limited
+1C:30:03		Hewlett Packard Enterprise
 1C:30:08		Hui Zhou Gaoshengda Technology Co.,LTD
 1C:32:83		COMTTI Intelligent Technology(Shenzhen) Co., Ltd.
 1C:33:0E		PernixData
@@ -26202,6 +26203,7 @@
 48:B9:77		PulseOn Oy
 48:B9:C2		Teletics Inc.
 48:BA:4E		Hewlett Packard
+48:BC:0E		Sichuan AI-Link Technology Co., Ltd.
 48:BC:A6		​ASUNG TECHNO CO.,Ltd
 48:BC:E1		Samsung Electronics Co.,Ltd
 48:BD:0E		Quanta Storage Inc.
@@ -26835,6 +26837,7 @@
 4C:F5:DC		Hangzhou Hikvision Digital Technology Co.,Ltd.
 4C:F7:37		SamJi Electronics Co., Ltd
 4C:F9:5D		Huawei Technologies Co.,Ltd
+4C:FA:9A		Shenzhen Quanxing Technology Co., Ltd
 4C:FA:CA		Cambridge Industries(Group) Co.,Ltd.
 4C:FB:45		Huawei Technologies Co.,Ltd
 4C:FB:F4		Optimal Audio Ltd
@@ -30017,6 +30020,7 @@
 6C:21:A2		AMPAK Technology, Inc.
 6C:22:1A		AltoBeam Inc.
 6C:22:AB		Ainsworth Game Technology
+6C:22:F7		Nokia Shanghai Bell Co., Ltd.
 6C:23:16		TATUNG Technology Inc.,
 6C:23:B9		Sony Corporation
 6C:23:CB		Wattty Corporation
@@ -38479,6 +38483,7 @@
 8C:1F:64:44:20:00/36	Potter Electric Signal Co LLC
 8C:1F:64:44:50:00/36	Figment Design Laboratories
 8C:1F:64:44:A0:00/36	Onbitel
+8C:1F:64:44:D0:00/36	Design and Manufacturing Vista Electronics Pvt.Ltd.
 8C:1F:64:44:E0:00/36	GVA Lighting, Inc.
 8C:1F:64:44:F0:00/36	RealD, Inc.
 8C:1F:64:45:10:00/36	Guan Show Technologe Co., Ltd.
@@ -39088,6 +39093,7 @@
 8C:1F:64:92:A0:00/36	Thermo Onix Ltd
 8C:1F:64:92:D0:00/36	IVOR Intelligent Electrical Appliance Co., Ltd
 8C:1F:64:93:10:00/36	Noptel Oy
+8C:1F:64:93:50:00/36	Breas Medical AB
 8C:1F:64:93:60:00/36	Jiangsu Eman Electronic Technology Co., Ltd
 8C:1F:64:93:70:00/36	H2Ok Innovations
 8C:1F:64:93:90:00/36	SPIT Technology, Inc
@@ -40579,6 +40585,7 @@
 90:86:9B		zte corporation
 90:88:55		Cisco Systems, Inc
 90:88:A2		Ionics Technology Me Ltda
+90:88:A9:20:00:00/28	合肥乾盾智能科技有限公司
 90:89:38		Hefei Linkin Technology Co., Ltd.
 90:89:5F		Weifang Goertek Electronics Co.,Ltd
 90:8C:09		Total Phase
@@ -41630,6 +41637,7 @@
 98:B8:BC		Samsung Electronics Co.,Ltd
 98:B8:E3		Apple, Inc.
 98:BA:39		Doro AB
+98:BA:5F		TP-Link Systems Inc.
 98:BB:1E		BYD Precision Manufacture Company Ltd.
 98:BB:99		Phicomm (Sichuan) Co.,Ltd.
 98:BC:57		Sva Technologies Co.Ltd
@@ -49871,6 +49879,7 @@ E0:DF:13		Hangzhou Hikvision Digital Technology Co.,Ltd.
 E0:E0:C2		China Mobile Group Device Co.,Ltd.
 E0:E0:FC		Huawei Device Co., Ltd.
 E0:E1:A9		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
+E0:E2:D1		Beijing Netswift Technology Co.,Ltd.
 E0:E2:E6		Espressif Inc.
 E0:E3:7C		Huawei Device Co., Ltd.
 E0:E5:CF		Texas Instruments
