@@ -20157,6 +20157,7 @@
 18:DC:56		Yulong Computer Telecommunication Scientific (Shenzhen) Co.,Ltd
 18:DE:50		Tuya Smart Inc.
 18:DE:D7		Huawei Technologies Co.,Ltd
+18:DF:26		Ingram Micro Services
 18:DF:B4		Bosung Powertec Co.,Ltd.
 18:DF:C1		Aetheros
 18:E1:CA		wanze
@@ -21774,7 +21775,7 @@
 28:49:92		Luminator Technology Group Global LLC
 28:4C:53		Intune Networks
 28:4D:7D		zte corporation
-28:4D:92		Luminator
+28:4D:92		Luminator Technology Group Global LLC
 28:4E:44		Huawei Technologies Co.,Ltd
 28:4E:D7		OutSmart Power Systems, Inc.
 28:4E:E9		mercury corperation
@@ -23311,6 +23312,7 @@
 34:85:84		Extreme Networks Headquarters
 34:86:2A		Heinz Lackmann GmbH & Co KG
 34:86:5D		Espressif Inc.
+34:86:DA		Honor Device Co., Ltd.
 34:87:3D		Quectel Wireless Solutions Co.,Ltd.
 34:88:18		Cisco Systems, Inc
 34:88:5D		Logitech Far East
@@ -23593,6 +23595,7 @@
 38:17:B1		Sagemcom Broadband SAS
 38:17:C3		Hewlett Packard Enterprise
 38:17:E1		Vantiva USA LLC
+38:18:2B		Espressif Inc.
 38:18:4C		Sony Home Entertainment&Sound Products Inc
 38:19:2F		Nokia Corporation
 38:1A:52		Seiko Epson Corporation
@@ -23802,6 +23805,7 @@
 38:91:D5		Hangzhou H3C Technologies Co., Limited
 38:91:FB		Xenox Holding BV
 38:92:2E		ArrayComm
+38:92:31		Tecno Mobile Limited
 38:94:61		Renesas Electronics (Penang) Sdn. Bhd.
 38:94:96		Samsung Electronics Co.,Ltd
 38:94:E0		Syrotech Networks. Ltd.
@@ -27985,6 +27989,7 @@
 58:8A:5A		Dell Inc.
 58:8B:1C		Cisco Systems, Inc
 58:8B:F3		Zyxel Communications Corporation
+58:8C:81		Espressif Inc.
 58:8D:09		Cisco Systems, Inc
 58:8D:39		Mitsubishi Electric Automation (China) Ltd.
 58:8D:64		Xi'an Clevbee Technology Co.,Ltd
@@ -28505,6 +28510,7 @@
 5C:A1:E0		EmbedWay Technologies
 5C:A3:9D		Samsung Electro Mechanics Co., Ltd.
 5C:A3:EB		SKODA DIGITAL s.r.o.
+5C:A4:36		Shenzhen G-world Technology Incorporated Company
 5C:A4:7D		Hewlett Packard Enterprise
 5C:A4:8A		Cisco Systems, Inc
 5C:A4:A4		Fiberhome Telecommunication Technologies Co.,LTD
@@ -28946,6 +28952,7 @@
 60:A1:1E		Wuhan Maxsine Electric Co.,Ltd.
 60:A2:C6		Huawei Technologies Co.,Ltd
 60:A3:7D		Apple, Inc.
+60:A3:E3		Tp-Link Technologies Co.,Ltd.
 60:A4:23		Silicon Laboratories
 60:A4:34		IEEE Registration Authority
 60:A4:34:00:00:00/28	Uniqon
@@ -29672,6 +29679,7 @@
 68:55:D4		Seiko Epson Corporation
 68:57:2D		Tuya Smart Inc.
 68:58:11		Fiberhome Telecommunication Technologies Co.,LTD
+68:58:A0		Honor Device Co., Ltd.
 68:58:C5		ZF TRW Automotive
 68:59:32		Sunitec Enterprise Co.,Ltd
 68:59:7F		Alcatel Lucent
@@ -32966,7 +32974,7 @@
 70:B3:D5:89:C0:00/36	IHI Rotating Machinery Engineering Co.,Ltd.
 70:B3:D5:89:D0:00/36	e-Matix Corporation
 70:B3:D5:89:E0:00/36	Innovative Control Systems, LP
-70:B3:D5:89:F0:00/36	Levelup Holding, Inc.
+70:B3:D5:89:F0:00/36	Level Up Holding Co., Inc.
 70:B3:D5:8A:00:00/36	Dm Radiocom
 70:B3:D5:8A:10:00/36	Tiama
 70:B3:D5:8A:20:00/36	Winners Digital Corporation
@@ -40607,7 +40615,9 @@
 90:88:A9:40:00:00/28	asmote ltd.
 90:88:A9:50:00:00/28	Shortcut Labs AB
 90:88:A9:60:00:00/28	Skysolid Information Security Systems(Shenzhen) Co., Ltd
+90:88:A9:80:00:00/28	Samway Electronic SRL
 90:88:A9:A0:00:00/28	Yi Tunnel(beijing) Technology Co.,Ltd
+90:88:A9:B0:00:00/28	UXV Technologies ApS
 90:88:A9:D0:00:00/28	Remowireless Communication International Co.,Limited
 90:89:38		Hefei Linkin Technology Co., Ltd.
 90:89:5F		Weifang Goertek Electronics Co.,Ltd
@@ -41911,6 +41921,7 @@
 9C:44:A6		SwiftTest, Inc.
 9C:45:63		DIMEP Sistemas
 9C:45:F0		Skylark Electronics Pvt Ltd
+9C:47:82		Tp-Link Technologies Co.,Ltd.
 9C:47:F4		Nokia
 9C:47:F9		LJU Automatisierungstechnik GmbH
 9C:49:29		Huawei Technologies Co.,Ltd
@@ -49070,6 +49081,7 @@ D8:EF:42		Huawei Device Co., Ltd.
 D8:EF:CD		Nokia Solutions and Networks GmbH & Co. KG
 D8:F0:F2		Zeebo Inc
 D8:F1:5B		Espressif Inc.
+D8:F1:D8		Oi Electric Co.,Ltd
 D8:F1:F0		Pepxim International Limited
 D8:F2:CA		Intel Corporate
 D8:F3:BC		Liteon Technology Corporation
@@ -52569,6 +52581,7 @@ F8:C4:F3		Shanghai Infinity Wireless Technologies Co.,Ltd.
 F8:C4:FA		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 F8:C6:50		Cisco Systems, Inc
 F8:C6:78		Carefusion
+F8:C9:03		Tp-Link Technologies Co.,Ltd.
 F8:C9:6C		Fiberhome Telecommunication Technologies Co.,LTD
 F8:CA:59		NetComm Wireless
 F8:CA:85		NEC Corporation
@@ -52576,6 +52589,7 @@ F8:CA:B8		Dell Inc.
 F8:CC:6E		DEPO Electronics Ltd
 F8:CD:C8		Sichuan Tianyi Comheart Telecom Co.,LTD
 F8:CE:07		Zhejiang Dahua Technologyco.,Ltd
+F8:CE:21		Tp-Link Technologies Co.,Ltd.
 F8:CE:72		Wistron Corporation
 F8:CF:C5		Motorola Mobility LLC, a Lenovo Company
 F8:D0:27		Seiko Epson Corporation
