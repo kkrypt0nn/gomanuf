@@ -19193,6 +19193,7 @@
 10:A2:D3		Apple, Inc.
 10:A3:0F		Huawei Technologies Co.,Ltd
 10:A3:B8		Iskratel d.o.o.
+10:A4:50		Kwikset
 10:A4:B9		Baidu Online Network Technology (Beijing) Co., Ltd
 10:A4:BE		Shenzhen Bilian Electronic Co.，Ltd
 10:A4:DA		Huawei Technologies Co.,Ltd
@@ -23795,6 +23796,7 @@
 38:8A:BE		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 38:8B:59		Google, Inc.
 38:8C:50		LG Electronics
+38:8D:3D		Wistron Neweb Corporation
 38:8E:7A		Autoit
 38:8E:E7		Fanhattan LLC
 38:8F:30		Samsung Electronics Co.,Ltd
@@ -26860,6 +26862,7 @@
 50:00:84		Siemens Canada
 50:00:8C		Hong Kong Telecommunications (HKT) Limited
 50:00:E0		Cisco Systems, Inc
+50:00:E6		Mellanox Technologies, Inc.
 50:01:6B		Huawei Technologies Co.,Ltd
 50:01:BB		Samsung Electronics Co.,Ltd
 50:01:D9		Huawei Technologies Co.,Ltd
@@ -27314,6 +27317,7 @@
 50:ED:3C		Apple, Inc.
 50:ED:78		Changzhou Yongse Infotech Co.,Ltd
 50:ED:94		Egatel Sl
+50:EE:32		Hon Hai Precision Industry Co.,LTD
 50:F0:03		Open Stack, Inc.
 50:F0:D3		Samsung Electronics Co.,Ltd
 50:F1:4A		Texas Instruments
@@ -36306,6 +36310,7 @@
 7C:8B:B5		Samsung Electronics Co.,Ltd
 7C:8B:C1		Infinix mobility limited
 7C:8B:CA		Tp-Link Technologies Co.,Ltd.
+7C:8C:09		Mellanox Technologies, Inc.
 7C:8D:91		Shanghai Hongzhuo Information Technology co.,LTD
 7C:8D:9C		Edgecore Americas Networking Corporation
 7C:8E:E4		Texas Instruments
@@ -38489,6 +38494,7 @@
 8C:1F:64:41:D0:00/36	Aspen Spectra Sdn Bhd
 8C:1F:64:41:E0:00/36	Linxpeed Limited
 8C:1F:64:41:F0:00/36	Gigalane
+8C:1F:64:42:10:00/36	J B Electronics Corp
 8C:1F:64:42:30:00/36	Hiwin Mikrosystem Corp.
 8C:1F:64:42:60:00/36	eumig industrie-TV GmbH.
 8C:1F:64:42:70:00/36	MB connect line GmbH Fernwartungssysteme
@@ -39815,6 +39821,7 @@
 8C:1F:64:F0:90:00/36	Texi AS
 8C:1F:64:F0:B0:00/36	Nagy Márton Jozsef e.v.
 8C:1F:64:F1:00:00/36	Televic Rail GmbH
+8C:1F:64:F1:10:00/36	Ottronic GmbH
 8C:1F:64:F1:20:00/36	CAITRON GmbH
 8C:1F:64:F1:30:00/36	ACS Motion Control
 8C:1F:64:F1:40:00/36	Elektrosil GmbH
@@ -40615,9 +40622,11 @@
 90:88:A9:40:00:00/28	asmote ltd.
 90:88:A9:50:00:00/28	Shortcut Labs AB
 90:88:A9:60:00:00/28	Skysolid Information Security Systems(Shenzhen) Co., Ltd
+90:88:A9:70:00:00/28	Wingtech Mobile Communications Co.,Ltd.
 90:88:A9:80:00:00/28	Samway Electronic SRL
 90:88:A9:A0:00:00/28	Yi Tunnel(beijing) Technology Co.,Ltd
 90:88:A9:B0:00:00/28	UXV Technologies ApS
+90:88:A9:C0:00:00/28	Rikom Technologies Sdn Bhd
 90:88:A9:D0:00:00/28	Remowireless Communication International Co.,Limited
 90:89:38		Hefei Linkin Technology Co., Ltd.
 90:89:5F		Weifang Goertek Electronics Co.,Ltd
@@ -40717,6 +40726,7 @@
 90:B9:31		Apple, Inc.
 90:B9:7D		Johnson Outdoors Marine Electronics d/b/a Minnkota
 90:BD:E6		Quectel Wireless Solutions Co.,Ltd.
+90:BF:D9		Smart Innovation LLC
 90:C1:15		Sony Corporation
 90:C1:19		Nokia
 90:C1:C6		Apple, Inc.
@@ -45089,6 +45099,7 @@ B8:87:1E		Good Mind Industries Co., Ltd.
 B8:87:6E		Intertech Services AG
 B8:87:A8		Step Ahead Innovations Inc.
 B8:87:C6		Prudential Technology co.,LTD
+B8:88:80		Shanghai Imilab Technology Co.Ltd
 B8:88:E3		Compal Information (Kunshan) Co., Ltd.
 B8:89:81		Chengdu InnoThings Technology Co., Ltd.
 B8:89:CA		ILJIN ELECTRIC Co., Ltd.
