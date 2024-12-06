@@ -18183,6 +18183,7 @@
 08:86:3B		Belkin International Inc.
 08:87:C6		Ingram Micro Services
 08:87:C7		Apple, Inc.
+08:8A:F1		Mercusys Technologies Co., Ltd.
 08:8B:C8		Google, Inc.
 08:8C:2C		Samsung Electronics Co.,Ltd
 08:8D:C8		Ryowa Electronics Co.,Ltd
@@ -28213,7 +28214,7 @@
 58:FC:20		Altice Labs
 58:FC:73		Arria Live Media, Inc.
 58:FC:C6		Tozo Inc
-58:FC:C8		LenelS2 Carrier
+58:FC:C8		Honeywell
 58:FC:DB		IEEE Registration Authority
 58:FC:DB:00:00:00/28	Spang Power Electronics
 58:FC:DB:10:00:00/28	Certis Technology International
@@ -38550,6 +38551,7 @@
 8C:1F:64:42:A0:00/36	Atonarp Inc.
 8C:1F:64:42:B0:00/36	Gamber Johnson-LLC
 8C:1F:64:43:20:00/36	Rebel Systems
+8C:1F:64:43:70:00/36	Gogo BA
 8C:1F:64:43:80:00/36	Integer.pl S.A.
 8C:1F:64:43:90:00/36	Bornico
 8C:1F:64:43:A0:00/36	Spacelite Inc
@@ -39767,6 +39769,7 @@
 8C:1F:64:DF:E0:00/36	Nuvation Energy
 8C:1F:64:E0:00:00/36	Dvb-Tech S.R.L.
 8C:1F:64:E0:20:00/36	ITS Teknik A/S
+8C:1F:64:E0:40:00/36	新川センサテクノロジ株式会社
 8C:1F:64:E0:90:00/36	Enless Wireless
 8C:1F:64:E0:B0:00/36	Laurel Electronics LLC
 8C:1F:64:E0:C0:00/36	Telestrider Sa
@@ -48191,6 +48194,7 @@ D0:AA:5F:30:00:00/28	Shenzhen Liandian Communication Technology Co.LTD
 D0:AA:5F:40:00:00/28	Komer
 D0:AA:5F:50:00:00/28	深圳麦源实业有限公司
 D0:AA:5F:60:00:00/28	Sordin Ab
+D0:AA:5F:70:00:00/28	广东美的暖通设备有限公司
 D0:AA:5F:90:00:00/28	Hongci Monitor International Co., Ltd.
 D0:AA:5F:A0:00:00/28	Indra Air Traffic Inc
 D0:AA:5F:B0:00:00/28	Warner Electronics (I) Pvt. Ltd.
@@ -48832,6 +48836,7 @@ D8:0D:17		Tp-Link Technologies Co.,Ltd.
 D8:0D:E3		Fxi Technologies As
 D8:0E:29		vivo Mobile Communication Co., Ltd.
 D8:0F:99		Hon Hai Precision Ind. Co.,Ltd.
+D8:0F:B5		Shenzhen Ultraeasy Technology Co Ltd
 D8:10:68		Murata Manufacturing Co., Ltd.
 D8:10:9F		Huawei Technologies Co.,Ltd
 D8:10:CB		Andrea Informatique
@@ -49672,7 +49677,7 @@ E0:19:95		Nutanix
 E0:19:D8		Bh Technologies
 E0:1A:EA		Allied Telesis, Inc.
 E0:1C:41		Extreme Networks Headquarters
-E0:1C:A7		Arista Networks, Inc.
+E0:1C:A7		Arista Networks
 E0:1C:EE		Bravo Tech, Inc.
 E0:1C:FC		D-Link International
 E0:1D:38		Beijing HuaqinWorld Technology Co.,Ltd
