@@ -19230,6 +19230,7 @@
 10:B9:C4		Apple, Inc.
 10:B9:F7		Niko-Servodan
 10:B9:FE		Lika srl
+10:BA:1A		SHENZHEN IK WORLD Technology Co., Ltd
 10:BA:A5		Gana I&C Co., Ltd
 10:BB:F3		Hunan Fn-Link Technology Limited
 10:BC:97		vivo Mobile Communication Co., Ltd.
@@ -22578,6 +22579,7 @@
 2C:DD:E9		Arista Networks
 2C:DF:E6		Raisecom Technology CO., LTD
 2C:E0:32		TCL King Electrical Appliances(Huizhou)Co.,Ltd
+2C:E0:99		Fujian Star-Net Communication Co.,Ltd
 2C:E2:A8		DeviceDesign
 2C:E2:D9		Huawei Device Co., Ltd.
 2C:E3:10		Stratacache
@@ -36843,6 +36845,7 @@
 80:9F:AB		Fiberhome Telecommunication Technologies Co.,LTD
 80:9F:F5		Samsung Electronics Co.,Ltd
 80:A0:36		Shanghai MXCHIP Information Technology Co., Ltd.
+80:A1:97		u-blox AG
 80:A1:AB		Intellisis
 80:A1:D7		Shanghai DareGlobal Technologies Co.,Ltd
 80:A2:35		Edgecore Networks Corporation
@@ -40319,6 +40322,7 @@
 8C:B0:94		Airtech I&C Co., Ltd
 8C:B0:E9		Samsung Electronics.,LTD
 8C:B6:4F		Cisco Systems, Inc
+8C:B6:C5		Mimosa Networks
 8C:B7:F7		Shenzhen UniStrong Science & Technology Co., Ltd
 8C:B8:2C		IPitomy Communications
 8C:B8:4A		Samsung Electro-Mechanics(Thailand)
@@ -46931,6 +46935,7 @@ C8:45:8F		Wyler AG
 C8:47:09		Cisco Systems, Inc
 C8:47:82		Areson Technology Corp.
 C8:47:8C		Beken Corporation
+C8:48:05		Nintendo Co.,Ltd
 C8:48:F5		MEDISON Xray Co., Ltd
 C8:4A:A0		Sony Interactive Entertainment Inc.
 C8:4B:D6		Dell Inc.
@@ -48189,17 +48194,20 @@ D0:A6:37		Apple, Inc.
 D0:A9:D3		EM Microelectronic
 D0:AA:5F		IEEE Registration Authority
 D0:AA:5F:00:00:00/28	Hangzhou Jingtang Communication Technology Co.,Ltd.
+D0:AA:5F:10:00:00/28	Xiaomi EV Technology Co., Ltd.
 D0:AA:5F:20:00:00/28	ACCEL LAB ltd.
 D0:AA:5F:30:00:00/28	Shenzhen Liandian Communication Technology Co.LTD
 D0:AA:5F:40:00:00/28	Komer
 D0:AA:5F:50:00:00/28	深圳麦源实业有限公司
 D0:AA:5F:60:00:00/28	Sordin Ab
 D0:AA:5F:70:00:00/28	广东美的暖通设备有限公司
+D0:AA:5F:80:00:00/28	WeBank Co., Ltd.
 D0:AA:5F:90:00:00/28	Hongci Monitor International Co., Ltd.
 D0:AA:5F:A0:00:00/28	Indra Air Traffic Inc
 D0:AA:5F:B0:00:00/28	Warner Electronics (I) Pvt. Ltd.
 D0:AA:5F:C0:00:00/28	Pacific Electronics
 D0:AA:5F:D0:00:00/28	Level Up Holding Co., Inc.
+D0:AB:4A		Telink Micro LLC
 D0:AB:D5		Intel Corporate
 D0:AD:08		HP Inc.
 D0:AE:05		Xiaomi Communications Co Ltd
