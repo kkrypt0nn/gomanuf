@@ -19362,6 +19362,7 @@
 14:06:A7		Cresyn
 14:07:08		Cp Plus Gmbh & Co. Kg
 14:07:E0		Abrantix AG
+14:08:05		Sky Uk Limited
 14:09:B4		zte corporation
 14:09:DC		Huawei Technologies Co.,Ltd
 14:0A:29		Tiinlab Corporation
@@ -26927,6 +26928,7 @@
 50:11:EB		SilverNet Ltd
 50:13:1D		Motorola Mobility LLC, a Lenovo Company
 50:13:95		Sichuan AI-Link Technology Co., Ltd.
+50:13:9D		Sierra Wireless, ULC
 50:14:08		AiNET
 50:14:79		iRobot Corporation
 50:14:B5		Richfit Information Technology Co., Ltd
@@ -27419,6 +27421,7 @@
 54:09:8D		deister electronic GmbH
 54:0A:77		Fiberhome Telecommunication Technologies Co.,LTD
 54:0A:8A		Jlztlink Industry(ShenZhen)Co.,Ltd.
+54:0B:B6		Variscite LTD
 54:0D:F9		Huawei Device Co., Ltd.
 54:0E:2D		vivo Mobile Communication Co., Ltd.
 54:0E:58		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -36401,6 +36404,7 @@
 7C:B5:66		Intel Corporate
 7C:B5:9B		Tp-Link Technologies Co.,Ltd.
 7C:B5:9F		Huawei Technologies Co.,Ltd
+7C:B6:8D		Mist Systems, Inc.
 7C:B7:33		Askey Computer Corp
 7C:B7:7B		Paradigm Electronics Inc
 7C:B8:E6		Gree Electric Appliances, Inc. Of Zhuhai
@@ -37430,6 +37434,7 @@
 84:E9:C1		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 84:EA:97		Shenzhen iComm Semiconductor CO.,LTD
 84:EA:99		Vieworks
+84:EA:D2		Koganei Corporation
 84:EA:ED		Roku, Inc
 84:EB:18		Texas Instruments
 84:EB:3E		Vivint Smart Home
@@ -39313,6 +39318,7 @@
 8C:1F:64:A4:40:00/36	Rapidev Pvt Ltd
 8C:1F:64:A4:70:00/36	Saarni Cloud Oy
 8C:1F:64:A4:90:00/36	Integer.pl S.A.
+8C:1F:64:A4:A0:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:A4:C0:00/36	Flextronics International Kft
 8C:1F:64:A4:E0:00/36	Syscom Instruments SA
 8C:1F:64:A5:10:00/36	Babtel
@@ -43016,6 +43022,9 @@ A4:58:0F:B0:00:00/28	Abb Ab Pghv
 A4:58:0F:C0:00:00/28	Homebeaver
 A4:58:0F:D0:00:00/28	Eye Io, Llc
 A4:58:0F:E0:00:00/28	Finetree Communications Inc
+A4:59:D3		IEEE Registration Authority
+A4:59:D3:20:00:00/28	Shenzhen Welltech Cable Co., Ltd
+A4:59:D3:A0:00:00/28	OREX SAI Inc.
 A4:5A:1C		smart-electronic GmbH
 A4:5C:25		Texas Instruments
 A4:5C:27		Nintendo Co., Ltd.
@@ -44028,6 +44037,7 @@ AC:C6:98		Kohzu Precision Co., Ltd.
 AC:C7:3F		Vitsmo Co., Ltd.
 AC:C9:06		Apple, Inc.
 AC:C9:35		Ness Corporation
+AC:CA:0F		Indisr Communication Services And Technologies India
 AC:CA:54		Telldus Technologies AB
 AC:CA:8E		ODA Technologies
 AC:CA:AB		Virtual Electric Inc
@@ -45647,6 +45657,7 @@ BC:83:A7		Shenzhen Chuangwei-Rgb Electronics Co.,Ltd
 BC:85:1F		Samsung Electronics Co.,Ltd
 BC:85:29		Jiangxi Remote lntelligence Technology Co.,Ltd
 BC:85:56		Hon Hai Precision Ind. Co.,Ltd.
+BC:85:D0		Sky Uk Limited
 BC:87:FA		Bose Corporation
 BC:88:93		VILLBAU Ltd.
 BC:88:C3		Ningbo Dooya Mechanic & Electronic Technology Co., Ltd
@@ -48207,6 +48218,7 @@ D0:AA:5F:A0:00:00/28	Indra Air Traffic Inc
 D0:AA:5F:B0:00:00/28	Warner Electronics (I) Pvt. Ltd.
 D0:AA:5F:C0:00:00/28	Pacific Electronics
 D0:AA:5F:D0:00:00/28	Level Up Holding Co., Inc.
+D0:AA:5F:E0:00:00/28	MBX International Ltd.
 D0:AB:4A		Telink Micro LLC
 D0:AB:D5		Intel Corporate
 D0:AD:08		HP Inc.
@@ -51756,6 +51768,7 @@ F0:D7:EE		Huawei Device Co., Ltd.
 F0:D8:05		Cisco Systems, Inc
 F0:D9:B2		Exo S.A.
 F0:DA:7C		Rlh Industries,Inc.
+F0:DB:2A		Lanner Electronics, Inc.
 F0:DB:30		Yottabyte
 F0:DB:E2		Apple, Inc.
 F0:DB:F8		Apple, Inc.
