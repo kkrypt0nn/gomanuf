@@ -26174,6 +26174,7 @@
 48:8A:E8		vivo Mobile Communication Co., Ltd.
 48:8B:0A		Cisco Systems, Inc
 48:8C:63		Huawei Device Co., Ltd.
+48:8C:78		Alpha Networks Inc.
 48:8D:36		Arcadyan Corporation
 48:8E:42		DIGALOG GmbH
 48:8E:B7		Zebra Technologies Inc.
@@ -26907,6 +26908,7 @@
 50:0A:9C		Extreme Networks Headquarters
 50:0B:26		Huawei Technologies Co.,Ltd
 50:0B:32		Foxda Technology Industrial(ShenZhen)Co.,LTD
+50:0B:88		Moxa.Inc
 50:0B:91		IEEE Registration Authority
 50:0B:91:00:00:00/28	Igor, Inc.
 50:0B:91:10:00:00/28	SPD Development Company Ltd
@@ -36006,6 +36008,7 @@
 78:DA:07		Zhejiang Tmall Technology Co., Ltd.
 78:DA:6E		Cisco Systems, Inc
 78:DA:A2		Cynosure Technologies Co.,Ltd
+78:DA:AF		Huawei Technologies Co.,Ltd
 78:DA:B3		GBO Technology
 78:DB:2F		Texas Instruments
 78:DD:08		Hon Hai Precision Ind. Co.,Ltd.
@@ -36521,6 +36524,7 @@
 7C:DA:84		Dongnian Networks Inc.
 7C:DA:C3		Sichuan Tianyi Comheart Telecom Co.,LTD
 7C:DB:98		Askey Computer Corp
+7C:DC:73		Huawei Technologies Co.,Ltd
 7C:DC:CC		Beijing Starblaze Technology Co.,Ltd
 7C:DD:11		Chongqing MAS SCI&TECH.Co.,Ltd
 7C:DD:20		IOXOS Technologies S.A.
@@ -37469,6 +37473,7 @@
 84:FC:FE		Apple, Inc.
 84:FD:27		Silicon Laboratories
 84:FD:D1		Intel Corporate
+84:FE:40		Huawei Technologies Co.,Ltd
 84:FE:9E		RTC Industries, Inc.
 84:FE:DC		Borqs Beijing Ltd.
 84:FF:C2		Cisco Systems, Inc
@@ -37655,6 +37660,7 @@
 88:60:76		Sparnex n.v.
 88:61:5A		Siano Mobile Silicon Ltd.
 88:62:5D		Bitnetworks Co.,Ltd
+88:63:C5		Huawei Technologies Co.,Ltd
 88:63:DF		Apple, Inc.
 88:64:40		Apple, Inc.
 88:65:9F		Fiberhome Telecommunication Technologies Co.,LTD
@@ -40309,6 +40315,7 @@
 8C:A6:82:D0:00:00/28	EFit partners
 8C:A6:82:E0:00:00/28	Texys International
 8C:A6:DF		Tp-Link Technologies Co.,Ltd.
+8C:A9:6D		Huawei Technologies Co.,Ltd
 8C:A9:6F		D&M Holdings Inc.
 8C:A9:82		Intel Corporate
 8C:AA:B5		Espressif Inc.
@@ -40732,6 +40739,7 @@
 90:94:0A		Analog Devices, Inc
 90:94:97		Huawei Technologies Co.,Ltd
 90:94:E4		D-Link International
+90:95:07		Huawei Technologies Co.,Ltd
 90:96:F3		Buffalo.Inc
 90:97:D5		Espressif Inc.
 90:97:F3		Samsung Electronics Co.,Ltd
@@ -41126,6 +41134,7 @@
 94:77:2B		Huawei Technologies Co.,Ltd
 94:78:06		Ningbo Sunvot Technology Co.,Ltd
 94:79:18		Itel Mobile Limited
+94:7A:F4		Huawei Technologies Co.,Ltd
 94:7B:AE		Xiaomi Communications Co Ltd
 94:7B:BE		Ubicquia LLC
 94:7B:E7		Samsung Electronics Co.,Ltd
@@ -43031,9 +43040,12 @@ A4:58:0F:C0:00:00/28	Homebeaver
 A4:58:0F:D0:00:00/28	Eye Io, Llc
 A4:58:0F:E0:00:00/28	Finetree Communications Inc
 A4:59:D3		IEEE Registration Authority
+A4:59:D3:00:00:00/28	VTECH Technology Corportion
+A4:59:D3:10:00:00/28	Rheinmetall Electronics UK Ltd
 A4:59:D3:20:00:00/28	Shenzhen Welltech Cable Co., Ltd
 A4:59:D3:90:00:00/28	Vivi International Pty Ltd
 A4:59:D3:A0:00:00/28	OREX SAI Inc.
+A4:59:D3:C0:00:00/28	Safebase AS
 A4:5A:1C		smart-electronic GmbH
 A4:5C:25		Texas Instruments
 A4:5C:27		Nintendo Co., Ltd.
@@ -45728,6 +45740,7 @@ BC:A0:42		Shanghai Flyco Electrical Appliance Co.,Ltd
 BC:A0:80		Samsung Electronics Co.,Ltd
 BC:A0:B9		Huawei Technologies Co.,Ltd
 BC:A1:3A		VusionGroup
+BC:A2:31		Huawei Technologies Co.,Ltd
 BC:A3:7F		Rail-Mil Sp. z o.o. Sp. K.
 BC:A4:E1		Nabto
 BC:A5:11		Netgear
@@ -49018,6 +49031,7 @@ D8:71:4D		Texas Instruments
 D8:71:57		Lenovo Mobile Communication Technology Ltd.
 D8:74:75		Apple, Inc.
 D8:74:95		zte corporation
+D8:74:DF		Huawei Technologies Co.,Ltd
 D8:75:33		Nokia Corporation
 D8:76:0A		Escort, Inc.
 D8:76:AE		Huawei Technologies Co.,Ltd
@@ -50670,6 +50684,7 @@ E8:6C:C7:C0:00:00/28	Limited Liability Company M.S.Korp
 E8:6C:C7:D0:00:00/28	z-max mediasolution
 E8:6C:C7:E0:00:00/28	Annapurna labs
 E8:6C:DA		Supercomputers and Neurocomputers Research Center
+E8:6D:16		Elmec Elettronica SRL
 E8:6D:52		Commscope
 E8:6D:54		Digit Mobile Inc
 E8:6D:65		AUDIO MOBIL Elektronik GmbH
@@ -51360,6 +51375,7 @@ EC:E7:A7		Intel Corporate
 EC:E7:C2		China Mobile Group Device Co.,Ltd.
 EC:E9:0B		Sistema Solucoes Eletronicas Ltda - Easytech
 EC:E9:15		STI Ltd
+EC:E9:F5		Huawei Technologies Co.,Ltd
 EC:E9:F8		Guang Zhou TRI-SUN Electronics Technology  Co., Ltd
 EC:EA:03		Darfon Lighting Corp
 EC:EB:B8		Hewlett Packard Enterprise
