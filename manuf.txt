@@ -19759,6 +19759,7 @@
 18:06:F5		RAD Data Communications, Ltd.
 18:06:FF		Acer Computer(Shanghai) Limited.
 18:07:12		Shenzhen Dazoo Technologies CO.,Ltd
+18:0B:1B		Amazon Technologies Inc.
 18:0B:52		Nanotron Technologies GmbH
 18:0C:14		iSonea Limited
 18:0C:77		Westinghouse Electric Company, LLC
@@ -27500,6 +27501,7 @@
 54:39:68		Edgewater Networks Inc
 54:39:DF		Huawei Technologies Co.,Ltd
 54:3A:D6		Samsung Electronics Co.,Ltd
+54:3A:DF		Qualfiber Technology Co.,Ltd
 54:3B:30		duagon AG
 54:3D:37		Ruckus Wireless
 54:3D:60		Arcadyan Corporation
@@ -28264,6 +28266,7 @@
 5C:02:72		Silicon Laboratories
 5C:03:39		Huawei Technologies Co.,Ltd
 5C:04:5A		Company NA Stage & Light
+5C:06:10		Cisco Meraki
 5C:07:58		Ufispace Co., LTD.
 5C:07:6F		Thought Creator
 5C:07:A4		Ciena Corporation
@@ -30241,6 +30244,7 @@
 6C:76:37		Huawei Device Co., Ltd.
 6C:76:60		Kyocera Corporation
 6C:79:B8		Texas Instruments
+6C:7D:B7		Cisco Meraki
 6C:7E:67		Apple, Inc.
 6C:7F:0C		Cisco Meraki
 6C:80:AB		ifanr Inc
@@ -38780,6 +38784,7 @@
 8C:1F:64:5D:B0:00/36	GlobalInvacom
 8C:1F:64:5D:E0:00/36	SekureTrak Inc. dba TraknProtect
 8C:1F:64:5D:F0:00/36	Roesch Walter Industrie-Elektronik GmbH
+8C:1F:64:5E:10:00/36	Power Electronics Espana, S.L.
 8C:1F:64:5E:30:00/36	Nixer Ltd
 8C:1F:64:5E:40:00/36	Wuxi Zetai Microelectronics Co., LTD
 8C:1F:64:5E:50:00/36	Telemetrics Inc.
@@ -39304,6 +39309,7 @@
 8C:1F:64:A0:60:00/36	secutech Co.,Ltd.
 8C:1F:64:A0:70:00/36	GJD Manufacturing
 8C:1F:64:A0:A0:00/36	Shanghai Wise-Tech Intelligent Technology Co.,Ltd.
+8C:1F:64:A0:B0:00/36	Channel Master LLC
 8C:1F:64:A0:D0:00/36	Lumiplan Duhamel
 8C:1F:64:A0:E0:00/36	Elac Americas Inc.
 8C:1F:64:A0:F0:00/36	Dorlet Sau
@@ -39958,6 +39964,7 @@
 8C:1F:64:F6:80:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:F6:C0:00/36	Sonatronic
 8C:1F:64:F6:D0:00/36	Ophir Manufacturing Solutions Pte Ltd
+8C:1F:64:F6:E0:00/36	ITG Co.Ltd
 8C:1F:64:F6:F0:00/36	Motion Impossible Ltd
 8C:1F:64:F7:00:00/36	Vision Systems Safety Tech
 8C:1F:64:F7:20:00/36	Contrader
@@ -41729,6 +41736,7 @@
 98:9D:B2		GOIP Global Services Pvt. Ltd.
 98:9D:E5		Hangzhou Hikvision Digital Technology Co.,Ltd.
 98:9E:63		Apple, Inc.
+98:9F:1A		Private
 98:9F:1E		Huawei Technologies Co.,Ltd
 98:A1:4A		Quectel Wireless Solutions Co.,Ltd.
 98:A2:C0		Cisco Systems, Inc
@@ -43045,9 +43053,11 @@ A4:59:D3		IEEE Registration Authority
 A4:59:D3:00:00:00/28	VTECH Technology Corportion
 A4:59:D3:10:00:00/28	Rheinmetall Electronics UK Ltd
 A4:59:D3:20:00:00/28	Shenzhen Welltech Cable Co., Ltd
+A4:59:D3:40:00:00/28	Gre System Inc.
 A4:59:D3:90:00:00/28	Vivi International Pty Ltd
 A4:59:D3:A0:00:00/28	OREX SAI Inc.
 A4:59:D3:C0:00:00/28	Safebase AS
+A4:59:D3:D0:00:00/28	Seavan Technology Limited
 A4:5A:1C		smart-electronic GmbH
 A4:5C:25		Texas Instruments
 A4:5C:27		Nintendo Co., Ltd.
@@ -44635,6 +44645,7 @@ B4:0E:DC		LG-Ericsson Co.,Ltd.
 B4:0E:DE		Intel Corporate
 B4:0F:3B		Tenda Technology Co.,Ltd.Dongguan branch
 B4:0F:B3		vivo Mobile Communication Co., Ltd.
+B4:10:7A		Amazon Technologies Inc.
 B4:10:7B		Texas Instruments
 B4:14:89		Cisco Systems, Inc
 B4:14:E6		Huawei Technologies Co.,Ltd
@@ -48238,7 +48249,7 @@ D0:AA:5F:30:00:00/28	Shenzhen Liandian Communication Technology Co.LTD
 D0:AA:5F:40:00:00/28	Komer
 D0:AA:5F:50:00:00/28	深圳麦源实业有限公司
 D0:AA:5F:60:00:00/28	Sordin Ab
-D0:AA:5F:70:00:00/28	广东美的暖通设备有限公司
+D0:AA:5F:70:00:00/28	GD Midea Heating & Ventilating Equipment Co., Ltd
 D0:AA:5F:80:00:00/28	WeBank Co., Ltd.
 D0:AA:5F:90:00:00/28	Hongci Monitor International Co., Ltd.
 D0:AA:5F:A0:00:00/28	Indra Air Traffic Inc
