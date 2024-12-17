@@ -15118,6 +15118,7 @@
 00:50:FF		Hakko Electronics Co., Ltd.
 00:51:ED		LG Innotek
 00:52:18		Wuxi Keboda Electron Co.Ltd
+00:52:45		Ganatechwin
 00:52:C2		peiker acustic GmbH
 00:52:C8		Made Studio Design Ltd.
 00:54:9F		Avaya Inc
@@ -19668,6 +19669,7 @@
 14:B7:F8		Vantiva USA LLC
 14:B8:37		Shenzhen YOUHUA Technology Co., Ltd
 14:B9:68		Huawei Technologies Co.,Ltd
+14:BA:AF		BKS GmbH
 14:BB:6E		Samsung Electronics Co.,Ltd
 14:BD:61		Apple, Inc.
 14:BE:FC		Nanjing Jiahao Technology Co., Ltd.
@@ -21356,6 +21358,7 @@
 24:5C:BF		Ncse
 24:5C:C5		Huawei Device Co., Ltd.
 24:5C:CB		AXIe Consortium, Inc.
+24:5D:92		Juniper Networks
 24:5D:FC		IEEE Registration Authority
 24:5D:FC:00:00:00/28	CompanyDeep
 24:5D:FC:10:00:00/28	ARTICONA - Bechtle Logistik & Service GmbH
@@ -36459,6 +36462,7 @@
 7C:BC:84:D0:00:00/28	Vantage Integrated Security Solutions Pvt Ltd
 7C:BC:84:E0:00:00/28	Beijing Topnew Group Co., Ltd
 7C:BD:06		AE REFUsol
+7C:BE:CE		Private
 7C:BF:77		Speedtech Corp. Jio
 7C:BF:88		Mobilicom LTD
 7C:BF:AE		Renesas Electronics (Penang) Sdn. Bhd.
@@ -39684,6 +39688,7 @@
 8C:1F:64:D0:70:00/36	Talleres de Escoriaza SAU
 8C:1F:64:D0:80:00/36	Power Electronics Espana, S.L.
 8C:1F:64:D0:90:00/36	Minartime(Beijing)Science &Technology Development Co.,Ltd
+8C:1F:64:D0:C0:00/36	KS Beschallungstechnik GmbH
 8C:1F:64:D0:E0:00/36	Labforge Inc.
 8C:1F:64:D0:F0:00/36	Mecco LLC
 8C:1F:64:D1:10:00/36	Benetel
@@ -39877,6 +39882,7 @@
 8C:1F:64:EA:A0:00/36	"KB "Modul", LLC
 8C:1F:64:EA:C0:00/36	Miracle Healthcare, Inc.
 8C:1F:64:EA:D0:00/36	Messung Systems Pvt Ltd
+8C:1F:64:EA:E0:00/36	Traffic Polska sp. z o. o.
 8C:1F:64:EB:20:00/36	Aqua Broadcast Ltd
 8C:1F:64:EB:50:00/36	Meiryo Denshi Corp.
 8C:1F:64:EB:70:00/36	Delta Solutions LLC
@@ -43053,7 +43059,11 @@ A4:59:D3		IEEE Registration Authority
 A4:59:D3:00:00:00/28	VTECH Technology Corportion
 A4:59:D3:10:00:00/28	Rheinmetall Electronics UK Ltd
 A4:59:D3:20:00:00/28	Shenzhen Welltech Cable Co., Ltd
+A4:59:D3:30:00:00/28	SoftEnergy Controls  Inc.
 A4:59:D3:40:00:00/28	Gre System Inc.
+A4:59:D3:60:00:00/28	FrontAct Co., Ltd.
+A4:59:D3:70:00:00/28	Dong Guan Fu Qiang Electronic Co.,Ltd
+A4:59:D3:80:00:00/28	Got Co.,Ltd
 A4:59:D3:90:00:00/28	Vivi International Pty Ltd
 A4:59:D3:A0:00:00/28	OREX SAI Inc.
 A4:59:D3:C0:00:00/28	Safebase AS
@@ -43111,6 +43121,7 @@ A4:7D:9F		Shenzhen iComm Semiconductor CO.,LTD
 A4:7E:36		EM Microelectronic
 A4:7E:39		zte corporation
 A4:7E:FA		Withings
+A4:7F:1B		Juniper Networks
 A4:81:7A		Cig Shanghai Co Ltd
 A4:81:EE		Nokia Corporation
 A4:82:69		Datrium, Inc.
@@ -47143,6 +47154,7 @@ C8:8E:D1:F0:00:00/28	Private
 C8:8F:26		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 C8:90:3E		Pakton Technologies
 C8:90:8A		Samsung Electronics Co.,Ltd
+C8:90:A8		Bouffalo Lab (Nanjing) Co., Ltd.
 C8:91:F9		Sagemcom Broadband SAS
 C8:93:46		MXCHIP Company Limited
 C8:93:83		Embedded Automation, Inc.
@@ -47204,6 +47216,7 @@ C8:A9:FC		Goyoo Networks Inc.
 C8:AA:21		Commscope
 C8:AA:55		Hunan Comtom Electronic Incorporated Co.,Ltd
 C8:AA:CC		Private
+C8:AC:35		PiLink Co., Ltd.
 C8:AE:9C		Shanghai TYD Elecronic Technology Co. Ltd
 C8:AF:40		marco Systemanalyse und Entwicklung GmbH
 C8:AF:E3		Hefei Radio Communication Technology Co., Ltd
@@ -48827,6 +48840,7 @@ D4:E2:CB		Vantiva USA LLC
 D4:E3:2C		S. Siedle & Sohne
 D4:E3:3F		Nokia
 D4:E3:C5		zte corporation
+D4:E4:C3		Ciena Corporation
 D4:E6:B7		Samsung Electronics Co.,Ltd
 D4:E8:53		Hangzhou Hikvision Digital Technology Co.,Ltd.
 D4:E8:80		Cisco Systems, Inc
