@@ -22978,6 +22978,7 @@
 30:B9:30		zte corporation
 30:B9:B0		Intracom Asia Co., Ltd
 30:BB:7D		OnePlus Technology (Shenzhen) Co., Ltd
+30:BD:13		Zyxel Communications Corporation
 30:BE:3B		Mitsubishi Electric Corporation
 30:C0:1B		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
 30:C3:D9		Alpsalpine Co,.Ltd
@@ -23496,6 +23497,7 @@
 34:D7:72		Xiamen Yudian Automation Technology Co., Ltd
 34:D7:B4		Tributary Systems, Inc.
 34:D8:56		Shenzhen Skyworth Digital  Technology  CO., Ltd
+34:D8:68		Broadcom Limited
 34:D9:54		WiBotic Inc.
 34:DA:B7		zte corporation
 34:DA:C1		SAE Technologies Development(Dongguan) Co., Ltd.
@@ -27885,7 +27887,9 @@
 58:23:8C		Vantiva USA LLC
 58:23:BC		IEEE Registration Authority
 58:23:BC:30:00:00/28	SHSYSTEM.Co.,LTD
+58:23:BC:80:00:00/28	Wuhan Rayoptek Co.,Ltd
 58:23:BC:90:00:00/28	Annapurna labs
+58:23:BC:A0:00:00/28	Hangzhou Xindatong Communication Technology Co.,Ltd.
 58:24:29		Google, Inc.
 58:25:75		Huawei Technologies Co.,Ltd
 58:25:7A		Mobiwire Mobiles(Ningbo) Co.,Ltd
@@ -35071,6 +35075,7 @@
 74:0C:EE		Huawei Device Co., Ltd.
 74:0E:A4		Apple, Inc.
 74:0E:DB		Optowiz Co., Ltd
+74:10:E0		Broadcom Limited
 74:11:B2		Cisco Systems, Inc
 74:12:13		Linksys USA, Inc
 74:12:B3		Chongqing Fugui Electronics Co.,Ltd.
@@ -37490,6 +37495,7 @@
 84:F6:4C		Cross Point BV
 84:F6:FA		Miovision Technologies Incorporated
 84:F7:03		Espressif Inc.
+84:F7:58		Huizhou BYD Electronic Co., Ltd.
 84:F8:83		Luminar Technologies
 84:FB:43		Central Denshi Seigyo
 84:FC:AC		Apple, Inc.
@@ -38482,6 +38488,7 @@
 8C:1F:64:35:80:00/36	Denso Manufacturing Tennessee
 8C:1F:64:35:C0:00/36	Opgal Optronic Industries ltd
 8C:1F:64:35:D0:00/36	Security&Best
+8C:1F:64:35:E0:00/36	Test21 Taiwan Corp
 8C:1F:64:36:20:00/36	Power Electronics Espana, S.L.
 8C:1F:64:36:40:00/36	Tilak International
 8C:1F:64:36:50:00/36	Vector Technologies, Llc
@@ -45610,6 +45617,7 @@ BC:3A:EA		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 BC:3B:AF		Apple, Inc.
 BC:3D:85		Huawei Technologies Co.,Ltd
 BC:3E:07		Hitron Technologies. Inc
+BC:3E:0B		Panasonic Connect Co., Ltd.
 BC:3E:13		Accordance Systems Inc.
 BC:3E:CB		vivo Mobile Communication Co., Ltd.
 BC:3F:4E		Great Talent Technology Limited
