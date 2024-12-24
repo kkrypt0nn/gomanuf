@@ -18600,6 +18600,7 @@
 0C:75:BD		Cisco Systems, Inc
 0C:75:D2		Hangzhou Hikvision Digital Technology Co.,Ltd.
 0C:77:1A		Apple, Inc.
+0C:79:55		Hui Zhou Gaoshengda Technology Co.,LTD
 0C:7A:15		Intel Corporate
 0C:7B:C8		Cisco Meraki
 0C:7C:28		Nokia Solutions and Networks GmbH & Co. KG
@@ -21174,6 +21175,7 @@
 20:EF:BD		Roku, Inc
 20:F0:02		MTData Developments Pty. Ltd.
 20:F0:94		Google, Inc.
+20:F1:20		Cisco Systems, Inc
 20:F1:7C		Huawei Technologies Co.,Ltd
 20:F1:9E		Commscope
 20:F3:07		zte corporation
@@ -21623,6 +21625,7 @@
 24:F2:7F		Hewlett Packard Enterprise
 24:F2:DD		Radiant Zemax LLC
 24:F3:06		Itel Mobile Limited
+24:F3:E3		eero inc.
 24:F5:7E		Hwh Co., Ltd.
 24:F5:A2		Belkin International Inc.
 24:F5:AA		Samsung Electronics Co.,Ltd
@@ -22979,6 +22982,7 @@
 30:B9:B0		Intracom Asia Co., Ltd
 30:BB:7D		OnePlus Technology (Shenzhen) Co., Ltd
 30:BD:13		Zyxel Communications Corporation
+30:BE:29		AltoBeam Inc.
 30:BE:3B		Mitsubishi Electric Corporation
 30:C0:1B		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
 30:C3:D9		Alpsalpine Co,.Ltd
@@ -25823,6 +25827,7 @@
 44:BD:DE		BHTC GmbH
 44:BF:E3		Shenzhen Longtech Electronics Co.,Ltd
 44:C1:5C		Texas Instruments
+44:C2:0C		Cisco Systems, Inc
 44:C2:33		Guangzhou Comet Technology Development Co.Ltd
 44:C3:06		SIFROM Inc.
 44:C3:46		Huawei Technologies Co.,Ltd
@@ -27481,6 +27486,7 @@
 54:22:E0		Adtran Inc
 54:22:F8		zte corporation
 54:25:EA		Huawei Technologies Co.,Ltd
+54:26:3D		Sony Corporation
 54:26:96		Apple, Inc.
 54:27:1E		AzureWave Technology Inc.
 54:27:22		Lacroix
@@ -27887,9 +27893,11 @@
 58:23:8C		Vantiva USA LLC
 58:23:BC		IEEE Registration Authority
 58:23:BC:30:00:00/28	SHSYSTEM.Co.,LTD
+58:23:BC:60:00:00/28	Next Vision
 58:23:BC:80:00:00/28	Wuhan Rayoptek Co.,Ltd
 58:23:BC:90:00:00/28	Annapurna labs
 58:23:BC:A0:00:00/28	Hangzhou Xindatong Communication Technology Co.,Ltd.
+58:23:BC:B0:00:00/28	Annapurna labs
 58:24:29		Google, Inc.
 58:25:75		Huawei Technologies Co.,Ltd
 58:25:7A		Mobiwire Mobiles(Ningbo) Co.,Ltd
@@ -36962,6 +36970,7 @@
 80:C8:62		Openpeak, Inc
 80:C9:55		Redpine Signals, Inc.
 80:CA:4B		Shenzhen Gongjin Electronics Co.,Ltd
+80:CA:52		Wistron InfoComm(Chongqing)Co.,Ltd.
 80:CB:BC		Qingdao Intelligent&Precise Electronics Co.,Ltd.
 80:CC:12		Huawei Device Co., Ltd.
 80:CC:9C		Netgear
@@ -37180,6 +37189,7 @@
 84:47:65		Huawei Technologies Co.,Ltd
 84:48:23		WOXTER TECHNOLOGY Co. Ltd
 84:49:15		vArmour Networks, Inc.
+84:49:EE		Demant Enterprise A/S
 84:4B:B7		Beijing Sankuai Online Technology Co.,Ltd
 84:4B:F5		Hon Hai Precision Ind. Co.,Ltd.
 84:4D:4C		Adtran Inc
@@ -38710,6 +38720,7 @@
 8C:1F:64:51:00:00/36	Novanta IMS
 8C:1F:64:51:10:00/36	Control Aut Tecnologia em Automação LTDA
 8C:1F:64:51:20:00/36	Blik Sensing B.V.
+8C:1F:64:51:40:00/36	iOpt
 8C:1F:64:51:60:00/36	Tcl Operations Polska Sp. Z O.O.
 8C:1F:64:51:70:00/36	Smart Radar System, Inc
 8C:1F:64:51:80:00/36	Wagner Group GmbH
@@ -39681,6 +39692,7 @@
 8C:1F:64:CB:60:00/36	Rowan Elettronica Srl
 8C:1F:64:CB:70:00/36	ARKRAY,Inc.Kyoto Laboratory
 8C:1F:64:CB:90:00/36	iC-Haus GmbH
+8C:1F:64:CB:A0:00/36	hiSky SCS Ltd
 8C:1F:64:CB:B0:00/36	Maris Tech Ltd.
 8C:1F:64:CB:E0:00/36	Circa Enterprises Inc
 8C:1F:64:CC:10:00/36	VITREA Smart Home Technologies Ltd.
@@ -41069,6 +41081,7 @@
 94:20:53		Nokia Corporation
 94:21:57		Apple, Inc.
 94:21:97		Stalmart Technology Limited
+94:22:4C		Qingdao Haier Technology Co.,Ltd
 94:23:6E		Shenzhen Junlan Electronic Ltd
 94:24:53		Huawei Technologies Co.,Ltd
 94:24:B8		Gree Electric Appliances, Inc. Of Zhuhai
@@ -44848,6 +44861,7 @@ B4:62:38		Exablox
 B4:62:93		Samsung Electronics Co.,Ltd
 B4:62:AD		Elysia Germany GmbH
 B4:63:6F		Nokia Solutions and Networks GmbH & Co. KG
+B4:64:15		Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
 B4:66:98		Zealabs srl
 B4:67:E9		Qingdao GoerTek Technology Co., Ltd.
 B4:69:21		Intel Corporate
@@ -49098,6 +49112,7 @@ D8:71:57		Lenovo Mobile Communication Technology Ltd.
 D8:74:75		Apple, Inc.
 D8:74:95		zte corporation
 D8:74:DF		Huawei Technologies Co.,Ltd
+D8:74:EF		Guangzhou Shiyuan Electronic Technology Company Limited
 D8:75:33		Nokia Corporation
 D8:76:0A		Escort, Inc.
 D8:76:AE		Huawei Technologies Co.,Ltd
@@ -51423,6 +51438,7 @@ EC:D9:D1		Shenzhen TG-NET Botone Technology Co.,Ltd.
 EC:DA:3B		Espressif Inc.
 EC:DA:59		New H3C Technologies Co., Ltd
 EC:DB:86		Api-K
+EC:DD:24		Cisco Systems, Inc
 EC:DE:3D		Lamprey Networks, Inc.
 EC:DF:3A		vivo Mobile Communication Co., Ltd.
 EC:DF:C9		Hangzhou Microimage Software Co., Ltd
@@ -51478,6 +51494,7 @@ F0:01:6E		Tianyi Telecom Terminals Company Limited
 F0:02:2B		Chrontel
 F0:02:48		SmarteBuilding
 F0:03:8C		AzureWave Technology Inc.
+F0:03:BC		Cisco Systems, Inc
 F0:04:E1		Apple, Inc.
 F0:05:1B		Samsung Electronics Co.,Ltd
 F0:07:27		Interel Building Automation
