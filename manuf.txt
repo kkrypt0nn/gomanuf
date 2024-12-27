@@ -19171,6 +19171,7 @@
 10:90:7D		Funshion Online Technologies Co.,Ltd
 10:90:FA		New H3C Technologies Co., Ltd
 10:90:FC		Shenzhen DOOGEE Hengtong Technology CO.,LTD
+10:91:66		Shenzhen Yinwang Intelligent Technologies Co.,Ltd.
 10:91:A8		Espressif Inc.
 10:91:D1		Intel Corporate
 10:92:66		Samsung Electronics Co.,Ltd
@@ -24388,6 +24389,7 @@
 3C:94:FD		Mist Systems, Inc.
 3C:95:09		Liteon Technology Corporation
 3C:97:0E		Wistron InfoComm(Kunshan)Co.,Ltd.
+3C:97:22		shenzhen worldelite electronics co., LTD
 3C:97:7E		IPS Technology Limited
 3C:98:72		Sercomm Corporation.
 3C:98:BF		Quest Controls, Inc.
@@ -27893,12 +27895,15 @@
 58:21:E9		Twpi
 58:23:8C		Vantiva USA LLC
 58:23:BC		IEEE Registration Authority
+58:23:BC:20:00:00/28	Great Wall Power Supply Technology Co., Ltd.
 58:23:BC:30:00:00/28	SHSYSTEM.Co.,LTD
 58:23:BC:60:00:00/28	Next Vision
 58:23:BC:80:00:00/28	Wuhan Rayoptek Co.,Ltd
 58:23:BC:90:00:00/28	Annapurna labs
 58:23:BC:A0:00:00/28	Hangzhou Xindatong Communication Technology Co.,Ltd.
 58:23:BC:B0:00:00/28	Annapurna labs
+58:23:BC:C0:00:00/28	Yuyao Sunny Optical Intelligence Technology Co., Ltd
+58:23:BC:D0:00:00/28	New Energy Technology Co.,Ltd
 58:24:29		Google, Inc.
 58:25:75		Huawei Technologies Co.,Ltd
 58:25:7A		Mobiwire Mobiles(Ningbo) Co.,Ltd
@@ -29431,6 +29436,7 @@
 64:79:A7		Phison Electronics Corp.
 64:79:F0		Intel Corporate
 64:7B:1E		Sagemcom Broadband SAS
+64:7B:40		Sichuan AI-Link Technology Co., Ltd.
 64:7B:CE		Samsung Electronics Co.,Ltd
 64:7B:D4		Texas Instruments
 64:7C:34		Ubee Interactive Co., Limited
@@ -39363,6 +39369,7 @@
 8C:1F:64:A1:30:00/36	INVENTIA Sp. z o.o.
 8C:1F:64:A1:70:00/36	Pneumax Spa
 8C:1F:64:A1:B0:00/36	Zilica Limited
+8C:1F:64:A1:C0:00/36	manageon
 8C:1F:64:A1:F0:00/36	Hitachi Energy  India Limited
 8C:1F:64:A2:60:00/36	Automatic Pty Ltd
 8C:1F:64:A2:90:00/36	Ringtail Security
@@ -52365,6 +52372,7 @@ F4:D0:32		Yunnan Ideal Information&Technology.,Ltd
 F4:D0:A7		Zhejiang Weilai Jingling Artificial Intelligence Technology Co., Ltd.
 F4:D1:08		Intel Corporate
 F4:D2:61		SEMOCON Co., Ltd
+F4:D4:54		Shenzhen Skyworth Digital  Technology  CO., Ltd
 F4:D4:88		Apple, Inc.
 F4:D5:80		Yamaha Corporation
 F4:D5:8A		Palo Alto Networks
