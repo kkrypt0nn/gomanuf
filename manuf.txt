@@ -19457,6 +19457,7 @@
 14:30:7A		Avermetrics
 14:30:C6		Motorola Mobility LLC, a Lenovo Company
 14:32:D1		Samsung Electronics Co.,Ltd
+14:33:5C		Espressif Inc.
 14:33:65		TEM Mobile Limited
 14:33:75		Zyxel Communications Corporation
 14:34:F6		Lv Solution Sdn. Bhd.
@@ -22251,7 +22252,7 @@
 2C:28:B7		Hangzhou Ruiying technology co., LTD
 2C:29:97		Microsoft Corporation
 2C:2B:F9		LG Innotek
-2C:2D:48		bct electronic GesmbH
+2C:2D:48		Commend International GmbH
 2C:30:1A		Technicolor CH USA Inc for Telus
 2C:30:33		Netgear
 2C:30:68		Pantech Co.,Ltd
@@ -27898,8 +27899,11 @@
 58:21:E9		Twpi
 58:23:8C		Vantiva USA LLC
 58:23:BC		IEEE Registration Authority
+58:23:BC:10:00:00/28	Lens Technology (Xiangtan) Co.,Ltd
 58:23:BC:20:00:00/28	Great Wall Power Supply Technology Co., Ltd.
 58:23:BC:30:00:00/28	SHSYSTEM.Co.,LTD
+58:23:BC:40:00:00/28	Shenzhen C & D Electronics Co., Ltd.
+58:23:BC:50:00:00/28	Shenzhen Zhixuan Network Technology Co., Ltd.
 58:23:BC:60:00:00/28	Next Vision
 58:23:BC:70:00:00/28	Shenzhen MinDe Electronics Technology Ltd.
 58:23:BC:80:00:00/28	Wuhan Rayoptek Co.,Ltd
@@ -40008,6 +40012,7 @@
 8C:1F:64:F4:50:00/36	Jbf
 8C:1F:64:F4:60:00/36	Broadcast Tools, Inc.
 8C:1F:64:F4:90:00/36	CenterClick LLC
+8C:1F:64:F4:B0:00/36	Jorex Lorex India Private Limited
 8C:1F:64:F4:C0:00/36	inomatic GmbH
 8C:1F:64:F4:E0:00/36	ADAMCZEWSKI elektronische Messtechnik GmbH
 8C:1F:64:F4:F0:00/36	Leonardo Germany GmbH
@@ -41761,6 +41766,7 @@
 98:87:44		Wuxi Hongda Science and Technology Co.,LTD
 98:87:4C		Servercom (India) Private Limited
 98:87:6C		Huawei Device Co., Ltd.
+98:88:E0		Espressif Inc.
 98:89:24		Texas Instruments
 98:89:ED		Anadem Information Inc.
 98:8B:0A		Hangzhou Hikvision Digital Technology Co.,Ltd.
@@ -42145,6 +42151,7 @@
 9C:5A:44		Compal Information (Kunshan) Co., Ltd.
 9C:5A:80		Juniper Networks
 9C:5A:81		Xiaomi Communications Co Ltd
+9C:5A:8A		Dji Baiwang Technology Co Ltd
 9C:5B:96		NMR Corporation
 9C:5C:8D		Firemax Indústria E Comércio De Produtos Eletrônicos  Ltda
 9C:5C:8E		ASUSTek COMPUTER INC.
@@ -47359,6 +47366,7 @@ C8:D7:78		BSH Hausgeraete GmbH
 C8:D7:79		Qing Dao Haier Telecom Co.,Ltd.
 C8:D7:B0		Samsung Electronics Co.,Ltd
 C8:D8:84		Universal Electronics, Inc.
+C8:D9:59		Motorola Mobility LLC, a Lenovo Company
 C8:D9:D2		Hewlett Packard
 C8:DB:26		Logitech
 C8:DD:6A		Ohsung
@@ -48651,6 +48659,7 @@ D4:58:00		Fiberhome Telecommunication Technologies Co.,LTD
 D4:59:44		tonies GmbH
 D4:5A:3F		Juniper Networks
 D4:5A:B2		Galleon Systems
+D4:5B:51		Motorola Mobility LLC, a Lenovo Company
 D4:5C:70		Wi-Fi Alliance
 D4:5D:42		Nokia Corporation
 D4:5D:64		ASUSTek COMPUTER INC.
