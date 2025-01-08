@@ -20845,6 +20845,7 @@
 20:0E:2B		Apple, Inc.
 20:0E:95		Iec – Tc9 Wg43
 20:0F:70		Foxtech
+20:0F:92		STK Technology Co., Ltd.
 20:10:7A		Gemtek Technology Co., Ltd.
 20:10:8A		zte corporation
 20:11:4E		MeteRSit S.R.L.
@@ -22530,7 +22531,7 @@
 2C:C4:4F		IEEE Registration Authority
 2C:C4:4F:00:00:00/28	Shenzhen Syeconmax Technology Co. Ltd
 2C:C4:4F:10:00:00/28	Joyoful
-2C:C4:4F:20:00:00/28	Falcon V Systems S. A.
+2C:C4:4F:20:00:00/28	Vecima Networks Inc.
 2C:C4:4F:30:00:00/28	somon
 2C:C4:4F:40:00:00/28	Beijing Siling Robot Technology Co.,Ltd
 2C:C4:4F:50:00:00/28	Mohan Electronics And Systems (Optivision)
@@ -22989,6 +22990,7 @@
 30:B8:51		Siemens AG
 30:B9:30		zte corporation
 30:B9:B0		Intracom Asia Co., Ltd
+30:BB:43		Sixi Networks Co., Ltd
 30:BB:7D		OnePlus Technology (Shenzhen) Co., Ltd
 30:BD:13		Zyxel Communications Corporation
 30:BE:29		AltoBeam Inc.
@@ -23247,6 +23249,7 @@
 34:47:9A		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 34:47:D4		Chengdu Quanjing Intelligent Technology Co.,Ltd
 34:48:ED		Dell Inc.
+34:49:51		Eliyan Corp.
 34:49:5B		Sagemcom Broadband SAS
 34:4A:1B		zte corporation
 34:4A:C3		HuNan ZiKun Information Technology CO., Ltd
@@ -28115,6 +28118,7 @@
 58:95:D8:C0:00:00/28	Loctek Ergonomic Technology Corp.
 58:95:D8:D0:00:00/28	Alunos AG
 58:95:D8:E0:00:00/28	Gmv sistemas SAU
+58:96:0A		LG Electronics
 58:96:1D		Intel Corporate
 58:96:30		Vantiva USA LLC
 58:96:71		Wistron Neweb Corporation
@@ -39213,6 +39217,7 @@
 8C:1F:64:88:D0:00/36	Pantherun Technologies Pvt Ltd
 8C:1F:64:88:E0:00/36	CubeWorks, Inc.
 8C:1F:64:89:00:00/36	WonATech Co., Ltd.
+8C:1F:64:89:10:00/36	Brocere electronics corp. ltd.
 8C:1F:64:89:20:00/36	MDI Industrial
 8C:1F:64:89:50:00/36	Dacom West GmbH
 8C:1F:64:89:80:00/36	Copper Connections Ltd
@@ -39328,6 +39333,7 @@
 8C:1F:64:97:90:00/36	Arktis Radiation Detectors
 8C:1F:64:97:C0:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:97:D0:00/36	KSE GmbH
+8C:1F:64:97:E0:00/36	Sona Networks Private Limited
 8C:1F:64:97:F0:00/36	Talleres de Escoriaza SA
 8C:1F:64:98:40:00/36	Abacus Peripherals Pvt Ltd
 8C:1F:64:98:70:00/36	Peter Huber Kaeltemaschinenbau SE
@@ -43467,6 +43473,7 @@ A8:03:2A		Espressif Inc.
 A8:05:56		vivo Mobile Communication Co., Ltd.
 A8:05:77		Netlist, Inc.
 A8:06:00		Samsung Electronics Co.,Ltd
+A8:08:CF		Vestel Elektronik San ve Tic. A.S.
 A8:09:B1		Huawei Device Co., Ltd.
 A8:0B:FB		Ruckus Wireless
 A8:0C:03		Florawise
