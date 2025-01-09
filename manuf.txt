@@ -21402,6 +21402,7 @@
 24:64:9F		Huawei Device Co., Ltd.
 24:64:EF		Cyg Sunri Co.,Ltd.
 24:65:11		AVM GmbH
+24:65:E1		Ciena Corporation
 24:68:30		Shenzhen Shokzhear Co., Ltd
 24:68:80		Braveridge.co.,ltd.
 24:68:B0		Samsung Electronics Co.,Ltd
@@ -21666,6 +21667,7 @@
 28:0B:5C		Apple, Inc.
 28:0C:28		Unigen DataStorage Corporation
 28:0C:2D		Qualvision Technology Co.,Ltd
+28:0C:50		Intel Corporate
 28:0C:B8		Mikrosay Yazilim ve Elektronik A.S.
 28:0D:FC		Sony Interactive Entertainment Inc.
 28:0E:8B		Beijing Spirit Technology Development Co., Ltd.
@@ -38442,6 +38444,7 @@
 8C:1F:64:28:A0:00/36	Arcopie
 8C:1F:64:28:C0:00/36	Sakura Seiki Co.,Ltd.
 8C:1F:64:28:D0:00/36	AVA Monitoring AB
+8C:1F:64:29:10:00/36	Jiangsu Ruidong Electric Power Technology Co.,Ltd
 8C:1F:64:29:20:00/36	Gogo Business Aviation
 8C:1F:64:29:30:00/36	Landis+Gyr Equipamentos de Medição Ltda
 8C:1F:64:29:40:00/36	nanoTRONIX Computing Inc.
@@ -39791,6 +39794,7 @@
 8C:1F:64:D0:F0:00/36	Mecco LLC
 8C:1F:64:D1:10:00/36	Benetel
 8C:1F:64:D1:30:00/36	EYatsko Individual
+8C:1F:64:D1:50:00/36	MB connect line GmbH
 8C:1F:64:D1:70:00/36	I.S.A. - Altanova group srl
 8C:1F:64:D1:B0:00/36	Audiodo International AB
 8C:1F:64:D1:C0:00/36	Vesper Technologies
@@ -43968,6 +43972,7 @@ AC:43:30		Versa Networks
 AC:44:F2		Yamaha Corporation
 AC:45:00		Apple, Inc.
 AC:45:CA		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
+AC:45:EF		Intel Corporate
 AC:47:1B		Huawei Device Co., Ltd.
 AC:47:23		Genelec
 AC:48:2D		Ralinwi Nanjing Electronic Technology Co., Ltd.
@@ -45554,6 +45559,7 @@ B8:F6:B1		Apple, Inc.
 B8:F7:32		Aryaka Networks Inc
 B8:F7:4A		Rcntec
 B8:F7:74		Fiberhome Telecommunication Technologies Co.,LTD
+B8:F7:75		Intel Corporate
 B8:F8:28		Changshu Gaoshida Optoelectronic Technology Co. Ltd.
 B8:F8:53		Arcadyan Corporation
 B8:F8:83		Tp-Link Technologies Co.,Ltd.
@@ -45968,6 +45974,10 @@ BC:DB:09		Cisco Meraki
 BC:DD:C2		Espressif Inc.
 BC:DF:58		Google, Inc.
 BC:DF:E1		IEEE Registration Authority
+BC:DF:E1:30:00:00/28	System Industrie Electronic GmbH
+BC:DF:E1:40:00:00/28	Ochno AB
+BC:DF:E1:70:00:00/28	Databridge Dynamic
+BC:DF:E1:80:00:00/28	Cortex Systems
 BC:DF:E1:90:00:00/28	Annapurna labs
 BC:DF:E1:A0:00:00/28	Building Automation Products Inc.
 BC:DF:E1:B0:00:00/28	Hi-Target Surveying Instrument Co.,Ltd
@@ -48887,6 +48897,7 @@ D4:A6:51		Tuya Smart Inc.
 D4:A9:23		Huawei Technologies Co.,Ltd
 D4:A9:28		GreenWave Reality Inc
 D4:AA:FF		Micro World
+D4:AB:61		Intel Corporate
 D4:AB:82		Commscope
 D4:AB:CD		Hui Zhou Gaoshengda Technology Co.,LTD
 D4:AC:4E		BODi rS, LLC
@@ -50494,6 +50505,7 @@ E4:81:84		Nokia
 E4:81:B3		Shenzhen ACT Industrial Co.,Ltd.
 E4:82:10		Huawei Technologies Co.,Ltd
 E4:82:CC		Jumptronic GmbH
+E4:82:FF		Ecliptic Enterprises Corp
 E4:83:26		Huawei Technologies Co.,Ltd
 E4:83:99		Commscope
 E4:84:29		New H3C Technologies Co., Ltd
@@ -52572,6 +52584,7 @@ F8:0F:84		Natural Security SAS
 F8:0F:F9		Google, Inc.
 F8:10:37		Atopia Systems, LP
 F8:10:93		Apple, Inc.
+F8:10:A0		Xtreme Testek Inc.
 F8:13:08		Nokia
 F8:14:FE		Union Man Technology Co.,Ltd
 F8:15:47		Avaya Inc
