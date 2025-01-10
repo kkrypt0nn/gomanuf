@@ -17624,6 +17624,7 @@
 04:A7:41		Cisco Systems, Inc
 04:A8:1C		Huawei Technologies Co.,Ltd
 04:A8:2A		Nokia Corporation
+04:A8:5A		Sz Dji Technology Co.,Ltd
 04:A9:59		New H3C Technologies Co., Ltd
 04:AA:E1		Beijing Microvision Technology Co.,Ltd
 04:AB:08		Shenzhen Skyworth Digital  Technology  CO., Ltd
@@ -19562,6 +19563,7 @@
 14:6B:9C		Shenzhen Bilian Electronic Co.，Ltd
 14:6C:27		Dongguan Liesheng Electronic Co., Ltd.
 14:6E:0A		Private
+14:70:57		Shennan Circuits Co.,Ltd
 14:73:73		Tubitak Uekae
 14:74:11		Rim
 14:75:5B		Intel Corporate
@@ -22143,6 +22145,7 @@
 28:FF:5F		HG Genuine Intelligent Terminal (Xiaogan) Co.,Ltd.
 28:FF:B2		Toshiba Corp.
 2A:0B:B8		xFusion Digital Technologies Co., Limited
+2A:15:97		Cotsworks
 2A:9F:EB		AVnu Alliance
 2A:A1:39		Pointguard, Llc
 2A:A1:47		Distribuciones Cantilever
@@ -27882,6 +27885,7 @@
 58:16:26		Avaya Inc
 58:16:D7		Alpsalpine Co,.Ltd
 58:17:0C		Sony Corporation
+58:18:62		Sony Corporation
 58:19:F8		Commscope
 58:1C:BD		Affinegy
 58:1C:F8		Intel Corporate
@@ -38634,6 +38638,7 @@
 8C:1F:64:3E:80:00/36	Ruichuangte
 8C:1F:64:3E:A0:00/36	Chipscape Security Systems
 8C:1F:64:3E:E0:00/36	BnB Information Technology
+8C:1F:64:3F:30:00/36	Cambrian Works, Inc.
 8C:1F:64:3F:40:00/36	Actelser S.L.
 8C:1F:64:3F:70:00/36	Mitsubishi Electric India Pvt. Ltd.
 8C:1F:64:3F:90:00/36	Yu Yan System Technology Co., Ltd.
@@ -39323,6 +39328,7 @@
 8C:1F:64:95:A0:00/36	Shenzhen Longyun Lighting Electric Appliances Co., Ltd
 8C:1F:64:95:B0:00/36	Qualitel Corporation
 8C:1F:64:95:C0:00/36	Fasetto, Inc.
+8C:1F:64:95:E0:00/36	Landis+Gyr Equipamentos de Medição Ltda
 8C:1F:64:96:20:00/36	Umano Medical Inc.
 8C:1F:64:96:30:00/36	Gogo Business Aviation
 8C:1F:64:96:40:00/36	Power Electronics Espana, S.L.
@@ -40471,6 +40477,7 @@
 8C:B8:64		AcSiP Technology Corp.
 8C:B8:7E		Intel Corporate
 8C:BA:25		Union Man Technology Co.,Ltd
+8C:BD:37		Shenzhen Phaten Tech. LTD
 8C:BE:24		Tashang Semiconductor(Shanghai) Co., Ltd.
 8C:BE:BE		Xiaomi Communications Co Ltd
 8C:BF:9D		Shanghai Xinyou Information Technology Ltd. Co.
@@ -43512,6 +43519,7 @@ A8:24:EB		ZAO NPO Introtest
 A8:25:EB		Cambridge Industries(Group) Co.,Ltd.
 A8:26:D9		HTC Corporation
 A8:27:C8		Edgecore Americas Networking Corporation
+A8:29:48		TP-Link Systems Inc.
 A8:29:4C		Precision Optical Transceivers, Inc.
 A8:2A:D6		Arthrex Inc.
 A8:2B:B5		Edgecore Networks Corporation
@@ -45974,13 +45982,19 @@ BC:DB:09		Cisco Meraki
 BC:DD:C2		Espressif Inc.
 BC:DF:58		Google, Inc.
 BC:DF:E1		IEEE Registration Authority
+BC:DF:E1:00:00:00/28	Shenzhen Galaxy Century Information Technology Co.,Ltd
+BC:DF:E1:10:00:00/28	Shenzhen Valley Ventures Co.,Ltd.
+BC:DF:E1:20:00:00/28	Shanghai Zhuoyu Communication Technology Co., Ltd
 BC:DF:E1:30:00:00/28	System Industrie Electronic GmbH
 BC:DF:E1:40:00:00/28	Ochno AB
+BC:DF:E1:50:00:00/28	Enli Inc.
+BC:DF:E1:60:00:00/28	D3 Technical Partners, LLC
 BC:DF:E1:70:00:00/28	Databridge Dynamic
 BC:DF:E1:80:00:00/28	Cortex Systems
 BC:DF:E1:90:00:00/28	Annapurna labs
 BC:DF:E1:A0:00:00/28	Building Automation Products Inc.
 BC:DF:E1:B0:00:00/28	Hi-Target Surveying Instrument Co.,Ltd
+BC:DF:E1:C0:00:00/28	XY Sense, Inc.
 BC:DF:E1:D0:00:00/28	Ugpa Llc
 BC:E0:01		Netis Technology Co., Ltd.
 BC:E0:9D		Eoslink
@@ -48688,6 +48702,7 @@ D4:40:F0		Huawei Technologies Co.,Ltd
 D4:41:3F		Gen IV Technology LLC
 D4:41:65		Sichuan Tianyi Comheart Telecom Co.,LTD
 D4:43:0E		Zhejiang Dahua Technology Co., Ltd.
+D4:43:8A		Beijing Xiaomi Mobile Software Co., Ltd
 D4:43:A8		Changzhou Haojie Electric Co., Ltd.
 D4:45:E8		Jiangxi Hongpai Technology Co., Ltd.
 D4:46:49		Huawei Technologies Co.,Ltd
@@ -50236,6 +50251,7 @@ E0:D1:0A		Katoudenkikougyousyo co ltd
 E0:D1:73		Cisco Systems, Inc
 E0:D1:E6		Aliph dba Jawbone
 E0:D3:1A		EQUES Technology Co., Limited
+E0:D3:62		TP-Link Systems Inc.
 E0:D3:B4		Cisco Meraki
 E0:D4:62		Huawei Device Co., Ltd.
 E0:D4:64		Intel Corporate
@@ -53106,6 +53122,7 @@ FC:22:9C		Han Kyung I Net Co.,Ltd.
 FC:22:D3		Fdsys
 FC:22:F4		Zyxel Communications Corporation
 FC:23:25		EosTek (Shenzhen) Co., Ltd.
+FC:23:CD		Shenzhen Bilian Electronic Co.，Ltd
 FC:25:3F		Apple, Inc.
 FC:27:A2		Trans Electric Co., Ltd.
 FC:29:E3		Infinix mobility limited
