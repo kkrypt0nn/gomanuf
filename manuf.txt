@@ -3123,7 +3123,7 @@
 00:0C:40		Altech Controls
 00:0C:41		Cisco-Linksys, LLC
 00:0C:42		Routerboard.com
-00:0C:43		Ralink Technology, Corp.
+00:0C:43		MediaTek Inc
 00:0C:44		Automated Interfaces, Inc.
 00:0C:45		Animation Technologies Inc.
 00:0C:46		Allied Telesyn Inc.
@@ -21564,6 +21564,7 @@
 24:C9:A1		Ruckus Wireless
 24:C9:DE		Genoray
 24:CA:CB		Fiberhome Telecommunication Technologies Co.,LTD
+24:CB:E1		Ericsson AB
 24:CB:E7		MYK, Inc.
 24:CD:8D		Murata Manufacturing Co., Ltd.
 24:CE:33		Amazon Technologies Inc.
@@ -39041,6 +39042,7 @@
 8C:1F:64:72:10:00/36	M/S Milind Ramachandra Rajwade
 8C:1F:64:72:20:00/36	Artome Oy
 8C:1F:64:72:30:00/36	Celestica Inc.
+8C:1F:64:72:40:00/36	Heitec Ag
 8C:1F:64:72:60:00/36	Dave Srl
 8C:1F:64:72:A0:00/36	Dorlet Sau
 8C:1F:64:72:B0:00/36	Abbott Diagnostics Technologies AS
@@ -45847,6 +45849,7 @@ BC:85:1F		Samsung Electronics Co.,Ltd
 BC:85:29		Jiangxi Remote lntelligence Technology Co.,Ltd
 BC:85:56		Hon Hai Precision Ind. Co.,Ltd.
 BC:85:D0		Sky Uk Limited
+BC:86:A5		Cambridge Mobile Telematics, Inc.
 BC:87:FA		Bose Corporation
 BC:88:93		VILLBAU Ltd.
 BC:88:C3		Ningbo Dooya Mechanic & Electronic Technology Co., Ltd
@@ -45996,6 +45999,7 @@ BC:DF:E1:A0:00:00/28	Building Automation Products Inc.
 BC:DF:E1:B0:00:00/28	Hi-Target Surveying Instrument Co.,Ltd
 BC:DF:E1:C0:00:00/28	XY Sense, Inc.
 BC:DF:E1:D0:00:00/28	Ugpa Llc
+BC:DF:E1:E0:00:00/28	Clairvoyant Technology Inc.
 BC:E0:01		Netis Technology Co., Ltd.
 BC:E0:9D		Eoslink
 BC:E1:43		Apple, Inc.
@@ -46259,7 +46263,7 @@ C0:83:59:40:00:00/28	Ants
 C0:83:59:50:00:00/28	Viper Design, LLC
 C0:83:59:60:00:00/28	Beijing Cloud Fly Technology Development Co.Ltd
 C0:83:59:70:00:00/28	Fuzhou Fdlinker Technology Co.,LTD
-C0:83:59:80:00:00/28	ista International GmbH
+C0:83:59:80:00:00/28	Ista SE
 C0:83:59:90:00:00/28	Shenzhen Pay Device Technology Co., Ltd.
 C0:83:59:A0:00:00/28	Shanghai Charmhope Information Technology Co.,Ltd.
 C0:83:59:B0:00:00/28	Suzhou Siheng Science and Technology Ltd.
@@ -46943,6 +46947,7 @@ C4:D4:89		JiangSu Joyque Information Industry Co.,Ltd
 C4:D4:96		Shenzhen Excelsecu Data Technology Co.,Ltd
 C4:D6:55		Tercel technology co.,ltd
 C4:D6:66		Cisco Meraki
+C4:D6:D3		Dell Inc.
 C4:D7:38		Huawei Device Co., Ltd.
 C4:D7:FD		Bouffalo Lab (Nanjing) Co., Ltd.
 C4:D8:C8		Silicon Laboratories
