@@ -19943,6 +19943,7 @@
 18:66:96:40:00:00/28	Akteena Inc
 18:66:96:70:00:00/28	Shandong Hummingbird Internet of Things Technology Co., Ltd
 18:66:96:A0:00:00/28	Bipai Electronic Technology(Dongguan)Co.,Ltd
+18:66:96:B0:00:00/28	Hunan Songben Information Co., Ltd
 18:66:C7		Shenzhen Libre Technology Co., Ltd
 18:66:DA		Dell Inc.
 18:66:E3		Veros Systems, Inc.
@@ -22699,6 +22700,7 @@
 30:0A:60:C0:00:00/28	Thermo Process Instruments, LP
 30:0A:60:D0:00:00/28	Sixth Energy Technologies Private Limited
 30:0A:60:E0:00:00/28	Imageo s.r.o.
+30:0A:9D		Axino Solutions AG
 30:0A:C5		Ruio telecommunication technologies Co., Limited
 30:0B:9C		Delta Mobile Systems, Inc.
 30:0C:23		zte corporation
@@ -35943,6 +35945,7 @@
 78:9E:D0		Samsung Electronics Co.,Ltd
 78:9F:38		Shenzhen Feasycom Co., Ltd
 78:9F:4C		HOERBIGER Elektronik GmbH
+78:9F:6A		Ruckus Wireless
 78:9F:70		Apple, Inc.
 78:9F:87		Siemens AG I IA PP PRM
 78:9F:AA		Huawei Device Co., Ltd.
@@ -38490,6 +38493,7 @@
 8C:1F:64:2A:90:00/36	Elbit Systems of America, LLC
 8C:1F:64:2A:C0:00/36	Dco Systems Ltd
 8C:1F:64:2B:10:00/36	U -Mei-Dah Int'L Enterprise Co.,Ltd.
+8C:1F:64:2B:40:00/36	Sonel S.A.
 8C:1F:64:2B:60:00/36	Stercom Power Solutions GmbH
 8C:1F:64:2B:80:00/36	Veinland GmbH
 8C:1F:64:2B:B0:00/36	Chakra Technology Ltd
@@ -39002,6 +39006,7 @@
 8C:1F:64:69:80:00/36	Arcus-EDS GmbH
 8C:1F:64:69:90:00/36	FIDICA GmbH & Co. KG
 8C:1F:64:69:E0:00/36	AT-Automation Technology GmbH
+8C:1F:64:69:F0:00/36	Insightec
 8C:1F:64:6A:00:00/36	Avionica
 8C:1F:64:6A:30:00/36	Becton Dickinson
 8C:1F:64:6A:40:00/36	Automata Spa
@@ -39657,7 +39662,7 @@
 8C:1F:64:BC:30:00/36	FoxIoT OÜ
 8C:1F:64:BC:40:00/36	EasyNet Industry (Shenzhen) Co., Ltd
 8C:1F:64:BC:60:00/36	Chengdu ZiChen Time&Frequency Technology Co.,Ltd
-8C:1F:64:BC:70:00/36	UGARD NETWORKS TECHNOLOGY Co.,LTD
+8C:1F:64:BC:70:00/36	UGUARD NETWORKS TECHNOLOGY Co.,LTD
 8C:1F:64:BC:90:00/36	Gl Tech Co.,Ltd
 8C:1F:64:BC:A0:00/36	OPTOKON, a.s.
 8C:1F:64:BC:B0:00/36	A&T Corporation
@@ -40014,6 +40019,7 @@
 8C:1F:64:E9:90:00/36	Pantherun Technologies Pvt Ltd
 8C:1F:64:E9:A0:00/36	SiFive Inc
 8C:1F:64:E9:F0:00/36	Lumiplan Duhamel
+8C:1F:64:EA:60:00/36	Dial Plan Limited
 8C:1F:64:EA:80:00/36	Zumbach Electronic AG
 8C:1F:64:EA:A0:00/36	"KB "Modul", LLC
 8C:1F:64:EA:C0:00/36	Miracle Healthcare, Inc.
@@ -46981,6 +46987,7 @@ C4:D6:55		Tercel technology co.,ltd
 C4:D6:66		Cisco Meraki
 C4:D6:D3		Dell Inc.
 C4:D7:38		Huawei Device Co., Ltd.
+C4:D7:DC		Zhejiang Weilai Jingling Artificial Intelligence Technology Co., Ltd.
 C4:D7:FD		Bouffalo Lab (Nanjing) Co., Ltd.
 C4:D8:C8		Silicon Laboratories
 C4:D8:D4		Huawei Technologies Co.,Ltd
