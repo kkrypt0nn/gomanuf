@@ -16349,6 +16349,7 @@
 00:A5:09		WigWag Inc.
 00:A5:54		Intel Corporate
 00:A5:BF		Cisco Systems, Inc
+00:A6:2B		Shanghai High-Flying Electronics Technology Co.,Ltd
 00:A6:CA		Cisco Systems, Inc
 00:A7:42		Cisco Systems, Inc
 00:A7:84		ITX security
@@ -19061,6 +19062,7 @@
 10:50:72		Sercomm Corporation.
 10:51:07		Intel Corporate
 10:51:72		Huawei Technologies Co.,Ltd
+10:51:DB		Espressif Inc.
 10:52:1C		Espressif Inc.
 10:54:03		INTARSO GmbH
 10:54:D2		IEEE Registration Authority
@@ -20924,6 +20926,7 @@
 20:32:33		Shenzhen Bilian Electronic Co.，Ltd
 20:32:6C		Samsung Electronics Co.,Ltd
 20:32:C6		Apple, Inc.
+20:34:62		Xiaomi Communications Co Ltd
 20:34:FB		Xiaomi Communications Co Ltd
 20:35:43		Sagemcom Broadband SAS
 20:36:26		TP-Link Corporation Limited
@@ -24325,6 +24328,7 @@
 3C:54:47		Huawei Technologies Co.,Ltd
 3C:55:76		Cloud Network Technology Singapore Pte. Ltd.
 3C:55:DB		Shenzhen Skyworth Digital  Technology  CO., Ltd
+3C:56:6E		Infinix mobility limited
 3C:57:31		Cisco Systems, Inc
 3C:57:4F		China Mobile Group Device Co.,Ltd.
 3C:57:65		Unionman Technology Co.,Ltd
@@ -27840,6 +27844,7 @@
 54:D9:E4		Brilliantts Co., Ltd
 54:DB:A2		Fibrain
 54:DC:1D		Yulong Computer Telecommunication Scientific (Shenzhen) Co.,Ltd
+54:DC:E9		Silicon Laboratories
 54:DD:4F		Samsung Electronics Co.,Ltd
 54:DE:D0		Sevio Srl
 54:DE:D3		zte corporation
@@ -28959,6 +28964,7 @@
 60:45:BD		Microsoft
 60:45:CB		ASUSTek COMPUTER INC.
 60:45:CD		Sagemcom Broadband SAS
+60:45:E8		Arcadyan Corporation
 60:46:16		Xiamen Vann Intelligent Co., Ltd
 60:47:62		Beijing Sensoro Technology Co.,Ltd.
 60:47:D4		FORICS Electronic Technology Co., Ltd.
@@ -29762,6 +29768,7 @@
 68:23:4B		Nihon Dengyo Kousaku
 68:23:B0		Texas Instruments
 68:23:F4		Shenzhen Jinlangxin Technology Co., Ltd
+68:25:DD		Espressif Inc.
 68:26:24		Ergatta
 68:26:2A		Sichuan Tianyi Comheart Telecom Co.,LTD
 68:27:19		Microchip Technology Inc.
@@ -39635,6 +39642,7 @@
 8C:1F:64:B3:B0:00/36	Sicon srl
 8C:1F:64:B3:C0:00/36	Safepro AI Video Research Labs Pvt Ltd
 8C:1F:64:B3:D0:00/36	RealD, Inc.
+8C:1F:64:B3:F0:00/36	Fell Technology AS
 8C:1F:64:B4:60:00/36	Phygitall Soluções Em Internet Das Coisas
 8C:1F:64:B4:70:00/36	Lineage Power Pvt Ltd.,
 8C:1F:64:B4:C0:00/36	Picocom Technology Ltd
@@ -40555,6 +40563,7 @@
 8C:BA:25		Union Man Technology Co.,Ltd
 8C:BD:37		Shenzhen Phaten Tech. LTD
 8C:BE:24		Tashang Semiconductor(Shanghai) Co., Ltd.
+8C:BE:6F		Tianyi Telecom Terminals Company Limited
 8C:BE:BE		Xiaomi Communications Co Ltd
 8C:BF:9D		Shanghai Xinyou Information Technology Ltd. Co.
 8C:BF:A6		Samsung Electronics Co.,Ltd
@@ -43612,6 +43621,7 @@ A8:2A:D6		Arthrex Inc.
 A8:2B:B5		Edgecore Networks Corporation
 A8:2B:B9		Samsung Electronics Co.,Ltd
 A8:2B:CD		Huawei Technologies Co.,Ltd
+A8:2B:D5		Xiaomi Communications Co Ltd
 A8:2B:D6		Shina System Co., Ltd
 A8:2C:3E		Shenzhen Cultraview Digital Technology Co., Ltd
 A8:30:1C		Qingdao Intelligent&Precise Electronics Co.,Ltd.
@@ -45951,6 +45961,7 @@ BC:8B:55		NPP ELIKS America Inc. DBA T&M Atlantic
 BC:8C:CD		Samsung Electro-Mechanics(Thailand)
 BC:8D:0E		Nokia
 BC:8D:1F		Cisco Systems, Inc
+BC:8D:7E		Silicon Laboratories
 BC:90:3A		Robert Bosch GmbH
 BC:91:B5		Infinix mobility limited
 BC:92:6B		Apple, Inc.
@@ -46488,6 +46499,7 @@ C0:C7:0A		Ruckus Wireless
 C0:C7:DB		Apple, Inc.
 C0:C9:46		Mitsuya Laboratories Inc.
 C0:C9:76		Shenzhen TINNO Mobile Technology Corp.
+C0:C9:89		Edgecore Americas Networking Corporation
 C0:C9:E3		Tp-Link Technologies Co.,Ltd.
 C0:CB:38		Hon Hai Precision Ind. Co.,Ltd.
 C0:CB:F1		Mobiwire Mobiles (NingBo) Co., LTD
@@ -46532,6 +46544,7 @@ C0:D9:62		Askey Computer Corp
 C0:D9:F7		ShanDong Domor Intelligent S&T CO.,Ltd
 C0:DA:74		Hangzhou Sunyard Technology Co., Ltd.
 C0:DC:6A		Qingdao Eastsoft Communication Technology Co.,LTD
+C0:DC:AB		LG Innotek
 C0:DC:D7		Huawei Device Co., Ltd.
 C0:DC:DA		Samsung Electronics Co.,Ltd
 C0:DD:8A		Meta Platforms Technologies, LLC
@@ -48565,6 +48578,7 @@ D0:C0:BF		Actions Microelectronics
 D0:C1:93		Skybell, Inc
 D0:C1:B1		Samsung Electronics Co.,Ltd
 D0:C1:B5		Dell Inc.
+D0:C1:BF		Xiaomi Communications Co Ltd
 D0:C2:4E		Samsung Electronics Co.,Ltd
 D0:C2:82		Cisco Systems, Inc
 D0:C3:1E		JUNGJIN Electronics Co.,Ltd
