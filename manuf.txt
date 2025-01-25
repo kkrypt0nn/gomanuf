@@ -19959,6 +19959,7 @@
 18:66:96:B0:00:00/28	Hunan Songben Information Co., Ltd
 18:66:96:C0:00:00/28	Kee Tat Innovative Technology Holdings Limited
 18:66:96:D0:00:00/28	Viva Co.,Ltd.
+18:66:96:E0:00:00/28	Indusenz AS
 18:66:C7		Shenzhen Libre Technology Co., Ltd
 18:66:DA		Dell Inc.
 18:66:E3		Veros Systems, Inc.
@@ -21350,6 +21351,7 @@
 24:41:8C		Intel Corporate
 24:41:FE		Wistron Neweb Corporation
 24:42:BC		Alinco,incorporated
+24:42:E3		Shenzhen Ai-Thinker  Technology Co.,Ltd
 24:43:E2		DASAN Network Solutions
 24:44:27		Huawei Technologies Co.,Ltd
 24:45:6B		Huawei Device Co., Ltd.
@@ -26467,6 +26469,7 @@
 48:F8:FF		Chengdu Kt Electronic Hi-Tech Co.,Ltd
 48:F9:25		Maestronic
 48:F9:7C		Fiberhome Telecommunication Technologies Co.,LTD
+48:F9:7F		shenzhen Huaxufeng Technology Development Co.,Ltd
 48:FC:B6		Lava International(H.K) Limited
 48:FC:B8		Woodstream Corporation
 48:FD:8E		Huawei Technologies Co.,Ltd
@@ -28632,6 +28635,7 @@
 5C:88:16		Rockwell Automation
 5C:89:9A		Tp-Link Technologies Co.,Ltd.
 5C:89:D4		Beijing Banner Electric Co.,Ltd
+5C:89:E6		Richard Wolf GmbH
 5C:8A:38		Hewlett Packard
 5C:8A:AE		China Dragon Technology Limited
 5C:8B:6B		Amazon Technologies Inc.
@@ -44549,6 +44553,7 @@ B0:4B:BF		Pt Han Sung Electoronics Indonesia
 B0:4C:05		Fresenius Medical Care Deutschland GmbH
 B0:4E:26		Tp-Link Technologies Co.,Ltd.
 B0:4F:13		Dell Inc.
+B0:4F:3C		Genuine Optics
 B0:4F:A6		DongGuan Ramaxel Memory Technology
 B0:4F:C3		Shenzhen NVC Cloud Technology Co., Ltd.
 B0:50:BC		Shenzhen Basicom Electronic Co.,Ltd.
@@ -46676,6 +46681,7 @@ C4:1C:FF		Vizio, Inc
 C4:1E:CE		HMI Sources Ltd.
 C4:21:B9		zte corporation
 C4:21:C8		Kyocera Corporation
+C4:22:4E		Telink Micro LLC
 C4:23:60		Intel Corporate
 C4:23:7A		WhizNets Inc.
 C4:23:A2		PT. Emsonic Indonesia
@@ -51373,6 +51379,7 @@ EC:30:91		Cisco Systems, Inc
 EC:30:B3		Xiaomi Communications Co Ltd
 EC:31:4A		Chengdu Quanjing Intelligent Technology Co.,Ltd
 EC:31:6D		Hansgrohe
+EC:35:32		Tactrix Inc.
 EC:35:4D		Wingtech Mobile Communications Co.,Ltd
 EC:35:86		Apple, Inc.
 EC:36:3F		Markov Corporation
