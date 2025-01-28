@@ -18636,6 +18636,7 @@
 0C:81:26		Juniper Networks
 0C:81:7D		EEP Elektro-Elektronik Pranjic GmbH
 0C:82:30		Shenzhen Magnus Technologies Co.,Ltd
+0C:82:47		Cig Shanghai Co Ltd
 0C:82:68		Tp-Link Technologies Co.,Ltd.
 0C:82:6A		Wuhan Huagong Genuine Optics Technology Co., Ltd
 0C:82:D5		Maxio Technology Hangzhou Co., Ltd.
@@ -23261,6 +23262,7 @@
 34:38:AF		Inlab Networks GmbH
 34:38:B7		HUMAX Co., Ltd.
 34:3A:20		Hewlett Packard Enterprise
+34:3C:30		NXP Semiconductor (Tianjin) LTD.
 34:3D:7F		Klipsch Group, Inc.
 34:3D:98		JinQianMao Technology Co.,Ltd.
 34:3D:C4		Buffalo.Inc
@@ -25778,6 +25780,7 @@
 44:72:AC		AltoBeam Inc.
 44:73:D6		Logitech
 44:74:6C		Sony Corporation
+44:76:09		New H3C Technologies Co., Ltd
 44:76:54		Huawei Technologies Co.,Ltd
 44:78:3E		Samsung Electronics Co.,Ltd
 44:7B:BB		Shenzhen YOUHUA Technology Co., Ltd
@@ -26556,6 +26559,7 @@
 4C:2E:5E		Samsung Electronics Co.,Ltd
 4C:2E:B4		Apple, Inc.
 4C:2E:FE		Shenzhen Comnect Technology Co.,LTD
+4C:2F:7B		AltoBeam Inc.
 4C:2F:9D		ICM Controls
 4C:2F:D7		Huawei Device Co., Ltd.
 4C:30:89		Hitachi Rail GTS Deutschland GmbH
@@ -35944,6 +35948,7 @@
 78:84:EE		Indra Espacio S.A.
 78:85:17		Cisco Systems, Inc
 78:85:F4		Huawei Device Co., Ltd.
+78:86:2E		Microsoft Corporation
 78:86:B6		Shenzhen YOUHUA Technology Co., Ltd
 78:87:0D		Unifiedgateways India Private Limited
 78:88:6D		Apple, Inc.
@@ -36198,6 +36203,7 @@
 78:EB:46		Huawei Technologies Co.,Ltd
 78:EC:22		Shanghai Qihui Telecom Technology Co., LTD
 78:EC:74		Kyland-USA
+78:ED:25		New H3C Technologies Co., Ltd
 78:ED:BC		OnePlus Technology (Shenzhen) Co., Ltd
 78:EE:4C		Espressif Inc.
 78:EF:4C		Unetconvergence Co., Ltd.
@@ -38210,6 +38216,7 @@
 8C:1E:D9		Beijing Unigroup Tsingteng Microsystem Co., LTD.
 8C:1F:64		IEEE Registration Authority
 8C:1F:64:00:00:00/36	Suzhou Xingxiangyi Precision Manufacturing Co.,Ltd.
+8C:1F:64:00:10:00/36	HYFIX Spatial Intelligence
 8C:1F:64:00:30:00/36	Brighten Controls LLP
 8C:1F:64:00:90:00/36	Converging Systems Inc.
 8C:1F:64:00:A0:00/36	TaskUnite Inc. (dba AMPAworks)
@@ -38645,6 +38652,7 @@
 8C:1F:64:37:40:00/36	Accord Communications Ltd
 8C:1F:64:37:50:00/36	Duevi Srl
 8C:1F:64:37:60:00/36	DIAS Infrared GmbH
+8C:1F:64:37:70:00/36	Solotech
 8C:1F:64:37:80:00/36	spar Power Technologies Inc.
 8C:1F:64:37:E0:00/36	SIDUS Solutions, LLC
 8C:1F:64:37:F0:00/36	Scarlet Tech Co., Ltd.
@@ -42164,6 +42172,7 @@
 9C:05:D6		Ubiquiti Inc
 9C:06:1B		Hangzhou H3C Technologies Co., Limited
 9C:06:6E		Hytera Communications Corporation Limited
+9C:06:CF		PLAUD Inc.
 9C:09:71		New H3C Technologies Co., Ltd
 9C:09:8B		Cisco Systems, Inc
 9C:0B:05		eero inc.
@@ -42345,6 +42354,7 @@
 9C:69:B4:D0:00:00/28	"Intellect module" LLC
 9C:69:B4:E0:00:00/28	Ningbo Shen Link Communication Technology Co., Ltd
 9C:69:D1		Huawei Technologies Co.,Ltd
+9C:69:D3		ASIX Electronics Corporation
 9C:69:ED		Arista Networks
 9C:6A:BE		QEES ApS.
 9C:6B:00		ASRock Incorporation
@@ -42512,6 +42522,7 @@
 9C:DE:F0		Jiangxi Risound Electronics Co.,LTD
 9C:DF:03		Harman/Becker Automotive Systems GmbH
 9C:DF:B1		Shenzhen Crave Communication Co., LTD
+9C:DF:B3		NXP Semiconductor (Tianjin) LTD.
 9C:E0:41		Nokia
 9C:E0:63		Samsung Electronics Co.,Ltd
 9C:E1:0E		NCTech Ltd
@@ -42521,6 +42532,8 @@
 9C:E3:30		Cisco Meraki
 9C:E3:3F		Apple, Inc.
 9C:E3:74		Huawei Technologies Co.,Ltd
+9C:E5:49		IEEE Registration Authority
+9C:E5:49:30:00:00/28	Shenzhen Jooan Technology  Co., Ltd
 9C:E6:35		Nintendo Co., Ltd.
 9C:E6:5E		Apple, Inc.
 9C:E6:E7		Samsung Electronics Co.,Ltd
