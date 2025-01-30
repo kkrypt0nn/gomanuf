@@ -9875,7 +9875,7 @@
 00:25:DC		Sumitomo Electric Industries, Ltd
 00:25:DD		Sunnytek Information Co., Ltd.
 00:25:DE		Probits Co., LTD.
-00:25:DF		Taser International Inc.
+00:25:DF		Axon Enterprise, Inc.
 00:25:E0		CeedTec Sdn Bhd
 00:25:E1		Shanghai Seeyoo Electronic & Technology Co., Ltd
 00:25:E2		Everspring Industry Co., Ltd.
@@ -19595,6 +19595,7 @@
 14:84:30		Mitac Computing Technology Corporation
 14:84:73		Cisco Systems, Inc
 14:84:77		New H3C Technologies Co., Ltd
+14:85:01		Rivos Inc.
 14:85:09		Apple, Inc.
 14:85:54		Earda Technologies co Ltd
 14:85:7F		Intel Corporate
@@ -39382,6 +39383,7 @@
 8C:1F:64:90:F0:00/36	BELIMO Automation AG
 8C:1F:64:91:00:00/36	Vortex IoT Ltd
 8C:1F:64:91:10:00/36	Eolane
+8C:1F:64:91:20:00/36	MARIAN GmbH
 8C:1F:64:91:30:00/36	Zeus Product Design Ltd
 8C:1F:64:91:80:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:91:A0:00/36	Profcon AB
@@ -40071,6 +40073,7 @@
 8C:1F:64:E7:90:00/36	Shenzhen Guangwen Industrial Co.,Ltd
 8C:1F:64:E7:B0:00/36	Dongguan Pengchen Earth Instrument CO. LT
 8C:1F:64:E7:C0:00/36	Ashinne Technology Co., Ltd
+8C:1F:64:E7:D0:00/36	Audio Visual Digital Systems
 8C:1F:64:E8:00:00/36	Power Electronics Espana, S.L.
 8C:1F:64:E8:60:00/36	ComVetia AG
 8C:1F:64:E8:80:00/36	SiFive Inc
@@ -40224,6 +40227,7 @@
 8C:1F:64:FC:10:00/36	Nidec asi spa
 8C:1F:64:FC:20:00/36	I/O Controls
 8C:1F:64:FC:30:00/36	Cyclops Technology Group
+8C:1F:64:FC:40:00/36	Dorlet Sau
 8C:1F:64:FC:50:00/36	Sumico
 8C:1F:64:FC:C0:00/36	Gredmann Taiwan Ltd.
 8C:1F:64:FC:D0:00/36	elbit systems - EW and sigint - Elisra
@@ -42536,6 +42540,7 @@
 9C:E3:3F		Apple, Inc.
 9C:E3:74		Huawei Technologies Co.,Ltd
 9C:E5:49		IEEE Registration Authority
+9C:E5:49:10:00:00/28	Lightmatter, Inc.
 9C:E5:49:20:00:00/28	Volumatic Limited
 9C:E5:49:30:00:00/28	Shenzhen Jooan Technology  Co., Ltd
 9C:E5:49:40:00:00/28	Beijing Lingji Innovations technology Co,LTD.
