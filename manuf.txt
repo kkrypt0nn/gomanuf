@@ -17692,6 +17692,7 @@
 04:C4:61		Murata Manufacturing Co., Ltd.
 04:C5:A4		Cisco Systems, Inc
 04:C8:07		Xiaomi Communications Co Ltd
+04:C8:45		TP-Link Systems Inc.
 04:C8:80		Samtec Inc
 04:C9:91		Phistek INC.
 04:C9:D9		Dish Technologies Corp
@@ -28985,6 +28986,7 @@
 60:49:66		Shenzhen Dingsheng Technology Co., Ltd.
 60:49:C1		Avaya Inc
 60:4A:1C		SUYIN Corporation
+60:4A:77		Finder SpA
 60:4B:AA		Magic Leap, Inc.
 60:4D:E1		Huawei Technologies Co.,Ltd
 60:4F:5B		Huawei Device Co., Ltd.
@@ -42552,6 +42554,7 @@
 9C:E5:49:30:00:00/28	Shenzhen Jooan Technology  Co., Ltd
 9C:E5:49:40:00:00/28	Beijing Lingji Innovations technology Co,LTD.
 9C:E5:49:90:00:00/28	Hangzhou Xieneng Technology Co., Ltd.
+9C:E5:49:A0:00:00/28	Arcteq Relays Ltd.
 9C:E5:49:B0:00:00/28	Shenzhen Lingdu Auto Electronics Co.,Ltd
 9C:E6:35		Nintendo Co., Ltd.
 9C:E6:5E		Apple, Inc.
@@ -50104,6 +50107,7 @@ E0:26:30		Intrigue Technologies, Inc.
 E0:26:36		Nortel Networks
 E0:27:1A		TTC Next-generation Home Network System WG
 E0:27:6C		Guangzhou Shiyuan Electronic Technology Company Limited
+E0:28:0A		TP-Link Systems Inc.
 E0:28:61		Huawei Technologies Co.,Ltd
 E0:28:6D		AVM Audiovisuelles Marketing und Computersysteme GmbH
 E0:28:B1		Shenzhen Skyworth Digital  Technology  CO., Ltd
