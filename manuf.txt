@@ -18095,6 +18095,7 @@
 08:48:2C		Raycore Taiwan Co., LTD.
 08:48:57		Suteng Innovation Technology Co., Ltd.
 08:4A:CF		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
+08:4B:44		Robert Bosch Elektronika Kft.
 08:4E:1C		H2A Systems, LLC
 08:4E:BF		Sumitomo Electric Industries, Ltd
 08:4F:0A		Huawei Technologies Co.,Ltd
@@ -39466,6 +39467,7 @@
 8C:1F:64:9A:C0:00/36	Hangzhou Jingtang Communication Technology Co.,Ltd.
 8C:1F:64:9B:20:00/36	Emerson Rosemount Analytical
 8C:1F:64:9B:30:00/36	Böckelt GmbH
+8C:1F:64:9B:50:00/36	Berkeley Nucleonics Corp
 8C:1F:64:9B:60:00/36	GS Elektromedizinsiche Geräte G. Stemple GmbH
 8C:1F:64:9B:70:00/36	Stercom Power Soltions GmbH
 8C:1F:64:9B:80:00/36	Makel Elektrik Malzemeleri A.Ş.
@@ -39649,6 +39651,7 @@
 8C:1F:64:B1:80:00/36	Grossenbacher Systeme AG
 8C:1F:64:B1:90:00/36	DITRON S.r.l.
 8C:1F:64:B1:B0:00/36	Nov'in
+8C:1F:64:B1:D0:00/36	Tocho Marking Systems America, Inc
 8C:1F:64:B2:00:00/36	Lechpol Electronics Spółka z o.o. Sp.k.
 8C:1F:64:B2:20:00/36	Blighter Surveillance Systems Ltd
 8C:1F:64:B2:40:00/36	Abb
@@ -39710,6 +39713,7 @@
 8C:1F:64:B9:B0:00/36	Kromek Limited
 8C:1F:64:B9:E0:00/36	Power Electronics Espana, S.L.
 8C:1F:64:B9:F0:00/36	Lithion Battery Inc
+8C:1F:64:BA:20:00/36	BESO sp. z o.o.
 8C:1F:64:BA:30:00/36	DEUTA-WERKE GmbH
 8C:1F:64:BA:60:00/36	FMC Technologies Measurement Solutions Inc
 8C:1F:64:BA:70:00/36	iLensys Technologies PVT LTD
@@ -40597,6 +40601,7 @@
 8C:BF:A6		Samsung Electronics Co.,Ltd
 8C:BF:EA		Espressif Inc.
 8C:C1:21		Panasonic Corporation AVC Networks Company
+8C:C5:73		Xsight Labs LTD.
 8C:C5:8C		ShenZhen Elsky Technology Co.,LTD
 8C:C5:B4		Sagemcom Broadband SAS
 8C:C5:D0		Samsung Electronics Co.,Ltd
@@ -42553,6 +42558,7 @@
 9C:E5:49:20:00:00/28	Volumatic Limited
 9C:E5:49:30:00:00/28	Shenzhen Jooan Technology  Co., Ltd
 9C:E5:49:40:00:00/28	Beijing Lingji Innovations technology Co,LTD.
+9C:E5:49:80:00:00/28	Hemla Group AB
 9C:E5:49:90:00:00/28	Hangzhou Xieneng Technology Co., Ltd.
 9C:E5:49:A0:00:00/28	Arcteq Relays Ltd.
 9C:E5:49:B0:00:00/28	Shenzhen Lingdu Auto Electronics Co.,Ltd
