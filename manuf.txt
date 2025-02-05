@@ -7396,7 +7396,7 @@
 00:1C:28		Sphairon Technologies GmbH
 00:1C:29		Core Digital Electronics Co., Ltd
 00:1C:2A		Envisacor Technologies Inc.
-00:1C:2B		Alertme.com Limited
+00:1C:2B		Hive
 00:1C:2C		Synapse
 00:1C:2D		FlexRadio Systems
 00:1C:2E		HPN Supply Chain
@@ -26478,7 +26478,6 @@
 48:F8:FF		Chengdu Kt Electronic Hi-Tech Co.,Ltd
 48:F9:25		Maestronic
 48:F9:7C		Fiberhome Telecommunication Technologies Co.,LTD
-48:F9:7F		shenzhen Huaxufeng Technology Development Co.,Ltd
 48:FC:B6		Lava International(H.K) Limited
 48:FC:B8		Woodstream Corporation
 48:FD:8E		Huawei Technologies Co.,Ltd
@@ -38938,6 +38937,7 @@
 8C:1F:64:59:60:00/36	RF Code
 8C:1F:64:59:80:00/36	Tirasoft Technology
 8C:1F:64:59:A0:00/36	Primalucelab isrl
+8C:1F:64:59:C0:00/36	Private
 8C:1F:64:59:F0:00/36	Delta Computers LLC.
 8C:1F:64:5A:00:00/36	Seongwon Eng Co.,Ltd
 8C:1F:64:5A:40:00/36	Dave Srl
@@ -39179,6 +39179,7 @@
 8C:1F:64:76:A0:00/36	Dorlet Sau
 8C:1F:64:76:C0:00/36	Guan Show Technologe Co., Ltd.
 8C:1F:64:76:F0:00/36	INVENTIA Sp. z o.o.
+8C:1F:64:77:10:00/36	Automatizacion Y Conectividad
 8C:1F:64:77:40:00/36	navXperience GmbH
 8C:1F:64:77:50:00/36	Becton Dickinson
 8C:1F:64:77:60:00/36	Visiosoft Pty Ltd
@@ -39274,6 +39275,7 @@
 8C:1F:64:81:F0:00/36	ViewSonic Corp
 8C:1F:64:82:00:00/36	Tiama
 8C:1F:64:82:20:00/36	IP Devices
+8C:1F:64:82:40:00/36	Logicube Inc
 8C:1F:64:82:50:00/36	MTU Aero Engines AG
 8C:1F:64:82:B0:00/36	Flow Power
 8C:1F:64:82:C0:00/36	Power Electronics Espana, S.L.
@@ -40012,6 +40014,7 @@
 8C:1F:64:DE:10:00/36	Franke Aquarotter GmbH
 8C:1F:64:DE:20:00/36	Softgent sp. z o.o.
 8C:1F:64:DE:50:00/36	Gogo Business Aviation
+8C:1F:64:DE:60:00/36	IHI Inspection & Instrumentation Co.,Ltd.
 8C:1F:64:DE:90:00/36	EON Technology, Corp
 8C:1F:64:DE:A0:00/36	Natron Energy
 8C:1F:64:DE:B0:00/36	PXM Marek Zupnik spolka komandytowa
@@ -40108,6 +40111,7 @@
 8C:1F:64:EA:C0:00/36	Miracle Healthcare, Inc.
 8C:1F:64:EA:D0:00/36	Messung Systems Pvt Ltd
 8C:1F:64:EA:E0:00/36	Traffic Polska sp. z o. o.
+8C:1F:64:EB:00:00/36	Exyte Technology GmbH
 8C:1F:64:EB:20:00/36	Aqua Broadcast Ltd
 8C:1F:64:EB:50:00/36	Meiryo Denshi Corp.
 8C:1F:64:EB:70:00/36	Delta Solutions LLC
@@ -42534,6 +42538,7 @@
 9C:DA:36		Tecno Mobile Limited
 9C:DA:3E		Intel Corporate
 9C:DA:A8		Apple, Inc.
+9C:DA:B7		Hewlett Packard Enterprise
 9C:DB:07		Yellowtec GmbH
 9C:DB:AF		Huawei Technologies Co.,Ltd
 9C:DB:CB		Funshion Online Technologies Co.,Ltd
@@ -42554,10 +42559,13 @@
 9C:E3:3F		Apple, Inc.
 9C:E3:74		Huawei Technologies Co.,Ltd
 9C:E5:49		IEEE Registration Authority
+9C:E5:49:00:00:00/28	Speedtech Corp.
 9C:E5:49:10:00:00/28	Lightmatter, Inc.
 9C:E5:49:20:00:00/28	Volumatic Limited
 9C:E5:49:30:00:00/28	Shenzhen Jooan Technology  Co., Ltd
 9C:E5:49:40:00:00/28	Beijing Lingji Innovations technology Co,LTD.
+9C:E5:49:50:00:00/28	Wetek Electronics Limited
+9C:E5:49:70:00:00/28	ecodata solutions GmbH
 9C:E5:49:80:00:00/28	Hemla Group AB
 9C:E5:49:90:00:00/28	Hangzhou Xieneng Technology Co., Ltd.
 9C:E5:49:A0:00:00/28	Arcteq Relays Ltd.
@@ -47703,6 +47711,7 @@ C8:FF:BF:C0:00:00/28	Density.IO
 C8:FF:BF:D0:00:00/28	ALDES DomNexX
 C8:FF:BF:E0:00:00/28	Ht Italia Srl
 CA:04:5A		Ossia Inc
+CA:08:3C		Western Digital Technologies, Inc.
 CA:12:5C		Microsoft Corporation
 CA:1E:45		ASMedia Technology Inc.
 CA:22:2B		Beijing Puma Gear Power Equipment Co.,Ltd
