@@ -19595,6 +19595,7 @@
 14:7F:CE		Apple, Inc.
 14:80:1F		Sunnovo International Limited
 14:80:CC		Quectel Wireless Solutions Co.,Ltd.
+14:81:21		TOP WING Corporation
 14:82:5B		Hefei Radio Communication Technology Co., Ltd
 14:84:30		Mitac Computing Technology Corporation
 14:84:73		Cisco Systems, Inc
@@ -23683,6 +23684,7 @@
 38:14:1B		Secure Letter Inc.
 38:14:28		Dell Inc.
 38:14:4E		Fiberhome Telecommunication Technologies Co.,LTD
+38:16:5A		zte corporation
 38:16:72		Shenzhen SuperElectron Technology Co.,Ltd.
 38:16:D1		Samsung Electronics Co.,Ltd
 38:17:30		Ulrich Lippert GmbH & Co KG
@@ -36993,6 +36995,7 @@
 80:86:98		Netronics Technologies Inc.
 80:86:D9		Samsung Electronics Co.,Ltd
 80:86:F2		Intel Corporate
+80:88:00		zte corporation
 80:89:17		Tp-Link Technologies Co.,Ltd.
 80:8A:8B		vivo Mobile Communication Co., Ltd.
 80:8A:BD		Samsung Electronics Co.,Ltd
@@ -38258,6 +38261,7 @@
 8C:1F:64:04:60:00/36	American Fullway Corp.
 8C:1F:64:04:80:00/36	FieldLine Medical
 8C:1F:64:04:90:00/36	Nuances Org
+8C:1F:64:04:A0:00/36	GS Elektromedizinsiche Geräte G. Stemple GmbH
 8C:1F:64:04:E0:00/36	Auditdata
 8C:1F:64:04:F0:00/36	ISILINE srl
 8C:1F:64:05:10:00/36	CP contech electronic GmbH
@@ -38274,6 +38278,7 @@
 8C:1F:64:06:70:00/36	Genius Vision Digital Private Limited
 8C:1F:64:06:A0:00/36	Intellisense Systems Inc.
 8C:1F:64:06:B0:00/36	Sanwa Supply Inc.
+8C:1F:64:06:C0:00/36	COBES GmbH
 8C:1F:64:06:D0:00/36	Monnit Corporation
 8C:1F:64:07:10:00/36	Dorlet Sau
 8C:1F:64:07:30:00/36	Potter Electric Signal Company
@@ -38795,6 +38800,7 @@
 8C:1F:64:47:A0:00/36	Missing Link Electronics, Inc.
 8C:1F:64:47:D0:00/36	Eb Neuro Spa
 8C:1F:64:47:E0:00/36	Novanta IMS
+8C:1F:64:48:00:00/36	Soca Technology Co., Ltd.
 8C:1F:64:48:10:00/36	VirtualV Trading Limited
 8C:1F:64:48:20:00/36	Vismes sarl
 8C:1F:64:48:60:00/36	Longhorn lntelligent Tech Co.,Ltd.
@@ -41070,6 +41076,7 @@
 90:B8:D0		Joyent, Inc.
 90:B8:E0		Shenzhen Yanray Technology Co.,Ltd
 90:B9:31		Apple, Inc.
+90:B9:42		zte corporation
 90:B9:7D		Johnson Outdoors Marine Electronics d/b/a Minnkota
 90:BD:E6		Quectel Wireless Solutions Co.,Ltd.
 90:BF:D9		Smart Innovation LLC
@@ -41204,6 +41211,7 @@
 90:F7:B2		New H3C Technologies Co., Ltd
 90:F8:2E		Amazon Technologies Inc.
 90:F8:91		Kaon Group Co., Ltd.
+90:F9:64		Rawasi Co
 90:F9:70		Huawei Technologies Co.,Ltd
 90:F9:B7		Huawei Technologies Co.,Ltd
 90:FB:5B		Avaya Inc
@@ -42570,6 +42578,8 @@
 9C:E5:49:90:00:00/28	Hangzhou Xieneng Technology Co., Ltd.
 9C:E5:49:A0:00:00/28	Arcteq Relays Ltd.
 9C:E5:49:B0:00:00/28	Shenzhen Lingdu Auto Electronics Co.,Ltd
+9C:E5:49:C0:00:00/28	Innodep Inc.
+9C:E5:49:D0:00:00/28	Annapurna labs
 9C:E6:35		Nintendo Co., Ltd.
 9C:E6:5E		Apple, Inc.
 9C:E6:E7		Samsung Electronics Co.,Ltd
@@ -43451,6 +43461,7 @@ A4:A1:79		Nanjing dianyan electric power automation co. LTD
 A4:A1:C2		Ericsson AB
 A4:A1:E4		Innotube, Inc.
 A4:A2:4A		Cisco SPVTG
+A4:A4:04		Bubendorff SAS
 A4:A4:59		Hangzhou Hikvision Digital Technology Co.,Ltd.
 A4:A4:6B		Huawei Technologies Co.,Ltd
 A4:A4:90		Samsung Electronics Co.,Ltd
