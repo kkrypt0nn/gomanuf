@@ -21572,6 +21572,7 @@
 24:B2:B9		Liteon Technology Corporation
 24:B2:DE		Espressif Inc.
 24:B3:39		Apple, Inc.
+24:B5:F2		Shanghai Ingeek Technology Co., Ltd
 24:B6:57		Cisco Systems, Inc
 24:B6:B8		Friem Spa
 24:B6:FD		Dell Inc.
@@ -24700,6 +24701,7 @@
 40:22:ED		Digital Projection Ltd
 40:23:43		Chongqing Fugui Electronics Co.,Ltd.
 40:24:B2		Sichuan AI-Link Technology Co., Ltd.
+40:25:08		Highway 9 Networks, Inc.
 40:25:C2		Intel Corporate
 40:26:19		Apple, Inc.
 40:27:0B		Mobileeco Co., Ltd
@@ -39249,6 +39251,7 @@
 8C:1F:64:7E:20:00/36	Aaronn Electronic GmbH
 8C:1F:64:7E:30:00/36	Une Srl
 8C:1F:64:7E:70:00/36	robert juliat
+8C:1F:64:7E:80:00/36	EA Elektro-Automatik
 8C:1F:64:7E:C0:00/36	Methods2Business B.V.
 8C:1F:64:7E:D0:00/36	Eding CNC bv
 8C:1F:64:7E:E0:00/36	Orange Precision Measurement LLC
@@ -42573,6 +42576,7 @@
 9C:E5:49:30:00:00/28	Shenzhen Jooan Technology  Co., Ltd
 9C:E5:49:40:00:00/28	Beijing Lingji Innovations technology Co,LTD.
 9C:E5:49:50:00:00/28	Wetek Electronics Limited
+9C:E5:49:60:00:00/28	shenzhen Huaxufeng Technology Development Co.,Ltd
 9C:E5:49:70:00:00/28	ecodata solutions GmbH
 9C:E5:49:80:00:00/28	Hemla Group AB
 9C:E5:49:90:00:00/28	Hangzhou Xieneng Technology Co., Ltd.
@@ -45318,6 +45322,7 @@ B4:E8:5C		fünfeinhalb Funksysteme GmbH
 B4:E8:C9		XADA Technologies
 B4:E9:A3		port industrial automation GmbH
 B4:E9:B0		Cisco Systems, Inc
+B4:E9:B8		Dell Inc.
 B4:EC:02		Alpsalpine Co,.Ltd
 B4:EC:F2		Shanghai Listent Medical Tech Co., Ltd.
 B4:EC:FF		Wuhan IPG Technologies Co., Ltd.
@@ -53169,6 +53174,7 @@ F8:CF:C5		Motorola Mobility LLC, a Lenovo Company
 F8:D0:27		Seiko Epson Corporation
 F8:D0:AC		Sony Interactive Entertainment Inc.
 F8:D0:BD		Samsung Electronics Co.,Ltd
+F8:D0:C5		Sector Alarm Tech S.L.
 F8:D1:11		Tp-Link Technologies Co.,Ltd.
 F8:D2:AC		Vantiva USA LLC
 F8:D3:A9		AXAN Networks
