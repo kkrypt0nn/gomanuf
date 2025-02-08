@@ -30521,7 +30521,7 @@
 6C:CA:08		Commscope
 6C:CD:D6		Netgear
 6C:CE:44		1More
-6C:CF:39		Guangdong Starfive Technology Co., Ltd.
+6C:CF:39		Shanghai StarFive Semiconductor Co., Ltd.
 6C:D0:08		zte corporation
 6C:D0:32		LG Electronics
 6C:D1:46		FRAMOS GmbH
@@ -35907,6 +35907,7 @@
 78:65:59		Sagemcom Broadband SAS
 78:66:9D		Hui Zhou Gaoshengda Technology Co.,LTD
 78:66:AE		ZTEC Instruments, Inc.
+78:66:D7		Genstoraige Technology Co.Ltd.
 78:66:F3		shenzhen worldelite electronics co., LTD
 78:67:0E		Wistron Neweb Corporation
 78:67:D7		Apple, Inc.
@@ -36538,6 +36539,7 @@
 7C:97:63		Openmatics s.r.o.
 7C:97:E1		Huawei Device Co., Ltd.
 7C:99:2E		Shanghai Notion lnformatio Technology Co.,Ltd.
+7C:99:46		Sector Alarm Tech S.L.
 7C:9A:1D		Apple, Inc.
 7C:9A:54		Vantiva USA LLC
 7C:9A:9B		VSE valencia smart energy
@@ -37501,7 +37503,7 @@
 84:AC:FB		Crouzet Automatismes
 84:AD:58		Huawei Technologies Co.,Ltd
 84:AD:8D		Apple, Inc.
-84:AF:1F		Beat System Service Co,. Ltd.
+84:AF:1F		GopherTec Inc.
 84:AF:EC		Buffalo.Inc
 84:B1:53		Apple, Inc.
 84:B1:E2		Microsoft Corporation
@@ -38270,6 +38272,7 @@
 8C:1F:64:05:30:00/36	HS.com Kft
 8C:1F:64:05:50:00/36	Intercreate
 8C:1F:64:05:60:00/36	Dong Guan Yung Fu Electronics Ltd.
+8C:1F:64:05:80:00/36	Mect Srl
 8C:1F:64:05:90:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:05:C0:00/36	tickIoT Inc.
 8C:1F:64:05:F0:00/36	ESCAD AUTOMATION GmbH
@@ -38873,6 +38876,7 @@
 8C:1F:64:50:A0:00/36	Bellco Trading Company (Pvt) Ltd
 8C:1F:64:50:B0:00/36	Beijing Entian Technology Development Co., Ltd
 8C:1F:64:50:C0:00/36	Automata GmbH & Co. KG
+8C:1F:64:50:D0:00/36	Shenzhen Guanxin Information Technology Co.,Ltd
 8C:1F:64:50:E0:00/36	Panoramic Power
 8C:1F:64:51:00:00/36	Novanta IMS
 8C:1F:64:51:10:00/36	Control Aut Tecnologia em Automação LTDA
@@ -39579,6 +39583,7 @@
 8C:1F:64:A7:60:00/36	DEUTA-WERKE GmbH
 8C:1F:64:A7:70:00/36	Rax-Tech International
 8C:1F:64:A7:B0:00/36	CPAT Flex Inc.
+8C:1F:64:A7:C0:00/36	Proprietary Controls Systems Corporation
 8C:1F:64:A8:10:00/36	3D perception AS
 8C:1F:64:A8:30:00/36	EkspertStroyProekt
 8C:1F:64:A8:40:00/36	Beijing Wenrise Technology Co., Ltd.
@@ -42324,6 +42329,7 @@
 9C:50:EE		Cambridge Industries(Group) Co.,Ltd.
 9C:52:F8		Huawei Technologies Co.,Ltd
 9C:53:22		TP-Link Corporation Limited
+9C:53:85		PT. Hartono Istana Teknologi
 9C:53:CD		ENGICAM s.r.l.
 9C:54:16		Cisco Systems, Inc
 9C:54:1C		Shenzhen My-power Technology Co.,Ltd
@@ -50490,6 +50496,7 @@ E0:ED:C7		Shenzhen Friendcom Technology Development Co., Ltd
 E0:EE:1B		Panasonic Automotive Systems Company of America
 E0:EF:02		Chengdu Quanjing Intelligent Technology Co.,Ltd
 E0:EF:25		Lintes Technology Co., Ltd.
+E0:EF:BF		Nintendo Co.,Ltd
 E0:F2:11		Digitalwatt
 E0:F3:18		Sichuan Tianyi Comheart Telecom Co.,LTD
 E0:F3:25		Elkor Technologies Inc.
