@@ -120,7 +120,7 @@
 00:00:69		Concord Communications Inc
 00:00:6A		Computer Consoles Inc.
 00:00:6B		Silicon Graphics
-00:00:6C		Private
+00:00:6C		Schneider Electric
 00:00:6D		Cray Communications, Ltd.
 00:00:6E		Artisoft Inc.
 00:00:6F		Madge Ltd.
@@ -17622,6 +17622,7 @@
 04:A1:6F		IEEE Registration Authority
 04:A1:6F:10:00:00/28	iENSO Inc.
 04:A1:6F:50:00:00/28	DOM Security
+04:A1:6F:80:00:00/28	Annapurna labs
 04:A2:22		Arcadyan Corporation
 04:A2:F3		Fiberhome Telecommunication Technologies Co.,LTD
 04:A3:16		Texas Instruments
@@ -20904,6 +20905,7 @@
 20:17:46		Paradromics, Inc.
 20:18:0E		Shenzhen Sunchip Technology Co., Ltd
 20:18:5B		Shenzhen Jingxun Technology Co., Ltd.
+20:19:F3		WavTek Technologies, Inc
 20:1A:06		Compal Information (Kunshan) Co., Ltd.
 20:1A:94		Apple, Inc.
 20:1B:88		Dongguan Liesheng Electronic Co., Ltd.
@@ -21494,6 +21496,7 @@
 24:81:C7		Huawei Device Co., Ltd.
 24:82:8A		Prowave Technologies Ltd.
 24:84:98		Beijing Jiaoda Microunion Tech.Co.,Ltd.
+24:86:02		Bouffalo Lab (Nanjing) Co., Ltd.
 24:86:25		IEEE Registration Authority
 24:86:25:00:00:00/28	Shanghai Xizhi Technology Co., Ltd.
 24:86:25:10:00:00/28	Shenzhen LianwangRuijie Communication Technology Co, Ltd.
@@ -23433,6 +23436,7 @@
 34:96:72		Tp-Link Technologies Co.,Ltd.
 34:96:77		zte corporation
 34:97:6F		Rootech, Inc.
+34:97:D7		Yealink(Xiamen) Network Technology Co.,Ltd.
 34:97:F6		ASUSTek COMPUTER INC.
 34:97:FB		Advanced Rf Technologies Inc
 34:98:7A		Espressif Inc.
@@ -31958,7 +31962,7 @@
 70:B3:D5:3D:40:00/36	Sanmina Israel
 70:B3:D5:3D:50:00/36	oxynet Solutions
 70:B3:D5:3D:60:00/36	Ariston Thermo s.p.a.
-70:B3:D5:3D:70:00/36	Remote Sensing Solutions, Inc.
+70:B3:D5:3D:70:00/36	Tomorrow Companies Inc
 70:B3:D5:3D:80:00/36	Abitsoftware, Ltd.
 70:B3:D5:3D:90:00/36	Aplex Technology Inc.
 70:B3:D5:3D:A0:00/36	Loop Labs, Inc.
@@ -38314,6 +38318,7 @@
 8C:1F:64:08:E0:00/36	qiio AG
 8C:1F:64:08:F0:00/36	AixControl GmbH
 8C:1F:64:09:00:00/36	kousyuhaneturen
+8C:1F:64:09:10:00/36	Limitless Electromechanical Works LLC
 8C:1F:64:09:20:00/36	Gogo BA
 8C:1F:64:09:30:00/36	MAG Audio LLC
 8C:1F:64:09:40:00/36	El.En. Spa
@@ -38344,7 +38349,7 @@
 8C:1F:64:0B:F0:00/36	Aurora Communication Technologies Corp.
 8C:1F:64:0C:00:00/36	Active Research Limited
 8C:1F:64:0C:50:00/36	TechnipFMC
-8C:1F:64:0C:80:00/36	EA Elektro-Automatik
+8C:1F:64:0C:80:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:0C:A0:00/36	CLOUD TELECOM Inc.
 8C:1F:64:0C:D0:00/36	DEUTA Werke GmbH
 8C:1F:64:0D:20:00/36	biosilver .co.,ltd
@@ -39235,7 +39240,7 @@
 8C:1F:64:7A:E0:00/36	D-E-K GmbH & Co.KG
 8C:1F:64:7A:F0:00/36	E Vision India Pvt Ltd
 8C:1F:64:7B:00:00/36	Axid System
-8C:1F:64:7B:10:00/36	EA Elektro-Automatik
+8C:1F:64:7B:10:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:7B:50:00/36	Guan Show Technologe Co., Ltd.
 8C:1F:64:7B:60:00/36	Keyline S.P.A.
 8C:1F:64:7B:70:00/36	James G. Biddle dba Megger
@@ -39266,7 +39271,7 @@
 8C:1F:64:7E:20:00/36	Aaronn Electronic GmbH
 8C:1F:64:7E:30:00/36	Une Srl
 8C:1F:64:7E:70:00/36	robert juliat
-8C:1F:64:7E:80:00/36	EA Elektro-Automatik
+8C:1F:64:7E:80:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:7E:C0:00/36	Methods2Business B.V.
 8C:1F:64:7E:D0:00/36	Eding CNC bv
 8C:1F:64:7E:E0:00/36	Orange Precision Measurement LLC
@@ -39281,7 +39286,7 @@
 8C:1F:64:80:10:00/36	Zhejiang Laolan Information Technology Co., Ltd
 8C:1F:64:80:20:00/36	Daiichi Electric Industry Co., Ltd
 8C:1F:64:80:30:00/36	MOSCA Elektronik und Antriebstechnik GmbH
-8C:1F:64:80:40:00/36	EA Elektro-Automatik
+8C:1F:64:80:40:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:80:60:00/36	Matrixspace
 8C:1F:64:80:70:00/36	Giordano Controls Spa
 8C:1F:64:80:C0:00/36	Thermify Holdings Ltd
@@ -39460,7 +39465,7 @@
 8C:1F:64:96:40:00/36	Power Electronics Espana, S.L.
 8C:1F:64:96:70:00/36	Dave Srl
 8C:1F:64:96:80:00/36	Iav Engineering Sarl
-8C:1F:64:96:A0:00/36	EA Elektro-Automatik
+8C:1F:64:96:A0:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:97:00:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:97:10:00/36	Infrasafe/ Advantor Systems
 8C:1F:64:97:30:00/36	Dorsett Technologies Inc
@@ -39512,7 +39517,7 @@
 8C:1F:64:9C:E0:00/36	Exi Flow Measurement Ltd
 8C:1F:64:9C:F0:00/36	ASAP Electronics GmbH
 8C:1F:64:9D:00:00/36	Saline Lectronics, Inc.
-8C:1F:64:9D:30:00/36	EA Elektro-Automatik
+8C:1F:64:9D:30:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:9D:40:00/36	Wolfspyre Labs
 8C:1F:64:9D:80:00/36	Integer.pl S.A.
 8C:1F:64:9D:B0:00/36	HD Renewable Energy Co.,Ltd
@@ -39708,6 +39713,7 @@
 8C:1F:64:B5:90:00/36	Vision Systems Safety Tech
 8C:1F:64:B5:A0:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:B5:B0:00/36	Tri-light Wuhan Electronics Technology Co.,Ltd
+8C:1F:64:B5:F0:00/36	Code Blue Corporation
 8C:1F:64:B6:40:00/36	Televic Rail GmbH
 8C:1F:64:B6:50:00/36	HomyHub SL
 8C:1F:64:B6:70:00/36	M2M craft Co., Ltd.
@@ -39734,6 +39740,7 @@
 8C:1F:64:B8:D0:00/36	Tongye lnnovation Science and Technology (Shenzhen) Co.,Ltd
 8C:1F:64:B9:10:00/36	Clealink Technology
 8C:1F:64:B9:20:00/36	Neurable
+8C:1F:64:B9:30:00/36	Modern Server Solutions LLP
 8C:1F:64:B9:70:00/36	Gemini Electronics B.V.
 8C:1F:64:B9:80:00/36	Calamity, Inc.
 8C:1F:64:B9:90:00/36	iLifeX
@@ -39859,7 +39866,7 @@
 8C:1F:64:C6:80:00/36	Fiberme Communications Llc
 8C:1F:64:C6:A0:00/36	Red Phase Technologies Limited
 8C:1F:64:C6:B0:00/36	Mediana
-8C:1F:64:C6:D0:00/36	EA Elektro-Automatik
+8C:1F:64:C6:D0:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:C6:E0:00/36	Safe Instruments
 8C:1F:64:C7:10:00/36	Yaviar LLC
 8C:1F:64:C7:B0:00/36	Freedom Atlantic
@@ -40126,7 +40133,7 @@
 8C:1F:64:E8:D0:00/36	Plura
 8C:1F:64:E8:F0:00/36	JieChuang HeYi(Beijing) Technology Co., Ltd.
 8C:1F:64:E9:00:00/36	MHE Electronics
-8C:1F:64:E9:20:00/36	EA Elektro-Automatik
+8C:1F:64:E9:20:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:E9:40:00/36	Zin Technologies
 8C:1F:64:E9:80:00/36	Luxshare Electronic Technology (Kunshan) LTD
 8C:1F:64:E9:90:00/36	Pantherun Technologies Pvt Ltd
@@ -40214,7 +40221,7 @@
 8C:1F:64:F5:20:00/36	AMF Medical SA
 8C:1F:64:F5:30:00/36	Beckman Coulter Inc
 8C:1F:64:F5:60:00/36	KC5 International Sdn Bhd
-8C:1F:64:F5:70:00/36	EA Elektro-Automatik
+8C:1F:64:F5:70:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:F5:90:00/36	Inovonics Inc.
 8C:1F:64:F5:A0:00/36	Telco Antennas Pty Ltd
 8C:1F:64:F5:B0:00/36	SemaConnect, Inc
