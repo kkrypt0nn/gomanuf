@@ -30148,6 +30148,7 @@
 68:F1:25		Data Controls Inc.
 68:F3:8E		Juniper Networks
 68:F5:43		Huawei Technologies Co.,Ltd
+68:F6:2B		Itel Mobile Limited
 68:F6:3B		Amazon Technologies Inc.
 68:F7:28		LCFC(Hefei) Electronics Technology co., ltd
 68:F8:95		Redflow Limited
@@ -37957,6 +37958,7 @@
 88:A0:84		Formation Data Systems
 88:A0:BE		Huawei Technologies Co.,Ltd
 88:A2:5E		Juniper Networks
+88:A2:9E		Raspberry Pi (Trading) Ltd
 88:A2:D7		Huawei Technologies Co.,Ltd
 88:A3:03		Samsung Electronics Co.,Ltd
 88:A3:CC		Amatis Controls
@@ -38952,6 +38954,7 @@
 8C:1F:64:56:F0:00/36	Adetec Sas
 8C:1F:64:57:20:00/36	Zmbizi App Llc
 8C:1F:64:57:30:00/36	Ingenious Technology LLC
+8C:1F:64:57:40:00/36	Flock Audio Inc.
 8C:1F:64:57:50:00/36	Yu-Heng Electric Co., LTD
 8C:1F:64:57:A0:00/36	NPO ECO-INTECH Ltd.
 8C:1F:64:57:B0:00/36	Potter Electric Signal Company
@@ -43532,6 +43535,7 @@ A4:B6:1E		Huawei Device Co., Ltd.
 A4:B8:05		Apple, Inc.
 A4:B8:18		PENTA Gesellschaft für elektronische Industriedatenverarbeitung mbH
 A4:B9:80		Parking BOXX Inc.
+A4:BA:70		Beijing Xiaomi Mobile Software Co., Ltd
 A4:BA:76		Huawei Technologies Co.,Ltd
 A4:BA:DB		Dell Inc.
 A4:BB:6D		Dell Inc.
