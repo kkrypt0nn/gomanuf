@@ -17621,6 +17621,7 @@
 04:A1:51		Netgear
 04:A1:6F		IEEE Registration Authority
 04:A1:6F:10:00:00/28	iENSO Inc.
+04:A1:6F:20:00:00/28	Suzhou Lianshichuangzhi Technology Co.,Ltd
 04:A1:6F:30:00:00/28	Crypto4A Technologies
 04:A1:6F:50:00:00/28	DOM Security
 04:A1:6F:80:00:00/28	Annapurna labs
@@ -29257,6 +29258,7 @@
 60:D7:E3:E0:00:00/28	HuBDIC CO.,LTD
 60:D8:19		Hon Hai Precision Ind. Co.,Ltd.
 60:D8:9C		HMD Global Oy
+60:D8:A4		Vantiva Connected Home - Technologies Telco
 60:D9:A0		Lenovo Mobile Communication Technology Ltd.
 60:D9:C7		Apple, Inc.
 60:DA:23		Estech Co.,Ltd
@@ -39755,6 +39757,7 @@
 8C:1F:64:B9:B0:00/36	Kromek Limited
 8C:1F:64:B9:E0:00/36	Power Electronics Espana, S.L.
 8C:1F:64:B9:F0:00/36	Lithion Battery Inc
+8C:1F:64:BA:00:00/36	Jmv Lps Ltd
 8C:1F:64:BA:20:00/36	BESO sp. z o.o.
 8C:1F:64:BA:30:00/36	DEUTA-WERKE GmbH
 8C:1F:64:BA:60:00/36	FMC Technologies Measurement Solutions Inc
@@ -46130,6 +46133,7 @@ BC:A4:E1		Nabto
 BC:A5:11		Netgear
 BC:A5:8B		Samsung Electronics Co.,Ltd
 BC:A5:A9		Apple, Inc.
+BC:A6:8D		Continetal Automotive Systems Sibiu
 BC:A8:A6		Intel Corporate
 BC:A9:20		Apple, Inc.
 BC:A9:93		Cambium Networks Limited
