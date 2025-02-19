@@ -17620,12 +17620,16 @@
 04:9F:CA		Huawei Technologies Co.,Ltd
 04:A1:51		Netgear
 04:A1:6F		IEEE Registration Authority
+04:A1:6F:00:00:00/28	Shenzhen C & D Electronics Co., Ltd.
 04:A1:6F:10:00:00/28	iENSO Inc.
 04:A1:6F:20:00:00/28	Suzhou Lianshichuangzhi Technology Co.,Ltd
 04:A1:6F:30:00:00/28	Crypto4A Technologies
+04:A1:6F:40:00:00/28	Xiamen Akubela Innovation Technology CO., Ltd.
 04:A1:6F:50:00:00/28	DOM Security
 04:A1:6F:80:00:00/28	Annapurna labs
 04:A1:6F:90:00:00/28	Chongqing Jinmei Automotive Electronics co.,Ltd.
+04:A1:6F:A0:00:00/28	Uyar Group
+04:A1:6F:B0:00:00/28	Chroma-Q
 04:A2:22		Arcadyan Corporation
 04:A2:F3		Fiberhome Telecommunication Technologies Co.,LTD
 04:A3:16		Texas Instruments
@@ -20501,6 +20505,7 @@
 1C:70:22		Murata Manufacturing Co., Ltd.
 1C:70:C9		Jiangsu Aisida Electronic Co., Ltd
 1C:71:25		Apple, Inc.
+1C:71:26		snom technology GmbH
 1C:72:1D		Dell Inc.
 1C:73:28		Connected Home
 1C:73:70		Neotech
@@ -21487,6 +21492,7 @@
 24:79:EF		Greenpacket Berhad, Taiwan
 24:79:F3		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 24:79:F8		KUPSON spol. s r.o.
+24:7B:A4		China Mobile Group Device Co.,Ltd.
 24:7C:46		Flextronics Technologies Mexico S De Rl De Cv
 24:7C:4C		Herman Miller
 24:7D:4D		Texas Instruments
@@ -22651,6 +22657,7 @@
 2C:D8:AE		Shenzhen SEI Robotics Co.,Ltd
 2C:D8:DE		AltoBeam Inc.
 2C:D9:74		Hui Zhou Gaoshengda Technology Co.,LTD
+2C:DA:3F		DongGuan Ramaxel Memory Technology Limited
 2C:DB:07		Intel Corporate
 2C:DC:78		Descartes Systems (USA) LLC
 2C:DC:AD		Wistron Neweb Corporation
@@ -28671,6 +28678,7 @@
 5C:8C:30		Taicang T&W Electronics
 5C:8D:2D		Shanghai Wellpay Information Technology Co., Ltd
 5C:8D:4E		Apple, Inc.
+5C:8D:E5		Delta Electronics, Inc.
 5C:8E:10		TimeWatch Infocom Pvt. Ltd.
 5C:8E:8B		Shenzhen Linghai Electronics Co.,Ltd
 5C:8F:40		Tecno Mobile Limited
@@ -29057,6 +29065,7 @@
 60:6D:9D		Otto Bock Healthcare Products GmbH
 60:6D:C7		Hon Hai Precision Ind. Co.,Ltd.
 60:6E:41		Barrot Technology Co.,LTD
+60:6E:53		Beijing Wisdomstar Technology Co., Ltd
 60:6E:D0		Seal Ag
 60:6E:E8		Xiaomi Communications Co Ltd
 60:70:6C		Google, Inc.
@@ -30501,6 +30510,7 @@
 6C:AE:E3		Nokia
 6C:AE:F6		eero inc.
 6C:AF:15		Webasto SE
+6C:B0:77		ALL Winner (Hong Kong) Limited
 6C:B0:CE		Netgear
 6C:B0:FD		Shenzhen Xinghai Iot Technology Co.,Ltd
 6C:B1:33		Apple, Inc.
@@ -30929,6 +30939,7 @@
 70:89:F5		Dongguan Lingjie IOT Co., LTD
 70:8A:09		Huawei Technologies Co.,Ltd
 70:8B:78		citygrow technology co., ltd
+70:8B:97		INSYS icom GmbH
 70:8B:CD		ASUSTek COMPUTER INC.
 70:8C:B6		Huawei Technologies Co.,Ltd
 70:8C:BB		Mimodisplaykorea
@@ -38825,6 +38836,7 @@
 8C:1F:64:47:70:00/36	Blaucomm Ltd
 8C:1F:64:47:90:00/36	AKSE srl
 8C:1F:64:47:A0:00/36	Missing Link Electronics, Inc.
+8C:1F:64:47:B0:00/36	Fluid Components Intl
 8C:1F:64:47:D0:00/36	Eb Neuro Spa
 8C:1F:64:47:E0:00/36	Novanta IMS
 8C:1F:64:48:00:00/36	Soca Technology Co., Ltd.
@@ -39174,6 +39186,7 @@
 8C:1F:64:72:30:00/36	Celestica Inc.
 8C:1F:64:72:40:00/36	Heitec Ag
 8C:1F:64:72:60:00/36	Dave Srl
+8C:1F:64:72:90:00/36	ZER01CHI Corporation
 8C:1F:64:72:A0:00/36	Dorlet Sau
 8C:1F:64:72:B0:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:72:C0:00/36	Antai technology Co.,Ltd
@@ -39199,6 +39212,7 @@
 8C:1F:64:74:B0:00/36	AR Modular RF
 8C:1F:64:74:E0:00/36	OpenPark Technologies Kft
 8C:1F:64:75:10:00/36	CITSA Technologies Private Limited
+8C:1F:64:75:40:00/36	DevRay IT Solutions Private Limited
 8C:1F:64:75:50:00/36	Flextronics International Kft
 8C:1F:64:75:60:00/36	Star Systems International Limited
 8C:1F:64:75:90:00/36	Systel Inc
@@ -39590,6 +39604,7 @@
 8C:1F:64:A4:A0:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:A4:C0:00/36	Flextronics International Kft
 8C:1F:64:A4:E0:00/36	Syscom Instruments SA
+8C:1F:64:A4:F0:00/36	Ascon Tecnologic S.r.l.
 8C:1F:64:A5:10:00/36	Babtel
 8C:1F:64:A5:60:00/36	Flextronics International Kft
 8C:1F:64:A5:70:00/36	EkspertStroyProekt
@@ -39879,6 +39894,7 @@
 8C:1F:64:C6:D0:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:C6:E0:00/36	Safe Instruments
 8C:1F:64:C7:10:00/36	Yaviar LLC
+8C:1F:64:C7:90:00/36	P3Lab
 8C:1F:64:C7:B0:00/36	Freedom Atlantic
 8C:1F:64:C7:C0:00/36	MERKLE Schweissanlagen-Technik GmbH
 8C:1F:64:C7:D0:00/36	Glasson Electronics Ltd
@@ -40082,6 +40098,7 @@
 8C:1F:64:E1:40:00/36	Proserv
 8C:1F:64:E1:50:00/36	Panascais ehf.
 8C:1F:64:E1:A0:00/36	DAccess Security Systems P Ltd
+8C:1F:64:E1:D0:00/36	Xworks NZ Limited
 8C:1F:64:E1:E0:00/36	Flextronics International Kft
 8C:1F:64:E2:10:00/36	LG-LHT Aircraft Solutions GmbH
 8C:1F:64:E2:30:00/36	Chemito Infotech PVT LTD
@@ -51461,6 +51478,7 @@ EC:1A:02		Huawei Technologies Co.,Ltd
 EC:1A:59		Belkin International Inc.
 EC:1B:5F		Hewlett Packard Enterprise
 EC:1B:BD		Silicon Laboratories
+EC:1B:CF		Brain Technologies, Inc.
 EC:1C:5D		Siemens AG
 EC:1D:53		Huawei Technologies Co.,Ltd
 EC:1D:7F		zte corporation
