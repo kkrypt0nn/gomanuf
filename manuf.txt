@@ -17626,6 +17626,8 @@
 04:A1:6F:30:00:00/28	Crypto4A Technologies
 04:A1:6F:40:00:00/28	Xiamen Akubela Innovation Technology CO., Ltd.
 04:A1:6F:50:00:00/28	DOM Security
+04:A1:6F:60:00:00/28	Gy-Fx Sas
+04:A1:6F:70:00:00/28	NDW Rollers B.V.
 04:A1:6F:80:00:00/28	Annapurna labs
 04:A1:6F:90:00:00/28	Chongqing Jinmei Automotive Electronics co.,Ltd.
 04:A1:6F:A0:00:00/28	Uyar Group
@@ -21861,6 +21863,7 @@
 28:41:21		OptiSense Network, LLC
 28:41:C6		Huawei Technologies Co.,Ltd
 28:41:EC		Huawei Technologies Co.,Ltd
+28:43:DC		United Memory Technology (Hong Kong) Limited
 28:44:30		Arcade Communications Ltd.
 28:44:F4		Honor Device Co., Ltd.
 28:45:AC		Huawei Device Co., Ltd.
@@ -21931,6 +21934,7 @@
 28:79:94		Realplay Digital Technology(Shenzhen) Co.,Ltd
 28:7A:EE		Commscope
 28:7B:09		zte corporation
+28:7B:11		Hui Zhou Gaoshengda Technology Co.,LTD
 28:7C:DB		Hefei  Toycloud Technology Co.,ltd
 28:7E:80		Hui Zhou Gaoshengda Technology Co.,LTD
 28:7F:CF		Intel Corporate
@@ -30053,6 +30057,7 @@
 68:AF:13		Futura Mobility
 68:AF:FF		Shanghai Cambricon Information Technology Co., Ltd.
 68:B0:94		Inesa Electron Co.,Ltd
+68:B1:C9		IYO, Inc
 68:B3:5E		Shenzhen Neostra Technology Co.Ltd
 68:B4:1E		Zeasn Technology Private Limited
 68:B4:3A		WaterFurnace International, Inc.
@@ -43709,6 +43714,7 @@ A8:05:77		Netlist, Inc.
 A8:06:00		Samsung Electronics Co.,Ltd
 A8:08:CF		Vestel Elektronik San ve Tic. A.S.
 A8:09:B1		Huawei Device Co., Ltd.
+A8:0B:6B		Chipsea Technologies (Shenzhen) Corp.
 A8:0B:FB		Ruckus Wireless
 A8:0C:03		Florawise
 A8:0C:0D		Cisco Systems, Inc
@@ -48578,6 +48584,7 @@ D0:8C:FF		Upwis Ab
 D0:8E:79		Dell Inc.
 D0:91:68		Shenzhen Chuangwei-Rgb Electronics Co.,Ltd
 D0:92:00		FiRa Consortium
+D0:92:88		Powertek Limited
 D0:92:9E		Microsoft Corporation
 D0:92:FA		Fiberhome Telecommunication Technologies Co.,LTD
 D0:93:80		Ducere Technologies Pvt. Ltd.
