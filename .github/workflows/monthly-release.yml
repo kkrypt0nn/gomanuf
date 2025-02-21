@@ -1,0 +1,26 @@
+name: Monthly Release
+
+on:
+  schedule:
+    - cron: "0 0 1 * *"
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      - name: Set Version Variables
+        run: echo "VERSION=$(date +'%-Y.%-m.%-d')" >> $GITHUB_ENV
+      - name: Set Release Date
+        run: echo "RELEASE_DATE=$(date +'%-B %-Y')" >> $GITHUB_ENV
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ env.VERSION }}
+          name: Version ${{ env.VERSION }}
+          body: "## ${{ env.RELEASE_DATE }} Update"
+          draft: false
+          prerelease: false
+          make_latest: true
