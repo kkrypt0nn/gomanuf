@@ -41405,6 +41405,7 @@
 94:3C:C6		Espressif Inc.
 94:3D:C9		Asahi Net, Inc.
 94:3E:E4		WiSA Technologies Inc
+94:3E:FD		IEEE Registration Authority
 94:3E:FD:10:00:00/28	ShenZhen Chino-e Communication Co.,Ltd.
 94:3F:0C		Genexis B.V.
 94:3F:BB		JSC RPC Istok named after Shokin
