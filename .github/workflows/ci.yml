@@ -1,0 +1,27 @@
+name: gomanuf CI (Test)
+
+on:
+  push:
+  pull_request:
+  workflow_run:
+    workflows: ["Update manufacturer file"]
+    types: [completed]
+
+jobs:
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.24'
+
+      - name: Build
+        run: go build -v ./...
+
+      - name: Test
+        run: go test -v ./...
