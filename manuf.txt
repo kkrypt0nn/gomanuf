@@ -19505,6 +19505,7 @@
 14:36:C6		Lenovo Mobile Communication Technology Ltd.
 14:37:19		PT Prakarsa Visi Valutama
 14:37:3B		PROCOM Systems
+14:37:5E		Symbotic LLC
 14:39:2F		Lear
 14:3A:9A		Hon Hai Precision Industry Co.,LTD
 14:3A:EA		Dynapower Company LLC
@@ -20076,6 +20077,7 @@
 18:93:41		Intel Corporate
 18:93:7F		AMPAK Technology, Inc.
 18:93:D7		Texas Instruments
+18:94:A3		Wistron Service(Kunshan) Co., Ltd.
 18:94:C6		ShenZhen Chenyee Technology Co., Ltd.
 18:95:52		1More
 18:95:78		DENSO Corporation
@@ -22819,6 +22821,7 @@
 30:24:78		Sagemcom Broadband SAS
 30:24:A9		HP Inc.
 30:27:CF		Canopy Growth Corp
+30:29:2B		eero inc.
 30:29:4B		Huawei Technologies Co.,Ltd
 30:29:52		Hillstone Networks Inc
 30:29:BE		Shanghai MRDcom Co.,Ltd
@@ -23956,6 +23959,7 @@
 38:9A:F6		Samsung Electronics Co.,Ltd
 38:9C:B2		Apple, Inc.
 38:9D:92		Seiko Epson Corporation
+38:9E:4C		Hewlett Packard Enterprise
 38:9E:80		zte corporation
 38:9F:5A		C-Kur TV Inc.
 38:9F:83		OTN Systems N.V.
@@ -26938,6 +26942,7 @@
 4C:D0:8A		HUMAX Co., Ltd.
 4C:D0:CB		Huawei Technologies Co.,Ltd
 4C:D0:DD		Huawei Technologies Co.,Ltd
+4C:D0:F9		Cisco Systems, Inc
 4C:D1:A1		Huawei Technologies Co.,Ltd
 4C:D2:FB		Unionman Technology Co.,Ltd
 4C:D3:AF		HMD Global Oy
@@ -36630,6 +36635,7 @@
 7C:B2:5C		Acacia Communications
 7C:B2:7D		Intel Corporate
 7C:B3:0A		zte corporation
+7C:B3:53		Cisco Systems, Inc
 7C:B3:7B		Qingdao Intelligent&Precise Electronics Co.,Ltd.
 7C:B5:42		ACES Technology
 7C:B5:66		Intel Corporate
@@ -37942,6 +37948,7 @@
 88:79:5B		Konka Group Co., Ltd.
 88:79:7E		Motorola Mobility LLC, a Lenovo Company
 88:7A:31		Velankani Electronics Pvt. Ltd.
+88:7A:BC		Cisco Systems, Inc
 88:7B:2C		zte corporation
 88:7E:25		Extreme Networks Headquarters
 88:7F:03		Comper Technology Investment Limited
@@ -38832,6 +38839,7 @@
 8C:1F:64:42:90:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:42:A0:00/36	Atonarp Inc.
 8C:1F:64:42:B0:00/36	Gamber Johnson-LLC
+8C:1F:64:42:F0:00/36	Tomorrow Companies Inc
 8C:1F:64:43:20:00/36	Rebel Systems
 8C:1F:64:43:70:00/36	Gogo BA
 8C:1F:64:43:80:00/36	Integer.pl S.A.
@@ -39695,6 +39703,7 @@
 8C:1F:64:AC:30:00/36	Waves System
 8C:1F:64:AC:40:00/36	comelec
 8C:1F:64:AC:50:00/36	Forever Engineering Systems Pvt. Ltd.
+8C:1F:64:AC:80:00/36	Teledatics Incorporated
 8C:1F:64:AC:90:00/36	ShenYang LeShun Technology Co.,Ltd
 8C:1F:64:AC:B0:00/36	Villari B.V.
 8C:1F:64:AC:D0:00/36	Escape Velocity Technologies
@@ -41374,6 +41383,7 @@
 94:16:25		Apple, Inc.
 94:16:73		Point Core SARL
 94:17:00		Xiaomi Communications Co Ltd
+94:17:24		Anhui Guoke Ruidian communication technology  Co.,Ltd.
 94:18:65		Netgear
 94:18:82		Hewlett Packard Enterprise
 94:19:3A		Elvaco AB
@@ -41430,13 +41440,16 @@
 94:3D:C9		Asahi Net, Inc.
 94:3E:E4		WiSA Technologies Inc
 94:3E:FD		IEEE Registration Authority
+94:3E:FD:00:00:00/28	Brooks Instrument
 94:3E:FD:10:00:00/28	ShenZhen Chino-e Communication Co., Ltd.
 94:3E:FD:20:00:00/28	Yunzhi Iot Technology Co,.Limited
 94:3E:FD:40:00:00/28	Vantive Manufacturing Pte Ltd
+94:3E:FD:50:00:00/28	AM General LLC
 94:3E:FD:80:00:00/28	LUIS Technology GmbH
 94:3E:FD:90:00:00/28	Lecoo Technology Co.,Ltd.
 94:3E:FD:A0:00:00/28	Gebr. Kemper GmbH + Co. KG
 94:3E:FD:B0:00:00/28	Shenzhen Celltel Communication Technology Co.,Ltd
+94:3E:FD:D0:00:00/28	KulpLights LLC
 94:3F:0C		Genexis B.V.
 94:3F:BB		JSC RPC Istok named after Shokin
 94:3F:C2		Hewlett Packard Enterprise
@@ -46372,6 +46385,7 @@ C0:1C:30		Shenzhen WIFI-3L Technology Co.,Ltd
 C0:1C:6A		Google, Inc.
 C0:1E:9B		Pixavi AS
 C0:21:0D		Shenzhen Rf-Link Technology Co.,Ltd.
+C0:22:42		Chauvet
 C0:22:50		Koss Corporation
 C0:22:F1		IEEE Registration Authority
 C0:22:F1:00:00:00/28	RCT Power GmbH
@@ -46472,6 +46486,7 @@ C0:48:E6		Samsung Electronics Co.,Ltd
 C0:48:FB		Shenzhen JingHanDa Electronics Co.Ltd
 C0:49:3D		Maitrise Technologique
 C0:49:43		zte corporation
+C0:49:BD		EM Microelectronic
 C0:49:EF		Espressif Inc.
 C0:4A:00		Tp-Link Technologies Co.,Ltd.
 C0:4A:09		Zhejiang Everbright Communication Equip. Co,. Ltd
@@ -51541,6 +51556,7 @@ EC:1A:59		Belkin International Inc.
 EC:1B:5F		Hewlett Packard Enterprise
 EC:1B:BD		Silicon Laboratories
 EC:1B:CF		Brain Technologies, Inc.
+EC:1B:FA		EM Microelectronic
 EC:1C:5D		Siemens AG
 EC:1D:53		Huawei Technologies Co.,Ltd
 EC:1D:7F		zte corporation
@@ -53087,6 +53103,7 @@ F8:66:5A		Apple, Inc.
 F8:66:91		Sichuan Tianyi Comheart Telecom Co.,LTD
 F8:66:D1		Hon Hai Precision Ind. Co.,Ltd.
 F8:66:F2		Cisco Systems, Inc
+F8:68:FF		Cisco Systems, Inc
 F8:69:71		Seibu Electric Co.,
 F8:6B:14		Barrot Technology Co.,LTD
 F8:6B:D9		Cisco Systems, Inc
