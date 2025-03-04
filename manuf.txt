@@ -23133,6 +23133,7 @@
 30:E0:90		Genevisio Ltd.
 30:E1:71		Hewlett Packard
 30:E1:F1		Intelbras
+30:E2:71		Fsas Technologies Inc.
 30:E2:83		Texas Instruments
 30:E3:7A		Intel Corporate
 30:E3:96		Huawei Device Co., Ltd.
@@ -24797,6 +24798,7 @@
 40:3B:7B		Huawei Device Co., Ltd.
 40:3C:FC		Apple, Inc.
 40:3D:EC		HUMAX Co., Ltd.
+40:3F:43		Extreme Networks Headquarters
 40:3F:8C		Tp-Link Technologies Co.,Ltd.
 40:40:22		Ziv
 40:40:28		Ziv
@@ -26298,6 +26300,7 @@
 48:7A:DA		Hangzhou H3C Technologies Co., Limited
 48:7A:F6		Ncs Electrical Sdn Bhd
 48:7A:FF		Essys
+48:7B:2F		Microsoft Corporation
 48:7B:5E		Smt Telecomm Hk
 48:7B:6B		Huawei Technologies Co.,Ltd
 48:7D:2E		Tp-Link Technologies Co.,Ltd.
@@ -38378,6 +38381,7 @@
 8C:1F:64:08:60:00/36	WEPTECH elektronik GmbH
 8C:1F:64:08:90:00/36	Anser-Net Co ., Ltd
 8C:1F:64:08:B0:00/36	Shanghai Shenxu Technology Co., Ltd
+8C:1F:64:08:C0:00/36	eviateg GmbH
 8C:1F:64:08:D0:00/36	Neetra Srl Sb
 8C:1F:64:08:E0:00/36	qiio AG
 8C:1F:64:08:F0:00/36	AixControl GmbH
@@ -41461,6 +41465,7 @@
 94:3E:FD:00:00:00/28	Brooks Instrument
 94:3E:FD:10:00:00/28	ShenZhen Chino-e Communication Co., Ltd.
 94:3E:FD:20:00:00/28	Yunzhi Iot Technology Co,.Limited
+94:3E:FD:30:00:00/28	Bertin GmbH
 94:3E:FD:40:00:00/28	Vantive Manufacturing Pte Ltd
 94:3E:FD:50:00:00/28	AM General LLC
 94:3E:FD:60:00:00/28	Shenzhen Gigaopto Technology Co., Ltd.
@@ -41471,6 +41476,7 @@
 94:3E:FD:B0:00:00/28	Shenzhen Celltel Communication Technology Co.,Ltd
 94:3E:FD:C0:00:00/28	Annapurna labs
 94:3E:FD:D0:00:00/28	KulpLights LLC
+94:3E:FD:E0:00:00/28	Annapurna labs
 94:3F:0C		Genexis B.V.
 94:3F:BB		JSC RPC Istok named after Shokin
 94:3F:C2		Hewlett Packard Enterprise
@@ -43548,6 +43554,7 @@ A4:78:06		Cisco Systems, Inc
 A4:78:86		Avaya Inc
 A4:79:52		Huawei Device Co., Ltd.
 A4:79:E4		KLINFO Corp
+A4:7A:72		Arista Networks
 A4:7A:A4		Commscope
 A4:7A:CF		Vibicom Communications Inc.
 A4:7B:1A		Huawei Device Co., Ltd.
@@ -43590,6 +43597,7 @@ A4:94:DC		Infinite Clouds
 A4:97:33		Askey Computer Corp
 A4:97:5C		VTech Telecommunications Ltd.
 A4:97:8A		Lear
+A4:97:91		Extreme Networks Headquarters
 A4:97:B1		Chongqing Fugui Electronics Co.,Ltd.
 A4:97:BB		Hitachi Industrial Equipment Systems Co.,Ltd
 A4:98:13		Commscope
@@ -43808,6 +43816,7 @@ A8:0D:E1		Huawei Technologies Co.,Ltd
 A8:10:87		Texas Instruments
 A8:11:FC		Commscope
 A8:13:06		vivo Mobile Communication Co., Ltd.
+A8:13:0B		eero inc.
 A8:13:74		Panasonic Corporation AVC Networks Company
 A8:15:4D		Tp-Link Technologies Co.,Ltd.
 A8:15:59		Breathometer, Inc.
@@ -44991,6 +45000,7 @@ B0:D0:9C		Samsung Electronics Co.,Ltd
 B0:D1:D6		Nokia Shanghai Bell Co., Ltd.
 B0:D2:78		Texas Instruments
 B0:D2:F5		Vello Systems, Inc.
+B0:D4:1F		Mobititecabsolut S.A.
 B0:D5:68		Shenzhen Cultraview Digital Technology Co., Ltd
 B0:D5:76		Apple, Inc.
 B0:D5:9D		Shenzhen Zowee Technology Co., Ltd
@@ -45040,6 +45050,7 @@ B0:F1:EC		AMPAK Technology, Inc.
 B0:F2:08		AVM Audiovisuelles Marketing und Computersysteme GmbH
 B0:F2:F6		Samsung Electronics Co.,Ltd
 B0:F5:30		Hitron Technologies. Inc
+B0:F5:C8		AMPAK Technology Inc.
 B0:F7:C4		Amazon Technologies Inc.
 B0:F8:93		Shanghai MXCHIP Information Technology Co., Ltd.
 B0:F9:63		Hangzhou H3C Technologies Co., Limited
