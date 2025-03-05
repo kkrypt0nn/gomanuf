@@ -2,7 +2,8 @@ name: gomanuf CI (Test)
 
 on:
   push:
-  pull_request:
+    branches:
+      - main
   workflow_run:
     workflows: ["Update manufacturer file"]
     types: [completed]
