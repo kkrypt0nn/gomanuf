@@ -19156,6 +19156,7 @@
 10:65:CF		Iqsim
 10:66:50		Robert Bosch JuP1
 10:66:82		NEC Platforms, Ltd.
+10:67:A3		Huawei Technologies Co.,Ltd
 10:68:38		AzureWave Technology Inc.
 10:68:3F		LG Electronics (Mobile Communications)
 10:6F:3F		Buffalo.Inc
@@ -19870,6 +19871,7 @@
 18:31:BF		ASUSTek COMPUTER INC.
 18:32:19		EM Microelectronic
 18:32:A2		Laon Technology Co., Ltd.
+18:33:86		Huawei Technologies Co.,Ltd
 18:33:9D		Cisco Systems, Inc
 18:34:51		Apple, Inc.
 18:34:AF		Kaon Group Co., Ltd.
@@ -20392,6 +20394,7 @@
 1C:30:03		Hewlett Packard Enterprise
 1C:30:08		Hui Zhou Gaoshengda Technology Co.,LTD
 1C:32:83		COMTTI Intelligent Technology(Shenzhen) Co., Ltd.
+1C:32:AC		Huawei Technologies Co.,Ltd
 1C:33:0E		PernixData
 1C:33:4D		ITS Telecom
 1C:34:77		Innovation Wireless
@@ -21365,6 +21368,7 @@
 24:28:56		Beijing Gctech Technology Co.,LTD
 24:28:FD		Hangzhou Hikvision Digital Technology Co.,Ltd.
 24:29:34		Google, Inc.
+24:29:B0		Huawei Technologies Co.,Ltd
 24:29:FE		KYOCERA Corporation
 24:2A:04		Cisco Systems, Inc
 24:2C:FE		Zhejiang Tmall Technology Co., Ltd.
@@ -22946,6 +22950,7 @@
 30:52:CB		Liteon Technology Corporation
 30:53:C1		Cresyn
 30:55:ED		Trex Network LLC
+30:56:0F		GIGA-BYTE TECHNOLOGY CO. , Ltd.
 30:56:84		Shenzhen Yunji Intelligent Technology Co.,Ltd
 30:56:96		Infinix mobility limited
 30:57:14		Apple, Inc.
@@ -23828,6 +23833,7 @@
 38:3D:5B		Fiberhome Telecommunication Technologies Co.,LTD
 38:3F:10		DBL Technology Ltd.
 38:3F:B3		Vantiva USA LLC
+38:3F:E8		Huawei Technologies Co.,Ltd
 38:42:0B		Sonos, Inc.
 38:42:33		Wildeboer Bauteile GmbH
 38:42:A6		Ingenieurbuero Stahlkopf
@@ -26531,6 +26537,7 @@
 48:F3:17		Private
 48:F3:F3		Baidu Online Network Technology (Beijing) Co., Ltd
 48:F4:7D		TechVision Holding  Internation Limited
+48:F7:BC		Huawei Technologies Co.,Ltd
 48:F7:C0		Vantiva USA LLC
 48:F7:F1		Nokia
 48:F8:B3		Cisco-Linksys, LLC
@@ -29248,6 +29255,7 @@
 60:BB:0C		Beijing HuaqinWorld Technology Co,Ltd
 60:BC:4C		EWM Hightec Welding GmbH
 60:BD:2C		Taicang T&W Electronics
+60:BD:83		Huawei Technologies Co.,Ltd
 60:BD:91		Move Innovation
 60:BE:B4		S-Bluetech co., limited
 60:BE:B5		Motorola Mobility LLC, a Lenovo Company
@@ -29322,6 +29330,7 @@
 60:DD:8E		Intel Corporate
 60:DE:35		GITSN, Inc.
 60:DE:44		Huawei Technologies Co.,Ltd
+60:DE:94		Huawei Technologies Co.,Ltd
 60:DE:F3		Huawei Technologies Co.,Ltd
 60:DE:F4		Shenzhen iComm Semiconductor CO.,LTD
 60:E0:0E		Shinsei Electronics Co Ltd
@@ -30310,6 +30319,9 @@
 6C:25:B9		Bbk Educational Electronics Corp.,Ltd.
 6C:26:36		Huawei Technologies Co.,Ltd
 6C:27:79		Microsoft Mobile Oy
+6C:27:C8		IEEE Registration Authority
+6C:27:C8:50:00:00/28	Yuanzhong International Trade Co.,Limited
+6C:27:C8:60:00:00/28	Jiayuan Technology Co.,Ltd
 6C:29:90		WiZ Connected Lighting Company Limited
 6C:29:95		Intel Corporate
 6C:29:D2		Cisco Systems, Inc
@@ -35815,6 +35827,7 @@
 78:19:2E		NASCENT Technology
 78:19:F7		Juniper Networks
 78:1C:1E		Chongqing Yipingfang Technology Co., Ltd.
+78:1C:3C		Espressif Inc.
 78:1C:5A		SHARP Corporation
 78:1C:9D		Silicon Laboratories
 78:1D:4A		zte corporation
@@ -41289,6 +41302,7 @@
 90:E2:FC:E0:00:00/28	DevCom spol. s r.o.
 90:E4:68		Guangzhou Shiyuan Electronic Technology Company Limited
 90:E4:B0		SHARP Corporation
+90:E5:B1		Espressif Inc.
 90:E6:43		Tesla,Inc.
 90:E6:BA		ASUSTek COMPUTER INC.
 90:E7:10		New H3C Technologies Co., Ltd
@@ -43995,6 +44009,7 @@ A8:75:E2		Aventura Technologies, Inc.
 A8:76:50		Samsung Electronics Co.,Ltd
 A8:77:6F		Zonoff
 A8:77:E5		Shenzhen Chuangwei-Rgb Electronics Co.,Ltd
+A8:79:71		Huawei Technologies Co.,Ltd
 A8:79:8D		Samsung Electronics Co.,Ltd
 A8:7B:39		Nokia Corporation
 A8:7C:01		Samsung Electronics Co.,Ltd
@@ -45197,6 +45212,7 @@ B4:37:D1:F0:00:00/28	Private
 B4:37:D8		D-Link (Shanghai) Limited Corp.
 B4:39:34		Pen Generations, Inc.
 B4:39:39		Shenzhen TINNO Mobile Technology Corp.
+B4:39:4C		Huawei Technologies Co.,Ltd
 B4:39:D6		ProCurve Networking by HP
 B4:3A:28		Samsung Electronics Co.,Ltd
 B4:3A:31		Silicon Laboratories
