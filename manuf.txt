@@ -23094,6 +23094,7 @@
 30:BB:43		Sixi Networks Co., Ltd
 30:BB:7D		OnePlus Technology (Shenzhen) Co., Ltd
 30:BD:13		Zyxel Communications Corporation
+30:BD:FE		Sichuan Tianyi Comheart Telecom Co.,LTD
 30:BE:29		AltoBeam Inc.
 30:BE:3B		Mitsubishi Electric Corporation
 30:C0:1B		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
@@ -25535,7 +25536,7 @@
 40:D8:55:1C:80:00/36	Sensata Technologies
 40:D8:55:1C:90:00/36	Andy-L Ltd.
 40:D8:55:1C:A0:00/36	Rigel Engineering
-40:D8:55:1C:B0:00/36	MG S.r.l.
+40:D8:55:1C:B0:00/36	MG s.r.l.
 40:D8:55:1C:C0:00/36	NKT Photonics A/S
 40:D8:55:1C:D0:00/36	YXLON International A/S
 40:D8:55:1C:E0:00/36	Peter Huber Kaeltemaschinenbau SE
@@ -30331,6 +30332,7 @@
 6C:27:C8:60:00:00/28	Jiayuan Technology Co.,Ltd
 6C:27:C8:90:00:00/28	Mitsubishi Electric Europe B.V UK Branch
 6C:27:C8:B0:00:00/28	Sensio AS
+6C:27:C8:C0:00:00/28	Shenzhen Eview Gps Technology
 6C:27:C8:D0:00:00/28	Bg T&A Co.
 6C:29:90		WiZ Connected Lighting Company Limited
 6C:29:95		Intel Corporate
@@ -30614,6 +30616,7 @@
 6C:C4:D5		HMD Global Oy
 6C:C6:3B		Taicang T&W Electronics
 6C:C7:EC		Samsung Electro-Mechanics(Thailand)
+6C:C8:40		Espressif Inc.
 6C:CA:08		Commscope
 6C:CD:D6		Netgear
 6C:CE:44		1More
@@ -36052,6 +36055,7 @@
 78:7F:62		GiK mbH
 78:80:38		Funai Electric Co., Ltd.
 78:81:02		Sercomm Corporation.
+78:81:8C		Nintendo Co.,Ltd
 78:81:8F		Server Racks Australia Pty Ltd
 78:81:CE		China Mobile Iot Limited company
 78:83:71		Huawei Technologies Co.,Ltd
@@ -36658,6 +36662,7 @@
 7C:A8:EC		Hewlett Packard Enterprise
 7C:A9:6B		Syrotech Networks. Ltd.
 7C:A9:7D		Objenious
+7C:AA:DE		AltoBeam Inc.
 7C:AB:25		Mesmo Technology Inc.
 7C:AB:60		Apple, Inc.
 7C:AC:B2		Bosch Software Innovations GmbH
@@ -38637,12 +38642,12 @@
 8C:1F:64:26:40:00/36	BR. Voss Ingenjörsfirma AB
 8C:1F:64:26:70:00/36	Karl DUNGS GmbH & Co. KG
 8C:1F:64:26:80:00/36	Astro Machine Corporation
+8C:1F:64:26:B0:00/36	Profcon AB
 8C:1F:64:26:E0:00/36	Koizumi Lighting Technology Corp.
 8C:1F:64:27:00:00/36	Xi‘an Hangguang Satellite and Control Technology Co.,Ltd
 8C:1F:64:27:20:00/36	Comminent Pvt Ltd
 8C:1F:64:27:30:00/36	Distran AG
 8C:1F:64:27:40:00/36	Invixium Access Inc
-8C:1F:64:27:70:00/36	Fast Photonics Hk Co., Limited
 8C:1F:64:27:B0:00/36	Oriux
 8C:1F:64:27:C0:00/36	Tactical Blue Space Ventures LLC
 8C:1F:64:27:F0:00/36	Whizz Systems Inc.
@@ -45939,6 +45944,7 @@ B8:F7:74		Fiberhome Telecommunication Technologies Co.,LTD
 B8:F7:75		Intel Corporate
 B8:F8:28		Changshu Gaoshida Optoelectronic Technology Co. Ltd.
 B8:F8:53		Arcadyan Corporation
+B8:F8:62		Espressif Inc.
 B8:F8:83		Tp-Link Technologies Co.,Ltd.
 B8:F8:BE		Bluecom
 B8:F9:34		Sony Corporation
@@ -47596,6 +47602,7 @@ C8:5D:38		HUMAX Co., Ltd.
 C8:5E:A9		Intel Corporate
 C8:60:00		ASUSTek COMPUTER INC.
 C8:60:8F		Cisco Systems, Inc
+C8:61:D0		Shen Zhen Ktc Technology.,Ltd.
 C8:63:14		IEEE Registration Authority
 C8:63:14:00:00:00/28	Western Reserve Controls, Inc.
 C8:63:14:10:00:00/28	Autonics Co., Ltd.
@@ -48157,6 +48164,7 @@ CC:6B:1E		Cloud Network Technology Singapore Pte. Ltd.
 CC:6B:98		Minetec Wireless Technologies
 CC:6B:F1		Sound Masking Inc.
 CC:6C:52		DZS Inc.
+CC:6D:55		Sichuan Tianyi Comheart Telecom Co.,LTD
 CC:6D:A0		Roku, Inc.
 CC:6D:EF		TJK Tietolaite Oy
 CC:6E:2A		Cisco Meraki
@@ -48669,6 +48677,7 @@ D0:73:8E		Dong Oh Precision Co., Ltd.
 D0:73:D5		Lifi Labs Management Pty Ltd
 D0:75:BE		Reno A&E
 D0:76:02		Hui Zhou Gaoshengda Technology Co.,LTD
+D0:76:0C		Qisda Corporation
 D0:76:50		IEEE Registration Authority
 D0:76:50:00:00:00/28	CentrAlert, Inc.
 D0:76:50:10:00:00/28	Daiken Automacao Ltda
@@ -53072,6 +53081,7 @@ F8:27:93		Apple, Inc.
 F8:28:19		Liteon Technology Corporation
 F8:28:C9		Huawei Technologies Co.,Ltd
 F8:29:C0		Availink, Inc.
+F8:2A:53		GD Midea Air-Conditioning Equipment Co.,Ltd.
 F8:2B:7F		Huawei Device Co., Ltd.
 F8:2B:C8		Jiangsu Switter Co., Ltd
 F8:2C:18		2Wire Inc
