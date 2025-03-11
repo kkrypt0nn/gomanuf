@@ -23800,6 +23800,7 @@
 38:29:5A		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 38:29:DD		ONvocal Inc
 38:2A:19		Technica Engineering GmbH
+38:2A:8C		ALL Winner (Hong Kong) Limited
 38:2B:78		Eco Plugs Enterprise Co., Ltd
 38:2C:4A		ASUSTek COMPUTER INC.
 38:2C:E5		Tuya Smart Inc.
@@ -30327,7 +30328,9 @@
 6C:26:36		Huawei Technologies Co.,Ltd
 6C:27:79		Microsoft Mobile Oy
 6C:27:C8		IEEE Registration Authority
+6C:27:C8:10:00:00/28	Chongqing Seres Phoenix Intelligent Innovation Technology Co.,Ltd.
 6C:27:C8:20:00:00/28	Reduxi GmbH
+6C:27:C8:40:00:00/28	PickUp Kft.
 6C:27:C8:50:00:00/28	Yuanzhong International Trade Co.,Limited
 6C:27:C8:60:00:00/28	Jiayuan Technology Co.,Ltd
 6C:27:C8:90:00:00/28	Mitsubishi Electric Europe B.V UK Branch
@@ -38189,6 +38192,7 @@
 88:DC:96		EnGenius Technologies, Inc.
 88:DD:79		Voltaire
 88:DD:B8		Huawei Device Co., Ltd.
+88:DE:39		Hangzhou Hikvision Digital Technology Co.,Ltd.
 88:DE:7C		Askey Computer Corp
 88:DE:A9		Roku, Inc.
 88:DF:9E		New H3C Technologies Co., Ltd
@@ -38915,6 +38919,7 @@
 8C:1F:64:46:A0:00/36	Pharsighted LLC
 8C:1F:64:47:00:00/36	Canfield Scientific Inc
 8C:1F:64:47:20:00/36	Surge Networks, Inc.
+8C:1F:64:47:30:00/36	Plum sp. z.o.o.
 8C:1F:64:47:40:00/36	Audiobyte S.R.L.
 8C:1F:64:47:50:00/36	Alpine Quantum Technologies GmbH
 8C:1F:64:47:60:00/36	Clair Global Corporation
@@ -39429,6 +39434,7 @@
 8C:1F:64:84:20:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:84:60:00/36	Fo Xie Optoelectronics Technology Co., Ltd
 8C:1F:64:84:80:00/36	Jena-Optronik GmbH
+8C:1F:64:84:90:00/36	Talleres de Escoriaza SAU
 8C:1F:64:84:A0:00/36	Bitmapper Integration Technologies Private Limited
 8C:1F:64:84:C0:00/36	AvMap srlu
 8C:1F:64:84:D0:00/36	Dave Srl
@@ -39495,6 +39501,7 @@
 8C:1F:64:8C:A0:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:8C:B0:00/36	Chromaviso A/S
 8C:1F:64:8C:D0:00/36	Guan Show Technologe Co., Ltd.
+8C:1F:64:8C:E0:00/36	Sanmina SCI Medical
 8C:1F:64:8C:F0:00/36	Diffraction Limited
 8C:1F:64:8D:00:00/36	Enerthing GmbH
 8C:1F:64:8D:10:00/36	Orlaco Products B.V.
@@ -39684,6 +39691,7 @@
 8C:1F:64:A3:50:00/36	Joust Security Inc.
 8C:1F:64:A3:60:00/36	Dongguan Gago Electronics Co.,Ltd
 8C:1F:64:A3:80:00/36	NuGrid Power
+8C:1F:64:A3:90:00/36	MG s.r.l.
 8C:1F:64:A3:B0:00/36	Fujian Satlink Electronics Co., Ltd
 8C:1F:64:A3:E0:00/36	Hiwin Mikrosystem Corp.
 8C:1F:64:A3:F0:00/36	ViewSonic Corp
@@ -40417,6 +40425,7 @@
 8C:1F:64:FD:50:00/36	THE WHY HOW DO COMPANY, Inc.
 8C:1F:64:FD:70:00/36	Beijing Yahong Century Technology Co., Ltd
 8C:1F:64:FD:A0:00/36	Arkham Technology
+8C:1F:64:FD:B0:00/36	DeepSenXe International ltd.
 8C:1F:64:FD:C0:00/36	Nuphoton Technologies
 8C:1F:64:FD:F0:00/36	Potter Electric Signal Company
 8C:1F:64:FE:00:00/36	Potter Electric Signal Company
@@ -43671,6 +43680,7 @@ A4:AD:B8		Vitec Group, Camera Dynamics Ltd
 A4:AE:11		Hon Hai Precision Industry Co., Ltd.
 A4:AE:12		Hon Hai Precision Industry Co., Ltd.
 A4:AE:9A		Maestro Wireless Solutions ltd.
+A4:B0:39		Shenzhen iComm Semiconductor CO.,LTD
 A4:B0:F5		Texas Instruments
 A4:B1:21		Arantia 2010 S.L.
 A4:B1:97		Apple, Inc.
@@ -45687,6 +45697,7 @@ B8:59:CE		Earda Technologies co Ltd
 B8:5A:73		Samsung Electronics Co.,Ltd
 B8:5A:F7		Ouya, Inc
 B8:5A:FE		Handaer Communication Technology (Beijing) Co., Ltd
+B8:5B:6C		Control Accessories LLC
 B8:5C:5C		Microsoft Corporation
 B8:5C:EE		Baidu Online Network Technology (Beijing) Co., Ltd
 B8:5D:0A		Apple, Inc.
