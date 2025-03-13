@@ -10473,7 +10473,7 @@
 00:30:FF		DataFab Systems Inc.
 00:31:26		Nokia
 00:31:46		Juniper Networks
-00:31:92		TP-Link Corporation Limited
+00:31:92		TP-Link Systems Inc
 00:32:17		Cisco Systems, Inc
 00:32:3A		so-logic
 00:33:58		Ruckus Wireless
@@ -15166,7 +15166,7 @@
 00:5D:03		Xilinx, Inc
 00:5D:73		Cisco Systems, Inc
 00:5E:0C		HMD Global Oy
-00:5F:67		TP-Link Corporation Limited
+00:5F:67		TP-Link Systems Inc
 00:5F:86		Cisco Systems, Inc
 00:5F:BF		Toshiba Corp.
 00:60:00		Xycom Inc.
@@ -19016,7 +19016,7 @@
 10:24:07		Huawei Technologies Co.,Ltd
 10:27:79		Sadel S.p.A.
 10:27:BE		Tvip
-10:27:F5		TP-Link Corporation Limited
+10:27:F5		TP-Link Systems Inc
 10:28:31		Morion Inc.
 10:28:34		SALZ Automation GmbH
 10:28:74		Shenzhen Jingxun Technology Co., Ltd.
@@ -19783,7 +19783,7 @@
 14:EA:A1		Micronet union Technology (chengdu) co., Ltd
 14:EB:08		Huawei Technologies Co.,Ltd
 14:EB:33		BSMediasoft Co., Ltd.
-14:EB:B6		TP-Link Corporation Limited
+14:EB:B6		TP-Link Systems Inc
 14:ED:A5		Wächter GmbH Sicherheitssysteme
 14:ED:BB		2Wire Inc
 14:ED:E4		Kaiam Corporation
@@ -20492,7 +20492,7 @@
 1C:60:66		Tejas Networks Ltd
 1C:60:D2		Fiberhome Telecommunication Technologies Co.,LTD
 1C:60:DE		Mercury Communication Technologies Co.,Ltd.
-1C:61:B4		TP-Link Corporation Limited
+1C:61:B4		TP-Link Systems Inc
 1C:61:BF		Apple, Inc.
 1C:62:7E		Huawei Technologies Co.,Ltd
 1C:62:B8		Samsung Electronics Co.,Ltd
@@ -20951,7 +20951,7 @@
 20:20:51		zte corporation
 20:21:41		Universal Electronics BV
 20:21:A5		LG Electronics (Mobile Communications)
-20:23:51		Tp-Link Corporation Pte. Ltd.
+20:23:51		TP-Link Systems Inc
 20:25:64		Pegatron Corporation
 20:25:98		Teleview
 20:25:D2		Fiberhome Telecommunication Technologies Co.,LTD
@@ -20976,7 +20976,7 @@
 20:34:62		Xiaomi Communications Co Ltd
 20:34:FB		Xiaomi Communications Co Ltd
 20:35:43		Sagemcom Broadband SAS
-20:36:26		TP-Link Corporation Limited
+20:36:26		TP-Link Systems Inc
 20:36:5B		Megafone Limited
 20:36:D7		Shanghai Reacheng  Communication Technology Co.,Ltd
 20:37:06		Cisco Systems, Inc
@@ -21378,7 +21378,7 @@
 24:2D:6C		eero inc.
 24:2E:02		Huawei Technologies Co.,Ltd
 24:2E:90		Palit Microsystems, Ltd
-24:2F:D0		Tp-Link Corporation Pte. Ltd.
+24:2F:D0		TP-Link Systems Inc
 24:2F:FA		Toshiba Global Commerce Solutions
 24:30:F8		Huawei Device Co., Ltd.
 24:31:54		Huawei Technologies Co.,Ltd
@@ -21974,7 +21974,7 @@
 28:84:FA		SHARP Corporation
 28:85:2D		Touch Networks
 28:85:BB		Zen Exim Pvt. Ltd.
-28:87:BA		TP-Link Corporation Limited
+28:87:BA		TP-Link Systems Inc
 28:89:15		CashGuard Sverige AB
 28:8A:1C		Juniper Networks
 28:8C:B8		zte corporation
@@ -23134,7 +23134,7 @@
 30:D9:D9		Apple, Inc.
 30:DC:E7		zte corporation
 30:DD:AA		Zhejiang Dahua Technologyco.,Ltd
-30:DE:4B		TP-Link Corporation Limited
+30:DE:4B		TP-Link Systems Inc
 30:DE:86		Cedac Software S.r.l.
 30:DF:17		Alpsalpine Co,.Ltd
 30:DF:8D		Shenzhen Gongjin Electronics Co.,Lt
@@ -23397,7 +23397,7 @@
 34:5E:08		Roku, Inc
 34:5E:E7		Hangzhou ChengFengErLai Digial Technology Co.,Ltd.
 34:5F:45		Espressif Inc.
-34:60:F9		TP-Link Corporation Limited
+34:60:F9		TP-Link Systems Inc
 34:61:78		The Boeing Company
 34:62:88		Cisco Systems, Inc
 34:62:B4		Renesas Electronics (Penang) Sdn. Bhd.
@@ -23478,6 +23478,7 @@
 34:91:6F		UserGate Ltd.
 34:92:C2		Square Route Co., Ltd.
 34:93:42		TTE Corporation
+34:93:6F		Juniper Networks
 34:94:54		Espressif Inc.
 34:95:DB		Logitec Corporation
 34:96:71		Huawei Technologies Co.,Ltd
@@ -24327,6 +24328,7 @@
 3C:30:6F		Huawei Technologies Co.,Ltd
 3C:31:74		Google, Inc.
 3C:31:78		Qolsys Inc.
+3C:32:B9		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 3C:33:00		Shenzhen Bilian electronic CO.,LTD
 3C:33:32		D-Link Corporation
 3C:35:56		Cognitec Systems GmbH
@@ -24400,7 +24402,7 @@
 3C:50:02		Apple, Inc.
 3C:51:0E		Cisco Systems, Inc
 3C:52:82		Hewlett Packard
-3C:52:A1		TP-Link Corporation Limited
+3C:52:A1		TP-Link Systems Inc
 3C:53:D7		Cedes Ag
 3C:54:47		Huawei Technologies Co.,Ltd
 3C:55:76		Cloud Network Technology Singapore Pte. Ltd.
@@ -24430,7 +24432,7 @@
 3C:62:00		Samsung Electronics Co.,Ltd
 3C:62:78		Shenzhen Jetnet Technology Co.,Ltd.
 3C:62:F0		Sercomm Corporation.
-3C:64:CF		Tp-Link Corporation Pte. Ltd.
+3C:64:CF		TP-Link Systems Inc
 3C:67:16		Lily Robotics
 3C:67:2C		Sciovid Inc.
 3C:67:8C		Huawei Technologies Co.,Ltd
@@ -25004,7 +25006,7 @@
 40:AA:56		China Dragon Technology Limited
 40:AC:8D		Data Management, Inc.
 40:AC:BF		Hangzhou Hikvision Digital Technology Co.,Ltd.
-40:AE:30		Tp-Link Corporation Pte. Ltd.
+40:AE:30		TP-Link Systems Inc
 40:B0:2F		Miele & Cie. KG
 40:B0:34		Hewlett Packard
 40:B0:76		ASUSTek COMPUTER INC.
@@ -25181,7 +25183,7 @@
 40:D8:55:06:20:00/36	Tech Source Inc
 40:D8:55:06:30:00/36	Protonic Holland
 40:D8:55:06:40:00/36	Hipodromo De Agua Caliente, S.A. De C.V.
-40:D8:55:06:50:00/36	Parallel Wireless
+40:D8:55:06:50:00/36	Parallel Wireless, Inc
 40:D8:55:06:60:00/36	TeraTron GmbH
 40:D8:55:06:70:00/36	Tronic Control ltd.
 40:D8:55:06:80:00/36	Oki Seatec Co., Ltd.
@@ -25589,7 +25591,7 @@
 40:EA:CE		Founder Broadband Network Service Co.,Ltd
 40:EC:99		Intel Corporate
 40:EC:F8		Siemens AG
-40:ED:00		TP-Link Corporation Limited
+40:ED:00		TP-Link Systems Inc
 40:ED:98		IEEE Registration Authority
 40:ED:98:00:00:00/28	Tsinghua Tongfang Co., LTD
 40:ED:98:10:00:00/28	GuangZhou FiiO Electronics Technology Co.,Ltd
@@ -26145,7 +26147,7 @@
 48:21:0B		Pegatron Corporation
 48:21:6C		China Mobile IOT Company Limited
 48:22:18		Shenzhen Yipingfang Network Technology Co., Ltd.
-48:22:54		TP-Link Corporation Limited
+48:22:54		TP-Link Systems Inc
 48:23:35		Dialog Semiconductor Hellas SA
 48:25:67		Poly
 48:25:F3		Huawei Device Co., Ltd.
@@ -27352,7 +27354,7 @@
 50:8D:6F		CHAHOO Limited
 50:8E:49		Xiaomi Communications Co Ltd
 50:8F:4C		Xiaomi Communications Co Ltd
-50:91:E3		TP-Link Corporation Limited
+50:91:E3		TP-Link Systems Inc
 50:92:B9		Samsung Electronics Co.,Ltd
 50:93:4F		Gradual Tecnologia Ltda.
 50:95:51		Commscope
@@ -27887,7 +27889,7 @@
 54:AE:27		Apple, Inc.
 54:AE:D0		DASAN Networks, Inc.
 54:AE:D2		CSL Dualcom Ltd
-54:AF:97		TP-Link Corporation Limited
+54:AF:97		TP-Link Systems Inc
 54:B1:21		Huawei Technologies Co.,Ltd
 54:B2:03		Pegatron Corporation
 54:B2:9D		Shenzhen YOUHUA Technology Co., Ltd
@@ -28625,7 +28627,7 @@
 5C:61:52		NXP Semiconductor (Tianjin) LTD.
 5C:61:99		Cloud Network Technology Singapore Pte. Ltd.
 5C:62:5A		Canon Inc.
-5C:62:8B		TP-Link Corporation Limited
+5C:62:8B		TP-Link Systems Inc
 5C:63:BF		Tp-Link Technologies Co.,Ltd.
 5C:63:C9		Intellithings Ltd.
 5C:64:0F		Sage Technologies Inc.
@@ -28771,7 +28773,7 @@
 5C:A4:F4		zte corporation
 5C:A5:BC		eero inc.
 5C:A6:2D		Cisco Systems, Inc
-5C:A6:E6		TP-Link Corporation Limited
+5C:A6:E6		TP-Link Systems Inc
 5C:A7:21		New H3C Technologies Co., Ltd
 5C:A8:6A		Huawei Technologies Co.,Ltd
 5C:A9:33		Luma Home
@@ -28875,7 +28877,7 @@
 5C:E8:D3		Signalinks Communication Technology Co., Ltd
 5C:E8:EB		Samsung Electronics Co.,Ltd
 5C:E9:1E		Apple, Inc.
-5C:E9:31		TP-Link Corporation Limited
+5C:E9:31		TP-Link Systems Inc
 5C:EA:1D		Hon Hai Precision Ind. Co.,Ltd.
 5C:EB:4E		R. STAHL HMI Systems GmbH
 5C:EB:52		zte corporation
@@ -29153,7 +29155,7 @@
 60:83:34		Huawei Technologies Co.,Ltd
 60:83:73		Apple, Inc.
 60:83:B2		GkWare e.K.
-60:83:E7		Tp-Link Corporation Pte. Ltd.
+60:83:E7		TP-Link Systems Inc
 60:84:3B		Soladigm, Inc.
 60:84:BD		Buffalo.Inc
 60:86:45		Avery Weigh-Tronix, LLC
@@ -29232,7 +29234,7 @@
 60:A4:34:D0:00:00/28	Kaynes technology India Ltd
 60:A4:34:E0:00:00/28	Knvision
 60:A4:4C		ASUSTek COMPUTER INC.
-60:A4:B7		TP-Link Corporation Limited
+60:A4:B7		TP-Link Systems Inc
 60:A4:D0		Samsung Electronics Co.,Ltd
 60:A5:E2		Intel Corporate
 60:A6:C5		Huawei Technologies Co.,Ltd
@@ -30020,7 +30022,7 @@
 68:7D:6B		Samsung Electronics Co.,Ltd
 68:7D:B4		Cisco Systems, Inc
 68:7F:74		Cisco-Linksys, LLC
-68:7F:F0		TP-Link Corporation Limited
+68:7F:F0		TP-Link Systems Inc
 68:81:E0		Huawei Technologies Co.,Ltd
 68:82:F2		FIXME GmbH
 68:83:1A		Pandora Mobility Corporation
@@ -30330,6 +30332,7 @@
 6C:26:36		Huawei Technologies Co.,Ltd
 6C:27:79		Microsoft Mobile Oy
 6C:27:C8		IEEE Registration Authority
+6C:27:C8:00:00:00/28	Looki Tech Limited
 6C:27:C8:10:00:00/28	Chongqing Seres Phoenix Intelligent Innovation Technology Co.,Ltd.
 6C:27:C8:20:00:00/28	Reduxi GmbH
 6C:27:C8:30:00:00/28	IDIS Nederland BV
@@ -30337,11 +30340,13 @@
 6C:27:C8:50:00:00/28	Yuanzhong International Trade Co.,Limited
 6C:27:C8:60:00:00/28	Jiayuan Technology Co.,Ltd
 6C:27:C8:70:00:00/28	Beijing Cunyin Chengqi Technology Co., Ltd.
+6C:27:C8:80:00:00/28	Wuhan Baoji Electronic Technology Co.,Ltd
 6C:27:C8:90:00:00/28	Mitsubishi Electric Europe B.V UK Branch
 6C:27:C8:A0:00:00/28	HICI Digital Power Technology Co.,Ltd.
 6C:27:C8:B0:00:00/28	Sensio AS
 6C:27:C8:C0:00:00/28	Shenzhen Eview Gps Technology
 6C:27:C8:D0:00:00/28	Bg T&A Co.
+6C:27:C8:E0:00:00/28	ScentedVents
 6C:29:90		WiZ Connected Lighting Company Limited
 6C:29:95		Intel Corporate
 6C:29:D2		Cisco Systems, Inc
@@ -30433,7 +30438,7 @@
 6C:59:40		Mercury Communication Technologies Co.,Ltd.
 6C:59:76		Shanghai Tricheer Technology Co.,Ltd.
 6C:5A:34		Shenzhen Haitianxiong Electronic Co., Ltd.
-6C:5A:B0		TP-Link Corporation Limited
+6C:5A:B0		TP-Link Systems Inc
 6C:5A:B5		TCL Technoly Electronics (Huizhou) Co., Ltd.
 6C:5C:14		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 6C:5C:3D		IEEE Registration Authority
@@ -35787,7 +35792,7 @@
 74:FC:45		Siemens Ag
 74:FD:A0		Compupal (Group) Corporation
 74:FE:48		Advantech Co., Ltd.
-74:FE:CE		Tp-Link Corporation Pte. Ltd.
+74:FE:CE		TP-Link Systems Inc
 74:FF:4C		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 74:FF:7D		Wren Sound Systems, LLC
 78:00:9E		Samsung Electronics Co.,Ltd
@@ -36084,7 +36089,7 @@
 78:8C:4D		Indyme Solutions, LLC
 78:8C:54		Ping Communication
 78:8C:77		Lexmark International, Inc.
-78:8C:B5		TP-Link Corporation Limited
+78:8C:B5		TP-Link Systems Inc
 78:8D:AF		Sagemcom Broadband SAS
 78:8D:F7		Hitron Technologies. Inc
 78:8E:33		Jiangsu SEUIC Technology Co.,Ltd
@@ -36748,7 +36753,7 @@
 7C:C2:25		Samsung Electronics Co.,Ltd
 7C:C2:55		Super Micro Computer, Inc.
 7C:C2:94		Beijing Xiaomi Mobile Software Co., Ltd
-7C:C2:C6		TP-Link Corporation Limited
+7C:C2:C6		TP-Link Systems Inc
 7C:C3:85		Huawei Technologies Co.,Ltd
 7C:C3:A1		Apple, Inc.
 7C:C4:EF		Devialet
@@ -36843,7 +36848,7 @@
 7C:F0:98		Bee Beans Technologies, Inc.
 7C:F0:BA		Linkwell Telesystems Pvt Ltd
 7C:F0:E5		OnePlus Technology (Shenzhen) Co., Ltd
-7C:F1:7E		Tp-Link Corporation Pte. Ltd.
+7C:F1:7E		TP-Link Systems Inc
 7C:F2:DD		Vence Corp
 7C:F3:1B		LG Electronics (Mobile Communications)
 7C:F3:4D		Apple, Inc.
@@ -38505,6 +38510,7 @@
 8C:1F:64:12:10:00/36	Hefei EverACQ Technology Co., LTD
 8C:1F:64:12:50:00/36	Hangzhou Sciener Smart Technology Co., Ltd.
 8C:1F:64:12:60:00/36	Harvest Technology Pty Ltd
+8C:1F:64:12:70:00/36	Retronix Technology Inc.
 8C:1F:64:12:80:00/36	Yulista Integrated Solution
 8C:1F:64:12:90:00/36	Navtech Radar Ltd.
 8C:1F:64:12:B0:00/36	Beijing Tongtech Technology Co., Ltd.
@@ -38855,6 +38861,7 @@
 8C:1F:64:3D:40:00/36	e.p.g. Elettronica s.r.l.
 8C:1F:64:3D:50:00/36	FRAKO Kondensatoren- und Anlagenbau GmbH
 8C:1F:64:3D:90:00/36	Unlimited Bandwidth LLC
+8C:1F:64:3D:B0:00/36	BRS Sistemas Eletrônicos
 8C:1F:64:3E:00:00/36	YPP Corporation
 8C:1F:64:3E:20:00/36	Agrico
 8C:1F:64:3E:30:00/36	FMTec GmbH - Future Management Technologies
@@ -41957,7 +41964,7 @@
 98:22:EF		Liteon Technology Corporation
 98:23:4E		Micromedia AG
 98:24:7B		Huawei Technologies Co.,Ltd
-98:25:4A		Tp-Link Corporation Pte. Ltd.
+98:25:4A		TP-Link Systems Inc
 98:25:6E		Private
 98:26:2A		Applied Research Associates, Inc
 98:26:AD		Quectel Wireless Solutions Co.,Ltd.
@@ -42522,7 +42529,7 @@
 9C:50:D1		Murata Manufacturing Co., Ltd.
 9C:50:EE		Cambridge Industries(Group) Co.,Ltd.
 9C:52:F8		Huawei Technologies Co.,Ltd
-9C:53:22		TP-Link Corporation Limited
+9C:53:22		TP-Link Systems Inc
 9C:53:85		PT. Hartono Istana Teknologi
 9C:53:CD		ENGICAM s.r.l.
 9C:54:16		Cisco Systems, Inc
@@ -42674,7 +42681,7 @@
 9C:9E:D5		Xiaomi Communications Co Ltd
 9C:A1:0A		Scle Sfe
 9C:A1:34		Nike, Inc.
-9C:A2:F4		TP-Link Corporation Limited
+9C:A2:F4		TP-Link Systems Inc
 9C:A3:89		Nokia
 9C:A3:A9		Guangzhou Juan Optical and Electronical Tech Joint Stock Co., Ltd
 9C:A3:BA		SAKURA Internet Inc.
@@ -42690,6 +42697,7 @@
 9C:A9:C5		Apple, Inc.
 9C:A9:E4		zte corporation
 9C:AA:1B		Microsoft Corporation
+9C:AA:5D		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 9C:AC:6D		Universal Electronics, Inc.
 9C:AD:97		Hon Hai Precision Ind. Co.,Ltd.
 9C:AD:EF		Obihai Technology, Inc.
@@ -43944,7 +43952,7 @@ A8:40:7D		GD Midea Air-Conditioning Equipment Co.,Ltd.
 A8:40:F8		Humax Networks
 A8:41:22		China Mobile (Hangzhou) Information Technology Co.,Ltd.
 A8:41:F4		AzureWave Technology Inc.
-A8:42:A1		TP-Link Corporation Limited
+A8:42:A1		TP-Link Systems Inc
 A8:42:A7		Jiangsu Huitong Group Co.,Ltd.
 A8:42:E3		Espressif Inc.
 A8:43:97		Innogrit Corporation
@@ -44033,7 +44041,7 @@ A8:6B:AD		Hon Hai Precision Ind. Co.,Ltd.
 A8:6D:5F		Raisecom Technology CO., LTD
 A8:6D:AA		Intel Corporate
 A8:6E:4E		Huawei Device Co., Ltd.
-A8:6E:84		Tp-Link Corporation Pte. Ltd.
+A8:6E:84		TP-Link Systems Inc
 A8:6F:36		vivo Mobile Communication Co., Ltd.
 A8:70:5D		Commscope
 A8:70:A5		UniComm Inc.
@@ -44267,7 +44275,7 @@ AC:14:61		ATAW  Co., Ltd.
 AC:14:D2		wi-daq, inc.
 AC:15:18		Espressif Inc.
 AC:15:85		silergy corp
-AC:15:A2		TP-Link Corporation Limited
+AC:15:A2		TP-Link Systems Inc
 AC:15:F4		Apple, Inc.
 AC:16:15		Apple, Inc.
 AC:16:2D		Hewlett Packard
@@ -44722,7 +44730,7 @@ B0:16:56		Huawei Technologies Co.,Ltd
 B0:17:43		Edison Global Circuits Llc
 B0:18:31		Apple, Inc.
 B0:18:86		SmarDTV Corporation
-B0:19:21		Tp-Link Corporation Pte. Ltd.
+B0:19:21		TP-Link Systems Inc
 B0:19:C6		Apple, Inc.
 B0:1B:4B		Invisible Fun Studio Limited
 B0:1B:7C		Ontrol A.S.
@@ -44952,7 +44960,7 @@ B0:A6:F5		Xaptum, Inc.
 B0:A7:2A		Ensemble Designs, Inc.
 B0:A7:32		Espressif Inc.
 B0:A7:37		Roku, Inc.
-B0:A7:B9		TP-Link Corporation Limited
+B0:A7:B9		TP-Link Systems Inc
 B0:A7:D2		Fiberhome Telecommunication Technologies Co.,LTD
 B0:A8:6E		Juniper Networks
 B0:AA:36		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -45451,7 +45459,7 @@ B4:AE:2B		Microsoft
 B4:AE:6F		Circle Reliance, Inc DBA Cranberry Networks
 B4:AE:C1		Apple, Inc.
 B4:B0:17		Avaya Inc
-B4:B0:24		TP-Link Corporation Limited
+B4:B0:24		TP-Link Systems Inc
 B4:B0:55		Huawei Technologies Co.,Ltd
 B4:B1:5A		Siemens AG Energy Management Division
 B4:B2:65		Daeho I&T
@@ -46451,7 +46459,7 @@ C0:02:8D		WINSTAR Display CO.,Ltd
 C0:03:80		Juniper Networks
 C0:05:C2		Commscope
 C0:06:0C		Huawei Technologies Co.,Ltd
-C0:06:C3		TP-Link Corporation Limited
+C0:06:C3		TP-Link Systems Inc
 C0:07:4A		Brita GmbH
 C0:0D:7E		Additech, Inc.
 C0:10:B1		HMD Global Oy
@@ -46845,6 +46853,7 @@ C0:DC:D7		Huawei Device Co., Ltd.
 C0:DC:DA		Samsung Electronics Co.,Ltd
 C0:DD:8A		Meta Platforms Technologies, LLC
 C0:DF:77		Conrad Electronic SE
+C0:DF:ED		Juniper Networks
 C0:E0:18		Huawei Technologies Co.,Ltd
 C0:E0:1C		IoT Security Group, SL
 C0:E1:BE		Huawei Technologies Co.,Ltd
@@ -48174,7 +48183,7 @@ CC:65:AD		Commscope
 CC:66:0A		Apple, Inc.
 CC:66:18		Adtran Inc
 CC:66:B2		Nokia
-CC:68:B6		TP-Link Corporation Limited
+CC:68:B6		TP-Link Systems Inc
 CC:68:E0		Apple, Inc.
 CC:69:B0		Global Traffic Technologies, LLC
 CC:69:FA		Apple, Inc.
@@ -49584,7 +49593,7 @@ D8:43:AE		Micro-Star INTL CO., LTD.
 D8:43:EA		SY Electronics Ltd
 D8:43:ED		Suzuken
 D8:44:5C		DEV Tecnologia Ind Com Man Eq LTDA
-D8:44:89		Tp-Link Corporation Pte. Ltd.
+D8:44:89		TP-Link Systems Inc
 D8:45:2B		Integrated Device Technology (Malaysia) Sdn. Bhd.
 D8:46:06		Silicon Valley Global Marketing
 D8:47:10		Sichuan Changhong Electric Ltd.
@@ -50069,7 +50078,7 @@ DC:5E:36		Paterson Technology
 DC:60:A1		Teledyne DALSA Professional Imaging
 DC:61:80		Huawei Technologies Co.,Ltd
 DC:62:1F		Huawei Technologies Co.,Ltd
-DC:62:79		Tp-Link Corporation Pte. Ltd.
+DC:62:79		TP-Link Systems Inc
 DC:62:94		Guangzhou Lango Electronics Technology Co.,Ltd.
 DC:63:73		Obara Korea
 DC:64:7C		C.R.S. iiMotion GmbH
@@ -51128,7 +51137,7 @@ E4:F8:EF		Samsung Electronics Co.,Ltd
 E4:F9:39		Minxon Hotel Technology INC.
 E4:FA:1D		PAD Peripheral Advanced Design Inc.
 E4:FA:5B		Texas Instruments
-E4:FA:C4		Tp-Link Corporation Pte. Ltd.
+E4:FA:C4		TP-Link Systems Inc
 E4:FA:ED		Samsung Electronics Co.,Ltd
 E4:FA:FD		Intel Corporate
 E4:FB:5D		Huawei Technologies Co.,Ltd
@@ -51254,7 +51263,7 @@ E8:45:EB		Kohler Ventures, Inc.
 E8:47:27		Quectel Wireless Solutions Co.,Ltd.
 E8:47:3A		Hon Hai Precision Industry Co.,LTD
 E8:48:1F		Advanced Automotive Antennas
-E8:48:B8		TP-Link Corporation Limited
+E8:48:B8		TP-Link Systems Inc
 E8:49:43		YUGE Information technology Co. Ltd
 E8:4A:54		Beijing Xiaomi Mobile Software Co., Ltd
 E8:4A:78		Apple, Inc.
@@ -52064,7 +52073,7 @@ F0:07:27		Interel Building Automation
 F0:07:86		Shandong Bittel Electronics Co., Ltd
 F0:08:D1		Espressif Inc.
 F0:08:F1		Samsung Electronics Co.,Ltd
-F0:09:0D		Tp-Link Corporation Pte. Ltd.
+F0:09:0D		TP-Link Systems Inc
 F0:0D:5C		JinQianMao  Technology Co.,Ltd.
 F0:0D:F5		ACOMA Medical Industry Co,. Ltd.
 F0:0E:1D		Megafone Limited
@@ -52327,7 +52336,7 @@ F0:A2:25		Amazon Technologies Inc.
 F0:A3:5A		Apple, Inc.
 F0:A3:B2		Hui Zhou Gaoshengda Technology Co.,LTD
 F0:A6:54		Cloud Network Technology Singapore Pte. Ltd.
-F0:A7:31		TP-Link Corporation Limited
+F0:A7:31		TP-Link Systems Inc
 F0:A7:64		GST Co., Ltd.
 F0:A7:B2		Futaba Corporation
 F0:A8:82		shenzhen trolink  Technology Co.,Ltd
