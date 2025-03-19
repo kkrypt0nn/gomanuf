@@ -18312,6 +18312,7 @@
 08:CC:81		Hangzhou Hikvision Digital Technology Co.,Ltd.
 08:CC:A7		Cisco Systems, Inc
 08:CD:9B		samtec automotive electronics & software GmbH
+08:CE:94		EM Microelectronic
 08:D0:9F		Cisco Systems, Inc
 08:D0:B7		Qingdao Hisense Communications Co.,Ltd.
 08:D1:F9		Espressif Inc.
@@ -18546,6 +18547,7 @@
 0C:4B:EE		Texas Instruments
 0C:4C:39		MitraStar Technology Corp.
 0C:4D:E9		Apple, Inc.
+0C:4E:A0		Espressif Inc.
 0C:4E:C0		Maxlinear Inc
 0C:4F:5A		ASA-RT s.r.l.
 0C:4F:9B		Huawei Technologies Co.,Ltd
@@ -21915,6 +21917,7 @@
 28:53:4E		Huawei Technologies Co.,Ltd
 28:53:E0		Sintela Ltd
 28:54:71		Huawei Device Co., Ltd.
+28:56:2F		Espressif Inc.
 28:56:3A		Fiberhome Telecommunication Technologies Co.,LTD
 28:56:5A		Hon Hai Precision Ind. Co.,Ltd.
 28:56:C1		Harman/Becker Automotive Systems GmbH
@@ -23072,6 +23075,7 @@
 30:AA:BD		Shanghai Reallytek Information Technology Co.,Ltd
 30:AA:E4		Huawei Device Co., Ltd.
 30:AB:6A		Samsung Electro-Mechanics(Thailand)
+30:AC:ED		Packet Clearing House
 30:AE:7B		Deqing Dusun Electron CO., LTD
 30:AE:A4		Espressif Inc.
 30:AE:F6		Radio Mobile Access
@@ -25754,6 +25758,7 @@
 44:35:6F		Neterix Ltd
 44:35:83		Apple, Inc.
 44:35:D3		GD Midea Air-Conditioning Equipment Co.,Ltd.
+44:36:59		Robert Bosch GmbH
 44:36:5D		Shenzhen HippStor Technology Co., Ltd
 44:37:08		MRV Comunications
 44:37:0B		Guangzhou Shiyuan Electronic Technology Company Limited
@@ -40097,6 +40102,7 @@
 8C:1F:64:CF:B0:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:CF:C0:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:CF:D0:00/36	Smart-VOD Pty Ltd
+8C:1F:64:CF:E0:00/36	Instrument Development Group (IDG) at Johns Hopkins University
 8C:1F:64:D0:00:00/36	POLAK CZ s.r.o.
 8C:1F:64:D0:20:00/36	Flextronics International Kft
 8C:1F:64:D0:70:00/36	Talleres de Escoriaza SAU
@@ -40338,6 +40344,7 @@
 8C:1F:64:EE:60:00/36	Lynkx
 8C:1F:64:EE:80:00/36	Global Organ Group B.V.
 8C:1F:64:EE:A0:00/36	Amess
+8C:1F:64:EE:D0:00/36	Viziontech UK
 8C:1F:64:EE:F0:00/36	AiUnion Co.,Ltd
 8C:1F:64:EF:00:00/36	Sonendo Inc
 8C:1F:64:EF:10:00/36	Biotage Gb Ltd
@@ -40849,6 +40856,7 @@
 8C:C9:E9		Huawei Device Co., Ltd.
 8C:CB:14		TBS GmbH
 8C:CB:DF		Foxconn Interconnect Technology
+8C:CD:55		EM Microelectronic
 8C:CD:A2		ACTP, Inc.
 8C:CD:E8		Nintendo Co., Ltd.
 8C:CD:FE		AMPAK Technology,Inc.
@@ -45698,6 +45706,7 @@ B8:3E:59		Roku, Inc.
 B8:3F:D2		Mellanox Technologies, Inc.
 B8:41:5F		Asp Ag
 B8:41:A4		Apple, Inc.
+B8:41:D9		Guangzhou Shiyuan Electronic Technology Company Limited
 B8:43:E4		Vlatacom
 B8:44:AE		TCT mobile ltd
 B8:44:D9		Apple, Inc.
@@ -46814,6 +46823,7 @@ C0:B7:13		Beijing Xiaoyuer Technology Co. Ltd.
 C0:B8:83		Intel Corporate
 C0:B8:B1		BitBox Ltd
 C0:B8:E6		Ruijie Networks Co.,LTD
+C0:BA:1F		Private
 C0:BA:E6		Zenitel GB Ltd
 C0:BC:9A		Huawei Technologies Co.,Ltd
 C0:BD:42		ZPA Smart Energy a.s.
@@ -48131,6 +48141,7 @@ CC:3A:DF		Neptune Technology Group Inc.
 CC:3B:27		Tecno Mobile Limited
 CC:3B:3E		Lester Electrical
 CC:3B:58		Curiouser Products Inc
+CC:3B:FB		Ring LLC
 CC:3C:3F		SA.S.S. Datentechnik AG
 CC:3D:82		Intel Corporate
 CC:3D:D1		Huawei Technologies Co.,Ltd
@@ -52719,6 +52730,7 @@ F4:44:2C		Shenzhen SuperElectron Technology Co.,Ltd.
 F4:44:50		BND Co., Ltd.
 F4:45:88		Huawei Technologies Co.,Ltd
 F4:45:ED		Portable Innovation Technology Ltd.
+F4:46:2A		maxon zub
 F4:46:37		Intel Corporate
 F4:47:13		Leading Public Performance Co., Ltd.
 F4:47:2A		Nanjing Rousing Sci. and Tech. Industrial Co., Ltd
@@ -53156,6 +53168,7 @@ F8:2A:53		GD Midea Air-Conditioning Equipment Co.,Ltd.
 F8:2B:7F		Huawei Device Co., Ltd.
 F8:2B:C8		Jiangsu Switter Co., Ltd
 F8:2B:E6		IEEE Registration Authority
+F8:2B:E6:00:00:00/28	ViewSonic Corp
 F8:2B:E6:10:00:00/28	Coastal Source
 F8:2B:E6:20:00:00/28	Flextronics Computing（SuZhou)Co.,LTD.
 F8:2B:E6:30:00:00/28	Brinno Incorporated
@@ -53164,6 +53177,7 @@ F8:2B:E6:70:00:00/28	S-Bond Technology Corp.
 F8:2B:E6:80:00:00/28	Hitek Electronics Co.,Ltd
 F8:2B:E6:90:00:00/28	Annapurna labs
 F8:2B:E6:A0:00:00/28	Techwin Solutions Pvt Ltd
+F8:2B:E6:B0:00:00/28	Shenzhen C & D Electronics Co., Ltd.
 F8:2B:E6:C0:00:00/28	Maia Tech, Inc
 F8:2B:E6:D0:00:00/28	Atheer Connectivity
 F8:2C:18		2Wire Inc
