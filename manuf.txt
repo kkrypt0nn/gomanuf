@@ -17609,6 +17609,7 @@
 04:95:E6		Tenda Technology Co.,Ltd.Dongguan branch
 04:96:45		Wuxi Sky Chip Interconnection Technology Co.,Ltd.
 04:97:90		Lartech telecom LLC
+04:98:1C		Ningbo Zhixiang Technology Co., Ltd
 04:98:F3		Alpsalpine Co,.Ltd
 04:99:B9		Apple, Inc.
 04:99:BB		Apple, Inc.
@@ -17715,7 +17716,9 @@
 04:C8:80		Samtec Inc
 04:C9:8B		IEEE Registration Authority
 04:C9:8B:20:00:00/28	Moog Inc
+04:C9:8B:60:00:00/28	Annapurna labs
 04:C9:8B:80:00:00/28	Delta Networks (Xiamen) Limited
+04:C9:8B:C0:00:00/28	Rovox Solutions Sdn Bhd
 04:C9:91		Phistek INC.
 04:C9:D9		Dish Technologies Corp
 04:CA:8D		Enfabrica
@@ -17832,6 +17835,7 @@
 04:F1:69		Huawei Device Co., Ltd.
 04:F1:7D		Tarana Wireless
 04:F3:52		Huawei Technologies Co.,Ltd
+04:F4:1C		Routerboard.com
 04:F4:BC		Xena Networks
 04:F4:D8		Hui Zhou Gaoshengda Technology Co.,LTD
 04:F5:F4		Proxim Wireless
@@ -21693,6 +21697,7 @@
 24:DE:8A		Nokia Solutions and Networks GmbH & Co. KG
 24:DE:C6		Hewlett Packard Enterprise
 24:DE:EB		Huawei Technologies Co.,Ltd
+24:DF:17		Shenzhen Sande Dacom Electronics Co., Ltd
 24:DF:6A		Huawei Technologies Co.,Ltd
 24:DF:A7		Hangzhou BroadLink Technology Co.,Ltd
 24:E1:24		Xiamen Milesight IoT Co., Ltd.
@@ -22246,6 +22251,7 @@
 28:FF:B2		Toshiba Corp.
 2A:0B:B8		xFusion Digital Technologies Co., Limited
 2A:15:97		Cotsworks
+2A:7F:76		Wireless Broadband Alliance, Inc
 2A:9F:EB		AVnu Alliance
 2A:A1:39		Pointguard, Llc
 2A:A1:47		Distribuciones Cantilever
@@ -27463,6 +27469,7 @@
 50:B8:88		wi2be Tecnologia S/A
 50:B8:A2		ImTech Technologies LLC,
 50:BA:02		Qingdao Intelligent&Precise Electronics Co.,Ltd.
+50:BB:B5		AzureWave Technology Inc.
 50:BC:96		Apple, Inc.
 50:BD:5F		Tp-Link Technologies Co.,Ltd.
 50:C0:06		Carmanah Signs
@@ -39733,6 +39740,7 @@
 8C:1F:64:A1:C0:00/36	manageon
 8C:1F:64:A1:F0:00/36	Hitachi Energy  India Limited
 8C:1F:64:A2:60:00/36	Automatic Pty Ltd
+8C:1F:64:A2:70:00/36	Napino Continental Vehicle Elctronics Private Limited
 8C:1F:64:A2:90:00/36	Ringtail Security
 8C:1F:64:A2:B0:00/36	WENet Vietnam Joint Stock company
 8C:1F:64:A2:D0:00/36	ACSL Ltd.
@@ -40149,6 +40157,7 @@
 8C:1F:64:D2:90:00/36	Secure Bits
 8C:1F:64:D2:A0:00/36	Anteus Kft.
 8C:1F:64:D2:D0:00/36	Eskomar Ltd.
+8C:1F:64:D2:F0:00/36	Ltec Co.,Ltd
 8C:1F:64:D3:00:00/36	FMC Technologies Measurement Solutions Inc
 8C:1F:64:D3:40:00/36	Kronotech Srl
 8C:1F:64:D3:80:00/36	Cuu Long Technology And Trading Company Limited
@@ -50853,6 +50862,7 @@ E4:12:89		topsystem GmbH
 E4:15:F6		Texas Instruments
 E4:17:D8		8Bitdo Technology Hk Limited
 E4:18:6B		Zyxel Communications Corporation
+E4:19:7F		eero inc.
 E4:19:C1		Huawei Technologies Co.,Ltd
 E4:1A:1D		Novea Energies
 E4:1A:2C		ZPE Systems, Inc.
