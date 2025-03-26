@@ -25737,6 +25737,7 @@
 44:1C:12		Vantiva USA LLC
 44:1C:7F		Motorola Mobility LLC, a Lenovo Company
 44:1C:A8		Hon Hai Precision Ind. Co.,Ltd.
+44:1D:64		Espressif Inc.
 44:1D:B1		Aptiv Services Us, Llc
 44:1E:91		ARVIDA Intelligent Electronics Technology  Co.,Ltd.
 44:1E:98		Ruckus Wireless
@@ -37328,7 +37329,7 @@
 80:F1:A4		Huawei Technologies Co.,Ltd
 80:F1:F1		Tech4home, Lda
 80:F2:5E		Kyynel
-80:F3:EF		Meta Platforms Technologies, LLC
+80:F3:EF		Meta Platforms, Inc.
 80:F4:16		Chipsea Technologies (Shenzhen) Corp.
 80:F5:03		Commscope
 80:F5:93		IRCO Sistemas de Telecomunicación S.A.
@@ -37493,7 +37494,7 @@
 84:56:9C		Coho Data, Inc.,
 84:57:33		Microsoft Corporation
 84:57:87		DVR C&C Co., Ltd.
-84:57:F7		Meta Platforms Technologies, LLC
+84:57:F7		Meta Platforms, Inc.
 84:5A:3E		Cisco Systems, Inc
 84:5A:81		ffly4u
 84:5B:12		Huawei Technologies Co.,Ltd
@@ -37855,12 +37856,13 @@
 88:20:67		Fiberhome Telecommunication Technologies Co.,LTD
 88:21:E3		Nebusens, S.L.
 88:22:22		VusionGroup
+88:22:5B		Hewlett Packard Enterprise
 88:22:B2		Chipsea Technologies (Shenzhen) Corp.
 88:23:1F		Fibocom Wireless Inc.
 88:23:64		Watchnet DVR Inc
 88:23:8C		Fiberhome Telecommunication Technologies Co.,LTD
 88:23:FE		TTTech Computertechnik AG
-88:25:08		Meta Platforms Technologies, LLC
+88:25:08		Meta Platforms, Inc.
 88:25:10		Hewlett Packard Enterprise
 88:25:2C		Arcadyan Technology Corporation
 88:25:93		Tp-Link Technologies Co.,Ltd.
@@ -38529,6 +38531,7 @@
 8C:1F:64:10:70:00/36	SCI Technology, Inc.
 8C:1F:64:10:A0:00/36	Sicon srl
 8C:1F:64:10:B0:00/36	Red Lion Europe GmbH
+8C:1F:64:10:F0:00/36	Scenario Automation
 8C:1F:64:11:00:00/36	Xian Linking Backhaul Telecom Technology Co.,Ltd
 8C:1F:64:11:10:00/36	Isac Srl
 8C:1F:64:11:30:00/36	Timberline Manufacturing
@@ -38556,6 +38559,7 @@
 8C:1F:64:13:C0:00/36	SiFive Inc
 8C:1F:64:13:E0:00/36	Btec Industrial Instrument Sdn. Bhd.
 8C:1F:64:13:F0:00/36	Elsist Srl
+8C:1F:64:14:00:00/36	RF-Tuote Oy
 8C:1F:64:14:10:00/36	Code Blue Corporation
 8C:1F:64:14:40:00/36	Langfang ENN lntelligent Technology Co.,Ltd.
 8C:1F:64:14:50:00/36	Spectrum FiftyNine BV
@@ -40409,6 +40413,7 @@
 8C:1F:64:F3:20:00/36	Shenzhen INVT Electric Co.,Ltd
 8C:1F:64:F3:30:00/36	Sicon srl
 8C:1F:64:F3:90:00/36	Weinan Wins Future Technology Co.,Ltd
+8C:1F:64:F3:A0:00/36	intersaar GmbH
 8C:1F:64:F3:B0:00/36	Beijing REMANG Technology Co., Ltd.
 8C:1F:64:F3:C0:00/36	Microlynx Systems Ltd
 8C:1F:64:F3:D0:00/36	Byte Lab Grupa d.o.o.
@@ -40585,6 +40590,7 @@
 8C:4D:B9		Unmonday Ltd
 8C:4D:EA		Cerio Corporation
 8C:4F:00		Espressif Inc.
+8C:50:1A		Private
 8C:51:05		Shenzhen ireadygo Information Technology CO.,LTD.
 8C:51:09		IEEE Registration Authority
 8C:51:09:00:00:00/28	TianJin JointOptic Technology Co., LTD.
@@ -41906,7 +41912,7 @@
 94:F7:AD		Juniper Networks
 94:F7:BE		Sercomm Philippines Inc
 94:F8:27		Shanghai Imilab Technology Co.Ltd
-94:F9:29		Meta Platforms Technologies, LLC
+94:F9:29		Meta Platforms, Inc.
 94:FA:E8		Shenzhen Eycom Technology Co., Ltd
 94:FB:29		Zebra Technologies Inc.
 94:FB:A7		IEEE Registration Authority
@@ -44025,6 +44031,7 @@ A8:44:81		Nokia Corporation
 A8:44:AA		Fiberhome Telecommunication Technologies Co.,LTD
 A8:45:CD		Siselectron Technology LTD.
 A8:45:E9		Firich Enterprises CO., LTD.
+A8:46:74		Espressif Inc.
 A8:46:9D		Cisco Meraki
 A8:47:4A		Hon Hai Precision Ind. Co.,Ltd.
 A8:48:FA		Espressif Inc.
@@ -44451,6 +44458,7 @@ AC:4F:FC		SVS-VISTEK GmbH
 AC:50:36		Pi-Coral Inc
 AC:50:93		Magna Electronics Europe GmbH & Co. OHG
 AC:50:DE		Cloud Network Technology Singapore Pte. Ltd.
+AC:50:EE		Tianyi Telecom Terminals Company Limited
 AC:51:2C		Infinix mobility limited
 AC:51:35		Mpi Tech
 AC:51:AB		Huawei Technologies Co.,Ltd
@@ -45262,7 +45270,7 @@ B4:15:7E		Celona Inc.
 B4:16:78		Juniper Networks
 B4:17:4D		Project Monitor Inc
 B4:17:80		DTI Group Ltd
-B4:17:A8		Meta Platforms Technologies, LLC
+B4:17:A8		Meta Platforms, Inc.
 B4:18:D1		Apple, Inc.
 B4:19:74		Apple, Inc.
 B4:1A:1D		Samsung Electronics Co.,Ltd
@@ -46924,7 +46932,7 @@ C0:DC:6A		Qingdao Eastsoft Communication Technology Co.,LTD
 C0:DC:AB		LG Innotek
 C0:DC:D7		Huawei Device Co., Ltd.
 C0:DC:DA		Samsung Electronics Co.,Ltd
-C0:DD:8A		Meta Platforms Technologies, LLC
+C0:DD:8A		Meta Platforms, Inc.
 C0:DF:77		Conrad Electronic SE
 C0:DF:ED		Juniper Networks
 C0:E0:18		Huawei Technologies Co.,Ltd
@@ -47769,6 +47777,7 @@ C8:78:7D		D-Link Corporation
 C8:7B:23		Bose Corporation
 C8:7B:5B		zte corporation
 C8:7C:BC		Valink Co., Ltd.
+C8:7C:E2		Infrawaves
 C8:7D:77		Shenzhen Kingtech Communication Equipment Co.,Ltd
 C8:7E:75		Samsung Electronics Co.,Ltd
 C8:7E:A1		TCL MOKA International Limited
@@ -48347,7 +48356,7 @@ CC:A0:8F		zte corporation
 CC:A0:E5		DZG Metering GmbH
 CC:A1:2B		TCL King Electrical Appliances (Huizhou) Co., Ltd
 CC:A1:50		SystemX Co.,Ltd.
-CC:A1:74		Meta Platforms Technologies, LLC
+CC:A1:74		Meta Platforms, Inc.
 CC:A2:19		Shenzhen Along Investment Co.,Ltd
 CC:A2:23		Huawei Technologies Co.,Ltd
 CC:A2:60		Sichuan Tianyi Comheart Telecom Co.,LTD
@@ -48951,7 +48960,7 @@ D0:B1:28		Samsung Electronics Co.,Ltd
 D0:B2:14		PoeWit Inc
 D0:B2:C4		Vantiva USA LLC
 D0:B3:3F		Shenzhen TINNO Mobile Technology Corp.
-D0:B3:C2		Meta Platforms Technologies, LLC
+D0:B3:C2		Meta Platforms, Inc.
 D0:B4:5D		Huawei Device Co., Ltd.
 D0:B4:98		Robert Bosch LLC Automotive Electronics
 D0:B5:23		Bestcare Cloucal Corp.
@@ -49499,7 +49508,7 @@ D4:D2:E5		BKAV Corporation
 D4:D4:DA		Espressif Inc.
 D4:D5:0D		Southwest Microwave, Inc
 D4:D5:1B		Huawei Technologies Co.,Ltd
-D4:D6:59		Meta Platforms Technologies, LLC
+D4:D6:59		Meta Platforms, Inc.
 D4:D7:48		Cisco Systems, Inc
 D4:D7:A9		Shanghai Kaixiang Info Tech LTD
 D4:D7:CF		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
