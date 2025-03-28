@@ -17456,6 +17456,7 @@
 04:33:C2		Intel Corporate
 04:34:C3		Qingdao Goertek  Horizons Tecnology  Co.,LTD
 04:34:F6		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+04:35:9B		WuLu Networks Pty Ltd
 04:36:04		Gyeyoung I&T
 04:36:B8		I&C Technology
 04:38:55		Scopus International Pvt. Ltd.
@@ -17715,9 +17716,13 @@
 04:C8:45		TP-Link Systems Inc.
 04:C8:80		Samtec Inc
 04:C9:8B		IEEE Registration Authority
+04:C9:8B:10:00:00/28	TinyPilot, LLC
 04:C9:8B:20:00:00/28	Moog Inc
+04:C9:8B:40:00:00/28	Annapurna labs
 04:C9:8B:60:00:00/28	Annapurna labs
+04:C9:8B:70:00:00/28	Opex Corporation
 04:C9:8B:80:00:00/28	Delta Networks (Xiamen) Limited
+04:C9:8B:B0:00:00/28	Freedom Factory
 04:C9:8B:C0:00:00/28	Rovox Solutions Sdn Bhd
 04:C9:8B:D0:00:00/28	Shenzhen Xiangrui Shixian Technology Co., Ltd.
 04:C9:91		Phistek INC.
@@ -19097,6 +19102,7 @@
 10:4D:15		Viaanix Inc
 10:4D:77		Innovative Computer Engineering
 10:4E:07		Shanghai Genvision Industries Co.,Ltd
+10:4E:20		Hse Smart
 10:4E:89		Garmin International
 10:4F:58		Hewlett Packard Enterprise
 10:4F:A8		Sony Corporation
@@ -26449,6 +26455,7 @@
 48:BE:2D		Symanitron
 48:BF:6B		Apple, Inc.
 48:BF:74		Baicells Technologies Co.,LTD
+48:C0:30		Kogniza Inc.
 48:C0:49		Broad Telecom SA
 48:C0:93		Xirrus, Inc.
 48:C1:AC		Plantronics, Inc.
@@ -26594,6 +26601,7 @@
 4A:07:D6		IEEE 802.1 Chair
 4A:15:40		sas de la Halle aux Fours
 4A:19:1B		ZigBee Alliance
+4A:59:09		Miwa Lock Co.,Ltd.
 4A:5A:6F		Applied Materials
 4A:5A:A9		GoCodeIT Inc
 4A:67:04		Reliable Robotics Corporation
@@ -41381,6 +41389,7 @@
 90:CF:7D		Qingdao Hisense Communications Co.,Ltd.
 90:D0:92		HUMAX Co., Ltd.
 90:D1:1B		Palomar Medical Technologies
+90:D2:0B		Nokia Shanghai Bell Co., Ltd.
 90:D3:CF		Askey Computer Corp
 90:D4:32		zte corporation
 90:D4:73		vivo Mobile Communication Co., Ltd.
@@ -44269,6 +44278,7 @@ A8:D4:98		Avira Operations GmbH & Co. KG
 A8:D4:E0		Huawei Technologies Co.,Ltd
 A8:D5:79		Beijing Chushang Science and Technology Co.,Ltd
 A8:D8:28		Ascensia Diabetes Care
+A8:D8:61		Itel Mobile Limited
 A8:D8:8A		Wyconn
 A8:DA:01		Shenzhen NUOLIJIA Digital Technology Co.,Ltd
 A8:DA:0C		Servercom (India) Private Limited
@@ -49604,6 +49614,7 @@ D8:09:4E		Active Brains
 D8:09:7F		zte corporation
 D8:09:C3		Cercacor Labs
 D8:09:D6		Zexelon Co., Ltd.
+D8:0A:42		Shanghai Lixun Information Technology Co., Ltd.
 D8:0A:60		Huawei Technologies Co.,Ltd
 D8:0A:E6		zte corporation
 D8:0B:9A		Samsung Electronics Co.,Ltd
