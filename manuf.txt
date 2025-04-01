@@ -17719,7 +17719,9 @@
 04:C9:8B:00:00:00/28	Sernet (Suzhou) Technologies Corporation
 04:C9:8B:10:00:00/28	TinyPilot, LLC
 04:C9:8B:20:00:00/28	Moog Inc
+04:C9:8B:30:00:00/28	ShenZhen Link-High Technology CO.,LIMITED
 04:C9:8B:40:00:00/28	Annapurna labs
+04:C9:8B:50:00:00/28	Solana Mobile Inc.
 04:C9:8B:60:00:00/28	Annapurna labs
 04:C9:8B:70:00:00/28	Opex Corporation
 04:C9:8B:80:00:00/28	Delta Networks (Xiamen) Limited
@@ -17728,6 +17730,7 @@
 04:C9:8B:B0:00:00/28	Freedom Factory
 04:C9:8B:C0:00:00/28	Rovox Solutions Sdn Bhd
 04:C9:8B:D0:00:00/28	Shenzhen Xiangrui Shixian Technology Co., Ltd.
+04:C9:8B:E0:00:00/28	Agile Workspace Limited
 04:C9:91		Phistek INC.
 04:C9:D9		Dish Technologies Corp
 04:CA:8D		Enfabrica
@@ -18765,6 +18768,7 @@
 0C:A6:4C		Hangzhou Ezviz Software Co.,Ltd.
 0C:A6:94		Sunitec Enterprise Co.,Ltd
 0C:A8:A7		Samsung Electronics Co.,Ltd
+0C:A9:4A		Shenzhen Skyworth Digital  Technology  CO., Ltd
 0C:AA:EE		Ansjer Electronics Co., Ltd.
 0C:AC:05		Unitend Technologies Inc.
 0C:AC:8A		Sagemcom Broadband SAS
@@ -22060,6 +22064,7 @@
 28:AF:FD		Cisco Systems, Inc
 28:B0:CC		Xenya d.o.o.
 28:B1:33		SHINEMAN(SHENZHEN) Tech. Cor., Ltd.
+28:B2:21		Sienda Multimedia Ltd
 28:B2:BD		Intel Corporate
 28:B3:71		Ruckus Wireless
 28:B3:AB		Genmark Automation
@@ -23750,6 +23755,10 @@
 38:01:9F		Shenzhen Fast Technologies Co.,Ltd
 38:02:DE		Sercomm Corporation.
 38:02:E3		Yichen (Shenzhen) Technology Co.,Ltd
+38:05:25		IEEE Registration Authority
+38:05:25:40:00:00/28	Annapurna labs
+38:05:25:50:00:00/28	Scorbit
+38:05:25:80:00:00/28	Robotize ApS
 38:05:46		Foctek Photonics, Inc.
 38:05:AC		Piller Group GmbH
 38:06:B4		A.D.C. GmbH
@@ -38695,6 +38704,7 @@
 8C:1F:64:23:70:00/36	MB connect line GmbH
 8C:1F:64:23:90:00/36	Shekel Scales 2008 Ltd
 8C:1F:64:23:D0:00/36	Mokila Networks Pvt Ltd
+8C:1F:64:23:E0:00/36	Quantum Blockchains Sp. z o.o.
 8C:1F:64:24:00:00/36	HuiTong intelligence Company
 8C:1F:64:24:20:00/36	Giordano Controls Spa
 8C:1F:64:24:60:00/36	Oriux
@@ -39608,6 +39618,7 @@
 8C:1F:64:8E:80:00/36	Cominfo, Inc.
 8C:1F:64:8E:90:00/36	Vesperix Corporation
 8C:1F:64:8E:B0:00/36	Numa Products LLC
+8C:1F:64:8E:C0:00/36	LMS Services GmbH & Co. KG
 8C:1F:64:8E:E0:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:8F:40:00/36	Loadrite (Auckland) Limited
 8C:1F:64:8F:50:00/36	Dave Srl
@@ -47444,6 +47455,7 @@ C4:C7:55		Beijing HuaqinWorld Technology Co.,Ltd
 C4:C9:19		Energy Imports Ltd
 C4:C9:EC		Gugaoo   HK Limited
 C4:CA:2B		Arista Networks
+C4:CA:67		Chongqing ZQZER Technology Co., LTD
 C4:CA:D9		Hangzhou H3C Technologies Co., Limited
 C4:CB:54		Fibocom Auto Inc.
 C4:CB:6B		Airista Flow, Inc.
@@ -49104,6 +49116,7 @@ D0:EB:03		Zhehua technology limited
 D0:EB:9E		Seowoo Inc.
 D0:EC:35		Cisco Systems, Inc
 D0:ED:FF		Zf Cvcs
+D0:EE:47		Hitron Technologies. Inc
 D0:EF:76		Espressif Inc.
 D0:EF:C1		Huawei Technologies Co.,Ltd
 D0:F0:DB		Ericsson
