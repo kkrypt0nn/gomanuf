@@ -23760,6 +23760,7 @@
 38:05:25:40:00:00/28	Annapurna labs
 38:05:25:50:00:00/28	Scorbit
 38:05:25:80:00:00/28	Robotize ApS
+38:05:25:C0:00:00/28	Christeyns Engineering Kft.
 38:05:46		Foctek Photonics, Inc.
 38:05:AC		Piller Group GmbH
 38:06:B4		A.D.C. GmbH
@@ -24009,6 +24010,7 @@
 38:90:52		Huawei Technologies Co.,Ltd
 38:90:A5		Cisco Systems, Inc
 38:90:AF		zte corporation
+38:91:48		zte corporation
 38:91:B7		Cisco Systems, Inc
 38:91:D5		Hangzhou H3C Technologies Co., Limited
 38:91:FB		Xenox Holding BV
@@ -27723,6 +27725,7 @@
 54:2A:A2		Alpha Networks Inc.
 54:2B:1C		Amazon Technologies Inc.
 54:2B:57		Night Owl SP
+54:2B:76		zte corporation
 54:2B:8D		Apple, Inc.
 54:2B:DE		New H3C Technologies Co., Ltd
 54:2C:EA		Protectron
@@ -39332,6 +39335,7 @@
 8C:1F:64:6C:E0:00/36	Potter Electric Signal Company
 8C:1F:64:6C:F0:00/36	Italora
 8C:1F:64:6D:00:00/36	Abb
+8C:1F:64:6D:20:00/36	VectorNav Technologies
 8C:1F:64:6D:40:00/36	Hitachi Energy Poland sp. Z o o
 8C:1F:64:6D:50:00/36	HTK Hamburg GmbH
 8C:1F:64:6D:60:00/36	Argosdyne Co., Ltd
@@ -39645,6 +39649,7 @@
 8C:1F:64:91:10:00/36	Eolane
 8C:1F:64:91:20:00/36	MARIAN GmbH
 8C:1F:64:91:30:00/36	Zeus Product Design Ltd
+8C:1F:64:91:40:00/36	Mitomi Giken Co.,Ltd
 8C:1F:64:91:80:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:91:A0:00/36	Profcon AB
 8C:1F:64:91:B0:00/36	Potter Electric Signal Co. LLC
@@ -53159,6 +53164,7 @@ F4:F9:51		Apple, Inc.
 F4:FB:B8		Huawei Technologies Co.,Ltd
 F4:FB:F5		EM Microelectronic
 F4:FC:32		Texas Instruments
+F4:FC:49		zte corporation
 F4:FC:B1		JJ Corp
 F4:FD:2B		ZOYI Company
 F4:FE:3E		Apple, Inc.
