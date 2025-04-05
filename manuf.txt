@@ -23768,6 +23768,7 @@
 38:05:25:20:00:00/28	Huizhou Xunchuang Technology Co.,Ltd
 38:05:25:40:00:00/28	Annapurna labs
 38:05:25:50:00:00/28	Scorbit
+38:05:25:70:00:00/28	Things Of A Feather LLC
 38:05:25:80:00:00/28	Robotize ApS
 38:05:25:C0:00:00/28	Christeyns Engineering Kft.
 38:05:46		Foctek Photonics, Inc.
@@ -29226,6 +29227,7 @@
 60:83:34		Huawei Technologies Co.,Ltd
 60:83:73		Apple, Inc.
 60:83:B2		GkWare e.K.
+60:83:E2		Shanghai Notion Information Technology Co., Ltd
 60:83:E7		TP-Link Systems Inc
 60:84:3B		Soladigm, Inc.
 60:84:BD		Buffalo.Inc
@@ -39543,6 +39545,7 @@
 8C:1F:64:83:00:00/36	Vtron Pty Ltd
 8C:1F:64:83:70:00/36	runZero, Inc
 8C:1F:64:83:80:00/36	Drimaes Inc.
+8C:1F:64:83:90:00/36	CEDAR Audio Ltd
 8C:1F:64:83:A0:00/36	Grossenbacher Systeme AG
 8C:1F:64:83:C0:00/36	Xtend Technologies Pvt Ltd
 8C:1F:64:83:D0:00/36	L-signature
@@ -40209,6 +40212,7 @@
 8C:1F:64:D1:A0:00/36	Monnit Corporation
 8C:1F:64:D1:B0:00/36	Audiodo International AB
 8C:1F:64:D1:C0:00/36	Vesper Technologies
+8C:1F:64:D1:E0:00/36	Tycon Systems Inc
 8C:1F:64:D1:F0:00/36	Free Talk Engineering Co., Ltd
 8C:1F:64:D2:00:00/36	NAS Engineering PRO
 8C:1F:64:D2:10:00/36	Ametek Cts Gmbh
@@ -40314,6 +40318,7 @@
 8C:1F:64:DE:A0:00/36	Natron Energy
 8C:1F:64:DE:B0:00/36	PXM Marek Zupnik spolka komandytowa
 8C:1F:64:DE:D0:00/36	PhotonPath
+8C:1F:64:DF:50:00/36	Concept Pro Surveillance
 8C:1F:64:DF:80:00/36	Wittra Networks AB
 8C:1F:64:DF:90:00/36	VuWall Technology Europe GmbH
 8C:1F:64:DF:A0:00/36	Atse Llc
@@ -40348,6 +40353,7 @@
 8C:1F:64:E3:30:00/36	Amiad Water Systems
 8C:1F:64:E3:50:00/36	Horcery LLC
 8C:1F:64:E3:A0:00/36	AITEC Corporation
+8C:1F:64:E3:B0:00/36	Neways Technologies B.V.
 8C:1F:64:E3:C0:00/36	Finotex Electronic Solutions PVT LTD
 8C:1F:64:E3:F0:00/36	Teletech Services
 8C:1F:64:E4:00:00/36	ThermoG Limited
@@ -40555,6 +40561,7 @@
 8C:1F:64:FC:50:00/36	Sumico
 8C:1F:64:FC:C0:00/36	Gredmann Taiwan Ltd.
 8C:1F:64:FC:D0:00/36	elbit systems - EW and sigint - Elisra
+8C:1F:64:FD:00:00/36	Near Earth Autonomy
 8C:1F:64:FD:10:00/36	Edgeware AB
 8C:1F:64:FD:20:00/36	Guo He Xing Ke (ShenZhen) Technology Co.,Ltd.
 8C:1F:64:FD:30:00/36	Smilics Technologies, S.L.
@@ -43859,6 +43866,7 @@ A4:BF:01		Intel Corporate
 A4:C0:C7		ShenZhen Hitom Communication Technology Co..LTD
 A4:C0:E1		Nintendo Co., Ltd.
 A4:C1:38		Telink Semiconductor (Taipei) Co. Ltd.
+A4:C1:E8		Nintendo Co.,Ltd
 A4:C2:3E		Huizhou Speed Wireless Technology Co.,Ltd
 A4:C2:AB		Hangzhou LEAD-IT Information & Technology Co.,Ltd
 A4:C3:37		Apple, Inc.
