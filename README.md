@@ -1,6 +1,6 @@
 # gomanuf
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/kkrypt0nn/gomanuf.svg)](https://pkg.go.dev/github.com/kkrypt0nn/gomanuf) ![Repository License](https://img.shields.io/github/license/kkrypt0nn/gomanuf?style=flat-square) ![Code Size](https://img.shields.io/github/languages/code-size/kkrypt0nn/gomanuf?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/kkrypt0nn/gomanuf?style=flat-square)
+[![Discord Server Badge](https://img.shields.io/discord/1358456011316396295?logo=discord)](https://discord.gg/xj6y5ZaTMr) [![Go Reference](https://pkg.go.dev/badge/github.com/kkrypt0nn/gomanuf.svg)](https://pkg.go.dev/github.com/kkrypt0nn/gomanuf) ![Repository License](https://img.shields.io/github/license/kkrypt0nn/gomanuf?style=flat-square) ![Code Size](https://img.shields.io/github/languages/code-size/kkrypt0nn/gomanuf?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/kkrypt0nn/gomanuf?style=flat-square)
 
 gomanuf is a very simple library to get the manufacturer of a specific MAC address.
 
