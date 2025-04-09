@@ -23765,6 +23765,7 @@
 38:02:DE		Sercomm Corporation.
 38:02:E3		Yichen (Shenzhen) Technology Co.,Ltd
 38:05:25		IEEE Registration Authority
+38:05:25:00:00:00/28	Groeneveld-BEKA GmbH
 38:05:25:10:00:00/28	Visitech AS
 38:05:25:20:00:00/28	Huizhou Xunchuang Technology Co.,Ltd
 38:05:25:30:00:00/28	Shenzhen Meigao Electronic Equipment Co.,Ltd
@@ -25840,6 +25841,7 @@
 44:42:2F		Testop Co.,Ltd.
 44:44:50		OttoQ
 44:45:6F		Shenzhen Onega Technology Co.,Ltd
+44:46:48		Hon Hai Precision Industry Co.,LTD
 44:46:87		Realme Chongqing MobileTelecommunications Corp Ltd
 44:47:CC		Hangzhou Hikvision Digital Technology Co.,Ltd.
 44:48:91		HDMI Licensing, LLC
@@ -37844,6 +37846,7 @@
 84:F1:47		Cisco Systems, Inc
 84:F1:75		Jiangxi Xunte Intelligent Terminal Co., Ltd
 84:F1:D0		Ehoome Iot Private Limited
+84:F1:F7		NXP Semiconductor (Tianjin) LTD.
 84:F2:C1		zte corporation
 84:F3:EB		Espressif Inc.
 84:F4:4C		International Integrated Systems., Inc.
@@ -40408,6 +40411,7 @@
 8C:1F:64:E7:D0:00/36	Audio Visual Digital Systems
 8C:1F:64:E8:00:00/36	Power Electronics Espana, S.L.
 8C:1F:64:E8:60:00/36	ComVetia AG
+8C:1F:64:E8:70:00/36	Chemi-Con
 8C:1F:64:E8:80:00/36	SiFive Inc
 8C:1F:64:E8:90:00/36	PADL Software Pty Ltd
 8C:1F:64:E8:A0:00/36	Changzhou MITO electronics Technology Co;LTD
@@ -52369,6 +52373,7 @@ F0:2A:2B:C0:00:00/28	Comexio GmbH
 F0:2A:2B:D0:00:00/28	Definitely Win Corp.,Ltd.
 F0:2A:2B:E0:00:00/28	Shenzhen CUCO Technology Co., Ltd
 F0:2A:61		Waldo Networks, Inc.
+F0:2B:18		Nanjing Jiahao Technology Co., Ltd.
 F0:2B:7C		Extreme Networks Headquarters
 F0:2E:51		Casa Systems
 F0:2F:4B		Apple, Inc.
@@ -52919,6 +52924,7 @@ F4:62:D0		Not for Radio, LLC
 F4:62:DC		Huawei Device Co., Ltd.
 F4:63:1F		Huawei Technologies Co.,Ltd
 F4:63:49		Diffon Corporation
+F4:63:5A		NXP Semiconductor (Tianjin) LTD.
 F4:63:E7		Nanjing Maxon O.E. Tech. Co., LTD
 F4:63:FC		vivo Mobile Communication Co., Ltd.
 F4:64:12		Sony Interactive Entertainment Inc.
