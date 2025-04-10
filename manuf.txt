@@ -23779,6 +23779,7 @@
 38:05:25:B0:00:00/28	Cammax Optronics Co., Ltd.
 38:05:25:C0:00:00/28	Christeyns Engineering Kft.
 38:05:25:D0:00:00/28	Halliday Holdings PTE. LTD.
+38:05:25:E0:00:00/28	Private
 38:05:46		Foctek Photonics, Inc.
 38:05:AC		Piller Group GmbH
 38:06:B4		A.D.C. GmbH
@@ -38013,6 +38014,7 @@
 88:57:EE		Buffalo.Inc
 88:58:BE		kuosheng.com
 88:5A:06		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
+88:5A:23		Celestica Inc.
 88:5A:85		Wistron Neweb Corporation
 88:5A:92		Cisco Systems, Inc
 88:5B:DD		Extreme Networks Headquarters
@@ -38645,6 +38647,7 @@
 8C:1F:64:17:00:00/36	Fracarro Radioindustrie Srl
 8C:1F:64:17:40:00/36	KST technology
 8C:1F:64:17:50:00/36	Wuhan YiValley Opto-electric technology Co.,Ltd
+8C:1F:64:17:60:00/36	Leidos Inc
 8C:1F:64:17:70:00/36	Emcom Systems
 8C:1F:64:17:90:00/36	Agrowtek Inc.
 8C:1F:64:17:B0:00/36	Bavaria Digital Technik GmbH
@@ -39100,6 +39103,7 @@
 8C:1F:64:4E:50:00/36	Renukas Castle Hard- and Software
 8C:1F:64:4E:70:00/36	Circuit Solutions
 8C:1F:64:4E:90:00/36	Eers Global Technologies Inc.
+8C:1F:64:4E:B0:00/36	flsystem
 8C:1F:64:4E:C0:00/36	XOR UK Corporation Limited
 8C:1F:64:4E:D0:00/36	Ventionex Innovations Sdn Bhd
 8C:1F:64:4F:00:00/36	Tieline Research Pty Ltd
@@ -40183,6 +40187,7 @@
 8C:1F:64:CC:50:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:CC:60:00/36	Genius Vision Digital Private Limited
 8C:1F:64:CC:B0:00/36	suzhou yuecrown Electronic Technology Co.,LTD
+8C:1F:64:CC:E0:00/36	Tesollo
 8C:1F:64:CD:10:00/36	Flextronics International Kft
 8C:1F:64:CD:30:00/36	Pionierkraft GmbH
 8C:1F:64:CD:40:00/36	Shengli Technologies
@@ -40478,6 +40483,7 @@
 8C:1F:64:F1:20:00/36	CAITRON GmbH
 8C:1F:64:F1:30:00/36	ACS Motion Control
 8C:1F:64:F1:40:00/36	Elektrosil GmbH
+8C:1F:64:F1:80:00/36	Northern Design (Electronics) Ltd
 8C:1F:64:F1:90:00/36	Hurry-tech
 8C:1F:64:F1:B0:00/36	Nextep Co.,Ltd.
 8C:1F:64:F1:C0:00/36	Rigel Engineering, LLC
@@ -50302,6 +50308,9 @@ DC:72:9B		Huawei Technologies Co.,Ltd
 DC:73:06		Vantiva Connected Home - Home Networks
 DC:73:85		Huawei Device Co., Ltd.
 DC:74:A8		Samsung Electronics Co.,Ltd
+DC:76:C3		IEEE Registration Authority
+DC:76:C3:A0:00:00/28	Annapurna labs
+DC:76:C3:C0:00:00/28	Kunshan QTech Smart-Forward Limited
 DC:77:4C		Cisco Systems, Inc
 DC:77:94		Huawei Device Co., Ltd.
 DC:78:34		Logicom Sa
@@ -53700,6 +53709,7 @@ F8:E9:68		Egker Kft.
 F8:EA:0A		Dipl.-Math. Michael Rauch
 F8:ED:A5		Commscope
 F8:ED:AE		Mobiwire Mobiles(Ningbo) Co.,Ltd
+F8:ED:FC		HP Inc.
 F8:EF:5D		Motorola Mobility LLC, a Lenovo Company
 F8:F0:05		Newport Media Inc.
 F8:F0:14		RackWare Inc.
