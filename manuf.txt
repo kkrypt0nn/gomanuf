@@ -22744,6 +22744,7 @@
 2C:DD:95		Taicang T&W Electronics
 2C:DD:A3		Point Grey Research Inc.
 2C:DD:E9		Arista Networks
+2C:DE:DF		Guangxi Konaixin Precision Technology Co., Ltd
 2C:DF:E6		Raisecom Technology CO., LTD
 2C:E0:32		TCL King Electrical Appliances(Huizhou)Co.,Ltd
 2C:E0:99		Fujian Star-Net Communication Co.,Ltd
@@ -38557,9 +38558,11 @@
 8C:1F:64:0B:E0:00/36	Bnb
 8C:1F:64:0B:F0:00/36	Aurora Communication Technologies Corp.
 8C:1F:64:0C:00:00/36	Active Research Limited
+8C:1F:64:0C:30:00/36	Eurek srl
 8C:1F:64:0C:50:00/36	TechnipFMC
 8C:1F:64:0C:80:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:0C:A0:00/36	CLOUD TELECOM Inc.
+8C:1F:64:0C:C0:00/36	Smart I Electronics Systems Pvt. Ltd.
 8C:1F:64:0C:D0:00/36	DEUTA Werke GmbH
 8C:1F:64:0D:20:00/36	biosilver .co.,ltd
 8C:1F:64:0D:40:00/36	Dalcnet srl
@@ -38778,6 +38781,7 @@
 8C:1F:64:28:80:00/36	Vision Systems Safety Tech
 8C:1F:64:28:90:00/36	Craft4 Digital GmbH
 8C:1F:64:28:A0:00/36	Arcopie
+8C:1F:64:28:B0:00/36	Power Electronics Espana, S.L.
 8C:1F:64:28:C0:00/36	Sakura Seiki Co.,Ltd.
 8C:1F:64:28:D0:00/36	AVA Monitoring AB
 8C:1F:64:29:10:00/36	Jiangsu Ruidong Electric Power Technology Co.,Ltd
@@ -39273,6 +39277,7 @@
 8C:1F:64:61:80:00/36	Foshan YiFeng Electric Industrial Co., ltd
 8C:1F:64:61:90:00/36	Labtrino AB
 8C:1F:64:61:C0:00/36	Automata GmbH & Co. KG
+8C:1F:64:61:D0:00/36	Lewitt GmbH
 8C:1F:64:61:F0:00/36	Lightworks GmbH
 8C:1F:64:62:00:00/36	Solace Systems Inc.
 8C:1F:64:62:10:00/36	JTL Systems Ltd.
@@ -39595,6 +39600,7 @@
 8C:1F:64:86:C0:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:86:F0:00/36	NewEdge Signal Solutions LLC
 8C:1F:64:87:10:00/36	ENTE Sp. z o.o.
+8C:1F:64:87:50:00/36	EPC Power Corporation
 8C:1F:64:87:60:00/36	fmad engineering
 8C:1F:64:87:80:00/36	Green Access Ltd
 8C:1F:64:87:90:00/36	ASHIDA Electronics Pvt. Ltd
@@ -39872,6 +39878,7 @@
 8C:1F:64:A7:70:00/36	Rax-Tech International
 8C:1F:64:A7:B0:00/36	CPAT Flex Inc.
 8C:1F:64:A7:C0:00/36	Proprietary Controls Systems Corporation
+8C:1F:64:A8:00:00/36	NEXTtec srl
 8C:1F:64:A8:10:00/36	3D perception AS
 8C:1F:64:A8:30:00/36	EkspertStroyProekt
 8C:1F:64:A8:40:00/36	Beijing Wenrise Technology Co., Ltd.
@@ -39902,6 +39909,7 @@
 8C:1F:64:AB:50:00/36	Justmorph Pte. Ltd.
 8C:1F:64:AB:60:00/36	EMIT GmbH
 8C:1F:64:AB:70:00/36	MClavis Co.,Ltd.
+8C:1F:64:AB:80:00/36	Private
 8C:1F:64:AB:E0:00/36	TAIYO DENON Corporation
 8C:1F:64:AB:F0:00/36	Stackiot Technologies Private Limited
 8C:1F:64:AC:00:00/36	AIQuatro
@@ -40013,6 +40021,7 @@
 8C:1F:64:B8:50:00/36	Candela Technologies Inc
 8C:1F:64:B8:60:00/36	Elektronik & Modellprodukter Gävle AB
 8C:1F:64:B8:80:00/36	INTRONIK GmbH
+8C:1F:64:B8:B0:00/36	DogWatch Inc
 8C:1F:64:B8:D0:00/36	Tongye lnnovation Science and Technology (Shenzhen) Co.,Ltd
 8C:1F:64:B9:10:00/36	Clealink Technology
 8C:1F:64:B9:20:00/36	Neurable
@@ -48176,6 +48185,7 @@ CA:FA:E6		Tianjin Ronghui microelectronics Technology Co., Ltd.
 CC:00:80		Bettini Srl
 CC:00:F1		Sagemcom Broadband SAS
 CC:03:7B		Texas Instruments
+CC:03:88		MangoBoost Inc
 CC:03:D9		Cisco Meraki
 CC:03:FA		Vantiva USA LLC
 CC:04:7C		G-WAY Microwave
@@ -50314,8 +50324,10 @@ DC:73:06		Vantiva Connected Home - Home Networks
 DC:73:85		Huawei Device Co., Ltd.
 DC:74:A8		Samsung Electronics Co.,Ltd
 DC:76:C3		IEEE Registration Authority
+DC:76:C3:20:00:00/28	Ire Solution
 DC:76:C3:80:00:00/28	J&J Philippines Corporation
 DC:76:C3:A0:00:00/28	Annapurna labs
+DC:76:C3:B0:00:00/28	NCE Network Consulting Engineering srl
 DC:76:C3:C0:00:00/28	Kunshan QTech Smart-Forward Limited
 DC:77:4C		Cisco Systems, Inc
 DC:77:94		Huawei Device Co., Ltd.
