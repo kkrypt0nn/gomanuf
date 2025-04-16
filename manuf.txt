@@ -24940,6 +24940,7 @@
 40:56:0C		In Home Displays Ltd
 40:56:2D		Smartron India Pvt ltd
 40:56:62		GuoTengShengHua Electronics LTD.
+40:58:46		vivo Mobile Communication Co., Ltd.
 40:58:99		Logitech Far East
 40:5A:9B		Anovo
 40:5B:7F		Broadcom Limited
@@ -25010,6 +25011,7 @@
 40:88:2F		Extreme Networks Headquarters
 40:88:E0		Beijing Ereneben Information Technology Limited Shenzhen Branch
 40:89:A8		WiredIQ, LLC
+40:89:C6		Amazon Technologies Inc.
 40:8A:9A		TITENG CO., Ltd.
 40:8B:07		Actiontec Electronics, Inc
 40:8B:F6		Shenzhen TCL New Technology Co., Ltd
@@ -29753,6 +29755,7 @@
 64:9C:81		Qualcomm Inc.
 64:9C:8E		Texas Instruments
 64:9C:F3		Fiberhome Telecommunication Technologies Co.,LTD
+64:9D:38		Google, Inc.
 64:9D:99		Fs Com Inc
 64:9E:31		Beijing Xiaomi Mobile Software Co., Ltd
 64:9E:F3		Cisco Systems, Inc
@@ -36261,6 +36264,7 @@
 78:BB:C1		Servercom (India) Private Limited
 78:BC:1A		Cisco Systems, Inc
 78:BD:BC		Samsung Electronics Co.,Ltd
+78:BE:81		FN-LINK TECHNOLOGY Ltd.
 78:BE:B6		Enhanced Vision
 78:BE:BD		STULZ GmbH
 78:C1:A7		zte corporation
@@ -39564,6 +39568,7 @@
 8C:1F:64:82:20:00/36	IP Devices
 8C:1F:64:82:40:00/36	Logicube Inc
 8C:1F:64:82:50:00/36	MTU Aero Engines AG
+8C:1F:64:82:80:00/36	Aurcore Technology Inc.
 8C:1F:64:82:B0:00/36	Flow Power
 8C:1F:64:82:C0:00/36	Power Electronics Espana, S.L.
 8C:1F:64:82:F0:00/36	AnySignal
@@ -48259,6 +48264,7 @@ CC:22:37:B0:00:00/28	Tolomatic, Inc.
 CC:22:37:C0:00:00/28	Hebei ZHSF Technology Co.,Ltd.
 CC:22:37:D0:00:00/28	Shenzhen Hooenergy Technology Co.,Ltd
 CC:22:37:E0:00:00/28	Manufacturas Y Transformados Ab, S.L.
+CC:22:93		Amazon Technologies Inc.
 CC:22:DF		EM Microelectronic
 CC:24:2E		Shenzhen SuperElectron Technology Co.,Ltd.
 CC:25:EF		Apple, Inc.
@@ -49815,6 +49821,7 @@ D8:49:0B		Huawei Technologies Co.,Ltd
 D8:49:2F		Canon Inc.
 D8:49:BF		Celestica Inc.
 D8:4A:2B		zte corporation
+D8:4A:83		vivo Mobile Communication Co., Ltd.
 D8:4A:87		Oi Electric Co.,Ltd
 D8:4B:2A		Cognitas Technologies, Inc.
 D8:4C:90		Apple, Inc.
@@ -50325,10 +50332,13 @@ DC:73:85		Huawei Device Co., Ltd.
 DC:74:A8		Samsung Electronics Co.,Ltd
 DC:76:C3		IEEE Registration Authority
 DC:76:C3:20:00:00/28	Ire Solution
+DC:76:C3:40:00:00/28	seadee
 DC:76:C3:80:00:00/28	J&J Philippines Corporation
+DC:76:C3:90:00:00/28	Hunan Zhizhou Technology Co., Ltd
 DC:76:C3:A0:00:00/28	Annapurna labs
 DC:76:C3:B0:00:00/28	NCE Network Consulting Engineering srl
 DC:76:C3:C0:00:00/28	Kunshan QTech Smart-Forward Limited
+DC:76:C3:D0:00:00/28	Chen Uei Precision Industry Co., Ltd
 DC:77:4C		Cisco Systems, Inc
 DC:77:94		Huawei Device Co., Ltd.
 DC:78:34		Logicom Sa
