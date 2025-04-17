@@ -2945,7 +2945,7 @@
 00:0B:8E		Ascent Corporation
 00:0B:8F		Akita Electronics Systems Co.,Ltd.
 00:0B:90		ADVA Optical Networking Ltd.
-00:0B:91		Aglaia Gesellschaft für Bildverarbeitung und Kommunikation mbH
+00:0B:91		Xovis Germany GmbH
 00:0B:92		Ascom Danmark A/S
 00:0B:93		Ritter Elektronik
 00:0B:94		Digital Monitoring Products, Inc.
@@ -15763,6 +15763,7 @@
 00:83:20		Huawei Device Co., Ltd.
 00:84:1E		Cisco Meraki
 00:84:ED		Lexmark International, Inc.
+00:86:67		LG Innotek
 00:86:9C		Palo Alto Networks
 00:86:A0		Private
 00:87:01		Samsung Electronics Co.,Ltd
@@ -26674,6 +26675,7 @@
 4C:09:D4		Arcadyan Technology Corporation
 4C:09:FA		Frontier Smart Technologies Ltd
 4C:0A:3D		Adnacom Inc.
+4C:0A:4E		Extreme Networks Headquarters
 4C:0B:3A		TCT mobile ltd
 4C:0B:BE		Microsoft
 4C:0D:EE		Jabil Circuit (Shanghai) Ltd.
@@ -30874,6 +30876,7 @@
 70:1F:3C		Samsung Electronics Co.,Ltd
 70:1F:53		Cisco Systems, Inc
 70:20:84		Hon Hai Precision Industry Co., Ltd.
+70:21:7F		Xiaomi Communications Co Ltd
 70:22:FE		Apple, Inc.
 70:23:93		fos4X GmbH
 70:25:26		Nokia
@@ -35749,6 +35752,7 @@
 74:C1:7E		LG Electronics
 74:C2:46		Amazon Technologies Inc.
 74:C3:30		Shenzhen Fast Technologies Co.,Ltd
+74:C4:12		Microsoft Corporation
 74:C5:30		vivo Mobile Communication Co., Ltd.
 74:C6:21		Zhejiang Hite Renewable Energy Co.,LTD
 74:C6:3B		AzureWave Technology Inc.
@@ -36762,6 +36766,7 @@
 7C:A2:3E		Huawei Technologies Co.,Ltd
 7C:A2:9B		D.SignT GmbH & Co. KG
 7C:A4:49		Xiaomi Communications Co Ltd
+7C:A4:F7		Extreme Networks Headquarters
 7C:A5:8F		shenzhen Qikai Electronic Co., Ltd.
 7C:A6:1D		Mhl, Llc
 7C:A6:2A		Hewlett Packard Enterprise
@@ -39111,6 +39116,7 @@
 8C:1F:64:4E:30:00/36	Exi Flow Measurement Ltd
 8C:1F:64:4E:40:00/36	Nuvation Energy
 8C:1F:64:4E:50:00/36	Renukas Castle Hard- and Software
+8C:1F:64:4E:60:00/36	Schippers Europe BV
 8C:1F:64:4E:70:00/36	Circuit Solutions
 8C:1F:64:4E:90:00/36	Eers Global Technologies Inc.
 8C:1F:64:4E:B0:00/36	flsystem
@@ -39465,6 +39471,7 @@
 8C:1F:64:76:90:00/36	Vonamic GmbH
 8C:1F:64:76:A0:00/36	Dorlet Sau
 8C:1F:64:76:C0:00/36	Guan Show Technologe Co., Ltd.
+8C:1F:64:76:E0:00/36	develogic GmbH
 8C:1F:64:76:F0:00/36	INVENTIA Sp. z o.o.
 8C:1F:64:77:10:00/36	Automatizacion Y Conectividad
 8C:1F:64:77:40:00/36	navXperience GmbH
@@ -43919,6 +43926,7 @@ A4:C6:4F		Huawei Technologies Co.,Ltd
 A4:C6:9A		Samsung Electronics Co.,Ltd
 A4:C6:F0		Apple, Inc.
 A4:C7:4B		Huawei Device Co., Ltd.
+A4:C7:88		Xiaomi Communications Co Ltd
 A4:C7:DE		Cambridge Industries(Group) Co.,Ltd.
 A4:C7:F6		Extreme Networks Headquarters
 A4:C9:39		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -44443,6 +44451,7 @@ AC:04:25		ball-b GmbH Co KG
 AC:04:81		Jiangsu Huaxing Electronics Co., Ltd.
 AC:04:AA		GoPro
 AC:06:13		Senselogix Ltd
+AC:06:50		Shanghai Baosight Software Co., Ltd
 AC:06:C7		ServerNet S.r.l.
 AC:07:5F		Huawei Technologies Co.,Ltd
 AC:07:75		Apple, Inc.
@@ -46133,6 +46142,7 @@ B8:DF:D4		Fiberhome Telecommunication Technologies Co.,LTD
 B8:E2:8C		Motorola Solutions Malaysia Sdn. Bhd.
 B8:E3:B1		Huawei Technologies Co.,Ltd
 B8:E3:EE		Universal Electronics, Inc.
+B8:E4:4A		Xconnect
 B8:E5:89		Payter BV
 B8:E6:0C		Apple, Inc.
 B8:E6:25		2Wire Inc
@@ -49936,6 +49946,7 @@ D8:90:E8		Samsung Electronics Co.,Ltd
 D8:91:2A		Zyxel Communications Corporation
 D8:91:36		Dover Fueling Solutions
 D8:93:41		General Electric Global Research
+D8:93:D4		Xiaomi Communications Co Ltd
 D8:94:03		Hewlett Packard Enterprise
 D8:95:2F		Texas Instruments
 D8:95:63		Taiwan Digital Streaming Co.
@@ -50331,8 +50342,11 @@ DC:73:06		Vantiva Connected Home - Home Networks
 DC:73:85		Huawei Device Co., Ltd.
 DC:74:A8		Samsung Electronics Co.,Ltd
 DC:76:C3		IEEE Registration Authority
+DC:76:C3:00:00:00/28	Genius Vision Digital Private Limited
 DC:76:C3:20:00:00/28	Ire Solution
 DC:76:C3:40:00:00/28	seadee
+DC:76:C3:60:00:00/28	ShangHai Zhousheng Intelligent Technology Co., Ltd
+DC:76:C3:70:00:00/28	Nanjing Loyst Industrial Networks Co.,Ltd.
 DC:76:C3:80:00:00/28	J&J Philippines Corporation
 DC:76:C3:90:00:00/28	Hunan Zhizhou Technology Co., Ltd
 DC:76:C3:A0:00:00/28	Annapurna labs
