@@ -41238,6 +41238,7 @@
 90:46:B7		Vadaro Pte Ltd
 90:47:16		Rorze Corporation
 90:47:3C		China Mobile Group Device Co.,Ltd.
+90:47:48		Sony Interactive Entertainment Inc.
 90:48:46		Texas Instruments
 90:48:6C		Ring LLC
 90:48:9A		Hon Hai Precision Ind. Co.,Ltd.
@@ -46910,7 +46911,7 @@ C0:83:59:00:00:00/28	Chongqing Jiuyu Smart Technology Co.Ltd.
 C0:83:59:10:00:00/28	Gemvax Technology ,. Co.Ltd
 C0:83:59:20:00:00/28	Huaxin SM Optics Co. LTD.
 C0:83:59:30:00:00/28	PCH Engineering A/S
-C0:83:59:40:00:00/28	Ants
+C0:83:59:40:00:00/28	UNA Digital Inc.
 C0:83:59:50:00:00/28	Viper Design, LLC
 C0:83:59:60:00:00/28	Beijing Cloud Fly Technology Development Co.Ltd
 C0:83:59:70:00:00/28	Fuzhou Fdlinker Technology Co.,LTD
@@ -49598,6 +49599,7 @@ D4:9F:DD		Huawei Device Co., Ltd.
 D4:A0:2A		Cisco Systems, Inc
 D4:A1:48		Huawei Technologies Co.,Ltd
 D4:A2:3D		New H3C Technologies Co., Ltd
+D4:A2:CD		Dell Inc.
 D4:A3:3D		Apple, Inc.
 D4:A3:65		Xiaomi Communications Co Ltd
 D4:A3:8B		Ele(Group)Co.,Ltd
@@ -50385,6 +50387,7 @@ DC:76:C3:10:00:00/28	Bangyan Technology Co., Ltd
 DC:76:C3:20:00:00/28	Ire Solution
 DC:76:C3:30:00:00/28	Shenzhen C & D Electronics Co., Ltd.
 DC:76:C3:40:00:00/28	seadee
+DC:76:C3:50:00:00/28	heinrich corporation India private limited
 DC:76:C3:60:00:00/28	ShangHai Zhousheng Intelligent Technology Co., Ltd
 DC:76:C3:70:00:00/28	Nanjing Loyst Industrial Networks Co.,Ltd.
 DC:76:C3:80:00:00/28	J&J Philippines Corporation
@@ -50393,6 +50396,7 @@ DC:76:C3:A0:00:00/28	Annapurna labs
 DC:76:C3:B0:00:00/28	NCE Network Consulting Engineering srl
 DC:76:C3:C0:00:00/28	Kunshan QTech Smart-Forward Limited
 DC:76:C3:D0:00:00/28	Chen Uei Precision Industry Co., Ltd
+DC:76:C3:E0:00:00/28	Morelink
 DC:77:4C		Cisco Systems, Inc
 DC:77:94		Huawei Device Co., Ltd.
 DC:78:34		Logicom Sa
