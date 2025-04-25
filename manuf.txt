@@ -23252,6 +23252,7 @@
 30:FB:94		Shanghai Fangzhiwei Information Technology CO.,Ltd.
 30:FB:B8		Huawei Technologies Co.,Ltd
 30:FC:68		Tp-Link Technologies Co.,Ltd.
+30:FC:8C		Vantiva - Connected Home
 30:FC:EB		LG Electronics (Mobile Communications)
 30:FD:11		Macrotech (Usa) Inc.
 30:FD:38		Google, Inc.
@@ -25014,6 +25015,7 @@
 40:79:11		Apple, Inc.
 40:79:12		Texas Instruments
 40:7A:80		Nokia Corporation
+40:7A:A4		Zhejiang Dahua Technologyco.,Ltd
 40:7B:1B		Mettle Networks Inc.
 40:7C:7D		Nokia
 40:7D:0F		Huawei Technologies Co.,Ltd
@@ -38500,6 +38502,7 @@
 8C:1D:55		Hanwha NxMD (Thailand) Co., Ltd.
 8C:1D:96		Intel Corporate
 8C:1E:80		Cisco Systems, Inc
+8C:1E:CB		Nanjing Jiahao Technology Co., Ltd.
 8C:1E:CF		Unionman Technology Co.,Ltd
 8C:1E:D9		Beijing Unigroup Tsingteng Microsystem Co., LTD.
 8C:1F:64		IEEE Registration Authority
@@ -38821,6 +38824,7 @@
 8C:1F:64:26:80:00/36	Astro Machine Corporation
 8C:1F:64:26:B0:00/36	Profcon AB
 8C:1F:64:26:E0:00/36	Koizumi Lighting Technology Corp.
+8C:1F:64:26:F0:00/36	QUISS GmbH
 8C:1F:64:27:00:00/36	Xi‘an Hangguang Satellite and Control Technology Co.,Ltd
 8C:1F:64:27:20:00/36	Comminent Pvt Ltd
 8C:1F:64:27:30:00/36	Distran AG
@@ -40293,6 +40297,7 @@
 8C:1F:64:D0:70:00/36	Talleres de Escoriaza SAU
 8C:1F:64:D0:80:00/36	Power Electronics Espana, S.L.
 8C:1F:64:D0:90:00/36	Minartime(Beijing)Science &Technology Development Co.,Ltd
+8C:1F:64:D0:A0:00/36	BOTEVO Building Solutions GmbH
 8C:1F:64:D0:C0:00/36	KS Beschallungstechnik GmbH
 8C:1F:64:D0:E0:00/36	Labforge Inc.
 8C:1F:64:D0:F0:00/36	Mecco LLC
@@ -40373,6 +40378,7 @@
 8C:1F:64:D9:C0:00/36	Relcom, Inc.
 8C:1F:64:D9:D0:00/36	Mitsubishi Heavy Industries Thermal Systems, Ltd.
 8C:1F:64:D9:E0:00/36	Wagner Group GmbH
+8C:1F:64:DA:10:00/36	Hangteng (HK) Technology Co., Limited
 8C:1F:64:DA:50:00/36	Daom
 8C:1F:64:DA:60:00/36	Power Electronics Espana, S.L.
 8C:1F:64:DA:A0:00/36	Davetech Limited
@@ -42973,6 +42979,7 @@
 9C:C1:72		Huawei Technologies Co.,Ltd
 9C:C2:C4		IEIT SYSTEMS Co., Ltd.
 9C:C7:A6		AVM GmbH
+9C:C7:B1		Elitegroup Computer Systems Co.,Ltd.
 9C:C7:D1		SHARP Corporation
 9C:C8:93		Juniper Networks
 9C:C8:AE		Becton, Dickinson  and Company
@@ -48262,6 +48269,7 @@ CA:2B:5E		Suzhou Motor-comm Electronic Technology Co.,Ltd
 CA:30:BF		IEEE 802.1 Chair
 CA:37:82		Storbyte, Inc.
 CA:3E:A6		Syng, Inc.
+CA:44:3E		Allianz Technology SE
 CA:44:6C		Cypress Computer Systems, Inc.
 CA:7D:DD		EmOne (Thailand) Co.,Ltd.
 CA:8F:A5		Advanced TS Migrations, Co
@@ -48973,6 +48981,7 @@ D0:63:4D		Meiko Maschinenbau GmbH & Co. KG
 D0:63:B4		SolidRun Ltd.
 D0:65:44		Apple, Inc.
 D0:65:78		Intel Corporate
+D0:65:B3		TCL King Electrical Appliances(Huizhou)Co.,Ltd
 D0:65:CA		Huawei Technologies Co.,Ltd
 D0:66:6D		Shenzhen Bus-Lan Technology Co., Ltd.
 D0:66:7B		Samsung Electronics Co.,Ltd
@@ -52424,6 +52433,7 @@ F0:12:04:40:00:00/28	Dongguan Onyx Electronics Co., Ltd
 F0:12:04:50:00:00/28	Maple Systems. Inc.
 F0:12:04:70:00:00/28	Autani LLC
 F0:12:04:90:00:00/28	Flextronics Tech I Pvt Ltd
+F0:12:04:A0:00:00/28	Astrome Technoogies Pvt Ltd
 F0:12:04:C0:00:00/28	FairPhone B.V.
 F0:13:C1		Hannto Technology Co., Ltd
 F0:13:C3		Shenzhen Fenda Technology Co., Ltd
