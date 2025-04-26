@@ -18515,6 +18515,7 @@
 0C:25:76		Longcheer Telecommunication Limited
 0C:27:24		Cisco Systems, Inc
 0C:27:55		Valuable Techologies Limited
+0C:27:56		Rongcheeng Goer Technology Co.,Ltd.
 0C:29:8F		Tesla,Inc.
 0C:29:EF		Dell Inc.
 0C:2A:69		electric imp, incorporated
@@ -29460,6 +29461,7 @@
 60:DB:2A		Hns
 60:DB:98		Calix Inc.
 60:DB:EF		Unify Software and Solutions GmbH & Co. KG
+60:DC:0D		Taiwan Shin Kong Security Co., Ltd
 60:DC:81		AltoBeam Inc.
 60:DD:70		Apple, Inc.
 60:DD:8E		Intel Corporate
@@ -37316,6 +37318,7 @@
 80:A7:96		Neuralink Corp.
 80:A8:5D		Osterhout Design Group
 80:A9:97		Apple, Inc.
+80:AA:1C		Luxottica Tristar (Dongguan) Optical Co.,Ltd
 80:AA:A4		Usag
 80:AB:4D		Nokia Solutions and Networks GmbH & Co. KG
 80:AC:7C		Sichuan AI-Link Technology Co., Ltd.
@@ -38411,6 +38414,7 @@
 8A:DA:26		Eleven Inc.
 8A:FB:16		TeraByte, Inc.
 8C:00:6D		Apple, Inc.
+8C:01:9D		Arista Networks
 8C:02:CD		Fujian Star-Net Communication Co.,Ltd
 8C:02:FA		COMMANDO Networks Limited
 8C:04:BA		Dell Inc.
@@ -38643,6 +38647,7 @@
 8C:1F:64:0F:A0:00/36	Nautel LTD
 8C:1F:64:0F:E0:00/36	Indra Heera Technology LLP
 8C:1F:64:0F:F0:00/36	Pneumax Spa
+8C:1F:64:10:00:00/36	Beijing Zhenlong Technology Co.,Ltd.
 8C:1F:64:10:10:00/36	ASW-ATI Srl
 8C:1F:64:10:30:00/36	Kronotech Srl
 8C:1F:64:10:40:00/36	Timebeat.app Ltd
@@ -48029,6 +48034,7 @@ C8:8E:D1:D0:00:00/28	Phoenix Engineering Corp.
 C8:8E:D1:E0:00:00/28	Aventics GmbH
 C8:8E:D1:F0:00:00/28	Private
 C8:8F:26		Skyworth Digital Technology(Shenzhen) Co.,Ltd
+C8:90:09		Budderfly, LLC
 C8:90:3E		Pakton Technologies
 C8:90:8A		Samsung Electronics Co.,Ltd
 C8:90:A8		Bouffalo Lab (Nanjing) Co., Ltd.
@@ -52428,9 +52434,11 @@ F0:10:90		New H3C Technologies Co., Ltd
 F0:10:A5		Texas Instruments
 F0:10:AB		China Mobile (Hangzhou) Information Technology Co., Ltd.
 F0:12:04		IEEE Registration Authority
+F0:12:04:20:00:00/28	WiSig Networks Private Limited
 F0:12:04:30:00:00/28	APCON, Inc.
 F0:12:04:40:00:00/28	Dongguan Onyx Electronics Co., Ltd
 F0:12:04:50:00:00/28	Maple Systems. Inc.
+F0:12:04:60:00:00/28	Shenzhen FENVI Technology co.,ltd
 F0:12:04:70:00:00/28	Autani LLC
 F0:12:04:90:00:00/28	Flextronics Tech I Pvt Ltd
 F0:12:04:A0:00:00/28	Astrome Technoogies Pvt Ltd
