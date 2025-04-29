@@ -17772,6 +17772,7 @@
 04:D1:6E:C0:00:00/28	PacPort Corporation
 04:D1:6E:D0:00:00/28	Elotec Fischer Elektronik GmbH
 04:D1:6E:E0:00:00/28	Evolute Systems Private Limited
+04:D1:90		Kaon Group Co., Ltd.
 04:D3:20		Itel Mobile Limited
 04:D3:95		Motorola Mobility LLC, a Lenovo Company
 04:D3:B0		Intel Corporate
@@ -22355,6 +22356,7 @@
 2C:1A:01		Huawei Technologies Co.,Ltd
 2C:1A:05		Cisco Systems, Inc
 2C:1A:31		Electronics Company Limited
+2C:1B:3A		Hui Zhou Gaoshengda Technology Co.,LTD
 2C:1B:C8		Hunan Topview Network System CO.,LTD
 2C:1C:F6		Alien Green LLC
 2C:1D:B8		Commscope
@@ -24455,6 +24457,7 @@
 3C:3B:4D		Toyo Seisakusho Kaisha, Limited
 3C:3B:77		Apple, Inc.
 3C:3B:99		Itel Mobile Limited
+3C:3B:AD		China Dragon Technology Limited
 3C:3F:51		2Crsi
 3C:40:4F		Guangdong Pisen Electronics Co.,Ltd
 3C:41:0E		Cisco Systems, Inc
@@ -38624,6 +38627,7 @@
 8C:1F:64:0C:C0:00/36	Smart I Electronics Systems Pvt. Ltd.
 8C:1F:64:0C:D0:00/36	DEUTA Werke GmbH
 8C:1F:64:0D:20:00/36	biosilver .co.,ltd
+8C:1F:64:0D:30:00/36	erfi Ernst Fischer GmbH+Co.KG
 8C:1F:64:0D:40:00/36	Dalcnet srl
 8C:1F:64:0D:50:00/36	RealD, Inc.
 8C:1F:64:0D:60:00/36	Avd Innovation Limited
@@ -38960,6 +38964,7 @@
 8C:1F:64:35:D0:00/36	Security&Best
 8C:1F:64:35:E0:00/36	Test21 Taiwan Corp
 8C:1F:64:36:20:00/36	Power Electronics Espana, S.L.
+8C:1F:64:36:30:00/36	Grossenbacher Systeme AG
 8C:1F:64:36:40:00/36	Tilak International
 8C:1F:64:36:50:00/36	Vector Technologies, Llc
 8C:1F:64:36:60:00/36	MB connect line GmbH Fernwartungssysteme
@@ -39443,6 +39448,7 @@
 8C:1F:64:6D:40:00/36	Hitachi Energy Poland sp. Z o o
 8C:1F:64:6D:50:00/36	HTK Hamburg GmbH
 8C:1F:64:6D:60:00/36	Argosdyne Co., Ltd
+8C:1F:64:6D:70:00/36	Leopard Imaging Inc
 8C:1F:64:6D:90:00/36	Khimo
 8C:1F:64:6D:C0:00/36	Intrinsic Innovation, LLC
 8C:1F:64:6D:D0:00/36	ViewSonic Corp
@@ -39781,6 +39787,7 @@
 8C:1F:64:93:70:00/36	H2Ok Innovations
 8C:1F:64:93:90:00/36	SPIT Technology, Inc
 8C:1F:64:93:A0:00/36	Rejås of Sweden AB
+8C:1F:64:94:10:00/36	Lorenz GmbH & Co. KG
 8C:1F:64:94:30:00/36	Autark GmbH
 8C:1F:64:94:50:00/36	Deqin Showcase
 8C:1F:64:94:60:00/36	UniJet Co., Ltd.
@@ -40438,6 +40445,7 @@
 8C:1F:64:E0:C0:00/36	Telestrider Sa
 8C:1F:64:E0:E0:00/36	Nokeval Oy
 8C:1F:64:E1:00:00/36	Scenario Automation
+8C:1F:64:E1:10:00/36	C-Octopus
 8C:1F:64:E1:20:00/36	Pixus Technologies Inc.
 8C:1F:64:E1:40:00/36	Proserv
 8C:1F:64:E1:50:00/36	Panascais ehf.
@@ -43604,6 +43612,7 @@ A0:FF:70		Vantiva USA LLC
 A4:00:4E		Cisco Systems, Inc
 A4:00:E2		Huawei Technologies Co.,Ltd
 A4:01:30		ABIsystems Co., LTD
+A4:01:DE		Sercomm Philippines Inc
 A4:02:B7		Amazon Technologies Inc.
 A4:02:B9		Intel Corporate
 A4:04:50		nFore Technology Inc.
@@ -45794,6 +45803,7 @@ B4:CF:E0		Sichuan tianyi kanghe communications co., LTD
 B4:D0:A9		China Mobile Group Device Co.,Ltd.
 B4:D1:35		Cloudistics
 B4:D2:86		Telechips, Inc.
+B4:D3:1A		Lysora Technology Inc.
 B4:D5:BD		Intel Corporate
 B4:D5:E5		Samsung Electronics Co.,Ltd
 B4:D6:4E		Caldero Limited
@@ -45843,6 +45853,7 @@ B4:EE:B4		Askey Computer Corp
 B4:EE:D4		Texas Instruments
 B4:EF:04		DAIHAN Scientific Co., Ltd.
 B4:EF:1C		360 AI Technology Co.Ltd
+B4:EF:30		Shanghai SYH Technology CO.,LTD
 B4:EF:39		Samsung Electronics Co.,Ltd
 B4:EF:FA		Lemobile Information Technology (Beijing) Co., Ltd.
 B4:F0:AB		Apple, Inc.
@@ -49912,6 +49923,7 @@ D8:43:ED		Suzuken
 D8:44:5C		DEV Tecnologia Ind Com Man Eq LTDA
 D8:44:89		TP-Link Systems Inc
 D8:45:2B		Integrated Device Technology (Malaysia) Sdn. Bhd.
+D8:45:67		Tecno Mobile Limited
 D8:46:06		Silicon Valley Global Marketing
 D8:47:10		Sichuan Changhong Electric Ltd.
 D8:47:32		Tp-Link Technologies Co.,Ltd.
@@ -50456,6 +50468,7 @@ DC:7C:F7		China Mobile Group Device Co.,Ltd.
 DC:7E:1D		Huawei Technologies Co.,Ltd
 DC:7F:A4		2Wire Inc
 DC:80:84		Apple, Inc.
+DC:81:3D		Shanghai Xiangcheng Communication Technology Co., Ltd
 DC:82:5B		JANUS, spol. s r.o.
 DC:82:F6		iPort
 DC:84:03		shenzhen trolink  Technology Co.,Ltd
@@ -52434,14 +52447,18 @@ F0:10:90		New H3C Technologies Co., Ltd
 F0:10:A5		Texas Instruments
 F0:10:AB		China Mobile (Hangzhou) Information Technology Co., Ltd.
 F0:12:04		IEEE Registration Authority
+F0:12:04:00:00:00/28	Annapurna labs
+F0:12:04:10:00:00/28	MetaX
 F0:12:04:20:00:00/28	WiSig Networks Private Limited
 F0:12:04:30:00:00/28	APCON, Inc.
 F0:12:04:40:00:00/28	Dongguan Onyx Electronics Co., Ltd
 F0:12:04:50:00:00/28	Maple Systems. Inc.
 F0:12:04:60:00:00/28	Shenzhen FENVI Technology co.,ltd
 F0:12:04:70:00:00/28	Autani LLC
+F0:12:04:80:00:00/28	Annapurna labs
 F0:12:04:90:00:00/28	Flextronics Tech I Pvt Ltd
 F0:12:04:A0:00:00/28	Astrome Technoogies Pvt Ltd
+F0:12:04:B0:00:00/28	HoneyComm IoT Technology(Shenzhen)Co.,Ltd.
 F0:12:04:C0:00:00/28	FairPhone B.V.
 F0:13:C1		Hannto Technology Co., Ltd
 F0:13:C3		Shenzhen Fenda Technology Co., Ltd
@@ -53696,6 +53713,7 @@ F8:91:2A		GLP German Light Products GmbH
 F8:91:6F		Texas Instruments
 F8:91:73		Aedle Sas
 F8:93:F3		Volans
+F8:94:97		Buffalo.Inc
 F8:94:C2		Intel Corporate
 F8:95:22		Huawei Technologies Co.,Ltd
 F8:95:50		Proton Products Chengdu Ltd
