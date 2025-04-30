@@ -38549,6 +38549,7 @@
 8C:1F:64:04:80:00/36	FieldLine Medical
 8C:1F:64:04:90:00/36	Nuances Org
 8C:1F:64:04:A0:00/36	GS Elektromedizinsiche Geräte G. Stemple GmbH
+8C:1F:64:04:C0:00/36	Gamber-Johnson LLC
 8C:1F:64:04:E0:00/36	Auditdata
 8C:1F:64:04:F0:00/36	ISILINE srl
 8C:1F:64:05:10:00/36	CP contech electronic GmbH
@@ -39304,6 +39305,7 @@
 8C:1F:64:5C:60:00/36	Systems With Intelligence Inc.
 8C:1F:64:5C:90:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:5C:B0:00/36	dinosys
+8C:1F:64:5C:C0:00/36	Alpes recherche et développement
 8C:1F:64:5C:D0:00/36	Mahindr & Mahindra
 8C:1F:64:5C:E0:00/36	Packetalk LLC
 8C:1F:64:5D:00:00/36	Image Engineering
@@ -43312,6 +43314,7 @@ A0:4E:CF		Apple, Inc.
 A0:4F:52		Intel Corporate
 A0:4F:85		LG Electronics (Mobile Communications)
 A0:4F:D4		ADB Broadband Italia
+A0:4F:E4		PAX Computer Technology(Shenzhen) Ltd.
 A0:51:0B		Intel Corporate
 A0:51:C6		Avaya Inc
 A0:52:72		Apple, Inc.
@@ -52460,6 +52463,7 @@ F0:12:04:90:00:00/28	Flextronics Tech I Pvt Ltd
 F0:12:04:A0:00:00/28	Astrome Technoogies Pvt Ltd
 F0:12:04:B0:00:00/28	HoneyComm IoT Technology(Shenzhen)Co.,Ltd.
 F0:12:04:C0:00:00/28	FairPhone B.V.
+F0:12:04:D0:00:00/28	LightShark
 F0:13:C1		Hannto Technology Co., Ltd
 F0:13:C3		Shenzhen Fenda Technology Co., Ltd
 F0:15:A0		KyungDong One Co., Ltd.
