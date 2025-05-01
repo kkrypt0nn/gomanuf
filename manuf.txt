@@ -17534,6 +17534,7 @@
 04:63:D0		Huawei Device Co., Ltd.
 04:63:E0		Nome Oy
 04:65:65		Testop
+04:67:61		Beijing Xiaomi Mobile Software Co., Ltd
 04:67:85		scemtec Hard- und Software fuer Mess- und Steuerungstechnik GmbH
 04:68:65		Apple, Inc.
 04:68:74		Cloud Network Technology Singapore Pte. Ltd.
@@ -22587,6 +22588,9 @@
 2C:78:4C		Iton Technology Corp.
 2C:79:3D		Boditech Med
 2C:79:D7		Sagemcom Broadband SAS
+2C:7A:F4		IEEE Registration Authority
+2C:7A:F4:00:00:00/28	Annapurna labs
+2C:7A:F4:50:00:00/28	Annapurna labs
 2C:7B:5A		Milper Ltd
 2C:7B:84		OOO Petr Telegin
 2C:7B:A0		Intel Corporate
@@ -22623,6 +22627,7 @@
 2C:9A:A4		Eolo SpA
 2C:9C:58		Cloud Network Technology Singapore Pte. Ltd.
 2C:9D:1E		Huawei Technologies Co.,Ltd
+2C:9D:4B		Lavelle Network Private Limited
 2C:9D:65		vivo Mobile Communication Co., Ltd.
 2C:9E:00		Sony Interactive Entertainment Inc.
 2C:9E:5F		Commscope
@@ -23016,6 +23021,7 @@
 30:50:FD		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 30:51:F8		BYK-Gardner GmbH
 30:52:23		GD Midea Air-Conditioning Equipment Co.,Ltd.
+30:52:53		BuildJet, Inc.
 30:52:5A		NST Co., LTD
 30:52:CB		Liteon Technology Corporation
 30:53:C1		Cresyn
@@ -29283,6 +29289,7 @@
 60:83:B2		GkWare e.K.
 60:83:E2		Shanghai Notion Information Technology Co., Ltd
 60:83:E7		TP-Link Systems Inc
+60:83:F8		Sichuan Huakun Zhenyu Intelligent Technology Co.,Ltd
 60:84:3B		Soladigm, Inc.
 60:84:BD		Buffalo.Inc
 60:86:45		Avery Weigh-Tronix, LLC
@@ -38892,6 +38899,7 @@
 8C:1F:64:2D:00:00/36	Cambridge Research Systems Ltd
 8C:1F:64:2D:50:00/36	J&J Philippines Corporation
 8C:1F:64:2D:80:00/36	CONTROL SYSTEMS Srl
+8C:1F:64:2D:C0:00/36	TimeMachines Inc.
 8C:1F:64:2D:D0:00/36	Flextronics International Kft
 8C:1F:64:2D:E0:00/36	Polar Bear Design
 8C:1F:64:2D:F0:00/36	Ubotica Technologies
@@ -40102,6 +40110,7 @@
 8C:1F:64:B8:80:00/36	INTRONIK GmbH
 8C:1F:64:B8:B0:00/36	DogWatch Inc
 8C:1F:64:B8:D0:00/36	Tongye lnnovation Science and Technology (Shenzhen) Co.,Ltd
+8C:1F:64:B8:E0:00/36	Revert Technologies
 8C:1F:64:B9:10:00/36	Clealink Technology
 8C:1F:64:B9:20:00/36	Neurable
 8C:1F:64:B9:30:00/36	Modern Server Solutions LLP
@@ -40122,6 +40131,7 @@
 8C:1F:64:BA:B0:00/36	Ycn
 8C:1F:64:BA:D0:00/36	Jemac Sweden AB
 8C:1F:64:BA:E0:00/36	Tieline Research Pty Ltd
+8C:1F:64:BA:F0:00/36	ELKA - Torantriebe GmbH u. Co. Betriebs KG
 8C:1F:64:BB:00:00/36	Shanghai Sansi Electronic Engineering Co., Ltd.
 8C:1F:64:BB:10:00/36	Transit Solutions, LLC.
 8C:1F:64:BB:20:00/36	Grupo Epelsa S.L.
@@ -40341,6 +40351,7 @@
 8C:1F:64:D3:80:00/36	Cuu Long Technology And Trading Company Limited
 8C:1F:64:D3:A0:00/36	Applied Materials
 8C:1F:64:D3:C0:00/36	"KIB Energo" LLC
+8C:1F:64:D3:F0:00/36	Schnoor Industrieelektronik GmbH
 8C:1F:64:D4:00:00/36	Breas Medical AB
 8C:1F:64:D4:20:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:D4:40:00/36	Monarch Instrument
@@ -52464,6 +52475,7 @@ F0:12:04:A0:00:00/28	Astrome Technoogies Pvt Ltd
 F0:12:04:B0:00:00/28	HoneyComm IoT Technology(Shenzhen)Co.,Ltd.
 F0:12:04:C0:00:00/28	FairPhone B.V.
 F0:12:04:D0:00:00/28	LightShark
+F0:12:04:E0:00:00/28	Tianjin Tianchuan Electric Drive Co.,Ltd.
 F0:13:C1		Hannto Technology Co., Ltd
 F0:13:C3		Shenzhen Fenda Technology Co., Ltd
 F0:15:A0		KyungDong One Co., Ltd.
@@ -54020,6 +54032,7 @@ FC:35:98		Favite Inc.
 FC:35:E6		Visteon Corporation
 FC:37:2B		Sichuan Tianyi Comheart Telecom Co.,LTD
 FC:38:6A		Shenzhen Skyworth Digital  Technology  CO., Ltd
+FC:38:76		Forum Communication Systems, Inc
 FC:38:C4		China Grand Communications Co.,Ltd.
 FC:39:64		Itel Mobile Limited
 FC:3C:D7		Tuya Smart Inc.
