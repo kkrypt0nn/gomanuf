@@ -22602,6 +22602,7 @@
 2C:7A:F4:30:00:00/28	Shenzhen Yitoa Digital Technology Co., Ltd.
 2C:7A:F4:40:00:00/28	Kegao Intelligent Garden Technology(Guangdong) Co.,Ltd.
 2C:7A:F4:50:00:00/28	Annapurna labs
+2C:7A:F4:70:00:00/28	Jinan LinkCtrl IoT Co., Ltd
 2C:7A:F4:90:00:00/28	4neXt S.r.l.s.
 2C:7A:F4:C0:00:00/28	Reonel Oy
 2C:7A:F4:D0:00:00/28	Flextronics Automotive USA, Inc
@@ -23195,6 +23196,7 @@
 30:C7:50		MIC Technology Group
 30:C7:AE		Samsung Electronics Co.,Ltd
 30:C8:2A		WI-BIZ srl
+30:C9:1B		Zhen Shi Information Technology（Shanghai）Co.,Ltd.
 30:C9:22		Espressif Inc.
 30:C9:AB		Cloud Network Technology Singapore Pte. Ltd.
 30:CB:36		Belden Singapore Pte. Ltd.
@@ -37551,6 +37553,7 @@
 84:1C:70		zte corporation
 84:1E:26		KERNEL-I Co.,LTD
 84:1E:A3		Sagemcom Broadband SAS
+84:1F:E8		Espressif Inc.
 84:20:96		Shenzhen Rf-Link Technology Co.,Ltd.
 84:21:41		Shenzhen Ginwave Technologies Ltd.
 84:21:F1		Huawei Technologies Co.,Ltd
@@ -49315,6 +49318,7 @@ D0:CD:E1		Scientech Electronics
 D0:CE:C0		Xiaomi Communications Co Ltd
 D0:CE:C9		Han Chang
 D0:CF:0E		Sagemcom Broadband SAS
+D0:CF:13		Espressif Inc.
 D0:CF:5E		Energy Micro AS
 D0:CF:D8		Huizhou Boshijie Technology Co.,Ltd
 D0:D0:03		Samsung Electronics Co.,Ltd
