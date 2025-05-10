@@ -21081,6 +21081,7 @@
 20:4E:F6		AzureWave Technology Inc.
 20:50:0F		Fiber Groep B.V.
 20:50:E7		AMPAK Technology,Inc.
+20:51:F5		Earda Technologies co Ltd
 20:53:83		Huawei Technologies Co.,Ltd
 20:53:8D		Hon Hai Precision Industry Co., Ltd.
 20:53:CA		Risk Technology Ltd
@@ -22602,8 +22603,12 @@
 2C:7A:F4:30:00:00/28	Shenzhen Yitoa Digital Technology Co., Ltd.
 2C:7A:F4:40:00:00/28	Kegao Intelligent Garden Technology(Guangdong) Co.,Ltd.
 2C:7A:F4:50:00:00/28	Annapurna labs
+2C:7A:F4:60:00:00/28	ShangYu Auto Technology Co.,Ltd
 2C:7A:F4:70:00:00/28	Jinan LinkCtrl IoT Co., Ltd
+2C:7A:F4:80:00:00/28	Xi'an PESCO Electronic Technology Co., Ltd
 2C:7A:F4:90:00:00/28	4neXt S.r.l.s.
+2C:7A:F4:A0:00:00/28	Risuntek Inc
+2C:7A:F4:B0:00:00/28	Arira Platforms, LLC
 2C:7A:F4:C0:00:00/28	Reonel Oy
 2C:7A:F4:D0:00:00/28	Flextronics Automotive USA, Inc
 2C:7B:5A		Milper Ltd
@@ -23914,6 +23919,7 @@
 38:29:5A		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 38:29:DD		ONvocal Inc
 38:2A:19		Technica Engineering GmbH
+38:2A:8B		nFore Technology Co., Ltd.
 38:2A:8C		ALL Winner (Hong Kong) Limited
 38:2B:78		Eco Plugs Enterprise Co., Ltd
 38:2C:4A		ASUSTek COMPUTER INC.
@@ -35784,6 +35790,7 @@
 74:A4:A7		QRS Music Technologies, Inc.
 74:A4:B5		Powerleader Science and Technology Co. Ltd.
 74:A5:28		Huawei Technologies Co.,Ltd
+74:A5:7E		Panasonic Ecology Systems
 74:A5:8C		Texas Instruments
 74:A5:C2		KYOCERA Corporation
 74:A6:CD		Apple, Inc.
@@ -37009,6 +37016,7 @@
 7C:E5:6B		ESEN Optoelectronics Technology Co.,Ltd.
 7C:E7:12		Quectel Wireless Solutions Co.,Ltd.
 7C:E8:7F		Sagemcom Broadband SAS
+7C:E9:13		Fantasia Trading LLC
 7C:E9:7C		Itel Mobile Limited
 7C:E9:D3		Hon Hai Precision Ind. Co.,Ltd.
 7C:EB:7F		Dmet Products Corp.
@@ -38804,6 +38812,7 @@
 8C:1F:64:1D:00:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:1D:10:00/36	AS Strömungstechnik GmbH
 8C:1F:64:1D:30:00/36	Opus-Two ICS
+8C:1F:64:1D:40:00/36	Integer.pl S.A.
 8C:1F:64:1D:60:00/36	Zhejiang Qian Information & Technologies
 8C:1F:64:1D:70:00/36	Beanair Sensors
 8C:1F:64:1D:80:00/36	Mesomat inc.
@@ -44551,6 +44560,7 @@ A8:E8:24		Inim Electronics S.R.L.
 A8:E9:78		Huawei Device Co., Ltd.
 A8:EA:71		Fiberhome Telecommunication Technologies Co.,LTD
 A8:EA:E4		Weiser
+A8:ED:71		Analogue Enterprises Limited
 A8:EE:67		Samsung Electronics Co.,Ltd
 A8:EE:6D		Fine Point-High Export
 A8:EE:C6		Muuselabs NV/SA
@@ -51403,6 +51413,7 @@ E4:84:29		New H3C Technologies Co., Ltd
 E4:84:2B		Hangzhou Softel Optic Co., Ltd
 E4:84:D3		Xiaomi Communications Co Ltd
 E4:85:01		Geberit International AG
+E4:8A:93		Hisense Visual Technology Co.,Ltd
 E4:8A:D5		Rf Window Co., Ltd.
 E4:8B:7F		Apple, Inc.
 E4:8C:0F		Discovery Insure
