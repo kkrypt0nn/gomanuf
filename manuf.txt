@@ -22580,6 +22580,7 @@
 2C:6B:F5		Juniper Networks
 2C:6D:C1		Intel Corporate
 2C:6E:85		Intel Corporate
+2C:6F:37		Nokia
 2C:6F:4E		Hubei Yuan Times Technology Co.,Ltd.
 2C:6F:51		Herospeed Digital Technology Limited
 2C:6F:C9		Hon Hai Precision Ind. Co.,Ltd.
@@ -23646,6 +23647,7 @@
 34:BA:9A		Asiatelco Technologies Co.
 34:BB:1F		BlackBerry RTS
 34:BB:26		Motorola Mobility LLC, a Lenovo Company
+34:BC:5E		eero inc.
 34:BC:A6		Beijing Ding Qing Technology, Ltd.
 34:BD:20		Hangzhou Hikrobot Technology Co., Ltd.
 34:BD:C8		Cisco Systems, Inc
@@ -27073,6 +27075,7 @@
 4C:BA:A3		Bison Electronics Inc.
 4C:BA:D7		LG Innotek
 4C:BB:58		Chicony Electronics Co., Ltd.
+4C:BB:6F		Infinix mobility limited
 4C:BC:42		Shenzhen Hangsheng Electronics Co.,Ltd.
 4C:BC:48		Cisco Systems, Inc
 4C:BC:72		Primex Wireless
@@ -29368,6 +29371,7 @@
 60:96:A4		Huawei Technologies Co.,Ltd
 60:97:DD		MicroSys Electronics GmbH
 60:98:13		Shanghai Visking Digital Technology Co. LTD
+60:98:49		Nokia solutions and networks Pvt Ltd
 60:98:66		Texas Instruments
 60:99:D1		Vuzix / Lenovo
 60:9A:A4		Gvi Security Inc.
@@ -41800,6 +41804,7 @@
 94:16:73		Point Core SARL
 94:17:00		Xiaomi Communications Co Ltd
 94:17:24		Anhui Guoke Ruidian communication technology  Co.,Ltd.
+94:17:87		Nokia
 94:18:65		Netgear
 94:18:82		Hewlett Packard Enterprise
 94:19:3A		Elvaco AB
@@ -54297,7 +54302,12 @@ FC:A1:83		Amazon Technologies Inc.
 FC:A2:2A		PT. Callysta Multi Engineering
 FC:A2:DF		IEEE Registration Authority
 FC:A2:DF:00:00:00/28	Solink Corporation
+FC:A2:DF:10:00:00/28	SpacemiT
+FC:A2:DF:40:00:00/28	Hangzhou Laizhi Technology Co.,Ltd
+FC:A2:DF:70:00:00/28	Flexmedia ind e com
 FC:A2:DF:80:00:00/28	boger electronics gmbh
+FC:A2:DF:90:00:00/28	Beijing KSL Electromechanical Technology Development Co.,Ltd
+FC:A2:DF:A0:00:00/28	Bpl Medical Technologies Private Limited
 FC:A2:DF:C0:00:00/28	TiGHT AV
 FC:A3:86		Shenzhen Chuangwei-Rgb Electronics Co.,Ltd
 FC:A4:7A		IEEE Registration Authority
