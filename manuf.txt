@@ -19055,6 +19055,7 @@
 10:22:79		ZeroDesktop, Inc.
 10:23:81		Barrot Technology Co.,LTD
 10:24:07		Huawei Technologies Co.,Ltd
+10:25:CE		ELKA - Torantriebe GmbH u. Co. Betriebs KG
 10:27:79		Sadel S.p.A.
 10:27:BE		Tvip
 10:27:F5		TP-Link Systems Inc
@@ -19076,7 +19077,7 @@
 10:2E:00		Intel Corporate
 10:2E:AF		Texas Instruments
 10:2F:6B		Microsoft Corporation
-10:2F:6E		Shenzhen Sundray Technologies Company Limited
+10:2F:6E		Shenzhen Sundray Technologies company Limited
 10:2F:A3		Shenzhen Uvision-tech Technology Co.Ltd
 10:2F:CA		Apple, Inc.
 10:2F:F8		Vicoretek (Nanjing) Co.,Ltd.
@@ -20064,7 +20065,7 @@
 18:6A:81		Sagemcom Broadband SAS
 18:6B:E2		Lylink Limited
 18:6D:99		Adanis Inc.
-18:6F:2D		Shenzhen Sundray Technologies Company Limited
+18:6F:2D		Shenzhen Sundray Technologies company Limited
 18:70:3B		Huawei Device Co., Ltd.
 18:71:17		eta plus electronic gmbh
 18:71:D5		Hazens Automotive Electronics(SZ)Co.,Ltd.
@@ -21008,7 +21009,7 @@
 20:1F:31		Inteno Broadband Technology AB
 20:1F:3B		Google, Inc.
 20:1F:54		Raisecom Technology CO., LTD
-20:20:27		Shenzhen Sundray Technologies Company Limited
+20:20:27		Shenzhen Sundray Technologies company Limited
 20:20:51		zte corporation
 20:21:41		Universal Electronics BV
 20:21:A5		LG Electronics (Mobile Communications)
@@ -27198,7 +27199,7 @@
 4C:ED:DE		Askey Computer Corp
 4C:ED:FB		ASUSTek COMPUTER INC.
 4C:EE:B0		SHC Netzwerktechnik GmbH
-4C:EF:56		Shenzhen Sundray Technologies Company Limited
+4C:EF:56		Shenzhen Sundray Technologies company Limited
 4C:EF:C0		Amazon Technologies Inc.
 4C:F0:2E		Vifa Denmark A/S
 4C:F1:9E		Groupe Atlantic
@@ -31003,7 +31004,7 @@
 70:3A:0E		Hewlett Packard Enterprise
 70:3A:2D		Shenzhen V-Link Technology CO., LTD.
 70:3A:51		Xiaomi Communications Co Ltd
-70:3A:73		Shenzhen Sundray Technologies Company Limited
+70:3A:73		Shenzhen Sundray Technologies company Limited
 70:3A:A6		New H3C Technologies Co., Ltd
 70:3A:CB		Google, Inc.
 70:3A:D8		Shenzhen Afoundry Electronic Co., Ltd
@@ -36593,6 +36594,7 @@
 7C:11:CD		QianTang Technology
 7C:13:1D		Sernet (Suzhou) Technologies Corporation
 7C:14:76		Damall Technologies SAS
+7C:15:2D		Renesas Electronics (Penang) Sdn. Bhd.
 7C:16:0D		Saia-Burgess Controls AG
 7C:16:89		Sagemcom Broadband SAS
 7C:17:79		EM Microelectronic
@@ -41797,7 +41799,7 @@
 94:10:3E		Belkin International Inc.
 94:10:42		Fanox Electronic S.L.
 94:11:DA		ITF Fröschl GmbH
-94:14:57		Shenzhen Sundray Technologies Company Limited
+94:14:57		Shenzhen Sundray Technologies company Limited
 94:14:7A		vivo Mobile Communication Co., Ltd.
 94:15:B2		Huawei Device Co., Ltd.
 94:16:25		Apple, Inc.
@@ -42832,7 +42834,7 @@
 9C:37:F4		Huawei Technologies Co.,Ltd
 9C:38:18		Cisco Systems, Inc
 9C:39:28		Samsung Electronics Co.,Ltd
-9C:3A:9A		Shenzhen Sundray Technologies Company Limited
+9C:3A:9A		Shenzhen Sundray Technologies company Limited
 9C:3A:AF		Samsung Electronics Co.,Ltd
 9C:3D:CF		Netgear
 9C:3E:53		Apple, Inc.
@@ -44238,7 +44240,7 @@ A8:0B:FB		Ruckus Wireless
 A8:0C:03		Florawise
 A8:0C:0D		Cisco Systems, Inc
 A8:0C:63		Huawei Technologies Co.,Ltd
-A8:0C:CA		Shenzhen Sundray Technologies Company Limited
+A8:0C:CA		Shenzhen Sundray Technologies company Limited
 A8:0D:E1		Huawei Technologies Co.,Ltd
 A8:10:87		Texas Instruments
 A8:11:FC		Commscope
@@ -45085,7 +45087,7 @@ AC:F9:7E		Elesys Inc.
 AC:FA:A5		digitron
 AC:FA:E4		Nintendo Co.,Ltd
 AC:FB:C2		Shenzhen Skyworth Digital  Technology  CO., Ltd
-AC:FC:82		Shenzhen Sundray Technologies Company Limited
+AC:FC:82		Shenzhen Sundray Technologies company Limited
 AC:FC:E3		EM Microelectronic
 AC:FD:93		Weifang Goertek Electronics Co.,Ltd
 AC:FD:CE		Intel Corporate
@@ -48195,7 +48197,7 @@ C8:A0:30		Texas Instruments
 C8:A1:B6		Shenzhen Longway Technologies Co., Ltd
 C8:A1:BA		Neul Ltd
 C8:A1:DC		Motorola Mobility LLC, a Lenovo Company
-C8:A2:3B		Shenzhen Sundray Technologies Company Limited
+C8:A2:3B		Shenzhen Sundray Technologies company Limited
 C8:A2:CE		Oasis Media Systems LLC
 C8:A3:62		ASIX Electronics Corporation
 C8:A3:E8		Cloud Network Technology Singapore Pte. Ltd.
@@ -49647,7 +49649,7 @@ D4:67:E7		Fiberhome Telecommunication Technologies Co.,LTD
 D4:68:4D		Ruckus Wireless
 D4:68:67		Neoventus Design Group
 D4:68:AA		Apple, Inc.
-D4:68:BA		Shenzhen Sundray Technologies Company Limited
+D4:68:BA		Shenzhen Sundray Technologies company Limited
 D4:69:A5		Miura Systems Ltd.
 D4:6A:35		Cisco Systems, Inc
 D4:6A:6A		Hon Hai Precision Ind. Co.,Ltd.
@@ -54303,12 +54305,15 @@ FC:A2:2A		PT. Callysta Multi Engineering
 FC:A2:DF		IEEE Registration Authority
 FC:A2:DF:00:00:00/28	Solink Corporation
 FC:A2:DF:10:00:00/28	SpacemiT
+FC:A2:DF:30:00:00/28	Pavone Sistemi Srl
 FC:A2:DF:40:00:00/28	Hangzhou Laizhi Technology Co.,Ltd
+FC:A2:DF:60:00:00/28	shenzhen zovoton electronic co.,ltd
 FC:A2:DF:70:00:00/28	Flexmedia ind e com
 FC:A2:DF:80:00:00/28	boger electronics gmbh
 FC:A2:DF:90:00:00/28	Beijing KSL Electromechanical Technology Development Co.,Ltd
 FC:A2:DF:A0:00:00/28	Bpl Medical Technologies Private Limited
 FC:A2:DF:C0:00:00/28	TiGHT AV
+FC:A2:DF:D0:00:00/28	MBio Diagnostics, Inc.
 FC:A3:86		Shenzhen Chuangwei-Rgb Electronics Co.,Ltd
 FC:A4:7A		IEEE Registration Authority
 FC:A4:7A:00:00:00/28	Broadcom Inc.
