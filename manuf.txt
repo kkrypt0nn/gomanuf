@@ -10478,6 +10478,7 @@
 00:32:3A		so-logic
 00:33:58		Ruckus Wireless
 00:33:6C		SynapSense Corporation
+00:33:7A		Tuya Smart Inc.
 00:34:A1		Rf-Lambda Usa Inc.
 00:34:DA		LG Electronics (Mobile Communications)
 00:34:F1		Radicom Research, Inc.
@@ -15762,6 +15763,7 @@
 00:81:F9		Texas Instruments
 00:83:20		Huawei Device Co., Ltd.
 00:84:1E		Cisco Meraki
+00:84:97		Shenzhen MiaoMing Intelligent Technology Co.,Ltd
 00:84:ED		Lexmark International, Inc.
 00:86:67		LG Innotek
 00:86:9C		Palo Alto Networks
@@ -20268,6 +20270,7 @@
 18:CC:23		Philio Technology Corporation
 18:CC:88		Hitachi Johnson Controls Air
 18:CE:94		Samsung Electronics Co.,Ltd
+18:CE:DF		Quectel Wireless Solutions Co.,Ltd.
 18:CF:24		Huawei Technologies Co.,Ltd
 18:CF:5E		Liteon Technology Corporation
 18:D0:71		Dasan Co., Ltd.
@@ -29135,6 +29138,7 @@
 60:08:10		Huawei Technologies Co.,Ltd
 60:08:37		ivvi Scientific(Nanchang)Co.Ltd
 60:09:C3		u-blox AG
+60:0A:8C		Shenzhen Sundray Technologies company Limited
 60:0B:03		Hangzhou H3C Technologies Co., Limited
 60:0F:6B		Apple, Inc.
 60:0F:77		SilverPlus, Inc
@@ -38764,6 +38768,7 @@
 8C:1F:64:14:60:00/36	Zhongrun Xinchan (Beijing) Technology Co., Ltd
 8C:1F:64:14:80:00/36	Carehawk
 8C:1F:64:14:90:00/36	Clock-O-Matic
+8C:1F:64:14:A0:00/36	Richie Ltd
 8C:1F:64:14:B0:00/36	Potter Electric Signal Company
 8C:1F:64:14:D0:00/36	Vertesz Elektronika Kft.
 8C:1F:64:14:F0:00/36	Nsm
@@ -39180,6 +39185,7 @@
 8C:1F:64:45:10:00/36	Guan Show Technologe Co., Ltd.
 8C:1F:64:45:40:00/36	KJ Klimateknik A/S
 8C:1F:64:45:70:00/36	Shanghai Angwei Information Technology Co.,Ltd.
+8C:1F:64:45:A0:00/36	Inspur Digital Enterprise Technology Co., Ltd.
 8C:1F:64:45:B0:00/36	Beijing Aoxing Technology Co.,Ltd
 8C:1F:64:45:D0:00/36	Fuzhou Tucsen Photonics Co.,Ltd
 8C:1F:64:45:F0:00/36	Toshniwal Security Solutions Pvt Ltd
@@ -39658,6 +39664,7 @@
 8C:1F:64:7B:90:00/36	Deviceroy
 8C:1F:64:7B:B0:00/36	Kotsu Dengyosha Co., Ltd.
 8C:1F:64:7B:C0:00/36	GO development GmbH
+8C:1F:64:7B:E0:00/36	inomatic GmbH
 8C:1F:64:7C:20:00/36	CTI Intl Solutions
 8C:1F:64:7C:60:00/36	Flextronics International Kft
 8C:1F:64:7C:70:00/36	Ascon Tecnologic S.r.l.
@@ -42989,6 +42996,7 @@
 9C:7B:D2		NEOLAB Convergence
 9C:7B:EF		Hewlett Packard
 9C:7D:A3		Huawei Technologies Co.,Ltd
+9C:7D:C0		Tech4home, Lda
 9C:7F:57		UNIC Memory Technology Co Ltd
 9C:7F:81		Shenzhen Fast Technologies Co.,Ltd
 9C:80:7D		SYSCABLE Korea Inc.
@@ -46526,6 +46534,7 @@ BC:34:00:D0:00:00/28	Hangzhou Linker Digital Technology Co., Ltd
 BC:34:00:E0:00:00/28	LLD Technology Ltd.
 BC:34:00:F0:00:00/28	Private
 BC:34:CA		Inovance
+BC:35:1E		Tuya Smart Inc.
 BC:35:E5		Hydro Systems Company
 BC:37:D3		Apple, Inc.
 BC:38:65		Jwcnetworks
@@ -47017,6 +47026,7 @@ C0:51:7E		Hangzhou Hikvision Digital Technology Co.,Ltd.
 C0:51:F3		Cig Shanghai Co Ltd
 C0:52:34		Huawei Technologies Co.,Ltd
 C0:53:36		Beijing National Railway Research & Design Institute of Signal & Communication Group Co..Ltd.
+C0:54:4D		Nokia Shanghai Bell Co., Ltd.
 C0:55:5C		Impulse Labs
 C0:56:27		Belkin International Inc.
 C0:56:E3		Hangzhou Hikvision Digital Technology Co.,Ltd.
@@ -48019,7 +48029,7 @@ C8:51:95		Huawei Technologies Co.,Ltd
 C8:51:FB		Extreme Networks Headquarters
 C8:52:61		Commscope
 C8:53:09		LCFC(Hefei) Electronics Technology co., ltd
-C8:53:E1		Beijing Bytedance Network Technology Co., Ltd
+C8:53:E1		Douyin Vision Co., Ltd
 C8:54:4B		Zyxel Communications Corporation
 C8:54:A4		Infinix mobility limited
 C8:56:45		Intermas France
@@ -54326,11 +54336,13 @@ FC:A2:DF:10:00:00/28	SpacemiT
 FC:A2:DF:20:00:00/28	Pdi Communication Systems Inc.
 FC:A2:DF:30:00:00/28	Pavone Sistemi Srl
 FC:A2:DF:40:00:00/28	Hangzhou Laizhi Technology Co.,Ltd
+FC:A2:DF:50:00:00/28	Annapurna labs
 FC:A2:DF:60:00:00/28	shenzhen zovoton electronic co.,ltd
 FC:A2:DF:70:00:00/28	Flexmedia ind e com
 FC:A2:DF:80:00:00/28	boger electronics gmbh
 FC:A2:DF:90:00:00/28	Beijing KSL Electromechanical Technology Development Co.,Ltd
 FC:A2:DF:A0:00:00/28	Bpl Medical Technologies Private Limited
+FC:A2:DF:B0:00:00/28	Lumentum
 FC:A2:DF:C0:00:00/28	TiGHT AV
 FC:A2:DF:D0:00:00/28	MBio Diagnostics, Inc.
 FC:A3:86		Shenzhen Chuangwei-Rgb Electronics Co.,Ltd
