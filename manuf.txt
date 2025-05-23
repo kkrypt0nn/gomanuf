@@ -17524,7 +17524,11 @@
 04:58:5D		IEEE Registration Authority
 04:58:5D:10:00:00/28	Exodraft A/S
 04:58:5D:20:00:00/28	Foxconn Brasil Industria e Comercio Ltda
+04:58:5D:50:00:00/28	Sercomm Japan Corporation
 04:58:5D:60:00:00/28	VERTE Elektronik San. Ve Tic. A.Ş.
+04:58:5D:70:00:00/28	HKC Security Ltd.
+04:58:5D:90:00:00/28	Dron Edge India Private Limited
+04:58:5D:C0:00:00/28	Rexon Technology
 04:58:6F		Sichuan Whayer information industry Co.,LTD
 04:5A:95		Nokia Corporation
 04:5C:06		Zmodo Technology Corporation
@@ -40358,6 +40362,7 @@
 8C:1F:64:C6:D0:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:C6:E0:00/36	Safe Instruments
 8C:1F:64:C7:10:00/36	Yaviar LLC
+8C:1F:64:C7:50:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:C7:90:00/36	P3Lab
 8C:1F:64:C7:B0:00/36	Freedom Atlantic
 8C:1F:64:C7:C0:00/36	MERKLE Schweissanlagen-Technik GmbH
@@ -40565,6 +40570,7 @@
 8C:1F:64:E0:00:00/36	Dvb-Tech S.R.L.
 8C:1F:64:E0:20:00/36	ITS Teknik A/S
 8C:1F:64:E0:40:00/36	新川センサテクノロジ株式会社
+8C:1F:64:E0:50:00/36	Mitsubishi Electric System & Service Co., Ltd.
 8C:1F:64:E0:80:00/36	Imagenet Co.,Ltd
 8C:1F:64:E0:90:00/36	Enless Wireless
 8C:1F:64:E0:B0:00/36	Laurel Electronics LLC
@@ -42604,6 +42610,7 @@
 98:9B:CB		AVM Audiovisuelles Marketing und Computersysteme GmbH
 98:9C:57		Huawei Technologies Co.,Ltd
 98:9D:39		China Mobile Group Device Co.,Ltd.
+98:9D:40		Miwa Lock Co.,Ltd.
 98:9D:5D		Vantiva USA LLC
 98:9D:B2		GOIP Global Services Pvt. Ltd.
 98:9D:E5		Hangzhou Hikvision Digital Technology Co.,Ltd.
@@ -47645,6 +47652,7 @@ C4:83:72:E0:00:00/28	Suzhou LZY technology Co.,Ltd
 C4:84:66		Apple, Inc.
 C4:84:FC		Apple, Inc.
 C4:85:08		Intel Corporate
+C4:86:4F		Beijing BitIntelligence Information Technology Co. Ltd.
 C4:86:E9		Huawei Technologies Co.,Ltd
 C4:88:E5		Samsung Electronics Co.,Ltd
 C4:89:ED		Solid Optics EU N.V.
@@ -47987,6 +47995,7 @@ C8:1F:EA		Avaya Inc
 C8:20:8E		Storagedata
 C8:21:58		Intel Corporate
 C8:21:DA		Shenzhen YOUHUA Technology Co., Ltd
+C8:24:78		Edifier International
 C8:24:96		Jiangsu Yinhe  Electronics Co.,Ltd.
 C8:25:E1		Lemobile Information Technology (Beijing) Co., Ltd
 C8:28:32		Beijing Xiaomi Electronics Co., Ltd.
@@ -49838,6 +49847,7 @@ D4:A3:8B		Ele(Group)Co.,Ltd
 D4:A3:EB		Shenzhen iComm Semiconductor CO.,LTD
 D4:A4:25		SMAX Technology Co., Ltd.
 D4:A4:99		InView Technology Corporation
+D4:A5:B4		Hengji Jiaye (Hangzhou) Technology Co., Ltd
 D4:A6:51		Tuya Smart Inc.
 D4:A9:23		Huawei Technologies Co.,Ltd
 D4:A9:28		GreenWave Reality Inc
