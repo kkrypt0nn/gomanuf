@@ -17525,6 +17525,7 @@
 04:58:5D:00:00:00/28	Wetatronics Limited
 04:58:5D:10:00:00/28	Research Laboratory of Design Automation, Ltd.
 04:58:5D:20:00:00/28	Foxconn Brasil Industria e Comercio Ltda
+04:58:5D:30:00:00/28	REXXON GmbH
 04:58:5D:40:00:00/28	Integrated Technical Vision Ltd
 04:58:5D:50:00:00/28	Sercomm Japan Corporation
 04:58:5D:60:00:00/28	VERTE Elektronik San. Ve Tic. A.Ş.
@@ -17532,7 +17533,9 @@
 04:58:5D:80:00:00/28	Jrk Vision
 04:58:5D:90:00:00/28	Dron Edge India Private Limited
 04:58:5D:A0:00:00/28	Teleplatforms
+04:58:5D:B0:00:00/28	Chengdu Juxun Electronic Technology Co.,Ltd
 04:58:5D:C0:00:00/28	Rexon Technology
+04:58:5D:D0:00:00/28	HDS Otomasyon Güvenlik ve Yazılım Teknolojiler Sanayi Ticaret Limited Şirketi
 04:58:6F		Sichuan Whayer information industry Co.,LTD
 04:5A:95		Nokia Corporation
 04:5C:06		Zmodo Technology Corporation
@@ -18536,6 +18539,7 @@
 0C:27:24		Cisco Systems, Inc
 0C:27:55		Valuable Techologies Limited
 0C:27:56		Rongcheeng Goer Technology Co.,Ltd.
+0C:27:79		New H3C Technologies Co., Ltd
 0C:29:8F		Tesla,Inc.
 0C:29:EF		Dell Inc.
 0C:2A:69		electric imp, incorporated
@@ -22180,6 +22184,7 @@
 28:C8:7A		Commscope
 28:C8:7C		zte corporation
 28:C9:14		Taimag Corporation
+28:C9:7A		New H3C Technologies Co., Ltd
 28:CA:09		ThyssenKrupp Elevators (Shanghai) Co.,Ltd
 28:CB:5C		Shenzhen CPETEK Technology Co.,Ltd.
 28:CB:EB		One
@@ -39319,6 +39324,7 @@
 8C:1F:64:50:20:00/36	Samwell International Inc
 8C:1F:64:50:30:00/36	Tualcom Elektronik A.S.
 8C:1F:64:50:40:00/36	EA Elektroautomatik GmbH & Co. KG
+8C:1F:64:50:60:00/36	UrbanChain Group Co., Ltd
 8C:1F:64:50:90:00/36	Season Electronics Ltd
 8C:1F:64:50:A0:00/36	Bellco Trading Company (Pvt) Ltd
 8C:1F:64:50:B0:00/36	Beijing Entian Technology Development Co., Ltd
@@ -39338,6 +39344,7 @@
 8C:1F:64:52:30:00/36	SPEKTRA Schwingungstechnik und Akustik GmbH Dresden
 8C:1F:64:52:40:00/36	Aski Industrie Elektronik GmbH
 8C:1F:64:52:50:00/36	United States Technologies Inc.
+8C:1F:64:52:60:00/36	CAITRON GmbH
 8C:1F:64:52:70:00/36	Pdw
 8C:1F:64:52:A0:00/36	Hiwin Mikrosystem Corp.
 8C:1F:64:52:D0:00/36	Cubic ITS, Inc. dba GRIDSMART Technologies
@@ -40971,6 +40978,7 @@
 8C:56:C5		Nintendo Co., Ltd.
 8C:57:9B		Wistron Neweb Corporation
 8C:57:FD		LVX Western
+8C:58:23		Sz Dji Technology Co.,Ltd
 8C:58:77		Apple, Inc.
 8C:59:3C		IEEE Registration Authority
 8C:59:3C:00:00:00/28	Fujian Chaozhi Group Co., Ltd.
@@ -42041,6 +42049,7 @@
 94:8C:D7		Hui Zhou Gaoshengda Technology Co.,LTD
 94:8D:50		Beamex Oy Ab
 94:8D:EF		Oetiker Schweiz AG
+94:8E:6D		Nintendo Co.,Ltd
 94:8E:89		Industrias Unidas Sa De Cv
 94:8E:D3		Arista Networks
 94:8F:CF		Commscope
@@ -49845,6 +49854,7 @@ D4:9A:F6		AzureWave Technology Inc.
 D4:9B:5C		Chongqing Miedu Technology Co., Ltd.
 D4:9B:74		Kinetic Technologies
 D4:9C:28		JayBird LLC
+D4:9C:53		Netcraze Llc
 D4:9C:8E		University of FUKUI
 D4:9C:DD		AMPAK Technology,Inc.
 D4:9C:F4		Palo Alto Networks
