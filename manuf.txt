@@ -16728,6 +16728,7 @@
 00:C5:DB		Datatech Sistemas Digitales Avanzados SL
 00:C6:10		Apple, Inc.
 00:C7:11		Itel Mobile Limited
+00:C8:4E		Hewlett Packard Enterprise
 00:C8:8B		Cisco Systems, Inc
 00:C8:96		Cig Shanghai Co Ltd
 00:CA:E0		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -22201,6 +22202,7 @@
 28:CD:9C		Shenzhen Dynamax Software Development Co.,Ltd.
 28:CD:C1		Raspberry Pi Trading Ltd
 28:CD:C4		Chongqing Fugui Electronics Co.,Ltd.
+28:CE:15		Shenzhen Xinwei Intelligent Co., Ltd
 28:CF:08		Essys
 28:CF:51		Nintendo Co.,Ltd
 28:CF:DA		Apple, Inc.
@@ -25182,6 +25184,7 @@
 40:A6:B7		Intel Corporate
 40:A6:D9		Apple, Inc.
 40:A6:E8		Cisco Systems, Inc
+40:A7:86		Tecno Mobile Limited
 40:A8:F0		Hewlett Packard
 40:A9:3F		Pivotal Commware, Inc.
 40:A9:CF		Amazon Technologies Inc.
@@ -36342,6 +36345,7 @@
 78:8D:AF		Sagemcom Broadband SAS
 78:8D:F7		Hitron Technologies. Inc
 78:8E:33		Jiangsu SEUIC Technology Co.,Ltd
+78:8E:45		Jizaie inc.
 78:90:A2		zte corporation
 78:91:DE		Guangdong ACIGA Science&Technology Co.,Ltd
 78:91:E9		Raisecom Technology CO., LTD
@@ -40359,6 +40363,7 @@
 8C:1F:64:C2:D0:00/36	iENSO Inc.
 8C:1F:64:C2:F0:00/36	Power Electronics Espana, S.L.
 8C:1F:64:C3:50:00/36	Peter Huber Kaeltemaschinenbau SE
+8C:1F:64:C3:60:00/36	ODTech Co., Ltd.
 8C:1F:64:C3:80:00/36	Eco-Adapt
 8C:1F:64:C3:A0:00/36	YUSUR Technology Co., Ltd.
 8C:1F:64:C3:E0:00/36	ISMA Microsolutions INC
@@ -41995,6 +42000,7 @@
 94:51:03		Samsung Electronics Co.,Ltd
 94:51:3D		iSmart Alarm, Inc.
 94:51:BF		Hyundai ESG
+94:51:DC		Espressif Inc.
 94:52:44		Samsung Electronics Co.,Ltd
 94:53:30		Hon Hai Precision Ind. Co.,Ltd.
 94:54:93		Rigado, LLC
@@ -42869,6 +42875,7 @@
 9C:0E:4A		Shenzhen Vastking Electronic Co.,Ltd.
 9C:0E:51		Schneider Electric
 9C:12:21		Sichuan AI-Link Technology Co., Ltd.
+9C:13:9E		Espressif Inc.
 9C:13:AB		Chanson Water Co., Ltd.
 9C:14:63		Zhejiang Dahua Technology Co., Ltd.
 9C:14:65		Edata Elektronik San. ve Tic. A.Ş.
@@ -49883,8 +49890,11 @@ D4:9E:6D		Wuhan Zhongyuan Huadian Science & Technology Co.,
 D4:9F:DD		Huawei Device Co., Ltd.
 D4:A0:2A		Cisco Systems, Inc
 D4:A0:FB		IEEE Registration Authority
+D4:A0:FB:00:00:00/28	M2MD Technologies, Inc.
 D4:A0:FB:40:00:00/28	Shenzhen Dijiean Technology Co., Ltd
 D4:A0:FB:70:00:00/28	Skyfri Corp
+D4:A0:FB:80:00:00/28	Parpro System Corporation
+D4:A0:FB:90:00:00/28	Hangteng (HK) Technology Co., Limited
 D4:A1:48		Huawei Technologies Co.,Ltd
 D4:A2:3D		New H3C Technologies Co., Ltd
 D4:A2:CD		Dell Inc.
@@ -54267,6 +54277,7 @@ FC:37:2B		Sichuan Tianyi Comheart Telecom Co.,LTD
 FC:38:6A		Shenzhen Skyworth Digital  Technology  CO., Ltd
 FC:38:76		Forum Communication Systems, Inc
 FC:38:C4		China Grand Communications Co.,Ltd.
+FC:39:5A		SonicWall
 FC:39:64		Itel Mobile Limited
 FC:3C:D7		Tuya Smart Inc.
 FC:3C:E9		Tsingtong Technologies Co, Ltd.
