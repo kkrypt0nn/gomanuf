@@ -19401,6 +19401,7 @@
 10:D6:57		Siemens Industrial Automation Products Ltd., Chengdu
 10:D6:80		Tendyron Corporation
 10:D7:B0		Sagemcom Broadband SAS
+10:D9:A2		Google, Inc.
 10:DA:43		Netgear
 10:DA:49		Huawei Device Co., Ltd.
 10:DA:63		Apple, Inc.
@@ -23238,6 +23239,7 @@
 30:C3:D9		Alpsalpine Co,.Ltd
 30:C5:07		ECI Telecom Ltd.
 30:C5:0F		Huawei Technologies Co.,Ltd
+30:C5:99		ASUSTek COMPUTER INC.
 30:C6:AB		zte corporation
 30:C6:D7		New H3C Technologies Co., Ltd
 30:C6:F7		Espressif Inc.
@@ -26634,6 +26636,7 @@
 48:CD:D3		Huawei Technologies Co.,Ltd
 48:CF:A9		Huawei Technologies Co.,Ltd
 48:D0:17		Telecom Infra Project
+48:D0:1C		AltoBeam Inc.
 48:D0:CF		Universal Electronics, Inc.
 48:D1:8E		Metis Communication Co.,Ltd
 48:D2:24		Liteon Technology Corporation
@@ -37855,6 +37858,7 @@
 84:93:A0		Huawei Device Co., Ltd.
 84:93:B2		zte corporation
 84:94:37		Apple, Inc.
+84:94:59		Hangzhou Hikvision Digital Technology Co.,Ltd.
 84:94:8C		Hitron Technologies. Inc
 84:96:81		Cathay Communication Co.,Ltd
 84:96:90		Murata Manufacturing Co., Ltd.
@@ -38482,6 +38486,7 @@
 88:DA:18		China Mobile Group Device Co.,Ltd.
 88:DA:1A		Redpine Signals, Inc.
 88:DA:33		Beijing Xiaoyuer Network Technology Co., Ltd
+88:DA:36		Calix Inc.
 88:DC:96		EnGenius Technologies, Inc.
 88:DD:79		Voltaire
 88:DD:B8		Huawei Device Co., Ltd.
@@ -45561,6 +45566,7 @@ B0:D5:68		Shenzhen Cultraview Digital Technology Co., Ltd
 B0:D5:76		Apple, Inc.
 B0:D5:9D		Shenzhen Zowee Technology Co., Ltd
 B0:D5:CC		Texas Instruments
+B0:D5:FB		Google, Inc.
 B0:D7:7E		Huawei Technologies Co.,Ltd
 B0:D7:C5		Logipix Ltd
 B0:D7:CC		Tridonic GmbH & Co KG
@@ -51065,6 +51071,7 @@ E0:48:24		Garmin International
 E0:48:AF		Premietech Limited
 E0:48:D3		Mobiwire Mobiles (Ningbo) Co.,Ltd
 E0:48:D8		Guangzhi Wulian Technology(Guangzhou) Co., Ltd
+E0:49:34		Calix Inc.
 E0:49:ED		Audeze LLC
 E0:4B:41		Hangzhou Beilian Low Carbon Technology Co., Ltd.
 E0:4B:45		Hi-P Electronics Pte Ltd
