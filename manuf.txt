@@ -483,7 +483,7 @@
 00:01:D4		Leisure Time, Inc.
 00:01:D5		Haedong Info & Comm Co., Ltd
 00:01:D6		manroland AG
-00:01:D7		F5 Networks, Inc.
+00:01:D7		F5 Inc.
 00:01:D8		Teltronics, Inc.
 00:01:D9		Sigma, Inc.
 00:01:DA		WINCOMM Corporation
@@ -2617,7 +2617,7 @@
 00:0A:46		Aro Welding Technologies Sas
 00:0A:47		Allied Vision Technologies
 00:0A:48		Albatron Technology
-00:0A:49		F5 Networks, Inc.
+00:0A:49		F5 Inc.
 00:0A:4A		Targa Systems Ltd.
 00:0A:4B		DataPower Technology, Inc.
 00:0A:4C		Molecular Devices Corporation
@@ -9378,7 +9378,7 @@
 00:23:E6		Innovation Farm, Inc.
 00:23:E7		Hinke A/S
 00:23:E8		Demco Corp.
-00:23:E9		F5 Networks, Inc.
+00:23:E9		F5 Inc.
 00:23:EA		Cisco Systems, Inc
 00:23:EB		Cisco Systems, Inc
 00:23:EC		Algorithmix GmbH
@@ -16066,7 +16066,7 @@
 00:92:FA		Shenzhen Wisky Technology Co.,Ltd
 00:93:37		Intel Corporate
 00:93:63		Uni-Link Technology Co., Ltd.
-00:94:A1		F5 Networks, Inc.
+00:94:A1		F5 Inc.
 00:94:EC		Huawei Device Co., Ltd.
 00:95:69		LSD Science and Technology Co.,Ltd.
 00:97:F1		Apple, Inc.
@@ -19759,7 +19759,7 @@
 14:A7:2B		currentoptronics Pvt.Ltd
 14:A7:8B		Zhejiang Dahua Technology Co., Ltd.
 14:A8:6B		ShenZhen Telacom Science&Technology Co., Ltd
-14:A9:D0		F5 Networks, Inc.
+14:A9:D0		F5 Inc.
 14:A9:E3		Mst Corporation
 14:AB:02		Huawei Technologies Co.,Ltd
 14:AB:56		Wuxi Funide Digital Co.,Ltd
@@ -23072,6 +23072,7 @@
 30:49:50:E0:00:00/28	IoTmaxx GmbH
 30:49:9E		Huawei Technologies Co.,Ltd
 30:4A:26		Shenzhen Trolink Technology CO, LTD
+30:4A:C4		Barrot Technology Co.,LTD
 30:4B:07		Motorola Mobility LLC, a Lenovo Company
 30:4C:7E		Panasonic Electric Works Automation Controls Techno Co.,Ltd.
 30:4E:1B		Huawei Device Co., Ltd.
@@ -28418,6 +28419,7 @@
 58:6E:D6		Private
 58:70:7F		Ericsson AB
 58:70:C6		Shanghai Xiaoyi Technology Co., Ltd.
+58:72:C9		zte corporation
 58:73:D1		Huawei Technologies Co.,Ltd
 58:73:D8		Apple, Inc.
 58:75:21		CJSC RTSoft
@@ -29852,6 +29854,7 @@
 64:73:66		Shenzhen Siera Technology Ltd
 64:73:E2		Arbiter Systems, Inc.
 64:74:F6		Shooter Detection Systems
+64:75:20		zte corporation
 64:76:57		Innovative Security Designs
 64:76:BA		Apple, Inc.
 64:77:7D		Hitron Technologies. Inc
@@ -36488,6 +36491,7 @@
 78:CC:2B		Sinewy Technology Co., Ltd
 78:CD:55		Texas Instruments
 78:CD:8E		SMC Networks Inc
+78:CE:A5		Vital link vietnam company limited
 78:CF:2F		Huawei Technologies Co.,Ltd
 78:CF:F9		Huawei Device Co., Ltd.
 78:D0:04		Neousys Technology Inc.
@@ -40880,6 +40884,7 @@
 8C:1F:64:FF:60:00/36	Ascon Tecnologic S.r.l.
 8C:1F:64:FF:80:00/36	Chamsys Ltd
 8C:1F:64:FF:90:00/36	Vtron Pty Ltd
+8C:1F:64:FF:B0:00/36	Taicang T&W Electronics
 8C:1F:64:FF:C0:00/36	Invendis Technologies India Pvt Ltd
 8C:1F:94		RF Surgical System Inc.
 8C:21:0A		Tp-Link Technologies Co.,Ltd.
@@ -48274,7 +48279,7 @@ C8:8E:D1:D0:00:00/28	Phoenix Engineering Corp.
 C8:8E:D1:E0:00:00/28	Aventics GmbH
 C8:8E:D1:F0:00:00/28	Private
 C8:8F:26		Skyworth Digital Technology(Shenzhen) Co.,Ltd
-C8:90:09		Budderfly, LLC
+C8:90:09		Budderfly Inc
 C8:90:3E		Pakton Technologies
 C8:90:8A		Samsung Electronics Co.,Ltd
 C8:90:A8		Bouffalo Lab (Nanjing) Co., Ltd.
@@ -49898,6 +49903,7 @@ D4:A0:2A		Cisco Systems, Inc
 D4:A0:FB		IEEE Registration Authority
 D4:A0:FB:00:00:00/28	M2MD Technologies, Inc.
 D4:A0:FB:40:00:00/28	Shenzhen Dijiean Technology Co., Ltd
+D4:A0:FB:50:00:00/28	Corelase Oy
 D4:A0:FB:70:00:00/28	Skyfri Corp
 D4:A0:FB:80:00:00/28	Parpro System Corporation
 D4:A0:FB:90:00:00/28	Hangteng (HK) Technology Co., Limited
@@ -50352,6 +50358,7 @@ D8:B1:2A		Panasonic Mobile Communications Co.,Ltd.
 D8:B1:90		Cisco Systems, Inc
 D8:B2:49		Huawei Device Co., Ltd.
 D8:B2:93		Topssd
+D8:B2:AA		zte corporation
 D8:B3:2F		Cloud Network Technology Singapore Pte. Ltd.
 D8:B3:70		Ubiquiti Inc
 D8:B3:77		HTC Corporation
@@ -53200,7 +53207,7 @@ F4:13:99		Aerospace new generation communications Co.,Ltd
 F4:14:BF		LG Innotek
 F4:15:32		PETAiO (NanJing), Inc.
 F4:15:35		SPON Communication Technology Co.,Ltd
-F4:15:63		F5 Networks, Inc.
+F4:15:63		F5 Inc.
 F4:15:FD		Shanghai Pateo Electronic Equipment Manufacturing Co., Ltd.
 F4:17:B8		AirTies Wireless Networks
 F4:19:E2		Volterra
