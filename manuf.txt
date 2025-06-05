@@ -27267,6 +27267,7 @@
 4C:F7:37		SamJi Electronics Co., Ltd
 4C:F9:5D		Huawei Technologies Co.,Ltd
 4C:FA:9A		Shenzhen Quanxing Technology Co., Ltd
+4C:FA:C9		BWS IoT
 4C:FA:CA		Cambridge Industries(Group) Co.,Ltd.
 4C:FB:45		Huawei Technologies Co.,Ltd
 4C:FB:F4		Optimal Audio Ltd
@@ -30117,6 +30118,7 @@
 68:23:4B		Nihon Dengyo Kousaku
 68:23:B0		Texas Instruments
 68:23:F4		Shenzhen Jinlangxin Technology Co., Ltd
+68:24:99		Quectel Wireless Solutions Co.,Ltd.
 68:25:DD		Espressif Inc.
 68:26:24		Ergatta
 68:26:2A		Sichuan Tianyi Comheart Telecom Co.,LTD
@@ -37558,6 +37560,7 @@
 80:E4:DA:F0:00:00/28	Private
 80:E5:40		Commscope
 80:E6:50		Apple, Inc.
+80:E7:69		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 80:E8:2C		Hewlett Packard
 80:E8:6F		Cisco Systems, Inc
 80:E9:4A		LEAPS s.r.o.
@@ -38339,6 +38342,7 @@
 88:97:65		exands
 88:97:DF		Entrypass Corporation Sdn. Bhd.
 88:98:21		Teraon
+88:9A:FF		SystemX Co.,Ltd.
 88:9B:39		Samsung Electronics Co.,Ltd
 88:9C:A6		BTB Korea INC
 88:9C:AD		Cisco Systems, Inc
@@ -38765,6 +38769,7 @@
 8C:1F:64:0C:A0:00/36	CLOUD TELECOM Inc.
 8C:1F:64:0C:C0:00/36	Smart I Electronics Systems Pvt. Ltd.
 8C:1F:64:0C:D0:00/36	DEUTA Werke GmbH
+8C:1F:64:0C:E0:00/36	Digitella Inc.
 8C:1F:64:0D:20:00/36	biosilver .co.,ltd
 8C:1F:64:0D:30:00/36	erfi Ernst Fischer GmbH+Co.KG
 8C:1F:64:0D:40:00/36	Dalcnet srl
@@ -39043,6 +39048,7 @@
 8C:1F:64:2D:F0:00/36	Ubotica Technologies
 8C:1F:64:2E:20:00/36	Mark Roberts Motion Control
 8C:1F:64:2E:30:00/36	Erba Lachema s.r.o.
+8C:1F:64:2E:40:00/36	Vision Systems Safety Tech
 8C:1F:64:2E:50:00/36	GS Elektromedizinsiche Geräte G. Stemple GmbH
 8C:1F:64:2E:80:00/36	Sonora Network Solutions
 8C:1F:64:2E:C0:00/36	HD Vision Systems GmbH
@@ -39826,6 +39832,7 @@
 8C:1F:64:85:B0:00/36	Atlantic Pumps Ltd
 8C:1F:64:85:C0:00/36	Zing 5g Communications Canada Inc.
 8C:1F:64:85:E0:00/36	Apen Group S.p.A.  (VAT IT08767740155)
+8C:1F:64:85:F0:00/36	NEC Asia Pacific Pte Ltd
 8C:1F:64:86:30:00/36	EngiNe srl
 8C:1F:64:86:40:00/36	IMI Thomson Valves
 8C:1F:64:86:60:00/36	Unitron Systems b.v.
@@ -45102,6 +45109,7 @@ AC:C6:98		Kohzu Precision Co., Ltd.
 AC:C7:3F		Vitsmo Co., Ltd.
 AC:C9:06		Apple, Inc.
 AC:C9:35		Ness Corporation
+AC:C9:FF		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 AC:CA:0F		Indisr Communication Services And Technologies India
 AC:CA:54		Telldus Technologies AB
 AC:CA:8E		ODA Technologies
@@ -45838,6 +45846,7 @@ B4:56:FA		IOPSYS Software Solutions
 B4:57:E6		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 B4:58:61		CRemote, LLC
 B4:59:76		Apple, Inc.
+B4:5B:86		Funshion Online Technologies Co.,Ltd
 B4:5B:D1		TP-Link Systems Inc.
 B4:5C:A4		Thing-talk Wireless Communication Technologies Corporation Limited
 B4:5D:50		Hewlett Packard Enterprise
@@ -49902,11 +49911,13 @@ D4:9F:DD		Huawei Device Co., Ltd.
 D4:A0:2A		Cisco Systems, Inc
 D4:A0:FB		IEEE Registration Authority
 D4:A0:FB:00:00:00/28	M2MD Technologies, Inc.
+D4:A0:FB:30:00:00/28	Nexxus Networks India Private Limited
 D4:A0:FB:40:00:00/28	Shenzhen Dijiean Technology Co., Ltd
 D4:A0:FB:50:00:00/28	Corelase Oy
 D4:A0:FB:70:00:00/28	Skyfri Corp
 D4:A0:FB:80:00:00/28	Parpro System Corporation
 D4:A0:FB:90:00:00/28	Hangteng (HK) Technology Co., Limited
+D4:A0:FB:A0:00:00/28	Impulse Cctv Networks India Pvt. Ltd.
 D4:A1:48		Huawei Technologies Co.,Ltd
 D4:A2:3D		New H3C Technologies Co., Ltd
 D4:A2:CD		Dell Inc.
