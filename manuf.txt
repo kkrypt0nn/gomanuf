@@ -23003,6 +23003,7 @@
 30:3A:4A		eero inc.
 30:3A:64		Intel Corporate
 30:3A:BA		Guangzhou BaoLun Electronics Co., Ltd
+30:3B:49		Cisco Meraki
 30:3B:7C		Apple, Inc.
 30:3D:08		Glintt Tes S.A.
 30:3D:51		IEEE Registration Authority
@@ -23846,6 +23847,7 @@
 34:F8:6E		Parker Hannifin Corporation
 34:F8:E7		Cisco Systems, Inc
 34:F9:68		ATEK Products, LLC
+34:FA:1C		Beijing Xiaomi Mobile Software Co., Ltd
 34:FA:40		Guangzhou Robustel Technologies Co., Limited
 34:FA:9F		Ruckus Wireless
 34:FC:6F		Alcea
@@ -36075,6 +36077,7 @@
 78:0C:F0		Cisco Systems, Inc
 78:0E:D1		TRUMPF Werkzeugmaschinen GmbH+Co.KG
 78:0F:77		HangZhou Gubei Electronics Technology Co.,Ltd
+78:0F:81		Cisco Meraki
 78:10:53		China Mobile Group Device Co.,Ltd.
 78:11:00		Quantumsolution
 78:11:85		NBS Payment Solutions Inc.
@@ -38948,6 +38951,7 @@
 8C:1F:64:22:80:00/36	Shenzhen Chuanxin Micro Technology Co., Ltd
 8C:1F:64:22:D0:00/36	Kaysons Electricals Private Limited
 8C:1F:64:22:E0:00/36	Jide Car Rastreamento e Monitoramento LTDA
+8C:1F:64:23:10:00/36	Shenzhen zhushida Technology lnformation Co.,Ltd
 8C:1F:64:23:20:00/36	Monnit Corporation
 8C:1F:64:23:50:00/36	Marson Technology Co., Ltd.
 8C:1F:64:23:70:00/36	MB connect line GmbH
@@ -39013,6 +39017,7 @@
 8C:1F:64:2A:00:00/36	Connected Development
 8C:1F:64:2A:10:00/36	Pantherun Technologies Pvt Ltd
 8C:1F:64:2A:20:00/36	Serap
+8C:1F:64:2A:30:00/36	NSK Co.,Ltd.
 8C:1F:64:2A:40:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:2A:50:00/36	Nonet Inc
 8C:1F:64:2A:60:00/36	Radiation Solutions Inc.
@@ -39434,6 +39439,7 @@
 8C:1F:64:58:E0:00/36	Novanta IMS
 8C:1F:64:59:10:00/36	MB connect line GmbH Fernwartungssysteme
 8C:1F:64:59:30:00/36	Brillian Network & Automation Integrated System Co., Ltd.
+8C:1F:64:59:50:00/36	Inspinia Technology s.r.o.
 8C:1F:64:59:60:00/36	RF Code
 8C:1F:64:59:80:00/36	Tirasoft Technology
 8C:1F:64:59:A0:00/36	Primalucelab isrl
@@ -41386,6 +41392,7 @@
 90:12:34		Shenzhen YOUHUA Technology Co., Ltd
 90:12:A1		We Corporation Inc.
 90:13:DA		Athom B.V.
+90:14:AF		Cambium Networks Limited
 90:15:06		Espressif Inc.
 90:15:64		IEEE Registration Authority
 90:15:64:00:00:00/28	Fengzhushou Co., Ltd.
@@ -42156,6 +42163,7 @@
 94:B8:C5		RuggedCom Inc.
 94:B9:7E		Espressif Inc.
 94:B9:B4		Aptos Technology
+94:BA:06		Shenzhen Bilian Electronic Co.，Ltd
 94:BA:31		Visiontec da Amazônia Ltda.
 94:BA:56		Shenzhen Coship Electronics Co., Ltd.
 94:BB:43		AzureWave Technology Inc.
@@ -42408,6 +42416,7 @@
 98:14:D2		Avonic
 98:16:CD		leapio
 98:16:EC		IC Intracom
+98:17:1A		Beijing Xiaomi Mobile Software Co., Ltd
 98:17:3C		Private
 98:17:F1		zte corporation
 98:18:88		Cisco Meraki
@@ -44750,6 +44759,7 @@ AC:00:7A		Apple, Inc.
 AC:00:D0		zte corporation
 AC:00:F9		BizLink Technology (S.E.A) Sdn. Bhd.
 AC:01:42		Uriel Technologies SIA
+AC:01:7A		Sichuan Tianyi Comheart Telecom Co.,LTD
 AC:02:CA		HI Solutions, Inc.
 AC:02:CF		RW Tecnologia Industria e Comercio Ltda
 AC:02:EF		Comsis
@@ -45089,6 +45099,7 @@ AC:BC:B5		Apple, Inc.
 AC:BC:D9		Cisco Systems, Inc
 AC:BD:0B		Leimac Ltd.
 AC:BD:70		Huawei Device Co., Ltd.
+AC:BD:F7		Cisco Meraki
 AC:BE:75		Ufine Technologies Co.,Ltd.
 AC:BE:B6		Visualedge Technology Co., Ltd.
 AC:BF:71		Bose Corporation
@@ -46461,6 +46472,7 @@ B8:DB:1C		Integrated Device Technology (Malaysia) Sdn. Bhd.
 B8:DB:38		Google, Inc.
 B8:DC:87		IAI Corporation
 B8:DD:71		zte corporation
+B8:DD:E8		Sichuan Tianyi Comheart Telecom Co.,LTD
 B8:DE:5E		Longcheer Telecommunication Limited
 B8:DF:6B		SpotCam Co., Ltd.
 B8:DF:D4		Fiberhome Telecommunication Technologies Co.,LTD
@@ -47780,6 +47792,7 @@ C4:98:94:C0:00:00/28	Zhejiang Rexense loT Technology Co., Ltd
 C4:98:94:D0:00:00/28	Jiangsu AIDriving Co.,Ltd.
 C4:98:94:E0:00:00/28	Hans Sasserath GmbH & Co. KG
 C4:9A:02		LG Electronics (Mobile Communications)
+C4:9A:89		Suzhou K-Hiragawa Electronic Technology Co.,Ltd
 C4:9D:08		Huawei Device Co., Ltd.
 C4:9D:ED		Microsoft Corporation
 C4:9E:41		G24 Power Limited
@@ -49918,6 +49931,8 @@ D4:A0:FB:70:00:00/28	Skyfri Corp
 D4:A0:FB:80:00:00/28	Parpro System Corporation
 D4:A0:FB:90:00:00/28	Hangteng (HK) Technology Co., Limited
 D4:A0:FB:A0:00:00/28	Impulse Cctv Networks India Pvt. Ltd.
+D4:A0:FB:B0:00:00/28	Spatial Hover  Inc
+D4:A0:FB:D0:00:00/28	Fastwel Electronics India Private Limited
 D4:A1:48		Huawei Technologies Co.,Ltd
 D4:A2:3D		New H3C Technologies Co., Ltd
 D4:A2:CD		Dell Inc.
@@ -50205,6 +50220,7 @@ D8:4F:B8		Lg Electronics
 D8:50:A1		Hunan Danuo Technology Co.,LTD
 D8:50:E6		ASUSTek COMPUTER INC.
 D8:53:9A		Juniper Networks
+D8:53:AD		Cisco Meraki
 D8:53:BC		Lenovo Information Products (Shenzhen)Co.,Ltd
 D8:54:3A		Texas Instruments
 D8:54:82		Oxit, LLC
