@@ -21163,6 +21163,7 @@
 20:6C:8A		Extreme Networks Headquarters
 20:6D:31		Firewalla Inc
 20:6E:9C		Samsung Electronics Co.,Ltd
+20:6E:F1		Espressif Inc.
 20:6F:EC		Braemac CA LLC
 20:71:9E		SF Technology Co.,Ltd
 20:72:A9		Beijing Xiaomi Electronics Co.,Ltd
@@ -25144,6 +25145,7 @@
 40:92:49		Shanghai Baud Data Communication Co.,Ltd.
 40:95:05		Acoinfo Technology Co.,Ltd
 40:95:58		Aisino Corporation
+40:95:95		TP-Link Systems Inc.
 40:95:BD		NTmore.Co.,Ltd
 40:97:D1		BK Electronics cc
 40:98:4C		Casacom Solutions AG
@@ -27177,6 +27179,7 @@
 4C:CC:6A		Micro-Star INTL CO., LTD.
 4C:CD:B6		Apple, Inc.
 4C:CE:2D		Danlaw Inc
+4C:CF:7C		HP Inc.
 4C:D0:8A		HUMAX Co., Ltd.
 4C:D0:CB		Huawei Technologies Co.,Ltd
 4C:D0:DD		Huawei Technologies Co.,Ltd
@@ -28620,6 +28623,7 @@
 58:E4:88		Amazon Technologies Inc.
 58:E6:36		EVRsafe Technologies
 58:E6:BA		Apple, Inc.
+58:E6:C5		Espressif Inc.
 58:E7:47		Deltanet AG
 58:E8:08		Autonics Corporation
 58:E8:73		HANGZHOU DANGBEI NETWORK TECH.Co.,Ltd
@@ -29100,6 +29104,7 @@
 5C:E5:0C		Beijing Xiaomi Mobile Software Co., Ltd
 5C:E6:88		VECOS Europe B.V.
 5C:E7:47		Huawei Technologies Co.,Ltd
+5C:E7:53		Private
 5C:E7:A0		Nokia
 5C:E7:BF		New Singularity International Technical Development Co.,Ltd
 5C:E8:83		Huawei Technologies Co.,Ltd
@@ -48062,6 +48067,7 @@ C8:16:A5		Masimo Corporation
 C8:16:BD		Qingdao Hisense Communications Co.,Ltd.
 C8:16:DA		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 C8:17:39		Itel Mobile Limited
+C8:17:F5		Nanjing Qinheng Microelectronics Co., Ltd.
 C8:19:F7		Samsung Electronics Co.,Ltd
 C8:1A:FE		DLOGIC GmbH
 C8:1B:5C		BCTech
@@ -48881,6 +48887,7 @@ CC:B8:A8		AMPAK Technology, Inc.
 CC:B8:F1		Eagle Kingdom Technologies Limited
 CC:BA:6F		Huawei Technologies Co.,Ltd
 CC:BA:97		Espressif Inc.
+CC:BA:BD		TP-Link Systems Inc.
 CC:BB:FE		Huawei Technologies Co.,Ltd
 CC:BC:2B		Huawei Device Co., Ltd.
 CC:BC:E3		Huawei Technologies Co.,Ltd
@@ -49924,6 +49931,7 @@ D4:9F:DD		Huawei Device Co., Ltd.
 D4:A0:2A		Cisco Systems, Inc
 D4:A0:FB		IEEE Registration Authority
 D4:A0:FB:00:00:00/28	M2MD Technologies, Inc.
+D4:A0:FB:10:00:00/28	Henan Lingyunda Information Technology Co., Ltd
 D4:A0:FB:30:00:00/28	Nexxus Networks India Private Limited
 D4:A0:FB:40:00:00/28	Shenzhen Dijiean Technology Co., Ltd
 D4:A0:FB:50:00:00/28	Corelase Oy
@@ -49932,6 +49940,7 @@ D4:A0:FB:80:00:00/28	Parpro System Corporation
 D4:A0:FB:90:00:00/28	Hangteng (HK) Technology Co., Limited
 D4:A0:FB:A0:00:00/28	Impulse Cctv Networks India Pvt. Ltd.
 D4:A0:FB:B0:00:00/28	Spatial Hover  Inc
+D4:A0:FB:C0:00:00/28	Snap-on Tools
 D4:A0:FB:D0:00:00/28	Fastwel Electronics India Private Limited
 D4:A1:48		Huawei Technologies Co.,Ltd
 D4:A2:3D		New H3C Technologies Co., Ltd
@@ -52298,6 +52307,7 @@ EC:0D:9A		Mellanox Technologies, Inc.
 EC:0D:E4		Amazon Technologies Inc.
 EC:0E:C4		Hon Hai Precision Ind. Co.,Ltd.
 EC:0E:D6		Itech Instruments Sas
+EC:10:55		Beijing Xiaomi Electronics Co.,Ltd
 EC:10:7B		Samsung Electronics Co.,Ltd
 EC:11:20		FloDesign Wind Turbine Corporation
 EC:11:27		Texas Instruments
