@@ -19505,6 +19505,7 @@
 14:13:46		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 14:13:57		ATP Electronics, Inc.
 14:13:FB		Huawei Technologies Co.,Ltd
+14:14:16		Hui Zhou Gaoshengda Technology Co.,LTD
 14:14:4B		Ruijie Networks Co.,LTD
 14:14:59		Vodafone Italia S.p.A.
 14:14:7D		Apple, Inc.
@@ -21081,6 +21082,7 @@
 20:37:F0		Arcadyan Corporation
 20:39:56		HMD Global Oy
 20:3A:07		Cisco Systems, Inc
+20:3A:0C		eero inc.
 20:3A:43		Intel Corporate
 20:3A:EB		zte corporation
 20:3A:EF		Sivantos GmbH
@@ -21845,6 +21847,7 @@
 24:FE:9A		CyberTAN Technology Inc.
 28:00:AF		Dell Inc.
 28:01:1C		zte corporation
+28:01:CD		Mellanox Technologies, Inc.
 28:02:2E		Apple, Inc.
 28:02:44		Apple, Inc.
 28:02:45		Konze System Technology Co.,Ltd.
@@ -23327,6 +23330,7 @@
 30:F7:7F		S Mobile Devices Limited
 30:F7:C5		Apple, Inc.
 30:F7:D7		Thread Technology Co., Ltd
+30:F8:56		Extreme Networks Headquarters
 30:F9:47		Shenzhen Skyworth Digital  Technology  CO., Ltd
 30:F9:4B		Universal Electronics, Inc.
 30:F9:ED		Sony Corporation
@@ -39025,6 +39029,7 @@
 8C:1F:64:29:40:00/36	nanoTRONIX Computing Inc.
 8C:1F:64:29:50:00/36	Ophir Manufacturing Solutions Pte Ltd
 8C:1F:64:29:60:00/36	Roog zhi tong Technology(Beijing) Co.,Ltd
+8C:1F:64:29:70:00/36	IGEMA GmbH
 8C:1F:64:29:80:00/36	Megger Germany GmbH
 8C:1F:64:29:90:00/36	Integer.pl S.A.
 8C:1F:64:29:B0:00/36	TT electronics integrated manufacturing services (Suzhou) Limited
@@ -39464,6 +39469,7 @@
 8C:1F:64:59:C0:00/36	Private
 8C:1F:64:59:F0:00/36	Delta Computers LLC.
 8C:1F:64:5A:00:00/36	Seongwon Eng Co.,Ltd
+8C:1F:64:5A:10:00/36	Breas Medical AB
 8C:1F:64:5A:40:00/36	Dave Srl
 8C:1F:64:5A:60:00/36	Kinney Industries, Inc
 8C:1F:64:5A:70:00/36	Rch Spa
@@ -40470,6 +40476,7 @@
 8C:1F:64:CA:D0:00/36	General Motors
 8C:1F:64:CA:E0:00/36	Ophir Manufacturing Solutions Pte Ltd
 8C:1F:64:CA:F0:00/36	BRS Sistemas Eletrônicos
+8C:1F:64:CB:10:00/36	Xi’an Sunway Communication Co., Ltd.
 8C:1F:64:CB:20:00/36	Dyncir Soluções Tecnológicas Ltda
 8C:1F:64:CB:30:00/36	DELO Industrie Klebstoffe GmbH & Co. KGaA
 8C:1F:64:CB:50:00/36	Gamber-Johnson LLC
@@ -45599,6 +45606,10 @@ B0:C9:52		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 B0:C9:5B		Beijing Symtech CO.,LTD
 B0:CA:68		Apple, Inc.
 B0:CA:E7		Huawei Device Co., Ltd.
+B0:CC:CE		IEEE Registration Authority
+B0:CC:CE:00:00:00/28	Steelco SpA
+B0:CC:CE:60:00:00/28	Multi-Field Low Temperature Technology(Beijing) Co., Ltd.
+B0:CC:CE:B0:00:00/28	Watermark Systems (India) Private Limited
 B0:CC:FE		Huawei Device Co., Ltd.
 B0:CE:18		Zhejiang shenghui lighting co.,Ltd
 B0:CF:0E		Mellanox Technologies, Inc.
@@ -45755,6 +45766,7 @@ B4:1D:2B		Shenzhen YOUHUA Technology Co., Ltd
 B4:1D:C4		Huawei Technologies Co.,Ltd
 B4:1D:EF		Internet Laboratories, Inc.
 B4:1E:52		Flock Safety
+B4:1F:4D		Sony Interactive Entertainment Inc.
 B4:20:46		eero inc.
 B4:20:5B		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 B4:21:1D		Beijing GuangXin Technology Co., Ltd
@@ -49962,6 +49974,7 @@ D4:A0:FB:A0:00:00/28	Impulse Cctv Networks India Pvt. Ltd.
 D4:A0:FB:B0:00:00/28	Spatial Hover  Inc
 D4:A0:FB:C0:00:00/28	Snap-on Tools
 D4:A0:FB:D0:00:00/28	Fastwel Electronics India Private Limited
+D4:A0:FB:E0:00:00/28	Gtek Global Co.,Ltd
 D4:A1:48		Huawei Technologies Co.,Ltd
 D4:A2:3D		New H3C Technologies Co., Ltd
 D4:A2:CD		Dell Inc.
@@ -50865,6 +50878,7 @@ DC:B7:2E		Xiaomi Communications Co Ltd
 DC:B7:AC		Hewlett Packard Enterprise
 DC:B7:FC		Alps Electric (Ireland) Ltd
 DC:B8:08		Extreme Networks Headquarters
+DC:BB:3D		Extreme Networks Headquarters
 DC:BB:96		Full Solution Telecom
 DC:BD:7A		Guangzhou Shiyuan Electronic Technology Company Limited
 DC:BD:CC		Quectel Wireless Solutions Co.,Ltd.
@@ -52097,6 +52111,7 @@ E8:9C:25		ASUSTek COMPUTER INC.
 E8:9D:87		Toshiba
 E8:9E:0C		Max8Usa Distributors Inc.
 E8:9E:13		Cresyn
+E8:9E:49		Mellanox Technologies, Inc.
 E8:9E:B4		Hon Hai Precision Ind. Co.,Ltd.
 E8:9F:39		Nokia
 E8:9F:6D		Espressif Inc.
@@ -52176,6 +52191,7 @@ E8:C6:E6		Changhong (Hongkong) Trading Limited
 E8:C7:4F		Liteon Technology Corporation
 E8:C7:CF		Wistron Neweb Corporation
 E8:C8:29		Intel Corporate
+E8:CA:50		Bouffalo Lab (Nanjing) Co., Ltd.
 E8:CA:C8		Hui Zhou Gaoshengda Technology Co.,LTD
 E8:CB:A1		Nokia Corporation
 E8:CB:ED		Chipsea Technologies(Shenzhen) Corp.
