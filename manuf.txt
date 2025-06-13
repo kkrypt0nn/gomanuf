@@ -5615,7 +5615,7 @@
 00:15:FC		Littelfuse Startco
 00:15:FD		Complete Media Systems
 00:15:FE		Schilling Robotics Llc
-00:15:FF		Novatel Wireless Solutions, Inc.
+00:15:FF		Inseego Wireless, Inc
 00:16:00		CelleBrite Mobile Synchronization
 00:16:01		Buffalo.Inc
 00:16:02		Ceyon Technology Co.,Ltd.
@@ -20359,7 +20359,7 @@
 18:E9:1D		Huawei Technologies Co.,Ltd
 18:EC:E7		Buffalo.Inc
 18:EE:69		Apple, Inc.
-18:EE:86		Novatel Wireless Solutions, Inc.
+18:EE:86		Inseego Wireless, Inc
 18:EF:3A		Sichuan AI-Link Technology Co., Ltd.
 18:EF:63		Cisco Systems, Inc
 18:EF:C0		Sercomm Japan Corporation
@@ -22078,7 +22078,7 @@
 28:80:23		Hewlett Packard
 28:80:88		Netgear
 28:80:8A		Huawei Technologies Co.,Ltd
-28:80:A2		Novatel Wireless Solutions, Inc.
+28:80:A2		Inseego Wireless, Inc
 28:82:7C		Bosch Automative products(Suzhou)Co.,Ltd Changzhou Branch
 28:83:35		Samsung Electronics Co.,Ltd
 28:83:C9		Apple, Inc.
@@ -38957,6 +38957,7 @@
 8C:1F:64:20:40:00/36	castcore
 8C:1F:64:20:60:00/36	Kryfs Technologies Private Limited
 8C:1F:64:20:80:00/36	Sichuan AnSphere Technology Co. Ltd.
+8C:1F:64:20:A0:00/36	Oriux
 8C:1F:64:20:C0:00/36	Shanghai Stairmed Technology Co.,ltd
 8C:1F:64:20:D0:00/36	Grossenbacher Systeme AG
 8C:1F:64:20:E0:00/36	Alpha Bridge Technologies Private Limited
@@ -39455,6 +39456,7 @@
 8C:1F:64:57:E0:00/36	Guoqing (shangdong) Information Technology Co.,Ltd
 8C:1F:64:58:00:00/36	SAKURA SEIKI Co., Ltd.
 8C:1F:64:58:10:00/36	SpectraDynamics, Inc.
+8C:1F:64:58:30:00/36	3Egreen tech. Co. Ltd.
 8C:1F:64:58:50:00/36	Shanghai DIDON Industry Co,. Ltd.
 8C:1F:64:58:90:00/36	Hvrnd
 8C:1F:64:58:B0:00/36	Quectel Wireless Solutions Co.,Ltd.
@@ -40553,6 +40555,7 @@
 8C:1F:64:D3:40:00/36	Kronotech Srl
 8C:1F:64:D3:80:00/36	Cuu Long Technology And Trading Company Limited
 8C:1F:64:D3:A0:00/36	Applied Materials
+8C:1F:64:D3:B0:00/36	Gogo BA
 8C:1F:64:D3:C0:00/36	"KIB Energo" LLC
 8C:1F:64:D3:F0:00/36	Schnoor Industrieelektronik GmbH
 8C:1F:64:D4:00:00/36	Breas Medical AB
@@ -45608,6 +45611,8 @@ B0:CA:68		Apple, Inc.
 B0:CA:E7		Huawei Device Co., Ltd.
 B0:CC:CE		IEEE Registration Authority
 B0:CC:CE:00:00:00/28	Steelco SpA
+B0:CC:CE:10:00:00/28	Agrisys A/S
+B0:CC:CE:20:00:00/28	4MOD Technology
 B0:CC:CE:60:00:00/28	Multi-Field Low Temperature Technology(Beijing) Co., Ltd.
 B0:CC:CE:B0:00:00/28	Watermark Systems (India) Private Limited
 B0:CC:FE		Huawei Device Co., Ltd.
@@ -48337,7 +48342,7 @@ C8:8E:D1:D0:00:00/28	Phoenix Engineering Corp.
 C8:8E:D1:E0:00:00/28	Aventics GmbH
 C8:8E:D1:F0:00:00/28	Private
 C8:8F:26		Skyworth Digital Technology(Shenzhen) Co.,Ltd
-C8:90:09		Budderfly Inc
+C8:90:09		Budderfly Inc.
 C8:90:3E		Pakton Technologies
 C8:90:8A		Samsung Electronics Co.,Ltd
 C8:90:A8		Bouffalo Lab (Nanjing) Co., Ltd.
@@ -48793,6 +48798,7 @@ CC:65:AD		Commscope
 CC:66:0A		Apple, Inc.
 CC:66:18		Adtran Inc
 CC:66:B2		Nokia
+CC:67:D8		Telin Semiconductor (Wuhan) Co.,Ltd
 CC:68:B6		TP-Link Systems Inc
 CC:68:E0		Apple, Inc.
 CC:69:B0		Global Traffic Technologies, LLC
@@ -49033,6 +49039,7 @@ CC:E7:DF		American Magnetics, Inc.
 CC:E8:AC		SOYEA Technology Co.,Ltd.
 CC:E9:FA		Samsung Electronics Co.,Ltd
 CC:EA:1C		DCONWORKS  Co., Ltd
+CC:EA:27		GE Appliances
 CC:EB:18		Ooo "Tss"
 CC:EB:5E		Xiaomi Communications Co Ltd
 CC:EC:B7		ShenZhen Linked-Z Intelligent Display Co., Ltd
@@ -51242,7 +51249,7 @@ E0:81:77		GreenBytes, Inc.
 E0:84:F3		High Grade Controls Corporation
 E0:85:4D		LG Innotek
 E0:85:9A		Shenzhen Rf-Link Technology Co.,Ltd.
-E0:86:14		Novatel Wireless Solutions, Inc.
+E0:86:14		Inseego Wireless, Inc
 E0:87:B1		Nata-Info Ltd.
 E0:88:5D		Vantiva USA LLC
 E0:89:7E		Apple, Inc.
@@ -54528,6 +54535,7 @@ FC:9B:D4		EdgeQ
 FC:9C:98		Arlo Technology
 FC:9C:A7		Apple, Inc.
 FC:9D:D8		Beijing TongTongYiLian Science and Technology Ltd.
+FC:9F:2A		Zyxel Communications Corporation
 FC:9F:AE		Fidus Systems Inc
 FC:9F:E1		CONWIN.Tech. Ltd
 FC:9F:FD		Hangzhou Hikvision Digital Technology Co.,Ltd.
