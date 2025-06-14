@@ -19136,6 +19136,7 @@
 10:40:F3		Apple, Inc.
 10:41:21		Tellescom Industria E Comercio Em Telecomunicacao
 10:41:7F		Apple, Inc.
+10:42:10		Apple, Inc.
 10:43:69		Soundmax Electronic Limited
 10:44:00		Huawei Technologies Co.,Ltd
 10:44:5A		Shaanxi Hitech Electronic Co., LTD
@@ -19719,6 +19720,7 @@
 14:8C:4A		Huawei Technologies Co.,Ltd
 14:8F:21		Garmin International
 14:8F:34		Tecno Mobile Limited
+14:8F:79		Apple, Inc.
 14:8F:C6		Apple, Inc.
 14:90:90		KongTop industrial(shen zhen)CO.,LTD
 14:91:38		Amazon Technologies Inc.
@@ -20347,6 +20349,7 @@
 18:E2:9F		vivo Mobile Communication Co., Ltd.
 18:E2:C2		Samsung Electronics Co.,Ltd
 18:E3:BC		TCT mobile ltd
+18:E6:71		Apple, Inc.
 18:E7:28		Cisco Systems, Inc
 18:E7:77		vivo Mobile Communication Co., Ltd.
 18:E7:B0		Apple, Inc.
@@ -21373,6 +21376,7 @@
 20:F4:4F		Nokia
 20:F4:52		Shanghai IUV Software Development Co. Ltd
 20:F4:78		Xiaomi Communications Co Ltd
+20:F4:D4		Apple, Inc.
 20:F5:10		Codex Digital Limited
 20:F5:43		Hui Zhou Gaoshengda Technology Co.,LTD
 20:F5:97		Maasiv, LLC
@@ -22683,6 +22687,7 @@
 2C:93:FB		Sercomm France Sarl
 2C:94:52		Huawei Technologies Co.,Ltd
 2C:94:64		Cincoze Co., Ltd.
+2C:95:20		Apple, Inc.
 2C:95:69		Commscope
 2C:95:7F		zte corporation
 2C:96:62		Invenit BV
@@ -23247,6 +23252,7 @@
 30:BE:29		AltoBeam Inc.
 30:BE:3B		Mitsubishi Electric Corporation
 30:C0:1B		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
+30:C0:AE		Apple, Inc.
 30:C3:D9		Alpsalpine Co,.Ltd
 30:C5:07		ECI Telecom Ltd.
 30:C5:0F		Huawei Technologies Co.,Ltd
@@ -23787,6 +23793,7 @@
 34:D8:56		Shenzhen Skyworth Digital  Technology  CO., Ltd
 34:D8:68		Broadcom Limited
 34:D9:54		WiBotic Inc.
+34:DA:A1		Apple, Inc.
 34:DA:B7		zte corporation
 34:DA:C1		SAE Technologies Development(Dongguan) Co., Ltd.
 34:DB:9C		Sagemcom Broadband SAS
@@ -26648,6 +26655,7 @@
 48:C8:62		Simo Wireless,Inc.
 48:C8:B6		SysTec GmbH
 48:CA:43		Espressif Inc.
+48:CA:68		Apple, Inc.
 48:CA:C6		Union Man Technology Co.,Ltd
 48:CB:6E		Cello Electronics (UK) Ltd
 48:CD:D3		Huawei Technologies Co.,Ltd
@@ -30229,6 +30237,7 @@
 68:5D:43		Intel Corporate
 68:5E:1C		Texas Instruments
 68:5E:6B		PowerRay Co., Ltd.
+68:5E:DD		Apple, Inc.
 68:62:8A		vivo Mobile Communication Co., Ltd.
 68:63:50		Hella India Automotive Pvt Ltd
 68:63:59		Advanced Digital Broadcast SA
@@ -30362,6 +30371,7 @@
 68:A4:0E		BSH Hausgeräte GmbH
 68:A4:6A		Huawei Technologies Co.,Ltd
 68:A4:7D		Sun Cupid Technology (HK) LTD
+68:A5:93		Apple, Inc.
 68:A6:82		Shenzhen YOUHUA Technology Co., Ltd
 68:A7:B4		Honor Device Co., Ltd.
 68:A8:28		Huawei Technologies Co.,Ltd
@@ -35812,6 +35822,7 @@
 74:76:1F		Microsoft Corporation
 74:76:5B		Quectel Wireless Solutions Co.,Ltd.
 74:76:7D		shenzhen kexint technology co.,ltd
+74:77:86		Apple, Inc.
 74:78:18		Jurumani Solutions
 74:78:27		Dell Inc.
 74:78:47		Interdisciplinary Consulting Corporation
@@ -37224,6 +37235,7 @@
 80:0D:D7		Latticework, Inc
 80:0E:24		ForgetBox
 80:0E:A9		TCL Yuxin Zhixing Technology (Huizhou) Co.,Ltd
+80:12:42		Apple, Inc.
 80:12:DF		Shenzhen SuperElectron Technology Co.,Ltd.
 80:13:82		Huawei Technologies Co.,Ltd
 80:14:40		Sunlit System Technology Corp
@@ -39520,6 +39532,7 @@
 8C:1F:64:5E:A0:00/36	BTG Instruments AB
 8C:1F:64:5E:B0:00/36	Tiama
 8C:1F:64:5E:C0:00/36	Nv Bekaert Sa
+8C:1F:64:5E:D0:00/36	DEUTA Werke GmbH
 8C:1F:64:5F:10:00/36	HD Link Co., Ltd.
 8C:1F:64:5F:50:00/36	HongSeok Ltd.
 8C:1F:64:5F:60:00/36	Forward Edge.AI
@@ -39635,6 +39648,7 @@
 8C:1F:64:6B:F0:00/36	Automata GmbH & Co. KG
 8C:1F:64:6C:60:00/36	Fit
 8C:1F:64:6C:80:00/36	Taiko Audio B.V.
+8C:1F:64:6C:A0:00/36	Melissa Climate Jsc
 8C:1F:64:6C:B0:00/36	GJD Manufacturing
 8C:1F:64:6C:C0:00/36	Newtouch Electronics (Shanghai) Co., LTD.
 8C:1F:64:6C:D0:00/36	Wuhan Xingtuxinke ELectronic Co.,Ltd
@@ -40063,6 +40077,7 @@
 8C:1F:64:9C:10:00/36	RealWear
 8C:1F:64:9C:30:00/36	Camozzi Automation SpA
 8C:1F:64:9C:60:00/36	Golding Audio Ltd
+8C:1F:64:9C:90:00/36	Matrix Electronic Technology Co., LTD
 8C:1F:64:9C:A0:00/36	EDC Acoustics
 8C:1F:64:9C:B0:00/36	Shanghai Sizhong Information Technology Co., Ltd
 8C:1F:64:9C:D0:00/36	JiangYu Innovative Medical Technology
@@ -40867,6 +40882,7 @@
 8C:1F:64:F8:60:00/36	INFOSTECH Co., Ltd.
 8C:1F:64:F8:70:00/36	Fly Electronic (Shang Hai) Technology Co.,Ltd
 8C:1F:64:F8:80:00/36	LAMTEC Mess- und Regeltechnik für Feuerungen GmbH & Co. KG
+8C:1F:64:F8:C0:00/36	Bk Lab
 8C:1F:64:F9:00:00/36	Enfabrica
 8C:1F:64:F9:10:00/36	Consonance
 8C:1F:64:F9:20:00/36	Vision Systems Safety Tech
@@ -43485,6 +43501,7 @@ A0:28:ED		HMD Global Oy
 A0:29:19		Dell Inc.
 A0:29:42		Intel Corporate
 A0:29:BD		Team Group Inc
+A0:2B:44		WaveGo Tech LLC
 A0:2B:B8		Hewlett Packard
 A0:2C:36		Fn-Link Technology Limited
 A0:2D:13		AirTies Wireless Networks
@@ -44442,6 +44459,7 @@ A8:2B:CD		Huawei Technologies Co.,Ltd
 A8:2B:D5		Xiaomi Communications Co Ltd
 A8:2B:D6		Shina System Co., Ltd
 A8:2C:3E		Shenzhen Cultraview Digital Technology Co., Ltd
+A8:2C:89		Apple, Inc.
 A8:30:1C		Qingdao Intelligent&Precise Electronics Co.,Ltd.
 A8:30:AD		Weifang Goertek Electronics Co.,Ltd
 A8:30:BC		Samsung Electronics Co.,Ltd
@@ -45613,8 +45631,11 @@ B0:CC:CE		IEEE Registration Authority
 B0:CC:CE:00:00:00/28	Steelco SpA
 B0:CC:CE:10:00:00/28	Agrisys A/S
 B0:CC:CE:20:00:00/28	4MOD Technology
+B0:CC:CE:30:00:00/28	Gateview Technologies
 B0:CC:CE:60:00:00/28	Multi-Field Low Temperature Technology(Beijing) Co., Ltd.
+B0:CC:CE:70:00:00/28	EBI Patient Care, Inc.
 B0:CC:CE:B0:00:00/28	Watermark Systems (India) Private Limited
+B0:CC:CE:C0:00:00/28	Faaftech
 B0:CC:FE		Huawei Device Co., Ltd.
 B0:CE:18		Zhejiang shenghui lighting co.,Ltd
 B0:CF:0E		Mellanox Technologies, Inc.
@@ -46157,9 +46178,11 @@ B4:FC:7D		AVM Audiovisuelles Marketing und Computersysteme GmbH
 B4:FE:8C		Centro Sicurezza Italia SpA
 B4:FF:98		Huawei Technologies Co.,Ltd
 B8:00:18		Htel
+B8:01:1F		Apple, Inc.
 B8:02:A4		Aeonsemi, Inc.
 B8:03:05		Intel Corporate
 B8:04:15		Bayan Audio
+B8:05:33		Apple, Inc.
 B8:05:AB		zte corporation
 B8:06:0D		Tuya Smart Inc.
 B8:07:16		vivo Mobile Communication Co., Ltd.
@@ -48672,6 +48695,7 @@ CC:22:37:D0:00:00/28	Shenzhen Hooenergy Technology Co.,Ltd
 CC:22:37:E0:00:00/28	Manufacturas Y Transformados Ab, S.L.
 CC:22:93		Amazon Technologies Inc.
 CC:22:DF		EM Microelectronic
+CC:22:FE		Apple, Inc.
 CC:24:2E		Shenzhen SuperElectron Technology Co.,Ltd.
 CC:25:EF		Apple, Inc.
 CC:26:14		Sichuan Tianyi Comheart Telecom Co.,LTD
@@ -50242,6 +50266,7 @@ D8:3E:EF		Coosea Group (Hk) Company Limited
 D8:40:08		Huawei Technologies Co.,Ltd
 D8:42:AC		Shanghai Feixun Communication Co.,Ltd.
 D8:42:E2		Canary Connect, Inc.
+D8:42:F7		Tozed Kangwei Tech Co.,Ltd
 D8:43:AE		Micro-Star INTL CO., LTD.
 D8:43:EA		SY Electronics Ltd
 D8:43:ED		Suzuken
@@ -50824,6 +50849,7 @@ DC:90:88		Huawei Technologies Co.,Ltd
 DC:91:66		Huawei Device Co., Ltd.
 DC:91:BF		Amazon Technologies Inc.
 DC:92:72		Sagemcom Broadband SAS
+DC:93:96		Apple, Inc.
 DC:95:66		Apple, Inc.
 DC:96:2C		NST Audio Ltd
 DC:97:3A		Verana Networks
@@ -54190,6 +54216,7 @@ F8:D0:C5		Sector Alarm Tech S.L.
 F8:D1:11		Tp-Link Technologies Co.,Ltd.
 F8:D2:AC		Vantiva USA LLC
 F8:D3:A9		AXAN Networks
+F8:D3:F0		Apple, Inc.
 F8:D4:62		Pumatronix Equipamentos Eletronicos Ltda.
 F8:D4:78		Flextronics Tech.(Ind) Pvt Ltd
 F8:D7:56		Simm Tronic Limited
@@ -54209,6 +54236,7 @@ F8:DF:15		Sunitec Enterprise Co.,Ltd
 F8:DF:A8		zte corporation
 F8:DF:E1		MyLight Systems
 F8:E0:79		Motorola Mobility LLC, a Lenovo Company
+F8:E2:52		Apple, Inc.
 F8:E3:5F		Sichuan Tianyi Comheart Telecom Co.,LTD
 F8:E4:3B		ASIX Electronics Corporation
 F8:E4:4E		Mcot Inc.
@@ -54605,6 +54633,7 @@ FC:AF:BE		TireCheck GmbH
 FC:B0:C4		Shanghai DareGlobal Technologies Co.,Ltd
 FC:B0:DE		Cloud Network Technology Singapore Pte. Ltd.
 FC:B1:0D		Shenzhen Tian Kun Technology Co.,LTD.
+FC:B2:14		Apple, Inc.
 FC:B2:D6		Cig Shanghai Co Ltd
 FC:B3:87		Leapmotor (Jinhua) New Energy Vehicle Parts Technology Co., Ltd.
 FC:B3:AA		Intel Corporate
