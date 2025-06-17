@@ -17516,6 +17516,7 @@
 04:52:F3		Apple, Inc.
 04:53:D5		Sysorex Global Holdings
 04:54:53		Apple, Inc.
+04:55:B2		Huaqin Technology Co.,Ltd
 04:55:B8		Huawei Technologies Co.,Ltd
 04:55:CA		BriView (Xiamen) Corp.
 04:56:04		Gionee Communication Equipment Co.,Ltd.
@@ -18246,6 +18247,7 @@
 08:74:F6		Winterhalter Gastronom GmbH
 08:75:72		Obelux Oy
 08:76:18		ViE Technologies Sdn. Bhd.
+08:76:71		Juniper Networks
 08:76:95		Auto Industrial Co., Ltd.
 08:76:FF		Thomson Telecom Belgium
 08:78:08		Samsung Electronics Co.,Ltd
@@ -21493,6 +21495,7 @@
 24:31:84		SHARP Corporation
 24:32:AE		Hangzhou Hikvision Digital Technology Co.,Ltd.
 24:33:6C		Private
+24:34:08		Edgecore Americas Networking Corporation
 24:35:CC		Zhongshan Scinan Internet of Things Co.,Ltd.
 24:36:DA		Cisco Systems, Inc
 24:37:4C		Cisco SPVTG
@@ -29955,6 +29958,7 @@
 64:A7:DD		Avaya Inc
 64:A8:37		Juni Korea Co., Ltd
 64:A9:65		Linkflow Co., Ltd.
+64:AC:2B		Juniper Networks
 64:AE:0C		Cisco Systems, Inc
 64:AE:88		Polytec GmbH
 64:AE:F1		Qingdao Hisense Electronics Co.,Ltd.
@@ -35791,7 +35795,7 @@
 74:65:0C		Apple, Inc.
 74:65:D1		Atlinks
 74:66:30		T:mi Ytti
-74:67:5F		5653
+74:67:5F		Compal Info (Kunshan) Co., Ltd
 74:67:F7		Extreme Networks Headquarters
 74:69:4A		Sichuan Tianyi Comheart Telecom Co.,LTD
 74:6A:3A		Aperi Corporation
@@ -37305,6 +37309,7 @@
 80:3E:4F		GD Midea Air-Conditioning Equipment Co.,Ltd.
 80:3F:5D		Winstars Technology Ltd
 80:3F:D6		bytes at work AG
+80:40:05		Guangdong COROS Sports Technology Co.,Ltd
 80:41:26		Huawei Technologies Co.,Ltd
 80:41:4E		Bbk Educational Electronics Corp.,Ltd.
 80:42:7C		Adolf Tedsen GmbH & Co. KG
@@ -44130,6 +44135,7 @@ A4:62:DF		DS Global. Co., LTD
 A4:63:A1		Inventus Power Eletronica do Brasil LTDA
 A4:67:06		Apple, Inc.
 A4:68:BC		Oakley Inc.
+A4:6B:1F		eero inc.
 A4:6B:B6		Intel Corporate
 A4:6C:24		Huawei Technologies Co.,Ltd
 A4:6C:2A		Cisco Systems, Inc
@@ -45634,6 +45640,8 @@ B0:CC:CE:20:00:00/28	4MOD Technology
 B0:CC:CE:30:00:00/28	Gateview Technologies
 B0:CC:CE:60:00:00/28	Multi-Field Low Temperature Technology(Beijing) Co., Ltd.
 B0:CC:CE:70:00:00/28	EBI Patient Care, Inc.
+B0:CC:CE:80:00:00/28	Shanghai CloudPrime.ai Technology Co, Ltd
+B0:CC:CE:A0:00:00/28	Shenzhen Dangs Science and Technology CO.,Ltd.
 B0:CC:CE:B0:00:00/28	Watermark Systems (India) Private Limited
 B0:CC:CE:C0:00:00/28	Faaftech
 B0:CC:FE		Huawei Device Co., Ltd.
