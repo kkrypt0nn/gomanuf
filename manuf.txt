@@ -23269,6 +23269,7 @@
 30:C9:1B		Zhen Shi Information Technology（Shanghai）Co.,Ltd.
 30:C9:22		Espressif Inc.
 30:C9:AB		Cloud Network Technology Singapore Pte. Ltd.
+30:C9:CC		Samsung Electronics Co.,Ltd
 30:CB:36		Belden Singapore Pte. Ltd.
 30:CB:C7		Cambium Networks Limited
 30:CB:F8		Samsung Electronics Co.,Ltd
@@ -26131,6 +26132,7 @@
 44:9E:F9		vivo Mobile Communication Co., Ltd.
 44:9F:46		Huawei Device Co., Ltd.
 44:9F:7F		DataCore Software Corporation
+44:9F:DA		Silicon Laboratories
 44:A0:38		Huawei Device Co., Ltd.
 44:A1:0E		Apple, Inc.
 44:A1:91		Huawei Technologies Co.,Ltd
@@ -38746,6 +38748,7 @@
 8C:1F:64:06:00:00/36	Zadar Labs Inc
 8C:1F:64:06:10:00/36	Micron Systems
 8C:1F:64:06:20:00/36	Aton Green Storage Spa
+8C:1F:64:06:30:00/36	Efftronics Systems (P) Ltd
 8C:1F:64:06:60:00/36	Siemens Energy Global GmbH & Co. KG
 8C:1F:64:06:70:00/36	Genius Vision Digital Private Limited
 8C:1F:64:06:80:00/36	Shenzhen ROLSTONE Technology Co., Ltd
@@ -40036,6 +40039,7 @@
 8C:1F:64:96:70:00/36	Dave Srl
 8C:1F:64:96:80:00/36	Iav Engineering Sarl
 8C:1F:64:96:A0:00/36	EA Elektro-Automatik GmbH
+8C:1F:64:96:B0:00/36	Vantageo Private Limited
 8C:1F:64:97:00:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:97:10:00/36	Infrasafe/ Advantor Systems
 8C:1F:64:97:30:00/36	Dorsett Technologies Inc
@@ -40670,6 +40674,7 @@
 8C:1F:64:DE:B0:00/36	PXM Marek Zupnik spolka komandytowa
 8C:1F:64:DE:D0:00/36	PhotonPath
 8C:1F:64:DF:50:00/36	Concept Pro Surveillance
+8C:1F:64:DF:60:00/36	Micronova srl
 8C:1F:64:DF:80:00/36	Wittra Networks AB
 8C:1F:64:DF:90:00/36	VuWall Technology Europe GmbH
 8C:1F:64:DF:A0:00/36	Atse Llc
@@ -45340,7 +45345,7 @@ B0:22:7A		HP Inc.
 B0:23:47		Shenzhen Giant Microelectronics Company Limited
 B0:24:91		Huawei Device Co., Ltd.
 B0:24:F3		Progeny Systems
-B0:25:AA		Private
+B0:25:AA		AIstone Global Limited
 B0:26:28		Broadcom Limited
 B0:26:80		Cisco Systems, Inc
 B0:27:CF		Extreme Networks Headquarters
@@ -45638,6 +45643,8 @@ B0:CC:CE:00:00:00/28	Steelco SpA
 B0:CC:CE:10:00:00/28	Agrisys A/S
 B0:CC:CE:20:00:00/28	4MOD Technology
 B0:CC:CE:30:00:00/28	Gateview Technologies
+B0:CC:CE:40:00:00/28	Shenzhen Xtooltech Intelligent Co.,Ltd.
+B0:CC:CE:50:00:00/28	Beijing Viazijing Technology Co., Ltd.
 B0:CC:CE:60:00:00/28	Multi-Field Low Temperature Technology(Beijing) Co., Ltd.
 B0:CC:CE:70:00:00/28	EBI Patient Care, Inc.
 B0:CC:CE:80:00:00/28	Shanghai CloudPrime.ai Technology Co, Ltd
@@ -45989,6 +45996,7 @@ B4:86:18		GX India Pvt Ltd
 B4:86:55		Huawei Technologies Co.,Ltd
 B4:89:01		Huawei Technologies Co.,Ltd
 B4:89:10		Coster T.E. S.P.A.
+B4:89:31		Silicon Laboratories
 B4:89:70		IGEN Tech Co., Ltd.
 B4:8A:0A		Espressif Inc.
 B4:8A:5F		Juniper Networks
