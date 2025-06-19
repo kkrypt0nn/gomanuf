@@ -22705,6 +22705,7 @@
 2C:9C:58		Cloud Network Technology Singapore Pte. Ltd.
 2C:9D:1E		Huawei Technologies Co.,Ltd
 2C:9D:4B		Lavelle Network Private Limited
+2C:9D:5A		Flaircomm Microelectronics,Inc.
 2C:9D:65		vivo Mobile Communication Co., Ltd.
 2C:9E:00		Sony Interactive Entertainment Inc.
 2C:9E:5F		Commscope
@@ -38971,6 +38972,7 @@
 8C:1F:64:1F:40:00/36	Eiffage Energie Electronique
 8C:1F:64:1F:50:00/36	NanoThings Inc.
 8C:1F:64:1F:70:00/36	Sicon srl
+8C:1F:64:1F:90:00/36	TelecomWadi
 8C:1F:64:1F:E0:00/36	Burk Technology
 8C:1F:64:20:10:00/36	Hiwin Mikrosystem Corp.
 8C:1F:64:20:30:00/36	ENTOSS Co.,Ltd
@@ -39885,6 +39887,7 @@
 8C:1F:64:85:60:00/36	Garten Automation
 8C:1F:64:85:70:00/36	roda computer GmbH
 8C:1F:64:85:80:00/36	SFERA srl
+8C:1F:64:85:A0:00/36	ENBIK Technology Co., Ltd
 8C:1F:64:85:B0:00/36	Atlantic Pumps Ltd
 8C:1F:64:85:C0:00/36	Zing 5g Communications Canada Inc.
 8C:1F:64:85:E0:00/36	Apen Group S.p.A.  (VAT IT08767740155)
@@ -40285,6 +40288,7 @@
 8C:1F:64:B2:A0:00/36	Lumiplan Duhamel
 8C:1F:64:B2:B0:00/36	Rhombus Europe
 8C:1F:64:B2:C0:00/36	Sanmina Israel Medical Systems Ltd
+8C:1F:64:B2:D0:00/36	wonder meditec
 8C:1F:64:B2:F0:00/36	Mtechnology - Gamma Commerciale Srl
 8C:1F:64:B3:20:00/36	Plug Power
 8C:1F:64:B3:60:00/36	Pneumax Spa
@@ -43533,6 +43537,7 @@ A0:38:F8		OURA Health Oy
 A0:39:75		Leo Bodnar Electronics Ltd
 A0:39:EE		Sagemcom Broadband SAS
 A0:39:F7		LG Electronics (Mobile Communications)
+A0:39:F9		Sagemcom Broadband SAS
 A0:3A:75		PSS Belgium N.V.
 A0:3B:01		Kyung In Electronics
 A0:3B:1B		Inspire Tech
@@ -44168,6 +44173,7 @@ A4:7A:A4		Commscope
 A4:7A:CF		Vibicom Communications Inc.
 A4:7B:1A		Huawei Device Co., Ltd.
 A4:7B:2C		Nokia
+A4:7B:52		JoulWatt Technology Co., Ltd
 A4:7B:85		ULTIMEDIA Co Ltd,
 A4:7B:9D		Espressif Inc.
 A4:7C:14		ChargeStorm AB
@@ -44452,6 +44458,7 @@ A8:1B:5D		Foxtel Management Pty Ltd
 A8:1B:6A		Texas Instruments
 A8:1D:16		AzureWave Technology Inc.
 A8:1E:84		Quanta Computer Inc.
+A8:1F:79		Yingling Innovations Pte. Ltd.
 A8:1F:AF		Krypton Polska
 A8:20:66		Apple, Inc.
 A8:23:16		Nokia
@@ -45648,6 +45655,7 @@ B0:CC:CE:50:00:00/28	Beijing Viazijing Technology Co., Ltd.
 B0:CC:CE:60:00:00/28	Multi-Field Low Temperature Technology(Beijing) Co., Ltd.
 B0:CC:CE:70:00:00/28	EBI Patient Care, Inc.
 B0:CC:CE:80:00:00/28	Shanghai CloudPrime.ai Technology Co, Ltd
+B0:CC:CE:90:00:00/28	Taiv Inc
 B0:CC:CE:A0:00:00/28	Shenzhen Dangs Science and Technology CO.,Ltd.
 B0:CC:CE:B0:00:00/28	Watermark Systems (India) Private Limited
 B0:CC:CE:C0:00:00/28	Faaftech
@@ -47275,6 +47283,7 @@ C0:6D:ED		Hangzhou Hikvision Digital Technology Co.,Ltd.
 C0:6F:98		eero inc.
 C0:70:09		Huawei Technologies Co.,Ltd
 C0:71:AA		ShenZhen OnMicro Electronics Co.,Ltd.
+C0:74:15		IntelPro Inc.
 C0:74:2B		Shenzhen Xunlong Software Co.,Limited
 C0:74:AD		Grandstream Networks, Inc.
 C0:78:31		Huawei Device Co., Ltd.
@@ -47314,6 +47323,7 @@ C0:85:4C		Ragentek Technology Group
 C0:86:B3		Shenzhen Voxtech Co., Ltd.
 C0:87:06		Shenzhen Qianfenyi Intelligent Technology Co.,LTD
 C0:87:EB		Samsung Electronics Co.,Ltd
+C0:88:40		GD Midea Air-Conditioning Equipment Co.,Ltd.
 C0:88:5B		SnD Tech Co., Ltd.
 C0:88:6D		Securosys SA
 C0:89:97		Samsung Electronics Co.,Ltd
@@ -49109,6 +49119,7 @@ CC:F9:E8		Samsung Electronics Co.,Ltd
 CC:F9:F0		Samsung Electronics Co.,Ltd
 CC:FA:00		LG Electronics (Mobile Communications)
 CC:FA:66		Huawei Device Co., Ltd.
+CC:FA:F1		Sagemcom Broadband SAS
 CC:FB:65		Nintendo Co., Ltd.
 CC:FC:6D		Riz Transmitters
 CC:FC:B1		Wireless Technology, Inc.
@@ -54294,6 +54305,7 @@ F8:F5:19		Rulogic Inc.
 F8:F5:32		Commscope
 F8:F5:8C		Apple, Inc.
 F8:F7:B9		Huawei Technologies Co.,Ltd
+F8:F7:D2		Equal Optics, LLC
 F8:F7:D3		International Communications Corporation
 F8:F7:FF		Syn-Tech Systems Inc
 F8:FB:2F		Santur Corporation
