@@ -17591,6 +17591,7 @@
 04:71:4B:E0:00:00/28	Gimso Mobile Ltd
 04:71:53		Sernet (Suzhou) Technologies Corporation
 04:72:95		Apple, Inc.
+04:74:9E		Huawei Technologies Co.,Ltd
 04:74:A1		Aligera Equipamentos Digitais Ltda
 04:75:03		Huawei Technologies Co.,Ltd
 04:75:F5		Csst
@@ -24798,6 +24799,7 @@
 3C:C1:F6		Melange Systems Pvt. Ltd.
 3C:C2:43		Nokia Corporation
 3C:C2:E1		Xinhua Control Engineering Co.,Ltd
+3C:C5:C7		Huawei Technologies Co.,Ltd
 3C:C5:DD		Hui Zhou Gaoshengda Technology Co.,LTD
 3C:C6:83		Sichuan AI-Link Technology Co., Ltd.
 3C:C7:86		Dongguan Huarong Communication Technologies Co.,Ltd.
@@ -25805,6 +25807,7 @@
 40:E7:93		Shenzhen Siviton Technology Co.,Ltd
 40:E9:9B		Samsung Electro-Mechanics(Thailand)
 40:EA:CE		Founder Broadband Network Service Co.,Ltd
+40:EB:21		Huawei Technologies Co.,Ltd
 40:EC:99		Intel Corporate
 40:EC:F8		Siemens AG
 40:ED:00		TP-Link Systems Inc
@@ -25902,6 +25905,7 @@
 44:05:E8		twareLAB
 44:07:0B		Google, Inc.
 44:09:B8		Salcomp (Shenzhen) CO., LTD.
+44:09:C6		Huawei Technologies Co.,Ltd
 44:09:DA		Apple, Inc.
 44:0B:AB		Positivo Tecnologia S.A.
 44:0C:EE		Robert Bosch Elektronikai Kft.
@@ -27595,6 +27599,7 @@
 50:8C:B1		Texas Instruments
 50:8C:C9		zte corporation
 50:8C:F5		China Mobile Group Device Co.,Ltd.
+50:8D:62		Huawei Technologies Co.,Ltd
 50:8D:6F		CHAHOO Limited
 50:8E:49		Xiaomi Communications Co Ltd
 50:8F:4C		Xiaomi Communications Co Ltd
@@ -38535,6 +38540,7 @@
 88:D8:2E		Intel Corporate
 88:D9:62		Canopus Systems US LLC
 88:D9:8F		Juniper Networks
+88:DA:04		Huawei Technologies Co.,Ltd
 88:DA:18		China Mobile Group Device Co.,Ltd.
 88:DA:1A		Redpine Signals, Inc.
 88:DA:33		Beijing Xiaoyuer Network Technology Co., Ltd
@@ -39257,6 +39263,7 @@
 8C:1F:64:3E:A0:00/36	Chipscape Security Systems
 8C:1F:64:3E:D0:00/36	The Exploration Company
 8C:1F:64:3E:E0:00/36	BnB Information Technology
+8C:1F:64:3F:20:00/36	Surya Electronics
 8C:1F:64:3F:30:00/36	Cambrian Works, Inc.
 8C:1F:64:3F:40:00/36	Actelser S.L.
 8C:1F:64:3F:70:00/36	Mitsubishi Electric India Pvt. Ltd.
@@ -39974,6 +39981,7 @@
 8C:1F:64:8E:B0:00/36	Numa Products LLC
 8C:1F:64:8E:C0:00/36	LMS Services GmbH & Co. KG
 8C:1F:64:8E:E0:00/36	Abbott Diagnostics Technologies AS
+8C:1F:64:8F:00:00/36	Igl
 8C:1F:64:8F:40:00/36	Loadrite (Auckland) Limited
 8C:1F:64:8F:50:00/36	Dave Srl
 8C:1F:64:8F:60:00/36	Idneo Technologies S.A.U.
@@ -40089,7 +40097,6 @@
 8C:1F:64:9C:10:00/36	RealWear
 8C:1F:64:9C:30:00/36	Camozzi Automation SpA
 8C:1F:64:9C:60:00/36	Golding Audio Ltd
-8C:1F:64:9C:90:00/36	Matrix Electronic Technology Co., LTD
 8C:1F:64:9C:A0:00/36	EDC Acoustics
 8C:1F:64:9C:B0:00/36	Shanghai Sizhong Information Technology Co., Ltd
 8C:1F:64:9C:D0:00/36	JiangYu Innovative Medical Technology
@@ -40629,6 +40636,7 @@
 8C:1F:64:D9:10:00/36	Zhejiang Healnoc Technology Co., Ltd.
 8C:1F:64:D9:20:00/36	Mitsubishi Electric India Pvt. Ltd.
 8C:1F:64:D9:30:00/36	Algodue Elettronica Srl
+8C:1F:64:D9:50:00/36	Teczz Llc
 8C:1F:64:D9:60:00/36	Smart Cabling & Transmission Corp.
 8C:1F:64:D9:80:00/36	Gnewtek photoelectric technology Ltd.
 8C:1F:64:D9:90:00/36	Invixium Access Inc
@@ -40877,6 +40885,7 @@
 8C:1F:64:F6:50:00/36	Talleres de Escoriaza SA
 8C:1F:64:F6:70:00/36	Distron S.L.
 8C:1F:64:F6:80:00/36	YUYAMA MFG Co.,Ltd
+8C:1F:64:F6:90:00/36	SUS Corporation
 8C:1F:64:F6:C0:00/36	Sonatronic
 8C:1F:64:F6:D0:00/36	Ophir Manufacturing Solutions Pte Ltd
 8C:1F:64:F6:E0:00/36	ITG Co.Ltd
@@ -40993,6 +41002,7 @@
 8C:3B:AD		Netgear
 8C:3C:07		Skiva Technologies, Inc.
 8C:3C:4A		NAKAYO Inc
+8C:3D:16		Shenzhen Four Seas Global Link Network Technology Co.,Ltd
 8C:3D:B1		Beijing H-IoT Technology Co., Ltd.
 8C:3F:44		GD Midea Air-Conditioning Equipment Co.,Ltd.
 8C:41:F2		RDA Technologies Ltd.
@@ -41209,6 +41219,7 @@
 8C:8A:BB		Beijing Orient View Technology Co., Ltd.
 8C:8A:CD		Huawei Technologies Co.,Ltd
 8C:8B:48		Silicon Laboratories
+8C:8B:5B		Wistron Neweb Corporation
 8C:8B:83		Texas Instruments
 8C:8C:AA		LCFC(Hefei) Electronics Technology co., ltd
 8C:8D:28		Intel Corporate
@@ -42877,6 +42888,7 @@
 98:F1:AE		Senaisc
 98:F2:17		Castlenet Technology Inc.
 98:F2:B3		Hewlett Packard Enterprise
+98:F3:F6		Huawei Technologies Co.,Ltd
 98:F4:28		zte corporation
 98:F4:87		Texas Instruments
 98:F4:AB		Espressif Inc.
@@ -44734,6 +44746,7 @@ A8:C2:22		TM-Research Inc.
 A8:C2:46		Gemtek Technology Co., Ltd.
 A8:C2:52		Huawei Device Co., Ltd.
 A8:C2:66		HUMAX Co., Ltd.
+A8:C4:07		Huawei Technologies Co.,Ltd
 A8:C5:6F		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 A8:C6:47		Extreme Networks Headquarters
 A8:C8:3A		Huawei Technologies Co.,Ltd
@@ -45659,6 +45672,7 @@ B0:CC:CE:90:00:00/28	Taiv Inc
 B0:CC:CE:A0:00:00/28	Shenzhen Dangs Science and Technology CO.,Ltd.
 B0:CC:CE:B0:00:00/28	Watermark Systems (India) Private Limited
 B0:CC:CE:C0:00:00/28	Faaftech
+B0:CC:CE:D0:00:00/28	Xiaomi EV Technology Co., Ltd.
 B0:CC:FE		Huawei Device Co., Ltd.
 B0:CE:18		Zhejiang shenghui lighting co.,Ltd
 B0:CF:0E		Mellanox Technologies, Inc.
@@ -46440,6 +46454,7 @@ B8:9A:CD		Elite Optoelectronic(Asia)Co.,Ltd
 B8:9A:ED		OceanServer Technology, Inc
 B8:9B:C9		SMC Networks Inc
 B8:9B:E4		ABB Power Systems Power Generation
+B8:9C:13		Alps Alpine
 B8:9E:A6		Spbec-Mining Co.Ltd
 B8:9F:09		Wistron Neweb Corporation
 B8:9F:CC		Huawei Technologies Co.,Ltd
@@ -46860,6 +46875,7 @@ BC:76:4E		Rackspace US, Inc.
 BC:76:5E		Samsung Electronics Co.,Ltd
 BC:76:70		Huawei Technologies Co.,Ltd
 BC:76:C5		Huawei Technologies Co.,Ltd
+BC:76:F9		Ubiquoss Inc
 BC:77:37		Intel Corporate
 BC:77:9F		SBM Co., Ltd.
 BC:79:AD		Samsung Electronics Co.,Ltd
@@ -49579,6 +49595,7 @@ D0:C5:D8		Latecoere
 D0:C5:F3		Apple, Inc.
 D0:C6:37		Intel Corporate
 D0:C6:5B		Huawei Technologies Co.,Ltd
+D0:C6:7F		Huawei Technologies Co.,Ltd
 D0:C7:30		zte corporation
 D0:C7:89		Cisco Systems, Inc
 D0:C7:C0		Tp-Link Technologies Co.,Ltd.
@@ -50641,6 +50658,7 @@ DC:0D:30		Shenzhen Feasycom Technology Co., Ltd.
 DC:0E:96		Palo Alto Networks
 DC:0E:A1		Compal Information (Kunshan) Co., Ltd.
 DC:10:57		Apple, Inc.
+DC:12:1D		Huawei Technologies Co.,Ltd
 DC:15:2D		China Mobile Group Device Co.,Ltd.
 DC:15:C8		AVM Audiovisuelles Marketing und Computersysteme GmbH
 DC:15:DB		Ge Ruili Intelligent Technology ( Beijing ) Co., Ltd.
