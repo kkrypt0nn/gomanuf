@@ -21770,6 +21770,7 @@
 24:CF:24		Beijing Xiaomi Mobile Software Co., Ltd
 24:D0:DF		Apple, Inc.
 24:D1:3F		Mexus Co.,Ltd
+24:D1:A1		Shenzhen Cultraview Digital Technology Co., Ltd
 24:D2:08		Sensata Technologies Inc.
 24:D2:CC		SmartDrive Systems Inc.
 24:D3:37		Xiaomi Communications Co Ltd
@@ -26782,6 +26783,7 @@
 48:F3:17		Private
 48:F3:F3		Baidu Online Network Technology (Beijing) Co., Ltd
 48:F4:7D		TechVision Holding  Internation Limited
+48:F6:EE		Espressif Inc.
 48:F7:BC		Huawei Technologies Co.,Ltd
 48:F7:C0		Vantiva USA LLC
 48:F7:F1		Nokia
@@ -30520,6 +30522,7 @@
 68:FC:B3		Next Level Security Systems, Inc.
 68:FC:B6		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 68:FC:CA		Samsung Electronics Co.,Ltd
+68:FE:71		Espressif Inc.
 68:FE:DA		Fiberhome Telecommunication Technologies Co.,LTD
 68:FE:F7		Apple, Inc.
 68:FF:7B		Tp-Link Technologies Co.,Ltd.
@@ -36760,6 +36763,7 @@
 7C:2F:80		Gigaset Communications GmbH
 7C:31:0E		Cisco Systems, Inc
 7C:31:80		SMK corporation
+7C:31:FA		Silicon Laboratories
 7C:33:6E		MEG Electronics Inc.
 7C:33:F9		Huawei Technologies Co.,Ltd
 7C:35:48		Transcend Information
@@ -42546,6 +42550,7 @@
 98:2F:F8		Huawei Device Co., Ltd.
 98:30:00		Beijing KEMACOM Technologies Co., Ltd.
 98:30:71		Daikyung Vascom
+98:32:68		Silicon Laboratories
 98:34:8C		Great Talent Technology Limited
 98:34:9D		Krauss Maffei Technologies GmbH
 98:35:71		Sub10 Systems Ltd
@@ -45673,6 +45678,7 @@ B0:CC:CE:A0:00:00/28	Shenzhen Dangs Science and Technology CO.,Ltd.
 B0:CC:CE:B0:00:00/28	Watermark Systems (India) Private Limited
 B0:CC:CE:C0:00:00/28	Faaftech
 B0:CC:CE:D0:00:00/28	Xiaomi EV Technology Co., Ltd.
+B0:CC:CE:E0:00:00/28	Microtest
 B0:CC:FE		Huawei Device Co., Ltd.
 B0:CE:18		Zhejiang shenghui lighting co.,Ltd
 B0:CF:0E		Mellanox Technologies, Inc.
@@ -50377,6 +50383,7 @@ D8:68:52		Huawei Technologies Co.,Ltd
 D8:68:A0		Samsung Electronics Co.,Ltd
 D8:68:C3		Samsung Electronics Co.,Ltd
 D8:69:60		Steinsvik
+D8:6B:83		Nintendo Co.,Ltd
 D8:6B:F7		Nintendo Co., Ltd.
 D8:6B:FC		zte corporation
 D8:6C:02		Huaqin Telecom Technology Co.,Ltd
@@ -50951,6 +50958,7 @@ DC:B3:B4		Honeywell Environmental & Combustion Controls (Tianjin) Co., Ltd.
 DC:B4:AC		Flextronics Manufacturing(Zhuhai)Co.,Ltd.
 DC:B4:C4		Microsoft XCG
 DC:B4:CA		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
+DC:B4:D9		Espressif Inc.
 DC:B5:4F		Apple, Inc.
 DC:B7:2E		Xiaomi Communications Co Ltd
 DC:B7:AC		Hewlett Packard Enterprise
@@ -53930,7 +53938,7 @@ F8:2B:E6:80:00:00/28	Hitek Electronics Co.,Ltd
 F8:2B:E6:90:00:00/28	Annapurna labs
 F8:2B:E6:A0:00:00/28	Techwin Solutions Pvt Ltd
 F8:2B:E6:B0:00:00/28	Shenzhen C & D Electronics Co., Ltd.
-F8:2B:E6:C0:00:00/28	Maia Tech, Inc
+F8:2B:E6:C0:00:00/28	MaiaEdge, Inc.
 F8:2B:E6:D0:00:00/28	Atheer Connectivity
 F8:2B:E6:E0:00:00/28	Suzhou Etag-Technology Corporation
 F8:2C:18		2Wire Inc
