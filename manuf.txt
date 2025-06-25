@@ -22375,6 +22375,7 @@
 2C:01:0B		NASCENT Technology, LLC - RemKon
 2C:01:B5		Cisco Systems, Inc
 2C:02:9F		3ALogics
+2C:03:69		Accton Technology Corporation
 2C:05:47		Shenzhen Phaten Tech. LTD
 2C:06:23		Win Leader Inc.
 2C:07:3C		Devline Limited
@@ -36373,6 +36374,7 @@
 78:78:35		IEEE Registration Authority
 78:78:35:70:00:00/28	Ambient Life Inc.
 78:78:35:80:00:00/28	Shandong Xintong Electronics Co., Ltd
+78:78:35:A0:00:00/28	Skylight
 78:78:35:B0:00:00/28	Shanghai Intchains Technology Co., Ltd.
 78:78:35:D0:00:00/28	Suzhou Chena Information Technology Co., Ltd.
 78:7A:6F		Juice Technology AG
@@ -37285,6 +37287,7 @@
 80:22:78		China Mobile IOT Company Limited
 80:22:A7		NEC Platforms, Ltd.
 80:22:FA		Itel Mobile Limited
+80:23:95		AVM Audiovisuelles Marketing und Computersysteme GmbH
 80:24:8F		Cisco Systems, Inc
 80:25:11		Itel Mobile Limited
 80:26:89		D-Link International
