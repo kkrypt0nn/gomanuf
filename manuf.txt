@@ -20912,6 +20912,7 @@
 1C:D1:BA		Fiberhome Telecommunication Technologies Co.,LTD
 1C:D1:D7		Hangzhou BroadLink Technology Co., Ltd
 1C:D1:E0		Cisco Systems, Inc
+1C:D3:AF		LG Innotek
 1C:D4:0C		Kriwan Industrie-Elektronik GmbH
 1C:D5:E2		Shenzhen YOUHUA Technology Co., Ltd
 1C:D6:BD		Leedarson Lighting Co., Ltd.
@@ -36375,12 +36376,14 @@
 78:76:D9		EXARA Group
 78:78:35		IEEE Registration Authority
 78:78:35:00:00:00/28	ATsens
+78:78:35:10:00:00/28	ENQT GmbH
 78:78:35:40:00:00/28	Jiaxing Cyber Sensor Intelligent Technology Co., Ltd.
 78:78:35:50:00:00/28	IRISS Inc.
 78:78:35:70:00:00/28	Ambient Life Inc.
 78:78:35:80:00:00/28	Shandong Xintong Electronics Co., Ltd
 78:78:35:A0:00:00/28	Skylight
 78:78:35:B0:00:00/28	Shanghai Intchains Technology Co., Ltd.
+78:78:35:C0:00:00/28	DBG Communications Technology Co.,Ltd.
 78:78:35:D0:00:00/28	Suzhou Chena Information Technology Co., Ltd.
 78:7A:6F		Juice Technology AG
 78:7B:8A		Apple, Inc.
@@ -39275,6 +39278,7 @@
 8C:1F:64:3D:20:00/36	UVIRCO Technologies
 8C:1F:64:3D:40:00/36	e.p.g. Elettronica s.r.l.
 8C:1F:64:3D:50:00/36	FRAKO Kondensatoren- und Anlagenbau GmbH
+8C:1F:64:3D:70:00/36	Eiden Co.,Ltd.
 8C:1F:64:3D:90:00/36	Unlimited Bandwidth LLC
 8C:1F:64:3D:B0:00/36	BRS Sistemas Eletrônicos
 8C:1F:64:3E:00:00/36	YPP Corporation
@@ -40180,6 +40184,7 @@
 8C:1F:64:A2:90:00/36	Ringtail Security
 8C:1F:64:A2:B0:00/36	WENet Vietnam Joint Stock company
 8C:1F:64:A2:D0:00/36	ACSL Ltd.
+8C:1F:64:A2:E0:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:A3:00:00/36	TMP Srl
 8C:1F:64:A3:10:00/36	Zing Communications Inc
 8C:1F:64:A3:20:00/36	Nautel LTD
@@ -40689,6 +40694,7 @@
 8C:1F:64:DC:00:00/36	Pigs Can Fly Labs LLC
 8C:1F:64:DC:20:00/36	Procon Electronics Pty Ltd
 8C:1F:64:DC:30:00/36	Packet Digital, LLC
+8C:1F:64:DC:40:00/36	Amazon Robotics MTAC Matrix NPI
 8C:1F:64:DC:60:00/36	R&K
 8C:1F:64:DC:70:00/36	Wide Swath Research, LLC
 8C:1F:64:DC:80:00/36	Dwdm.Ru Llc
@@ -40893,6 +40899,7 @@
 8C:1F:64:F4:50:00/36	Jbf
 8C:1F:64:F4:60:00/36	Broadcast Tools, Inc.
 8C:1F:64:F4:90:00/36	CenterClick LLC
+8C:1F:64:F4:A0:00/36	In-lite Design BV
 8C:1F:64:F4:B0:00/36	Jorex Lorex India Private Limited
 8C:1F:64:F4:C0:00/36	inomatic GmbH
 8C:1F:64:F4:E0:00/36	ADAMCZEWSKI elektronische Messtechnik GmbH
@@ -52640,6 +52647,7 @@ EC:7C:2C		Huawei Technologies Co.,Ltd
 EC:7C:5C		Juniper Networks
 EC:7C:74		Justone Technologies Co., Ltd.
 EC:7C:B6		Samsung Electronics Co.,Ltd
+EC:7C:BA		Hewlett Packard Enterprise
 EC:7D:11		vivo Mobile Communication Co., Ltd.
 EC:7D:9D		Cpi
 EC:7E:91		Itel Mobile Limited
