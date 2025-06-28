@@ -24748,6 +24748,7 @@
 3C:9F:C3		Beijing Sinead Technology Co., Ltd.
 3C:9F:CD		Shenzhen Neoway Technology Co.,Ltd.
 3C:A0:67		Liteon Technology Corporation
+3C:A0:70		Blink by Amazon
 3C:A1:0D		Samsung Electronics Co.,Ltd
 3C:A1:61		Huawei Technologies Co.,Ltd
 3C:A2:C3		vivo Mobile Communication Co., Ltd.
@@ -25984,6 +25985,7 @@
 44:37:6F		Young Electric Sign Co
 44:37:E6		Hon Hai Precision Ind. Co.,Ltd.
 44:38:39		Cumulus Networks, inc
+44:38:8C		Sumitomo Electric Industries, Ltd
 44:38:E8		Intel Corporate
 44:39:C4		Universal Global Scientific Industrial Co., Ltd.
 44:3B:14		MitraStar Technology Corp.
@@ -26916,6 +26918,7 @@
 4C:43:41		Calix Inc.
 4C:44:5B		Intel Corporate
 4C:45:76		China Mobile(Hangzhou) Information Technology Co.,Ltd.
+4C:46:D1		Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
 4C:48:DA		Beijing Autelan Technology Co.,Ltd
 4C:49:29		TCL King Electrical Appliances(Huizhou)Co.,Ltd
 4C:49:4F		zte corporation
@@ -27142,6 +27145,7 @@
 4C:AB:FC		zte corporation
 4C:AC:0A		zte corporation
 4C:AD:A8		Panoptics Corp.
+4C:AD:DF		Công ty Cổ phần Thiết bị Công nghiệp GEIC
 4C:AE:13		Huawei Technologies Co.,Ltd
 4C:AE:1C		SaiNXT Technologies LLP
 4C:AE:31		ShengHai Electronics (Shenzhen) Ltd
@@ -27623,6 +27627,7 @@
 50:98:93		Texas Instruments
 50:98:B8		New H3C Technologies Co., Ltd
 50:98:F3		Rheem Australia Pty Ltd
+50:99:03		Meta Platforms, Inc.
 50:99:5A		Amazon Technologies Inc.
 50:9A:46		Safetrust Inc
 50:9A:4C		Dell Inc.
@@ -40458,6 +40463,7 @@
 8C:1F:64:C0:60:00/36	Tardis Technology
 8C:1F:64:C0:70:00/36	HYOSUNG Heavy Industries Corporation
 8C:1F:64:C0:80:00/36	Triamec Motion AG
+8C:1F:64:C0:90:00/36	S.E.I. Co.,Ltd.
 8C:1F:64:C0:A0:00/36	Acrolabs,Inc
 8C:1F:64:C0:C0:00/36	Giordano Controls Spa
 8C:1F:64:C0:D0:00/36	Abbott Diagnostics Technologies AS
@@ -40517,6 +40523,7 @@
 8C:1F:64:C6:E0:00/36	Safe Instruments
 8C:1F:64:C7:10:00/36	Yaviar LLC
 8C:1F:64:C7:50:00/36	Abbott Diagnostics Technologies AS
+8C:1F:64:C7:80:00/36	Polon-Alfa S.A.
 8C:1F:64:C7:90:00/36	P3Lab
 8C:1F:64:C7:B0:00/36	Freedom Atlantic
 8C:1F:64:C7:C0:00/36	MERKLE Schweissanlagen-Technik GmbH
@@ -48223,6 +48230,7 @@ C8:21:DA		Shenzhen YOUHUA Technology Co., Ltd
 C8:24:78		Edifier International
 C8:24:96		Jiangsu Yinhe  Electronics Co.,Ltd.
 C8:25:E1		Lemobile Information Technology (Beijing) Co., Ltd
+C8:26:E2		China Dragon Technology Limited
 C8:28:32		Beijing Xiaomi Electronics Co., Ltd.
 C8:28:E5		Cisco Systems, Inc
 C8:29:2A		Barun Electronics
@@ -50073,7 +50081,6 @@ D4:9F:DD		Huawei Device Co., Ltd.
 D4:A0:2A		Cisco Systems, Inc
 D4:A0:FB		IEEE Registration Authority
 D4:A0:FB:00:00:00/28	M2MD Technologies, Inc.
-D4:A0:FB:10:00:00/28	Henan Lingyunda Information Technology Co., Ltd
 D4:A0:FB:20:00:00/28	Beijing Lingji Innovations technology Co,LTD.
 D4:A0:FB:30:00:00/28	Nexxus Networks India Private Limited
 D4:A0:FB:40:00:00/28	Shenzhen Dijiean Technology Co., Ltd
@@ -53533,6 +53540,7 @@ F4:4D:5C		Zyxel Communications Corporation
 F4:4D:AD		Cable Matters Inc.
 F4:4E:05		Cisco Systems, Inc
 F4:4E:38		Olibra LLC
+F4:4E:B4		Cloud Network Technology Singapore Pte. Ltd.
 F4:4E:E3		Intel Corporate
 F4:4E:FD		Actions Semiconductor Co.,Ltd.(Cayman Islands)
 F4:4F:D3		shenzhen hemuwei technology co.,ltd
