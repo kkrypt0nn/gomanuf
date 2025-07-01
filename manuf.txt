@@ -17630,6 +17630,7 @@
 04:8C:16		Huawei Technologies Co.,Ltd
 04:8C:9A		Huawei Device Co., Ltd.
 04:8D:38		Netis Technology Co., Ltd.
+04:8F:00		Rong-Paisa Electronics Co., Ltd.
 04:90:81		Pensando Systems, Inc.
 04:90:C0		Forvia
 04:91:62		Microchip Technology Inc.
@@ -19198,6 +19199,7 @@
 10:5C:3B		Perma-Pipe, Inc.
 10:5C:BF		DuroByte Inc
 10:5D:DC		Huawei Device Co., Ltd.
+10:5E:AE		New H3C Technologies Co., Ltd
 10:5F:02		Ruijie Networks Co.,LTD
 10:5F:06		Actiontec Electronics, Inc
 10:5F:49		Cisco SPVTG
@@ -36382,6 +36384,8 @@
 78:78:35		IEEE Registration Authority
 78:78:35:00:00:00/28	ATsens
 78:78:35:10:00:00/28	ENQT GmbH
+78:78:35:20:00:00/28	EHTech （Beijing）Co., Ltd.
+78:78:35:30:00:00/28	Shenzhen Chuangwei Electronic Appliance Tech Co., Ltd.
 78:78:35:40:00:00/28	Jiaxing Cyber Sensor Intelligent Technology Co., Ltd.
 78:78:35:50:00:00/28	IRISS Inc.
 78:78:35:70:00:00/28	Ambient Life Inc.
@@ -36390,6 +36394,7 @@
 78:78:35:B0:00:00/28	Shanghai Intchains Technology Co., Ltd.
 78:78:35:C0:00:00/28	DBG Communications Technology Co.,Ltd.
 78:78:35:D0:00:00/28	Suzhou Chena Information Technology Co., Ltd.
+78:78:35:E0:00:00/28	NEOARK Corporation
 78:7A:6F		Juice Technology AG
 78:7B:8A		Apple, Inc.
 78:7D:48		Itel Mobile Limited
@@ -41159,6 +41164,7 @@
 8C:5A:F8		Beijing Xiaomi Electronics Co., Ltd.
 8C:5B:F0		Commscope
 8C:5C:20		Vantiva USA LLC
+8C:5C:53		AltoBeam Inc.
 8C:5C:A1		d-broad,INC
 8C:5D:60		UCI Corporation Co.,Ltd.
 8C:5D:B2		IEEE Registration Authority
@@ -41283,6 +41289,7 @@
 8C:94:CC		Sfr
 8C:94:CF		Encell Technology, Inc.
 8C:96:5F		Shandong Zhongan Technology Co., Ltd.
+8C:96:A5		New H3C Technologies Co., Ltd
 8C:97:EA		Freebox Sas
 8C:98:06		Shenzhen Sei Robotics Co.,Ltd
 8C:98:6B		Apple, Inc.
@@ -45932,6 +45939,7 @@ B4:39:D6		ProCurve Networking by HP
 B4:3A:28		Samsung Electronics Co.,Ltd
 B4:3A:31		Silicon Laboratories
 B4:3A:45		Espressif Inc.
+B4:3A:96		Arista Networks
 B4:3A:E2		Huawei Technologies Co.,Ltd
 B4:3D:08		GX International BV
 B4:3D:6B		NXP Semiconductor (Tianjin) LTD.
@@ -50880,6 +50888,7 @@ DC:6D:CD		Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 DC:6F:00		Livescribe, Inc.
 DC:6F:08		Bay Storage Technology
 DC:70:14		Private
+DC:70:35		Shengzhen Gongjin Electronics
 DC:71:37		zte corporation
 DC:71:44		Samsung Electro Mechanics Co., Ltd.
 DC:71:96		Intel Corporate
@@ -53727,6 +53736,7 @@ F4:A7:39		Juniper Networks
 F4:A8:0D		Wistron InfoComm(Kunshan)Co.,Ltd.
 F4:A9:97		Canon Inc.
 F4:AA:D0		Ohsung
+F4:AB:5C		Quectel Wireless Solutions Co.,Ltd.
 F4:AC:C1		Cisco Systems, Inc
 F4:AF:E7		Apple, Inc.
 F4:B1:64		Lightning Telecommunications Technology Co. Ltd
