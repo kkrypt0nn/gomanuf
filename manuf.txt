@@ -22242,6 +22242,7 @@
 28:D2:44		LCFC(Hefei) Electronics Technology co., ltd
 28:D2:5A		Infinix mobility limited
 28:D3:EA		Huawei Device Co., Ltd.
+28:D4:1E		Barrot Technology Co.,Ltd.
 28:D4:36		Jiangsu dewosi electric co., LTD
 28:D5:76		Premier Wireless, Inc.
 28:D9:3E		Telecor Inc.
@@ -28677,6 +28678,7 @@
 58:E4:34		Juniper Networks
 58:E4:76		Centron Communications Technologies Fujian Co.,Ltd
 58:E4:88		Amazon Technologies Inc.
+58:E4:EB		FN-LINK TECHNOLOGY Ltd.
 58:E6:36		EVRsafe Technologies
 58:E6:BA		Apple, Inc.
 58:E6:C5		Espressif Inc.
@@ -30692,6 +30694,7 @@
 6C:2E:33		Accelink Technologies Co.,Ltd.
 6C:2E:72		B&B Exporting Limited
 6C:2E:85		Sagemcom Broadband SAS
+6C:2F:1C		Nexus Raytek Pty Ltd
 6C:2F:2C		Samsung Electronics Co.,Ltd
 6C:2F:80		Intel Corporate
 6C:2F:8A		Samsung Electronics Co.,Ltd
@@ -35834,7 +35837,7 @@
 74:65:0C		Apple, Inc.
 74:65:D1		Atlinks
 74:66:30		T:mi Ytti
-74:67:5F		Compal Info (Kunshan) Co., Ltd
+74:67:5F		Compal Information(Kunshan)Co.,Ltd.
 74:67:F7		Extreme Networks Headquarters
 74:69:4A		Sichuan Tianyi Comheart Telecom Co.,LTD
 74:6A:3A		Aperi Corporation
@@ -38993,6 +38996,7 @@
 8C:1F:64:1A:00:00/36	Engage Technologies
 8C:1F:64:1A:50:00/36	Dialtronics Systems Pvt Ltd
 8C:1F:64:1A:70:00/36	aelettronica group srl
+8C:1F:64:1A:80:00/36	Private
 8C:1F:64:1A:D0:00/36	Nexxto Servicos Em Tecnologia da Informacao SA
 8C:1F:64:1A:F0:00/36	EnviroNode IoT Solutions
 8C:1F:64:1B:10:00/36	person-AIz AS
@@ -39096,6 +39100,7 @@
 8C:1F:64:27:20:00/36	Comminent Pvt Ltd
 8C:1F:64:27:30:00/36	Distran AG
 8C:1F:64:27:40:00/36	Invixium Access Inc
+8C:1F:64:27:50:00/36	IDA North America Inc.
 8C:1F:64:27:70:00/36	Shenzhen Angstrom Excellence Technology Co., Ltd
 8C:1F:64:27:B0:00/36	Oriux
 8C:1F:64:27:C0:00/36	Tactical Blue Space Ventures LLC
@@ -39411,6 +39416,7 @@
 8C:1F:64:49:30:00/36	Security Products International, LLC
 8C:1F:64:49:50:00/36	Dave Srl
 8C:1F:64:49:60:00/36	Qualsen(Guangzhou)Technologies Co.,Ltd
+8C:1F:64:49:70:00/36	Primalucelab S.p.A.
 8C:1F:64:49:80:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:49:90:00/36	Tiama
 8C:1F:64:49:B0:00/36	Wartsila Voyage Oy
@@ -46882,6 +46888,7 @@ BC:4C:C4		Apple, Inc.
 BC:4D:FB		Hitron Technologies. Inc
 BC:4E:3C		Core Staff Co., Ltd.
 BC:4E:5D		ZhongMiao Technology Co., Ltd.
+BC:51:5F		Nokia Solutions and Networks India Private Limited
 BC:51:FE		Swann communications Pty Ltd
 BC:52:74		Samsung Electronics Co.,Ltd
 BC:52:B4		Nokia
@@ -50116,6 +50123,7 @@ D4:9C:53		Netcraze Llc
 D4:9C:8E		University of FUKUI
 D4:9C:DD		AMPAK Technology,Inc.
 D4:9C:F4		Palo Alto Networks
+D4:9D:9D		Shenzhen Goodocom lnformation Technology Co.,Ltd.
 D4:9D:C0		Samsung Electronics Co.,Ltd
 D4:9E:05		zte corporation
 D4:9E:3B		Guangzhou Shiyuan Electronic Technology Company Limited
@@ -54885,7 +54893,12 @@ FC:E2:6C		Apple, Inc.
 FC:E3:3C		Huawei Technologies Co.,Ltd
 FC:E4:98		IEEE Registration Authority
 FC:E4:98:20:00:00/28	ART Finex Co.,Ltd.
+FC:E4:98:30:00:00/28	Shenzhen C & D Electronics Co., Ltd.
+FC:E4:98:40:00:00/28	TScale Electronics Mfg. (Kunshan) Co., Ltd
+FC:E4:98:50:00:00/28	SM Instruments
+FC:E4:98:60:00:00/28	Videonetics Technology Private Limited
 FC:E4:98:A0:00:00/28	SATEL Ltd
+FC:E4:98:B0:00:00/28	GIGA Copper Networks GmbH
 FC:E4:98:C0:00:00/28	Siretta Ltd
 FC:E4:98:D0:00:00/28	Infinity Electronics Ltd
 FC:E5:57		Nokia Corporation
