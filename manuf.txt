@@ -23505,6 +23505,7 @@
 34:38:39		NEC Platforms, Ltd.
 34:38:AF		Inlab Networks GmbH
 34:38:B7		HUMAX Co., Ltd.
+34:39:16		Google, Inc.
 34:3A:20		Hewlett Packard Enterprise
 34:3C:30		NXP Semiconductor (Tianjin) LTD.
 34:3D:7F		Klipsch Group, Inc.
@@ -38991,6 +38992,7 @@
 8C:1F:64:19:60:00/36	Secuinfo Co.Ltd
 8C:1F:64:19:70:00/36	TEKVOX, Inc
 8C:1F:64:19:80:00/36	Reo Ag
+8C:1F:64:19:90:00/36	Shenzhen Arctec Innovation Technology Co.,Ltd
 8C:1F:64:19:B0:00/36	FeedFlo
 8C:1F:64:19:C0:00/36	Aton srl
 8C:1F:64:1A:00:00/36	Engage Technologies
@@ -40575,6 +40577,7 @@
 8C:1F:64:C9:B0:00/36	J.M. Voith SE & Co. KG
 8C:1F:64:C9:E0:00/36	CytoTronics
 8C:1F:64:C9:F0:00/36	PeachCreek
+8C:1F:64:CA:00:00/36	Sarv Webs Private Limited
 8C:1F:64:CA:10:00/36	Pantherun Technologies Pvt Ltd
 8C:1F:64:CA:20:00/36	eumig industrie-TV GmbH.
 8C:1F:64:CA:40:00/36	Bit Part LLC
@@ -42639,6 +42642,7 @@
 98:39:10		Kaon Group Co., Ltd.
 98:39:8E		Samsung Electronics Co.,Ltd
 98:39:C0		Flextronics
+98:3A:1F		Google, Inc.
 98:3B:16		AMPAK Technology, Inc.
 98:3B:67		DWnet Technologies(Suzhou) Corporation
 98:3B:8F		Intel Corporate
@@ -54892,11 +54896,13 @@ FC:E2:3F		Clay Paky Spa
 FC:E2:6C		Apple, Inc.
 FC:E3:3C		Huawei Technologies Co.,Ltd
 FC:E4:98		IEEE Registration Authority
+FC:E4:98:10:00:00/28	QuEL, Inc.
 FC:E4:98:20:00:00/28	ART Finex Co.,Ltd.
 FC:E4:98:30:00:00/28	Shenzhen C & D Electronics Co., Ltd.
 FC:E4:98:40:00:00/28	TScale Electronics Mfg. (Kunshan) Co., Ltd
 FC:E4:98:50:00:00/28	SM Instruments
 FC:E4:98:60:00:00/28	Videonetics Technology Private Limited
+FC:E4:98:80:00:00/28	Changzhou Leading Weighing Technology Co., Ltd
 FC:E4:98:A0:00:00/28	SATEL Ltd
 FC:E4:98:B0:00:00/28	GIGA Copper Networks GmbH
 FC:E4:98:C0:00:00/28	Siretta Ltd
