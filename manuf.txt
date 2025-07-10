@@ -22366,6 +22366,7 @@
 28:FF:B2		Toshiba Corp.
 2A:0B:B8		xFusion Digital Technologies Co., Limited
 2A:15:97		Cotsworks
+2A:2F:83		Uplink
 2A:47:C9		Code Construct Pty Ltd
 2A:7F:76		Wireless Broadband Alliance, Inc
 2A:9F:EB		AVnu Alliance
@@ -27510,6 +27511,7 @@
 50:50:65		TAKT Corporation
 50:50:A4		Samsung Electronics Co.,Ltd
 50:50:CE		Hangzhou Dianyixia Communication Technology Co. Ltd.
+50:51:4F		Sapphire Brands Limited
 50:51:A9		Texas Instruments
 50:52:3B		Nokia
 50:52:D2		Hangzhou Telin Technologies Co., Limited
@@ -27999,6 +28001,7 @@
 54:4D:D4		China Mobile Group Device Co.,Ltd.
 54:4E:45		Private
 54:4E:90		Apple, Inc.
+54:4E:F0		Roku, Inc
 54:51:1B		Huawei Technologies Co.,Ltd
 54:51:46		AMG Systems Ltd.
 54:51:DE		Cisco Systems, Inc
@@ -40563,6 +40566,7 @@
 8C:1F:64:C6:D0:00/36	EA Elektro-Automatik GmbH
 8C:1F:64:C6:E0:00/36	Safe Instruments
 8C:1F:64:C7:10:00/36	Yaviar LLC
+8C:1F:64:C7:40:00/36	Nippon Techno Lab Inc
 8C:1F:64:C7:50:00/36	Abbott Diagnostics Technologies AS
 8C:1F:64:C7:80:00/36	Polon-Alfa S.A.
 8C:1F:64:C7:90:00/36	P3Lab
@@ -40754,6 +40758,7 @@
 8C:1F:64:DC:B0:00/36	Beijing Ceresdata Technology Co., LTD
 8C:1F:64:DC:F0:00/36	Reo Ag
 8C:1F:64:DD:20:00/36	Shield-Cctv Co.,Ltd.
+8C:1F:64:DD:30:00/36	CHUGOKU ELECTRICAL INSTRUMENTS Co.,LTD.
 8C:1F:64:DD:40:00/36	Midlands Technical Co., Ltd.
 8C:1F:64:DD:50:00/36	Cardinal Scales Manufacturing Co
 8C:1F:64:DD:70:00/36	KST technology
@@ -41047,6 +41052,7 @@
 8C:1F:64:FE:B0:00/36	Zhejiang Saijin Semiiconductor Technology Co., Ltd.
 8C:1F:64:FE:C0:00/36	Newtec A/S
 8C:1F:64:FE:D0:00/36	Televic Rail GmbH
+8C:1F:64:FE:E0:00/36	Leap Info Systems Pvt. Ltd.
 8C:1F:64:FF:30:00/36	Fuzhou Tucsen Photonics Co.,Ltd
 8C:1F:64:FF:40:00/36	SMS group GmbH
 8C:1F:64:FF:50:00/36	IQ Tools LLC
@@ -51813,6 +51819,7 @@ E4:66:E5		Nanjing Qinheng Microelectronics Co., Ltd.
 E4:67:1E		SHEN ZHEN NUO XIN CHENG TECHNOLOGY co., Ltd.
 E4:67:A6		BSH Hausgeräte GmbH
 E4:67:BA		Danish Interpretation Systems A/S
+E4:67:DD		Ela Innovation
 E4:68:A3		Huawei Technologies Co.,Ltd
 E4:69:5A		Dictum Health, Inc.
 E4:6A:35		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
@@ -54905,6 +54912,7 @@ FC:E2:3F		Clay Paky Spa
 FC:E2:6C		Apple, Inc.
 FC:E3:3C		Huawei Technologies Co.,Ltd
 FC:E4:98		IEEE Registration Authority
+FC:E4:98:00:00:00/28	Ntcsoft
 FC:E4:98:10:00:00/28	QuEL, Inc.
 FC:E4:98:20:00:00/28	ART Finex Co.,Ltd.
 FC:E4:98:30:00:00/28	Shenzhen C & D Electronics Co., Ltd.
@@ -54913,6 +54921,7 @@ FC:E4:98:50:00:00/28	SM Instruments
 FC:E4:98:60:00:00/28	Videonetics Technology Private Limited
 FC:E4:98:70:00:00/28	E Haute Intelligent Technology Co., Ltd
 FC:E4:98:80:00:00/28	Changzhou Leading Weighing Technology Co., Ltd
+FC:E4:98:90:00:00/28	AVCON Information Technology Co.,Ltd.
 FC:E4:98:A0:00:00/28	SATEL Ltd
 FC:E4:98:B0:00:00/28	GIGA Copper Networks GmbH
 FC:E4:98:C0:00:00/28	Siretta Ltd
