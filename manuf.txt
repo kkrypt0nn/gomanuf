@@ -15471,6 +15471,7 @@
 00:6E:02		Xovis AG
 00:6F:64		Samsung Electronics Co.,Ltd
 00:6F:F2		Mitsumi Electric Co.,Ltd.
+00:70:07		Espressif Inc.
 00:70:B0		M/A-Com Inc. Companies
 00:70:B3		Data Recall Ltd.
 00:71:47		Amazon Technologies Inc.
@@ -18290,6 +18291,7 @@
 08:91:15		Amazon Technologies Inc.
 08:91:A3		Amazon Technologies Inc.
 08:92:04		Dell Inc.
+08:92:72		Espressif Inc.
 08:93:56		Huawei Technologies Co.,Ltd
 08:94:EF		Wistron Infocomm (Zhongshan) Corporation
 08:95:2A		Vantiva USA LLC
@@ -23727,6 +23729,7 @@
 34:B5:F3:20:00:00/28	Inspired Flight
 34:B5:F3:50:00:00/28	Kyokuto Solutions Inc.
 34:B5:F3:60:00:00/28	Jenesis(Shen Zhen)Co.,Ltd.
+34:B5:F3:B0:00:00/28	Aeterlink Corp.
 34:B7:DA		Espressif Inc.
 34:B7:FD		Guangzhou Younghead Electronic Technology Co.,Ltd
 34:B8:83		Cisco Systems, Inc
@@ -24871,6 +24874,7 @@
 3C:DC:03:C0:00:00/28	Shenzhen Longsight Technology Co., Ltd.
 3C:DC:03:D0:00:00/28	Vieletech
 3C:DC:03:E0:00:00/28	JP Morgan Chase Bank, N.A.
+3C:DC:75		Espressif Inc.
 3C:DC:BC		Samsung Electronics Co.,Ltd
 3C:DD:57		Apple, Inc.
 3C:DD:89		Somo Holdings & Tech. Co.,Ltd.
@@ -29451,6 +29455,7 @@
 60:74:8D		Atmaca Elektronik
 60:74:B1		Home Control Singapore Pte Ltd
 60:74:F4		Private
+60:75:6C		LG Electronics
 60:76:23		Shenzhen E-Superlink Technology Co., Ltd
 60:76:88		Velodyne
 60:77:71		Texas Instruments
@@ -39100,6 +39105,7 @@
 8C:1F:64:24:90:00/36	Tex Computer Srl
 8C:1F:64:24:C0:00/36	Shenzhen Link-All Technolgy Co., Ltd
 8C:1F:64:24:D0:00/36	Xi'An Jiaoda Kaida New Technology Co.Ltd
+8C:1F:64:24:E0:00/36	YUYAMA MFG Co.,Ltd
 8C:1F:64:25:00:00/36	Accurate Optoelectronics Pvt. Ltd.
 8C:1F:64:25:10:00/36	Watchdog Systems
 8C:1F:64:25:20:00/36	TYT Electronics CO., LTD
@@ -39527,6 +39533,7 @@
 8C:1F:64:52:D0:00/36	Cubic ITS, Inc. dba GRIDSMART Technologies
 8C:1F:64:52:E0:00/36	CLOUD TELECOM Inc.
 8C:1F:64:53:00:00/36	SIPazon AB
+8C:1F:64:53:30:00/36	Boeing India Private Limited
 8C:1F:64:53:40:00/36	Surya Electronics
 8C:1F:64:53:50:00/36	Columbus McKinnon
 8C:1F:64:53:60:00/36	Beijing Lxtv Technology Co.,Ltd
@@ -41289,6 +41296,7 @@
 8C:7A:15		Ruckus Wireless
 8C:7A:3D		Xiaomi Communications Co Ltd
 8C:7A:AA		Apple, Inc.
+8C:7A:B3		Guangzhou Shiyuan Electronic Technology Company Limited
 8C:7B:9D		Apple, Inc.
 8C:7B:F0		Xufeng Development Limited
 8C:7C:92		Apple, Inc.
@@ -52417,6 +52425,7 @@ E8:CB:F5		Laird Connectivity
 E8:CC:18		D-Link International
 E8:CC:32		Micronet  LTD
 E8:CC:8C		Chengdu Jiarui Hualian Communication Technology Co
+E8:CD:15		Vantiva USA LLC
 E8:CD:2D		Huawei Technologies Co.,Ltd
 E8:CE:06		SkyHawke Technologies, LLC.
 E8:CF:83		Dell Inc.
@@ -54128,6 +54137,7 @@ F8:45:C4		Shenzhen Netforward Micro-Electronic Co., Ltd.
 F8:46:1C		Sony Interactive Entertainment Inc.
 F8:46:2D		SYNTEC Incorporation
 F8:47:2D		X2gen Digital Corp. Ltd
+F8:47:E3		Shenzhen Skyworth Digital  Technology  CO., Ltd
 F8:48:97		Hitachi, Ltd.
 F8:48:FD		China Mobile Group Device Co.,Ltd.
 F8:4A:73		Eumtech Co., Ltd
