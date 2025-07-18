@@ -23737,6 +23737,7 @@
 34:B5:F3:50:00:00/28	Kyokuto Solutions Inc.
 34:B5:F3:60:00:00/28	Jenesis(Shen Zhen)Co.,Ltd.
 34:B5:F3:70:00:00/28	Hyatta Digital Technology Co., Ltd.
+34:B5:F3:80:00:00/28	Shanghai Sigen New Energy Technology Co., Ltd
 34:B5:F3:B0:00:00/28	Aeterlink Corp.
 34:B7:DA		Espressif Inc.
 34:B7:FD		Guangzhou Younghead Electronic Technology Co.,Ltd
@@ -27566,6 +27567,7 @@
 50:61:BF		Cisco Systems, Inc
 50:61:D6		Indu-Sol GmbH
 50:61:F6		Universal Electronics, Inc.
+50:62:45		Annapurna labs
 50:62:55		IEEE Registration Authority
 50:62:55:00:00:00/28	Ufanet SC
 50:62:55:10:00:00/28	Hagiwara Solutions Co., Ltd
@@ -40267,6 +40269,7 @@
 8C:1F:64:A1:B0:00/36	Zilica Limited
 8C:1F:64:A1:C0:00/36	manageon
 8C:1F:64:A1:F0:00/36	Hitachi Energy  India Limited
+8C:1F:64:A2:00:00/36	Intenseye Inc.
 8C:1F:64:A2:60:00/36	Automatic Pty Ltd
 8C:1F:64:A2:70:00/36	Napino Continental Vehicle Elctronics Private Limited
 8C:1F:64:A2:90:00/36	Ringtail Security
@@ -40287,6 +40290,7 @@
 8C:1F:64:A3:F0:00/36	ViewSonic Corp
 8C:1F:64:A4:20:00/36	Rodgers Instruments US LLC
 8C:1F:64:A4:40:00/36	Rapidev Pvt Ltd
+8C:1F:64:A4:50:00/36	U -Mei-Dah Int'L Enterprise Co.,Ltd.
 8C:1F:64:A4:70:00/36	Saarni Cloud Oy
 8C:1F:64:A4:80:00/36	Wallenius Water Innovation AB
 8C:1F:64:A4:90:00/36	Integer.pl S.A.
@@ -40932,6 +40936,7 @@
 8C:1F:64:EC:10:00/36	Actronika SAS
 8C:1F:64:EC:C0:00/36	Baldwin Jimek AB
 8C:1F:64:EC:F0:00/36	Monnit Corporation
+8C:1F:64:ED:00:00/36	Shanghai Jupper Technology Co.Ltd
 8C:1F:64:ED:30:00/36	Senso2Me Nv
 8C:1F:64:ED:40:00/36	Zhejiang Chitic-Safeway New Energy Technical Co.,Ltd.
 8C:1F:64:ED:50:00/36	Smart Data (Shenzhen) Intelligent System Co., Ltd.
@@ -46855,6 +46860,7 @@ BC:28:2C		e-Smart Systems Pvt. Ltd
 BC:28:46		NextBIT Computing Pvt. Ltd.
 BC:28:D6		Rowley Associates Limited
 BC:29:78		Prama Hikvision India Private Limited
+BC:2A:33		Quectel Wireless Solutions Co.,Ltd.
 BC:2B:02		China Dragon Technology Limited
 BC:2B:6B		Beijing Haier IC Design Co.,Ltd
 BC:2B:D7		Revogi Innovation Co., Ltd.
@@ -50371,6 +50377,7 @@ D4:FE:28		Silicon Laboratories
 D8:00:4D		Apple, Inc.
 D8:00:93		Aurender Inc.
 D8:01:D0		Huawei Technologies Co.,Ltd
+D8:01:EB		Infinity Electronics Ltd
 D8:02:8A		Shenzhen YOUHUA Technology Co., Ltd
 D8:02:C0		Extreme Networks Headquarters
 D8:03:1A		Laird Connectivity
@@ -54192,6 +54199,7 @@ F8:54:AF		ECI Telecom Ltd.
 F8:54:B8		Amazon Technologies Inc.
 F8:54:F6		AzureWave Technology Inc.
 F8:55:48		Texas Instruments
+F8:55:4B		WirelessMobility Engineering Centre SDN. BHD
 F8:55:CD		Visteon Corporation
 F8:56:C3		zte corporation
 F8:57:2E		Core Brands, LLC
