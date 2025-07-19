@@ -23734,10 +23734,13 @@
 34:B5:F3		IEEE Registration Authority
 34:B5:F3:20:00:00/28	Inspired Flight
 34:B5:F3:30:00:00/28	WEAD GmbH
+34:B5:F3:40:00:00/28	LAUMAS Elettronica s.r.l.
 34:B5:F3:50:00:00/28	Kyokuto Solutions Inc.
 34:B5:F3:60:00:00/28	Jenesis(Shen Zhen)Co.,Ltd.
 34:B5:F3:70:00:00/28	Hyatta Digital Technology Co., Ltd.
 34:B5:F3:80:00:00/28	Shanghai Sigen New Energy Technology Co., Ltd
+34:B5:F3:90:00:00/28	Shenzhen PeakVic Technology Co.,Ltd
+34:B5:F3:A0:00:00/28	Bethlabs(Tianjin)Technology Co.,Ltd.
 34:B5:F3:B0:00:00/28	Aeterlink Corp.
 34:B7:DA		Espressif Inc.
 34:B7:FD		Guangzhou Younghead Electronic Technology Co.,Ltd
@@ -28151,6 +28154,7 @@
 54:9A:4C		Guangdong Homecare Technology Co.,Ltd.
 54:9A:8F		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 54:9B:12		Samsung Electronics Co.,Ltd
+54:9B:24		Mellanox Technologies, Inc.
 54:9B:49		NEC Platforms, Ltd.
 54:9B:72		Ericsson AB
 54:9C:27		Plasma Cloud Limited
@@ -39473,6 +39477,7 @@
 8C:1F:64:4A:00:00/36	Tantec A/S
 8C:1F:64:4A:10:00/36	Breas Medical AB
 8C:1F:64:4A:20:00/36	Bludigit SpA
+8C:1F:64:4A:40:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:4A:60:00/36	Alaire Technologies Inc
 8C:1F:64:4A:70:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:4A:80:00/36	Exact Sciences
@@ -39790,6 +39795,7 @@
 8C:1F:64:6C:E0:00/36	Potter Electric Signal Co. LLC
 8C:1F:64:6C:F0:00/36	Italora
 8C:1F:64:6D:00:00/36	Abb
+8C:1F:64:6D:10:00/36	Smith meter Inc
 8C:1F:64:6D:20:00/36	VectorNav Technologies
 8C:1F:64:6D:40:00/36	Hitachi Energy Poland sp. Z o o
 8C:1F:64:6D:50:00/36	HTK Hamburg GmbH
@@ -40665,6 +40671,7 @@
 8C:1F:64:CD:60:00/36	USM Pty Ltd
 8C:1F:64:CD:80:00/36	Gogo Business Aviation
 8C:1F:64:CD:90:00/36	Fingoti Limited
+8C:1F:64:CD:A0:00/36	SPX Flow Technology BV
 8C:1F:64:CD:B0:00/36	European Telecommunication International Kft
 8C:1F:64:CD:D0:00/36	The Signalling Company
 8C:1F:64:CD:F0:00/36	Canway Technology GmbH
@@ -41373,6 +41380,7 @@
 8C:90:2D		TP-Link Systems Inc.
 8C:90:D3		Nokia
 8C:91:09		Toyoshima Electric Technoeogy(Suzhou) Co.,Ltd.
+8C:91:3A		Mellanox Technologies, Inc.
 8C:92:36		Aus.Linx Technology Co., Ltd.
 8C:92:46		Oerlikon Textile Gmbh&Co.KG
 8C:93:51		Jigowatts Inc.
@@ -52865,6 +52873,7 @@ EC:9B:8B		Hewlett Packard Enterprise
 EC:9B:F3		Samsung Electro-Mechanics(Thailand)
 EC:9C:32		Sichuan AI-Link Technology Co., Ltd.
 EC:9E:CD		Artesyn Embedded Technologies
+EC:9E:EA		Xtra Technology LLC
 EC:9F:0D		IEEE Registration Authority
 EC:9F:0D:00:00:00/28	Hesai Photonics Technology Co., Ltd
 EC:9F:0D:10:00:00/28	Simula Technology Inc.
