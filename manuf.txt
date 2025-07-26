@@ -15461,9 +15461,12 @@
 00:69:67:D0:00:00/28	aversix
 00:69:67:E0:00:00/28	Tianjin Lianwu Technology Co., Ltd.
 00:6A:5E		IEEE Registration Authority
+00:6A:5E:00:00:00/28	Truly Electronics Mfg.,Ltd
 00:6A:5E:10:00:00/28	BroadMaster Biotech Corp
 00:6A:5E:20:00:00/28	Creative Communication
+00:6A:5E:40:00:00/28	Evercomm (Pty) Ltd
 00:6A:5E:70:00:00/28	Jiangsu Alstom NUG Propulsion System Co., Ltd
+00:6A:5E:90:00:00/28	Annapurna labs
 00:6B:6F		Huawei Technologies Co.,Ltd
 00:6B:8E		Shanghai Feixun Communication Co.,Ltd.
 00:6B:9E		Vizio, Inc
@@ -39458,6 +39461,7 @@
 8C:1F:64:45:10:00/36	Guan Show Technologe Co., Ltd.
 8C:1F:64:45:40:00/36	KJ Klimateknik A/S
 8C:1F:64:45:70:00/36	Shanghai Angwei Information Technology Co.,Ltd.
+8C:1F:64:45:90:00/36	GreenTally LLC
 8C:1F:64:45:A0:00/36	Inspur Digital Enterprise Technology Co., Ltd.
 8C:1F:64:45:B0:00/36	Beijing Aoxing Technology Co.,Ltd
 8C:1F:64:45:D0:00/36	Fuzhou Tucsen Photonics Co.,Ltd
