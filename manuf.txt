@@ -15465,6 +15465,7 @@
 00:6A:5E:10:00:00/28	BroadMaster Biotech Corp
 00:6A:5E:20:00:00/28	Creative Communication
 00:6A:5E:40:00:00/28	Evercomm (Pty) Ltd
+00:6A:5E:50:00:00/28	Rayneo (wuxi) ltd
 00:6A:5E:70:00:00/28	Jiangsu Alstom NUG Propulsion System Co., Ltd
 00:6A:5E:90:00:00/28	Annapurna labs
 00:6B:6F		Huawei Technologies Co.,Ltd
@@ -19246,6 +19247,7 @@
 10:63:A3:E0:00:00/28	Annapurna labs
 10:63:C8		Liteon Technology Corporation
 10:64:E2		ADFweb.com s.r.l.
+10:65:19		Shenzhen iComm Semiconductor CO.,LTD
 10:65:30		Dell Inc.
 10:65:A3		Panamax LLC
 10:65:CF		Iqsim
@@ -20385,6 +20387,7 @@
 18:E8:DD		Moduletek
 18:E8:EC		STMicrolectronics International NV
 18:E9:1D		Huawei Technologies Co.,Ltd
+18:EB:D4		Shenzhen Skyworth Digital  Technology  CO., Ltd
 18:EC:E7		Buffalo.Inc
 18:EE:69		Apple, Inc.
 18:EE:86		Inseego Wireless, Inc
@@ -20435,6 +20438,7 @@
 18:FF:2E		Shenzhen Rui Ying Da Technology Co., Ltd
 1A:75:FB		Autosar
 1A:90:21		Physical Security Interoperability Alliance
+1A:AF:53		JSC Megapolis-telecom region
 1A:BB:FB		UHD Alliance
 1C:00:42		NARI Technology Co., Ltd.
 1C:01:2D		Ficer Technology
@@ -40485,6 +40489,7 @@
 8C:1F:64:B6:70:00/36	M2M craft Co., Ltd.
 8C:1F:64:B6:80:00/36	All-Systems Electronics Pty Ltd
 8C:1F:64:B6:90:00/36	Quanxing Tech Co.,LTD
+8C:1F:64:B6:A0:00/36	Mobileye Vision Technologies LTD
 8C:1F:64:B6:B0:00/36	KELC Electronics System Co., LTD.
 8C:1F:64:B6:C0:00/36	Laser Mechanisms, Inc.
 8C:1F:64:B6:D0:00/36	Andy-L Ltd
@@ -40612,6 +40617,7 @@
 8C:1F:64:C2:B0:00/36	Wuhan Xingtuxinke ELectronic Co.,Ltd
 8C:1F:64:C2:D0:00/36	iENSO Inc.
 8C:1F:64:C2:F0:00/36	Power Electronics Espana, S.L.
+8C:1F:64:C3:10:00/36	Ambarella Inc.
 8C:1F:64:C3:50:00/36	Peter Huber Kaeltemaschinenbau SE
 8C:1F:64:C3:60:00/36	ODTech Co., Ltd.
 8C:1F:64:C3:80:00/36	Eco-Adapt
@@ -41193,6 +41199,7 @@
 8C:44:35		Shanghai BroadMobi Communication Technology Co., Ltd.
 8C:44:4F		HUMAX Co., Ltd.
 8C:44:A5		Cisco Systems, Inc
+8C:44:BB		Shen Zhen Tenda Technology Co.,Ltd
 8C:45:00		Murata Manufacturing Co., Ltd.
 8C:47:6E		IEEE Registration Authority
 8C:47:6E:00:00:00/28	Chipsafer Pte. Ltd.
