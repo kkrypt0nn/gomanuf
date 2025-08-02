@@ -12,14 +12,14 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
       - name: Set Date Tag Variable
-        run: echo "DATE_TAG=$(date +'%-Y%-m%-d')" >> $GITHUB_ENV
+        run: echo "DATE_TAG=$(date +'%Y%m%d')" >> $GITHUB_ENV
       - name: Set Release Date
         run: echo "RELEASE_DATE=$(date +'%-B %-Y')" >> $GITHUB_ENV
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: v2.0.0+${{ env.DATE_TAG }}
-          name: Version v2.0.0+${{ env.DATE_TAG }}
+          tag_name: v1.10.0+${{ env.DATE_TAG }}
+          name: Version v1.10.0+${{ env.DATE_TAG }}
           body: "## ${{ env.RELEASE_DATE }} Update"
           draft: false
           prerelease: false
