@@ -5,6 +5,9 @@ on:
     - cron: "0 0 1 * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   release:
     runs-on: ubuntu-latest
@@ -15,6 +18,15 @@ jobs:
         run: echo "DATE_TAG=$(date +'%Y%m%d')" >> $GITHUB_ENV
       - name: Set Release Date
         run: echo "RELEASE_DATE=$(date +'%-B %-Y')" >> $GITHUB_ENV
+      - name: Update README Version
+        run: sed -i "s|\(go get github.com/kkrypt0nn/gomanuf@\).*|\1v1.10.0+$DATE_TAG|" README.md
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -am "chore: Bump version to $VERSION"
+          git push
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
