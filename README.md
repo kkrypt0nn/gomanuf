@@ -8,7 +8,7 @@ gomanuf is a very simple library to get the manufacturer of a specific MAC addre
 If you want to use this library for one of your projects, you can install it like any other Go library
 
 ```shell
-go get github.com/kkrypt0nn/gomanuf@v1.10.0+20251101
+go get github.com/kkrypt0nn/gomanuf@v1.10.0+20251201
 ```
 
 ## Example
