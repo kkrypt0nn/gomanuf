@@ -6,19 +6,21 @@ import (
 	"path"
 	"regexp"
 	"runtime"
+	"strconv"
 	"strings"
 )
 
-var data map[string]string
-var slash28 map[string]string
-var slash36 map[string]string
+type MacKey struct {
+	Masked uint64
+	CIDR   uint8
+}
+
+var data map[MacKey]string
 
 var macRegex, _ = regexp.Compile("^([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})$")
 
 func init() {
-	data = make(map[string]string)
-	slash28 = make(map[string]string)
-	slash36 = make(map[string]string)
+	data = make(map[MacKey]string)
 	_, location, _, _ := runtime.Caller(0)
 	file, err := os.ReadFile(path.Join(path.Dir(location), "manuf.txt"))
 	if err != nil {
@@ -26,7 +28,7 @@ func init() {
 	}
 	lines := strings.Split(string(file), "\n")
 	for i := 0; i < len(lines); i++ {
-		line := strings.Replace(lines[i], "\t\t", "\t", -1)
+		line := strings.ReplaceAll(lines[i], "\t\t", "\t")
 		fields := strings.Split(line, "\t")
 
 		// Ignore the comments and empty lines
@@ -36,58 +38,62 @@ func init() {
 
 		mac := fields[0]
 		manuf := fields[1]
-		if strings.Contains(mac, ":00/28") {
-			slash28[mac] = manuf
-		} else if strings.Contains(mac, ":00/36") {
-			slash36[mac] = manuf
-		}
 
-		data[mac] = manuf
-	}
-}
+		if strings.Contains(mac, "/") {
+			parts := strings.SplitN(mac, "/", 2)
+			macPrefix := parts[0]
 
-func checkSlash28(mac string) string {
-	mac = mac[:10] + "0:00:00/28"
-	for address, manuf := range slash28 {
-		if address == mac {
-			return manuf
-		}
-	}
-	return ""
-}
+			cidrVal, err := strconv.ParseUint(parts[1], 10, 8)
+			if err != nil {
+				continue
+			}
+			cidr := uint8(cidrVal)
 
-func checkSlash36(mac string) string {
-	mac = mac[:13] + "0:00/36"
-	for address, manuf := range slash36 {
-		if address == mac {
-			return manuf
-		}
-	}
-	return ""
-}
-
-// Search will return the manufacturer of the given MAC address.
-func Search(mac string) (string, error) {
-	mac = strings.Replace(strings.ToUpper(mac), "-", ":", -1)
-	if !macRegex.MatchString(mac) {
-		return "Invalid MAC address", fmt.Errorf("invalid MAC address")
-	}
-	for address, manuf := range data {
-		if strings.HasPrefix(mac, address) {
-			// Check if manufacturer is one of those manufacturer that have MACs with /28 or /36
-			if manuf == "IEEE Registration Authority" {
-				check28 := checkSlash28(mac)
-				if check28 != "" {
-					return check28, nil
+			if cidr == 28 || cidr == 36 {
+				macVal, err := macToUint64(macPrefix)
+				if err != nil {
+					continue
 				}
-				check36 := checkSlash36(mac)
-				if check36 != "" {
-					return check36, nil
-				}
+
+				masked := maskMac(macVal, cidr)
+				data[MacKey{Masked: masked, CIDR: cidr}] = manuf
+			}
+		} else {
+			macVal, err := macToUint64(mac)
+			if err != nil {
+				continue
 			}
 
+			cidr := uint8(24)
+			masked := maskMac(macVal, cidr)
+			data[MacKey{Masked: masked, CIDR: cidr}] = manuf
+		}
+	}
+}
+
+// Lookup will return the manufacturer of the given MAC address.
+func Lookup(mac string) (string, error) {
+	newMac := strings.ReplaceAll(strings.ToUpper(mac), "-", ":")
+	if !macRegex.MatchString(newMac) {
+		return "", fmt.Errorf("invalid MAC address")
+	}
+	macVal, err := macToUint64(newMac)
+	if err != nil {
+		return "", fmt.Errorf("invalid MAC format")
+	}
+
+	cidrs := []uint8{36, 28, 24}
+	for _, cidr := range cidrs {
+		masked := maskMac(macVal, cidr)
+		if manuf, ok := data[MacKey{Masked: masked, CIDR: cidr}]; ok {
 			return manuf, nil
 		}
 	}
+
 	return "unknown", nil
+}
+
+// Deprecated: use Lookup instead.
+func Search(mac string) (string, error) {
+	return Lookup(mac)
 }

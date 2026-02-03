@@ -57,10 +57,10 @@ func TestSamsungElectronics(t *testing.T) {
 }
 
 func TestInvalidAddress(t *testing.T) {
-	manuf, _ := Search("G4:FC:E5:AD:BB:89")
-	if manuf == "Invalid MAC address" {
+	manuf, err := Search("G4:FC:E5:AD:BB:89")
+	if err != nil {
 		t.Log("Invalid MAC address MAC address found.")
 		return
 	}
-	t.Errorf("Found %s instead of Invalid MAC address!", manuf)
+	t.Errorf("Found %s instead of an error!", manuf)
 }
