@@ -1,0 +1,12 @@
+name: gomanuf CI (Test)
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  ci:
+    uses: kkrypt0nn/actions/.github/workflows/go_ci.yaml@f87e74587c75a99d661e5966fc41552d106a3712 # v0.1.1
+    with:
+      go-version: 1.27.3
